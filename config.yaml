@@ -128,9 +128,9 @@ related:
           weight: 200
 
 markup: # **Markup Section 非常重要**
-    defaultMarkdownHandler: pandoc # 选择 Pandoc
-    pandoc:
-        preserveTOC: false # 此选项开启则不会剔除掉 Pandoc 自己生成在文章中的 TOC，关闭则只显示 Sidebar TOC
+    # defaultMarkdownHandler: pandoc # 选择 Pandoc
+    # pandoc:
+    #     preserveTOC: false # 此选项开启则不会剔除掉 Pandoc 自己生成在文章中的 TOC，关闭则只显示 Sidebar TOC
     tableOfContents:
         endLevel: 5 # 从 5 结束
         ordered: true
@@ -149,10 +149,10 @@ markup: # **Markup Section 非常重要**
         tabWidth: 4
 
 
-# 使用下面的配置才能使得 Pandoc 渲染 Blog 文章
+# # 使用下面的配置才能使得 Pandoc 渲染 Blog 文章
 
-security:
-  enableInlineShortcodes: false
-  exec:
-    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^p']
-    osEnv: ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+# security:
+#   enableInlineShortcodes: false
+#   exec:
+#     allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^p']
+#     osEnv: ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
