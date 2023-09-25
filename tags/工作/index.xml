@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>工作 on Wonz</title>
+        <link>https://wonz.wang/tags/%E5%B7%A5%E4%BD%9C/</link>
+        <description>Recent content in 工作 on Wonz</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 26 May 2023 11:55:57 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>没工作的这一个月，我做了一次自我整理</title>
+        <link>https://wonz.wang/%E6%B2%A1%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%BF%99%E4%B8%80%E4%B8%AA%E6%9C%88%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E6%AC%A1%E8%87%AA%E6%88%91%E6%95%B4%E7%90%86/</link>
+        <pubDate>Fri, 26 May 2023 11:55:57 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E6%B2%A1%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%BF%99%E4%B8%80%E4%B8%AA%E6%9C%88%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%80%E6%AC%A1%E8%87%AA%E6%88%91%E6%95%B4%E7%90%86/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308201207934.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;写在前面&#34;&gt;写在前面&lt;/h1&gt;
+&lt;p&gt;5 月看到一则新闻：2023 年 4 月，16-24 岁青年的失业率为 20.4%，创下有数据记录以来的新高。巧的是，自己也失业了。&lt;/p&gt;
+&lt;p&gt;四月底被裁员，整个五月都处于没工作的状态。突然空出的时间也让我恰好有时间自省与思考。同时，自己借这个机会做了一次自我整理。&lt;/p&gt;
+&lt;h1 id=&#34;整理自己&#34;&gt;整理自己&lt;/h1&gt;
+&lt;h2 id=&#34;重新思考工作的意义&#34;&gt;重新思考工作的意义&lt;/h2&gt;
+&lt;p&gt;整个五月听了不下三遍&lt;strong&gt;随机波动&lt;/strong&gt;的这期节目 &lt;a class=&#34;link&#34; href=&#34;https://www.stovol.club/096&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《我与工作：遍寻意义，却是狗屁》&lt;/a&gt;。我很努力地试图从中找到工作的意义，奈何最后得出的结论还是：我找不到之前的这份工作对我的意义。倒是最近有个朋友的一席话给了我另一种思路，她说“工作就是消解意义，是活着的一种手段，确实不需要赋予太多意义”。仔细一想也是，哪有那么多必须找到意义才做的事，很多时候就是没有意义。&lt;/p&gt;
+&lt;p&gt;恰好前阵子在看炜晨的 &lt;a class=&#34;link&#34; href=&#34;https://weichen.zhubai.love/posts/2273536522018140160?push_source_id=2219500277273485312&amp;amp;push_source_type=email&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Newsletter&lt;/a&gt; ，发现他从工作六年的亚马逊辞职了。在 Newsletter 中他提到 &lt;strong&gt;「后来我才意识到，不断询问意义本身就说明它已经对我没有意义。就像如果我们内心充盈，是不会关心生命的意义是什么。」&lt;/strong&gt; 看完甚是赞同，我那么想找到工作对我的意义，其实又何尝不是因为它本身对我就没有意义，才导致一直找寻不到所谓的意义呢。&lt;/p&gt;
+&lt;p&gt;其实自己早在去年下半年就意识到了自己对当前这份工作的不喜欢。不管是工作内容上还是发展前途上。因为长期做内部平台的开发，加上没有专门的产品经理思考相关需求（很多需求都是开发自己想的），接触不到 C 端用户，没办法更深层次地从用户角度考虑问题，从而进行产品的迭代。加上本身做内部平台就没多少发展前景，说实话自己最近半年的技术提升很缓慢。当然更加让我失望的是完全没有个人价值的实现。每天的工作内容都如同拧螺丝，提不起一点热情。&lt;/p&gt;
+&lt;p&gt;自己曾深度思考过自己到底喜欢做什么。想过很多，不考虑市场等因素的话，我最想做的其实是工具类产品。我想做一些酷的东西，正如自己在 &lt;a class=&#34;link&#34; href=&#34;https://github.com/Wonz5130&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt; 主页写的 profile 一样“try to create some cool products”。再考虑到自己平时喜欢折腾效率工具类产品，尤其是笔记类产品。其实自己想做更加纯粹一点的东西，没有那么多的限制，比如政策，可以专心做产品。终极目标是做一名独立开发者（当然自己目前的技术水平远远没有达到）。&lt;/p&gt;
+&lt;p&gt;其实自己在读本科时，特别是本科二年级的时候，非常喜欢编程，那时候写代码确实给我带来了快乐，我可以周末在图书馆敲一天代码也不觉得厌倦。毕业开始工作之后，当写代码只是为了赚钱，已经很久没有感受过那种最初的纯粹的快乐了。&lt;/p&gt;
+&lt;h2 id=&#34;整理对待工作的态度&#34;&gt;整理对待工作的态度&lt;/h2&gt;
+&lt;p&gt;最近在读炜晨之前写的一篇文章「&lt;a class=&#34;link&#34; href=&#34;https://weichen.blog/career-change/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;如何转变职业&lt;/a&gt;」 ，很喜欢里面的一句话「 &lt;a class=&#34;link&#34; href=&#34;https://weichen.blog/work/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;工作可以只作为谋生的手段&lt;/a&gt;，让你能做你真正热爱的事情。」现在我是完全转变了自己对待工作的态度。既然在工作中找寻不到个人价值的实现，那么我宁愿花更多的时间和精力在自己热爱的事物上，比如音乐，比如写作。&lt;/p&gt;
+&lt;h2 id=&#34;整理作息&#34;&gt;整理作息&lt;/h2&gt;
+&lt;p&gt;五月初刚从烟台迷笛音乐节回来，自己的状态其实还没恢复。虽然重新制定了每日 Todo，但是执行效果甚微。加上熬夜看了两场欧冠比赛，上半个月作息十分混乱。经常睡到上午十点十一点起，晚上又是熬夜到两三点睡。&lt;/p&gt;
+&lt;p&gt;好在下半个月改善很多，感觉自己状态也调整得差不多了。强迫自己作息规律少睡懒觉，毕竟一天还是有很多计划的事情要做的，比如每天起床看书，下午健身和跑步等等。&lt;/p&gt;
+&lt;h2 id=&#34;整理热爱的事物&#34;&gt;整理热爱的事物&lt;/h2&gt;
+&lt;h3 id=&#34;写作&#34;&gt;写作&lt;/h3&gt;
+&lt;p&gt;重新看了下自己年初定下来的 2023 个人 OKR，其中有一个 KR 是一年写 14 篇文章。结果到现在也就只写了一篇 2022 年的年终总结。之前有篇香港游记写到一半夭折了，因为发现提笔总是卡壳，当我意识到「美好的回忆是文字无法复原的」之后，决定不再动笔。&lt;/p&gt;
+&lt;p&gt;现在正好有大把时间，正好借此机会重新找回一下写作的感觉。发现自己还是很喜欢写作的。在之前的文章里有提到过，我觉得写作和写代码有个共同之处是「都是在自己的世界里进行创造」。我很享受这种感觉。&lt;/p&gt;
+&lt;p&gt;最近一直在想要不要重启停更了两年半的 Newsletter。之前决定停更是因为觉得自己的输入不够支撑做长期的输出，而且个人观点略显稚嫩。现在发现自己还是有重启的想法的，暂时还没做好重启 Newsletter 的准备，不过应该会写写生活随笔，发表在自己的个人公众号 / 个人网站，或者写写思考小作文，发布在即刻 / Telegram / Twitter。&lt;/p&gt;
+&lt;h3 id=&#34;跑步&#34;&gt;跑步&lt;/h3&gt;
+&lt;p&gt;5 月把《强风吹拂》这部日漫又翻出来刷了一遍。想起自己第一次看的时候还在读大三，那时候喜欢晚上自习完去操场跑个 3km 5km。那时候喜欢跑步是因为可以释放学习的压力，毕竟当时为了刷 GPA / 争取保研等压力还是挺大的。现在重新看，发现动漫里的灰二一直在试图寻找“跑步究竟是为了什么”。这和我一直在试图寻找“工作究竟是为了什么”又何尝不是一样呢。&lt;/p&gt;
+&lt;p&gt;去年其实已经开始慢慢恢复跑步了，从 3km 开始恢复，单程最远跑过 15km，不过配速还没恢复到之前参加半程马拉松比赛的状态。加上去年因为疫情也没能参加一次半马比赛，略感遗憾。今年 3 月开始恢复训练，不工作之后时间充裕了很多，也有了更多时间可以训练，之前一周三跑的计划也得以提上日程。不过 5 月的月跑量也只是勉强到了 60km，还需努力。今年一定要跑上一场半马。&lt;/p&gt;
+&lt;p&gt;现在很享受跑步，和上大学那会儿跑步完全是两种状态。对我来说这是一天中为数不多可以不对着电子屏幕的时间段。在跑步的过程中，我可以听一两期喜欢的播客节目，又或者耳机里放着自己歌单里的歌，想一些事情，又或者什么都不想，仅仅只是专注跑步这一件事。&lt;/p&gt;
+&lt;p&gt;喜欢跑步，在自己掌控的节奏里，一呼一吸，感觉时间都变慢了。心也由此慢了下来，容易思考一些平时很容易忽略的事情。&lt;/p&gt;
+&lt;h3 id=&#34;音乐&#34;&gt;音乐&lt;/h3&gt;
+&lt;p&gt;或许自己都没想到，朋友听说我被裁后，比我先想到我会拿起吉他。仔细一想，确实也该捡起来弹一弹了。之前老是找借口说工作忙，现在时间多的是。&lt;/p&gt;
+&lt;p&gt;live 倒是没少看。去年憋了太久，导致今年演出井喷，这才刚过去五个月，发现自己已经看了 31 场 live 了。但好在还是秉承着「只看自己想看的演出」的原则，今年又多了一条原则「多看点国外的乐队」。&lt;/p&gt;
+&lt;p&gt;同时自己在听 &lt;a class=&#34;link&#34; href=&#34;https://www.douban.com/doulist/73799/?dt_dapp=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MCB 杂志上评出的百张史上最具革命性的专辑&lt;/a&gt; 。本来还担心一年 100 张专辑听不完，毕竟要认真听专辑再个人打分写评论，每张专不听个至少两遍起步，还是得花不少精力和时间的。目前进度 17/100。&lt;/p&gt;
+&lt;p&gt;另外自己一直很想做一位乐评人，野生的那种。&lt;/p&gt;
+&lt;h3 id=&#34;调酒&#34;&gt;调酒&lt;/h3&gt;
+&lt;p&gt;被裁后其实最早想到的是找家喜欢的鸡尾酒吧去当调酒师学徒，毕竟这确实是我目前喜欢做的事情。但是因为一些现实因素的考虑，还是没打算去实践。还是自己在家调着玩儿吧。&lt;/p&gt;
+&lt;h2 id=&#34;整理感情&#34;&gt;整理感情&lt;/h2&gt;
+&lt;p&gt;5 月拒绝了一个向我表白的女生，然后我向喜欢的女生表白被拒了。感情就是一个圈，你拒绝别人，别人拒绝你。move on~&lt;/p&gt;
+&lt;h1 id=&#34;这一个月都做了些什么&#34;&gt;这一个月都做了些什么&lt;/h1&gt;
+&lt;h2 id=&#34;见朋友&#34;&gt;见朋友&lt;/h2&gt;
+&lt;p&gt;5 月以来，陆续见了好几位朋友&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5.3：听说我被裁约我吃饭的迪迪，咨询了一些离职手续上的事情&lt;/li&gt;
+&lt;li&gt;5.7：还是和迪迪，还有一年没见的小花，在望京吃了韩餐，吃完在路边买了几张刮刮乐&lt;/li&gt;
+&lt;li&gt;5.9：和亖哥吃了意大利餐厅，聊了当时的情感困惑，发现得有半年没见了&lt;/li&gt;
+&lt;li&gt;5.12：和迪迪、小金、郑钧哥哥去海淀吃了火锅&lt;/li&gt;
+&lt;li&gt;5.13：和前前同事兼前室友约了撸串，好久没见了&lt;/li&gt;
+&lt;li&gt;5.14：去妮老师家给相老师「拍北漂」计划帮忙&lt;/li&gt;
+&lt;li&gt;5.20：上午考了场试，下午和妮老师在 DDC 看了爱在三部曲，晚上吃了日式拉面又去胡同里喝了好喝的鸡尾酒&lt;/li&gt;
+&lt;li&gt;5.22：和创业的高老师聊了聊职业发展，对自己今后的职业发展道路有了一些新的思考，或许会尝试一下新的道路&lt;/li&gt;
+&lt;li&gt;5.24：去北外找了子了玩，喜欢北外的红色建筑风格。一起逛了颐和园，逛公园确实容易让人的心情平静下来&lt;/li&gt;
+&lt;li&gt;5.24：去北理工找了大学学妹，听她吐槽读研的压力，发现大家都不容易&lt;/li&gt;
+&lt;li&gt;5.28：烂桃来北京玩，一起去 798 看了摄影展，吃了铜锅涮肉，去 postpost 喝了咖啡，意外淘到两首很不错的电子音乐&lt;/li&gt;
+&lt;li&gt;5.29：和 Stoka 吃了炙子烤肉，聊了找工作的事情，又去了常去的理发店看望大叔，看到大叔今天发朋友圈回老家了，女儿高考&lt;/li&gt;
+&lt;li&gt;6.1：和贵总看了场脱口秀，老北京那嘴贫的真适合讲这个，就是这个味儿&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308181211621.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;冥想&#34;&gt;冥想&lt;/h2&gt;
+&lt;p&gt;这个月开始尝试冥想，整个五月一共参加了 15 次冥想。很难想象，之前觉得这就是浪费时间的事儿，现在我却会每天晚上花 15min 进行冥想，然后记录感受。或许心态是真变了，尝试在冥想中与自己和解。&lt;/p&gt;
+&lt;h2 id=&#34;运动&#34;&gt;运动&lt;/h2&gt;
+&lt;p&gt;整个五月运动倒是一点没落下，去健身房跟着私教上了 14 次课，跑了 10 次步。&lt;/p&gt;
+&lt;p&gt;不工作之后，保持着一周上 3-4 节健身课的节奏，能够明显感受到自己的腿部肌肉变强了，哈克机深蹲也上了一次 120KG。自从健身之后，确实能感受到自己的身体线条在朝着自己想要的方向发展。&lt;/p&gt;
+&lt;h2 id=&#34;理发&#34;&gt;理发&lt;/h2&gt;
+&lt;p&gt;留过长发之后，发现运动是真碍事，但又舍不得剪，找大叔稍微剪短了重新烫了一下。&lt;/p&gt;
+&lt;h2 id=&#34;阅读&#34;&gt;阅读&lt;/h2&gt;
+&lt;p&gt;终于开始恢复阅读，看了快 1/3 《逻辑思维简易入门》觉得质量不行决定弃书，开始看《简明逻辑学》。陆续看了一些订阅的 Newsletter 和博客。很喜欢看技术人写的非技术文章，或许是同行相惜，在他们的文字中，我看到了自己的影子。&lt;/p&gt;
+&lt;h2 id=&#34;电影与剧&#34;&gt;电影与剧&lt;/h2&gt;
+&lt;p&gt;按照一天 1-2 集的节奏慢悠悠刷完了《漫长的季节》，配乐属于加分项。&lt;/p&gt;
+&lt;p&gt;以前晚上喜欢一个人在家看电影，本来以为自己现在时间多了会天天晚上看电影，结果发现每天还是有很多事情要做，整个五月竟然一部电影都没看。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308181211980.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;WechatIMG126&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;写在后面&#34;&gt;写在后面&lt;/h1&gt;
+&lt;p&gt;本来这篇应该是五月末就该发表出来的。但六月初临时有事回家了一趟，又遇上二阳，现在状态和五月末又是完全两种状态。&lt;/p&gt;
+&lt;p&gt;写完这篇文章的我暂时还是不准备开始找工作，老实说还是没想好接下来的路怎么走。不过既然知道自己想要的不是世俗意义上的「工作」能够给予的，那么又何必把希望寄托在一份工作上。我想好好利用这段难得的空闲时间，做些以前一直想做但是没时间做的事，尝试更多可能。&lt;/p&gt;
+&lt;p&gt;Anyway，年轻多尝试不是坏事——「往前看，别回头」。&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>《OKR工作法：谷歌、领英等顶级公司的高绩效秘籍》书摘记录</title>
+        <link>https://wonz.wang/okr%E5%B7%A5%E4%BD%9C%E6%B3%95%E8%B0%B7%E6%AD%8C%E9%A2%86%E8%8B%B1%E7%AD%89%E9%A1%B6%E7%BA%A7%E5%85%AC%E5%8F%B8%E7%9A%84%E9%AB%98%E7%BB%A9%E6%95%88%E7%A7%98%E7%B1%8D%E4%B9%A6%E6%91%98%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Sat, 25 Dec 2021 15:41:05 +0000</pubDate>
+        
+        <guid>https://wonz.wang/okr%E5%B7%A5%E4%BD%9C%E6%B3%95%E8%B0%B7%E6%AD%8C%E9%A2%86%E8%8B%B1%E7%AD%89%E9%A1%B6%E7%BA%A7%E5%85%AC%E5%8F%B8%E7%9A%84%E9%AB%98%E7%BB%A9%E6%95%88%E7%A7%98%E7%B1%8D%E4%B9%A6%E6%91%98%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;这是 Wonz 记录的 &lt;strong&gt;第 8 篇&lt;/strong&gt; 笔记&lt;/p&gt;
+&lt;p&gt;书籍：《OKR工作法：谷歌、领英等顶级公司的高绩效秘籍》&lt;/p&gt;
+&lt;p&gt;作者：克里斯蒂娜·沃特克&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/51fiyCB9e5L.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;51fiyCB9e5L&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;1&#34;&gt;1、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;目标管理法的原理很简单，它基于两个基本原则：第一个原则可以用乔治·巴顿的名言概括，“不要告诉下属具体怎么做，只要告诉他们你要什么，他们就会给你满意的结果”；第二个原则可以用那个时代一句惠普内部的宣传语概括，“用关键结果衡量工作绩效”，即如果基础的商业问题没有解决，不论实现多少产品功能，团队整体的绩效一定会大打折扣。第一个原则是在说如何调动团队的积极性，第二个原则是在讲怎样评估工作绩效。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;2&#34;&gt;2、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;O表示目标（Objective），KR表示关键结果（Key Results）。目标就是你想做什么事情（比如，上线一款游戏），关键结果就是如何确认你做到了这件事（比如，一天2.5万下载量或一天5万美元收入）。按照年度、季度设置OKR都可以，但一定要关联上公司的愿景使命。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;OKR 的定义&lt;/p&gt;
+&lt;h1 id=&#34;3&#34;&gt;3、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;创业者要么必须非常乐观，要么必须执着到狂热，因为实际上一家创业公司能够经营到上市的概率，和中几百万美元的乐透大奖差不多。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;创业从来都不是简单的游戏。&lt;/p&gt;
+&lt;h1 id=&#34;4&#34;&gt;4、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;创业的关键在于以正确的方式做事情：优秀的产品，出众的包装设计，销售给特定的客户群；而不是像多数人一样平平庸庸地做事。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;创业的关键&lt;/p&gt;
+&lt;h1 id=&#34;5&#34;&gt;5、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;创业失败，一大部分是因为资金不足，还有很多是因为创业者失去了激情和信心&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;6&#34;&gt;6、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;创业的确有时候看起来很快乐，但是，你不能总是自己做这些有趣的部分，却把艰难的部分留给其他人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;做自己喜欢的事固然比较有意思，但是创业是一个生存游戏，未来生存不得不做困难的事情。&lt;/p&gt;
+&lt;h1 id=&#34;7&#34;&gt;7、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人在紧要关头想办法活着最重要，即使要做一些看起来错误的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;创业首先要确保活着。&lt;/p&gt;
+&lt;h1 id=&#34;8&#34;&gt;8、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每次克林顿上台的时候都想大谈教育、外交、能源等，恨不得把所有事情都说一遍。卡维尔说：‘一次说太多，就和什么都没说一样。’你也知道最后克林顿把重点只放在经济政策上的效果，OKR也应该这样。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;9&#34;&gt;9、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;目标哪里有什么一般目标和可挑战目标，它们都是可挑战目标，一定要有挑战才行。不是不可能完成，而是要有点难度。不可能完成的目标会令人沮丧，有难度的目标才是振奋人心的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目标都是可挑战的，但不能设定的难度太大打击信心。&lt;/p&gt;
+&lt;h1 id=&#34;10&#34;&gt;10、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你不用把自己所做的事情都列出来，你只需要列出为了达成目标而必须去做的那些事情。每天当然有很多事情要处理，但是一定不要忘记哪些是重要的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;11&#34;&gt;11、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第一，我们只确定一个公司层面的目标。
+第二，我们会根据公司的目标给每个部门制定出关键结果。第三，我们给每个关键结果附加一个信心指数。一开始我们假设有50%的把握实现这个结果，毕竟这些目标都是有挑战性的。最重要的是，在每周的例会上，我们都要盘点我们的OKR，看看我们为实现OKR做了哪些事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;12&#34;&gt;12、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;无法达成目标的5个关键因素
+因素1：没有给目标设置优先级
+因素2：缺乏充分沟通，导致没能准确理解目标
+因素3：没有做好计划
+因素4：没有把时间花在重要的事情上
+因素5：轻易放弃&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;13&#34;&gt;13、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;欲望让我们起航，但只有专注、规划和学习才能到达成功的彼岸。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;成功需要专注、规划与学习。&lt;/p&gt;
+&lt;h1 id=&#34;14&#34;&gt;14、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;非谷歌人都知道，即“整合全球信息，使人人皆可访问和受益”。
+亚马逊公司的使命是：“成为地球上最以客户为中心的公司，客户可以在亚马逊找到并发现他们想在线购买的任何东西，并努力为客户提供最低的价格”。即使你忘记了其余的，你依然可以记住“以客户为中心”的核心使命。
+Zynga公司的使命很简单：“通过游戏连接世界”。
+如果你在菲滋喝咖啡，你可以问它的任何员工，他们会告诉你他们的使命是“让你的每天更美好”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;大道至简，公司使命就应该简单到容易记住。一个简单的格式：我们通过（什么样的价值主张）在（什么领域或行业）（改善人们的生活或减少人们的痛苦）。&lt;/p&gt;
+&lt;h1 id=&#34;15&#34;&gt;15、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;设定目标要遵循以下3个原则。
+原则1：目标要明确方向并且鼓舞人心
+原则2：目标要有时间期限
+原则3：由独立的团队来执行目标&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;16&#34;&gt;16、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;OKR的意义不仅在于完成目标，更重要的是它能挖掘团队真正的能力。对于有挑战的目标，失败其实也有积极的一面，OKR旨在推动我们去做那些你有能力做到的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;17&#34;&gt;17、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;产品组织执行OKR的关键在于，OKR需要从跨部门的产品团队层面上升到公司业务层面。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;18&#34;&gt;18、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;OKR就是要通过实践、总结，不断发现、挑战团队的潜力，而不要把这个过程当作汇报、考核结果。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;OKR是为了发现和挑战团队潜力的&lt;/p&gt;
+&lt;h1 id=&#34;19&#34;&gt;19、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;还记得2000年第一次写周报时，我刚刚在雅虎被提升为经理，管理着一个小团队。上司要求我，“写一份周报，内容涵盖你的团队在本周做的所有工作，以后每周五都要提交”。你一定能想到我当时的感受，我不得不去证明我的团队正在努力工作，去证明我们存在的意义还不够，还要证明我们需要更多的人；否则，上级一定以为我们都很闲。
+所以我跟其他很多人一样，列出了每一件事，可是除了流水账没有任何有价值的内容。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;周报这个东西真的没有什么意义，纯粹是浪费时间。&lt;/p&gt;
+&lt;h1 id=&#34;20&#34;&gt;20、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在一个巨大的组织中，目标的管理如果只是自上而下，会失去很多机会，甚至失去整个市场。人才和伟大的创意在一个组织中是无处不在的，管理者不能为了掌控一切就用硬性的上下级关系来限制团队的意志，应该让每个人都能自由发挥，这样创新才不会被扼杀，战略进展才会更顺利。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目标管理不能限制死在自上而下中。&lt;/p&gt;
+&lt;h1 id=&#34;21&#34;&gt;21、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我一再注意到团队最痛苦的事情就是缺乏聚焦，什么事情都想做。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;想要的减少一点，做的专一一点。&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>《敏捷实践》学习笔记</title>
+        <link>https://wonz.wang/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+        <pubDate>Sun, 19 Dec 2021 16:49:51 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;这是 Wonz 记录的 &lt;strong&gt;第 7 篇&lt;/strong&gt; 笔记&lt;/p&gt;
+&lt;p&gt;课程：《敏捷实践》&lt;/p&gt;
+&lt;p&gt;来源：公司内部培训&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG285.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;WechatIMG285&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;一为什么敏捷敏捷是什么探秘业务可持续交付的密码&#34;&gt;一、为什么敏捷，敏捷是什么？探秘业务可持续交付的密码&lt;/h1&gt;
+&lt;h2 id=&#34;1-软件开发的发展过程&#34;&gt;1. 软件开发的发展过程&lt;/h2&gt;
+&lt;p&gt;更规范 -&amp;gt; 更灵活&lt;/p&gt;
+&lt;p&gt;软件开发是探索的过程、知识发现的过程。&lt;/p&gt;
+&lt;h2 id=&#34;2-核心价值观&#34;&gt;2. 核心价值观&lt;/h2&gt;
+&lt;h3 id=&#34;1-价值驱动&#34;&gt;1) 价值驱动&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关注高优先级目标，尽早开始，要事第一。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;用最小的资源创造最大的价值。&lt;/p&gt;
+&lt;p&gt;一分钟总结：高优先级、尽早开始、价值优先、成果导向。&lt;/p&gt;
+&lt;h3 id=&#34;2-适应变化&#34;&gt;2) 适应变化&lt;/h3&gt;
+&lt;p&gt;频繁的交付可见成果，目的是验证我们对市场和需求的认知，确保交付正确的成果，同时获取反馈进行快速调整。&lt;/p&gt;
+&lt;p&gt;敏捷方法关注持续交付可见的正确成果。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;增量&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scrum方法：迭代开发、增量交付、持续的检查和调整&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1-2周一个迭代，每个迭代长度为固定的时间盒&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;频繁的交付可见的成果进行验证，及时进行调整。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-自组织&#34;&gt;3) 自组织&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;目标驱动、共享责任。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;管理层微观管理成为瓶颈，团队等待指令，反馈慢；自组织的团队反馈更快、效率更高。&lt;/p&gt;
+&lt;p&gt;授权、支持、引导、反馈。&lt;/p&gt;
+&lt;p&gt;管理层关注打造团队、引导团队实现目标。&lt;/p&gt;
+&lt;h3 id=&#34;4-技术卓越&#34;&gt;4) 技术卓越&lt;/h3&gt;
+&lt;p&gt;XP（极限编程）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;追求技术卓越，简化不必要的工作提升敏捷力。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;3-敏捷宣言&#34;&gt;3. 敏捷宣言&lt;/h2&gt;
+&lt;h3 id=&#34;1-个体互动胜于流程和工具&#34;&gt;1) 个体互动胜于流程和工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;以人为本，&lt;strong&gt;人&lt;/strong&gt;是获得成功的最为重要的因素&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;沟通及互动&lt;/strong&gt;是催化剂、黏合剂，推动项目走向成功&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;适当的使用&lt;strong&gt;流程和工具&lt;/strong&gt;有助项目成功，反之有助项目失败&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-工作的软件胜于详尽的文档&#34;&gt;2) 工作的软件胜于详尽的文档&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;“工作的软件”是指能够帮助客户解决问题，为客户带来价值&lt;/li&gt;
+&lt;li&gt;文档要适用，力求&lt;strong&gt;少而精&lt;/strong&gt;，过渡的文档输出并不会为客户带来价值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-客户合作胜于合同谈判&#34;&gt;3) 客户合作胜于合同谈判&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;客户价值为先，体现共赢&lt;/li&gt;
+&lt;li&gt;客户深度参与，频繁交互，应对不确定的变化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-响应变化胜于遵循计划&#34;&gt;4) 响应变化胜于遵循计划&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;在敏捷中，项目应该从始至终地拥抱&lt;strong&gt;变化&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;敏捷需要有&lt;strong&gt;计划&lt;/strong&gt;，但不是完全拘泥于计划，进行控制管理&lt;/li&gt;
+&lt;li&gt;随时响应变化的能力常常决定着一个软件项目的成败&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-敏捷十二原则&#34;&gt;4. 敏捷十二原则&lt;/h2&gt;
+&lt;p&gt;价值优先：我们最优先要做的是通过尽早的、持续的交付有价值的软件来使客户满意。&lt;/p&gt;
+&lt;p&gt;拥抱变化：即使到了开发的后期，也欢迎改变需求。敏捷过程利用变化来为客户创造竞争优势。&lt;/p&gt;
+&lt;p&gt;经常交付：经常性的交付可以工作的软件，交付的间隔可以从几周到几个月，交付的时间间隔越短越好。&lt;/p&gt;
+&lt;p&gt;业务参与：在整个项目开发期间，业务人员和开发人员必须天天都在一起工作。&lt;/p&gt;
+&lt;p&gt;以人为本：围绕被激励起来的人个来构建项目。给他们提供所需要的环境和支持，并且信任他们能够完成工作。&lt;/p&gt;
+&lt;p&gt;直面沟通：在团队内部，最具有效果并且富有效率的传递信息的方法，就是面对面的交谈。&lt;/p&gt;
+&lt;p&gt;成果导向：工作的软件是首要进度度量标准。&lt;/p&gt;
+&lt;p&gt;持续交付：敏捷过程提倡可持续的开发速度。责任人、开发者和用户应该能够保持一个长期的、恒定的开发速度。&lt;/p&gt;
+&lt;p&gt;追求卓越：不断地关注优秀的技能和好的设计会增强敏捷能力。&lt;/p&gt;
+&lt;p&gt;精益求精：以简洁为本，它是极力减少不必要工作量的艺术。&lt;/p&gt;
+&lt;p&gt;团队自组织：最好的构架、需求和设计出自与自组织的团队。&lt;/p&gt;
+&lt;p&gt;持续改进：每隔一定时间，团队会回顾如何才能更有效地工作，然后相应地对自己的行为进行调整。&lt;/p&gt;
+&lt;h2 id=&#34;5-敏捷金字塔&#34;&gt;5. 敏捷金字塔&lt;/h2&gt;
+&lt;p&gt;价值：敏捷宣言、核心价值观&lt;/p&gt;
+&lt;p&gt;原则：敏捷十二原则&lt;/p&gt;
+&lt;p&gt;方法：Scrum、DSDM、Crystal、FDD、Kanban、XP&lt;/p&gt;
+&lt;p&gt;实践：站会、计划、回顾、价值流动、重构、WIP、结对、测试、持续集成&lt;/p&gt;
+&lt;h1 id=&#34;二需求拆分及估算降低开发风险制定合理计划&#34;&gt;二、需求拆分及估算，降低开发风险，制定合理计划&lt;/h1&gt;
+&lt;h2 id=&#34;1-什么是需求&#34;&gt;1. 什么是需求&lt;/h2&gt;
+&lt;p&gt;用户—需求—解决方案—达成共识&lt;/p&gt;
+&lt;h2 id=&#34;2-需求拆分的原因及方法&#34;&gt;2. 需求拆分的原因及方法&lt;/h2&gt;
+&lt;h3 id=&#34;收益&#34;&gt;收益&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;降低复杂度，拆分后易于分析需求，识别问题&lt;/li&gt;
+&lt;li&gt;频繁交付，及时反馈质量&lt;/li&gt;
+&lt;li&gt;价值驱动、优先级排序&lt;/li&gt;
+&lt;li&gt;建立共识，促进协作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;原则&#34;&gt;原则&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;独立，避免需求耦合&lt;/li&gt;
+&lt;li&gt;对用户有价值的，避免接口需求，界面需求&lt;/li&gt;
+&lt;li&gt;小的，避免开发测试完成超过3天&lt;/li&gt;
+&lt;li&gt;可测试&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;方法&#34;&gt;方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;业务流程拆分法&lt;/li&gt;
+&lt;li&gt;业务操作拆分法（CRUD）&lt;/li&gt;
+&lt;li&gt;业务规则拆分法&lt;/li&gt;
+&lt;li&gt;数据多样性拆分法&lt;/li&gt;
+&lt;li&gt;展示展示拆分法&lt;/li&gt;
+&lt;li&gt;大头工作拆分法&lt;/li&gt;
+&lt;li&gt;简单/复杂拆分法&lt;/li&gt;
+&lt;li&gt;延迟性能拆分法&lt;/li&gt;
+&lt;li&gt;探索性研究拆分法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-需求估算的原因及方法&#34;&gt;3. 需求估算的原因及方法&lt;/h2&gt;
+&lt;h3 id=&#34;收益-1&#34;&gt;收益&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;计算成本、周期&lt;/li&gt;
+&lt;li&gt;了解投资回报&lt;/li&gt;
+&lt;li&gt;做计划&lt;/li&gt;
+&lt;li&gt;团队对齐需求，发现并排除坑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-团队速率&#34;&gt;4. 团队速率&lt;/h2&gt;
+&lt;p&gt;团队速率是一个团队在一个周期（Sprint、周）中实际完成的点数。&lt;/p&gt;
+&lt;p&gt;通过团队速率可以知道团队做的有多快。&lt;/p&gt;
+&lt;h3 id=&#34;计算速率&#34;&gt;计算速率&lt;/h3&gt;
+&lt;p&gt;记录每个Sprint/周的速率，得到平均值。&lt;/p&gt;
+&lt;h1 id=&#34;三敏捷团队及环境构建实施敏捷的组织结构和文化&#34;&gt;三、敏捷团队及环境，构建实施敏捷的组织结构和文化&lt;/h1&gt;
+&lt;h2 id=&#34;1-高效团队的特征&#34;&gt;1. 高效团队的特征&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;高度信任&lt;/li&gt;
+&lt;li&gt;统一目标&lt;/li&gt;
+&lt;li&gt;清晰角色&lt;/li&gt;
+&lt;li&gt;牢固的关系&lt;/li&gt;
+&lt;li&gt;共享领导力&lt;/li&gt;
+&lt;li&gt;卓越的沟通&lt;/li&gt;
+&lt;li&gt;有效的过程&lt;/li&gt;
+&lt;li&gt;持续进化&lt;/li&gt;
+&lt;li&gt;伟大的成果&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-敏捷团队及环境&#34;&gt;2. 敏捷团队及环境&lt;/h2&gt;
+&lt;h3 id=&#34;三个角色&#34;&gt;三个角色&lt;/h3&gt;
+&lt;h4 id=&#34;product-owner-产品负责人&#34;&gt;Product Owner 产品负责人&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;拥有一个可行的、充满吸引力的产品远景，能激发团队、公司及客户的激情；&lt;/li&gt;
+&lt;li&gt;构建一个路线图来实现这个愿景，让每个人都看见并遵守；&lt;/li&gt;
+&lt;li&gt;构建一个价值驱动、持续完善的需求清单；&lt;/li&gt;
+&lt;li&gt;花一半时间与客户，销售员，市场部门在一起；&lt;/li&gt;
+&lt;li&gt;花一半时间与开发团队在一起告诉他们正确的需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;scrum-master&#34;&gt;Scrum Master&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;保护团队正确的运用敏捷实践；&lt;/li&gt;
+&lt;li&gt;保证团队良好协作、自组织、工作高效；&lt;/li&gt;
+&lt;li&gt;协调和组织会议；&lt;/li&gt;
+&lt;li&gt;与所有角色协同工作、移除障碍；&lt;/li&gt;
+&lt;li&gt;管理团队内外的依赖；&lt;/li&gt;
+&lt;li&gt;支持团队、作为团队和外部的接口，屏蔽外界对团队的干扰。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;developer-team-研发团队&#34;&gt;Developer Team 研发团队&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;帮助产品负责人完善需求（解决方案）；&lt;/li&gt;
+&lt;li&gt;需求研发及商业发布（开发的是功能而不是BUG）；&lt;/li&gt;
+&lt;li&gt;持续改进团队，流程、协作、工程实践等能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;特性团队&#34;&gt;特性团队&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;团队内可以做到端到端，所以减少了等待，周期加快&lt;/li&gt;
+&lt;li&gt;比较容易快速交付可用的产品增量&lt;/li&gt;
+&lt;li&gt;减少了团队之间依赖，计划会更容易&lt;/li&gt;
+&lt;li&gt;责任范围的扩大，各种不同领域的专家在一个团队，增加了个人学习和团队学习的机会&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-构建高效团队文化&#34;&gt;3. 构建高效团队文化&lt;/h2&gt;
+&lt;h3 id=&#34;自组织团队&#34;&gt;自组织团队&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;团队决定谁做什么，即任务的分配&lt;/li&gt;
+&lt;li&gt;团队决定如何做，如何实现目标，即团队做技术决策&lt;/li&gt;
+&lt;li&gt;团队需要在确保目标的前提下制定团队内的行为准则&lt;/li&gt;
+&lt;li&gt;团队有义务保持过程的透明性&lt;/li&gt;
+&lt;li&gt;管理层和团队教练通过引导的管理方式给出指导思路，帮助团队向正确的方向前进&lt;/li&gt;
+&lt;li&gt;管理层不直接决定团队内的工作分配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;四固态项目交付深度解密迭代增量式交付的核心框架打造有节奏有目标感的团队&#34;&gt;四、固态项目交付深度解密，迭代+增量式交付的核心框架，打造有节奏有目标感的团队&lt;/h1&gt;
+&lt;h2 id=&#34;1-什么是scrum&#34;&gt;1. 什么是Scrum&lt;/h2&gt;
+&lt;p&gt;Scrum 是一个用于开发和维护复杂产品的框架，是一个增量的、迭代的开发过程，专注于最短的时间内交付最高的商业价值。&lt;/p&gt;
+&lt;h2 id=&#34;2-三个角色和三个物件&#34;&gt;2. 三个角色和三个物件&lt;/h2&gt;
+&lt;h3 id=&#34;三个角色-1&#34;&gt;三个角色&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Product Owner&lt;/li&gt;
+&lt;li&gt;Scrum Master&lt;/li&gt;
+&lt;li&gt;Developer Team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;三个物件&#34;&gt;三个物件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Product Backlog&lt;/li&gt;
+&lt;li&gt;Sprint Backlog&lt;/li&gt;
+&lt;li&gt;Increment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-五个价值观和五个活动&#34;&gt;3. 五个价值观和五个活动&lt;/h2&gt;
+&lt;h3 id=&#34;五个价值观&#34;&gt;五个价值观&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Courage（勇气）&lt;/li&gt;
+&lt;li&gt;Openness（透明）&lt;/li&gt;
+&lt;li&gt;Focus（专注）&lt;/li&gt;
+&lt;li&gt;Commitment（承诺）&lt;/li&gt;
+&lt;li&gt;Respect（尊重）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;五个活动&#34;&gt;五个活动&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Product Backlog Refinement（需求梳理）&lt;/li&gt;
+&lt;li&gt;Sprint Planning&lt;/li&gt;
+&lt;li&gt;Daily Scrum&lt;/li&gt;
+&lt;li&gt;Sprint Review/Show Case&lt;/li&gt;
+&lt;li&gt;Sprint Retrospective&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-应用及扩展&#34;&gt;4. 应用及扩展&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sprint 日历&lt;/li&gt;
+&lt;li&gt;规模化Scrum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;五敏态项目交付深度解密破解软件研发7种浪费利用精益思想追逐高效率交付&#34;&gt;五、敏态项目交付深度解密，破解软件研发7种浪费，利用精益思想追逐高效率交付&lt;/h1&gt;
+&lt;h2 id=&#34;1-精益思想&#34;&gt;1. 精益思想&lt;/h2&gt;
+&lt;h3 id=&#34;精益的诞生&#34;&gt;精益的诞生&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;科学管理原理&lt;/li&gt;
+&lt;li&gt;大规模生产&lt;/li&gt;
+&lt;li&gt;丰田生产方式&lt;/li&gt;
+&lt;li&gt;戴明14点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;精益思想5大原则&#34;&gt;精益思想5大原则&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;价值：价值只能由最终客户来确定，任何不为客户增值的活动都是浪费。&lt;/li&gt;
+&lt;li&gt;价值流：使承载客户价值的产品或服务从概念到发布，或从下单到交付给客户的所有步骤构成的过程。&lt;/li&gt;
+&lt;li&gt;流动：让承诺客户价值的需求顺畅流动起来。&lt;/li&gt;
+&lt;li&gt;拉动：客户拉动生产、下游拉动上游。&lt;/li&gt;
+&lt;li&gt;尽善尽美：持续改善要求每一位管理人员及作业人员，要以相对较少的费用来连接不断地改进工作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;映射价值流&#34;&gt;映射价值流&lt;/h3&gt;
+&lt;p&gt;团队的价值流应由团队成员共同识别并达成共识。&lt;/p&gt;
+&lt;h3 id=&#34;价值流映射5步法&#34;&gt;价值流映射5步法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;第1步：分析工作项的类型&lt;/li&gt;
+&lt;li&gt;第2步：列出工作项从诞生到交付给客户或用户的整个过程中都经过的哪些环节&lt;/li&gt;
+&lt;li&gt;第3步：分析哪些环节是增值环节，哪些是不增值环节&lt;/li&gt;
+&lt;li&gt;第4步：估算每个环节的耗时&lt;/li&gt;
+&lt;li&gt;第5步：团队共同讨论，如何去除不增值的环节，或者缩短不增值的时间&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-精益看板&#34;&gt;2. 精益看板&lt;/h2&gt;
+&lt;h3 id=&#34;什么是看板&#34;&gt;什么是看板&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;可视化管理&lt;/li&gt;
+&lt;li&gt;增进共识&lt;/li&gt;
+&lt;li&gt;任务清晰&lt;/li&gt;
+&lt;li&gt;高效协同&lt;/li&gt;
+&lt;li&gt;职责共享&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总结：看板 = 可视化 + 拉动&lt;/p&gt;
+&lt;h3 id=&#34;可视化管理与拉动系统&#34;&gt;可视化管理与拉动系统&lt;/h3&gt;
+&lt;h4 id=&#34;可视化管理&#34;&gt;可视化管理&lt;/h4&gt;
+&lt;p&gt;将工作管理所需要的任何信息可视化在团队的工作区域，让每个人可见，使团队的工作流程更加直观，有效表达团队内部的信息，从而实现管理上的透明化。&lt;/p&gt;
+&lt;h4 id=&#34;拉动系统&#34;&gt;拉动系统&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;在制品少：未完成的需求在研发管理数量很少，完成一个需求再从队列中拉入一个需求；&lt;/li&gt;
+&lt;li&gt;风险低：并行处理的需求少，当交付截止日期临近，可以集中精力交付正在研发管道中的需求，从而延期风险可控；&lt;/li&gt;
+&lt;li&gt;浪费低：一旦市场或客户的需求有变化导致大量需求作废，由于只有少量需求正在研发管道，浪费成本较低；&lt;/li&gt;
+&lt;li&gt;交付时间短：团队同时处理的需求量与团队的产能匹配，不会因为人力不够而停滞流动，因而交付周期短。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;看板6大实践&#34;&gt;看板6大实践&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;可视化&lt;/li&gt;
+&lt;li&gt;限制在制品数量&lt;/li&gt;
+&lt;li&gt;管理价值流（也叫工作流）&lt;/li&gt;
+&lt;li&gt;显示化定义工作流转规则&lt;/li&gt;
+&lt;li&gt;构建反馈环&lt;/li&gt;
+&lt;li&gt;协作式改进, 试验中演进（使用模型和科学方法）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;六敏捷团队如何开展测试存在哪些挑战&#34;&gt;六、敏捷团队如何开展测试？存在哪些挑战？&lt;/h1&gt;
+&lt;h2 id=&#34;1-传统测试在敏捷环境面临的挑战&#34;&gt;1. 传统测试在敏捷环境面临的挑战&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;时间短&lt;/li&gt;
+&lt;li&gt;变更频繁&lt;/li&gt;
+&lt;li&gt;文档较少&lt;/li&gt;
+&lt;li&gt;资源不足&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-什么是敏捷测试&#34;&gt;2. 什么是敏捷测试？&lt;/h2&gt;
+&lt;p&gt;敏捷测试是一套遵循敏捷软件开发原则的软件测试实践，敏捷开发将测试集成到开发过程中，而不是将其作为单独的阶段。因此，测试是核心软件开发的一个组织部分，并积极参与软件开发过程。&lt;/p&gt;
+&lt;h2 id=&#34;3-敏捷测试与传统测试的异同&#34;&gt;3. 敏捷测试与传统测试的异同&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;传统测试&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;敏捷测试&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;测试发生在最后阶段&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;测试发生在开发过程中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;团队之间正式沟通更多&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;团队之间沟通面对面非正式活动更多&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;自动化测试是可选的&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;自动化测试被高度推荐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;从需求角度测试&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;从用户角度测试&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;详细的测试计划&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;精益的测试计划&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;计划是一次性活动&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;不同级别的计划&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;项目经理为团队做计划&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;团队被授权并参与计划&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;繁重的需求说明文档&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;较轻的需求说明文档&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;4-敏捷交付下的测试策略&#34;&gt;4. 敏捷交付下的测试策略&lt;/h2&gt;
+&lt;p&gt;“质量左移”测试策略作为敏捷开发交付的核心理念之一贯穿到整个软件生命周期交付中。&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>《把时间当作朋友》书摘记录</title>
+        <link>https://wonz.wang/%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%E4%B9%A6%E6%91%98%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Fri, 19 Nov 2021 22:48:48 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%E4%B9%A6%E6%91%98%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;这是 Wonz 记录的 &lt;strong&gt;第 6 篇&lt;/strong&gt; 书摘&lt;/p&gt;
+&lt;p&gt;书籍：《把时间当作朋友（第3版）》&lt;/p&gt;
+&lt;p&gt;作者：李笑来&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/cover.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;cover&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;1&#34;&gt;1、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;绝大多数的成功与智商没有任何关系，所有的失败都与且只与时间有关。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;成功就是能充分利用时间来获得效益最大化。&lt;/p&gt;
+&lt;h1 id=&#34;2&#34;&gt;2、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当你把时间花在一个人身上的时候，相当于在他的身上倾注了你生命的一段，不管最终结果如何，反正，那个人、那件事都成了你生命的一部分——不管最后你是喜欢还是不喜欢。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;《绝命毒师》里 Walt 说过这样一句话：你做过的事，将会成为你的一部分。&lt;/p&gt;
+&lt;h1 id=&#34;3&#34;&gt;3、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有些时候，有些事物，从反面描述比从正面描述更为容易。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;转：营销上有这样一种技巧，面对客户，你告诉他不买你会失去什么比你买了会得到什么要有效的多。有一个消费心理：人总是更在意自己失去了什么。&lt;/p&gt;
+&lt;h1 id=&#34;4&#34;&gt;4、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;成功从来都不是人人都可以做到的事情，过去不是，现在不是，将来依然不是。基于比较的成功观，是伤人的、害人的。事实上，对年轻人来说，成长比成功更重要，而且，这才是人人都可以做到的事情，才是人人都值得追求的事情。而成长其实只有一条路——积累。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;厚积才可以薄发。在工作上也是这样，比如成长就是工作技能的积累。&lt;/p&gt;
+&lt;h1 id=&#34;5&#34;&gt;5、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人的理性建立在接受现实的基础上，不能接受现实，一切成长都是虚妄。只有坚强的人才能接受现实，&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;接受现实，拥有理性。&lt;/p&gt;
+&lt;h1 id=&#34;6&#34;&gt;6、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;写字的快乐并非来自表达，而来自这些文字所带来的改变——无论是对读者还是对自己，无论是对周遭还是对内心，都是如此。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;写作可以改变自己，让自己变得更好。有时候自己写的文章收到陌生人的鼓励真的很感动。&lt;/p&gt;
+&lt;h1 id=&#34;7&#34;&gt;7、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要管理的不是时间，而是自己。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;时间管理这个说法是错误的，因为时间是不能被管理的。&lt;/p&gt;
+&lt;h1 id=&#34;8&#34;&gt;8、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我教得最好的课程是作文。作文可讲的内容很多，但我很少在课堂上讲语法、词汇、修辞之类的东西，因为这些内容学生可以自学或者很容易自学。我更喜欢讲思维方法，我认为这才是教学的关键所在。只有想清楚了，才有可能写清楚。想不清楚，连写出来的必要都没有。讲作文课也是我最开心的事情之一，因为作文课实际上是思考课。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;想上李笑来的作文课，感受一下他讲思维方式。&lt;/p&gt;
+&lt;h1 id=&#34;9&#34;&gt;9、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;只有学会正确地思考，才意味着真正进化成人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;人类和其他动物的区别是拥有思考的能力。&lt;/p&gt;
+&lt;h1 id=&#34;10&#34;&gt;10&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;死亡本身其实并不可怕，面临死亡的过程才真正可怕。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;作家弗雷德里克·巴克曼说过：我们害怕它（死亡），但我们更害怕它发生在身边的人身上。对死亡最大的恐惧，在于它与我们擦肩而过，留下我们独自一人。&lt;/p&gt;
+&lt;h1 id=&#34;11&#34;&gt;11、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人们很难接受与已有知识和经验相左的信息或观念，因为一个人已有的知识和观念都是经过反复筛选的。尽管很多知识和观念是被灌输的，但知识的持有者对“被灌输”这一事实往往毫无察觉，就算察觉，也可能拒绝承认。人们更愿意相信自己拥有一定的判断能力，不会被轻易糊弄。即使是一些“想当然”的观念，人们也倾向于认为那是“思考过后的结论”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;说到底就是人们不愿接受自己不懂的事实。&lt;/p&gt;
+&lt;h1 id=&#34;12&#34;&gt;12、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一个普遍存在而又令人惊讶的例子：很多人相信没有生出儿子是女人的错——即使是在今天。中学《生物》课本里讲得很清楚：女性卵子里的性染色体是XX，而男性精子里的性染色体是XY，精子与卵子结合时会出现可能性相当的两种情况，即XX和XY。所以，生出来的孩子是男是女，是概率相同的随机事件，与女性没有关系。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;越是教育普及少的地方这种观念越是严重。重男轻女，人们倾向于把生不出男孩归于女人没用。这种观念真的很可悲。&lt;/p&gt;
+&lt;h1 id=&#34;13&#34;&gt;13、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们所面临的问题，与时间、管理或时间管理都没有多大的关系。解决问题的核心思想只有一个——一切都靠积累。深信积累的力量，时间就是你的朋友，否则，它就是你的敌人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;时间不能被管理，要靠积累。&lt;/p&gt;
+&lt;h1 id=&#34;14&#34;&gt;14、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一个人的心智就是其过往获得的一切知识及经验的总和（包括基于这些知识和经验造就的思考方法、思考模式）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;可以理解成就是认知。&lt;/p&gt;
+&lt;h1 id=&#34;15&#34;&gt;15、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;需要强调的是，一个人的心智是他的知识和经验的总和，也包括他的思考方法和思考模式。因为无论是吸收知识还是总结经验，都需要经过思考才能得出结论。在此过程中，他的思考方法和思考模式都会多多少少产生变化，根据新的知识和经验，或巩固、或调整、或否定、或重建……&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;认知是自己经历的积累。&lt;/p&gt;
+&lt;h1 id=&#34;16&#34;&gt;16、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;许多年后，我跟母亲提起这件事，她说她只是想让我过一个不无聊的暑假而已。不过她倒是清楚地记得，当父亲听说报班需要10元钱学费的时候，只说了一句话：“多学点东西总是好事儿。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;李笑来的父母舍得为孩子的学习投入钱。&lt;/p&gt;
+&lt;h1 id=&#34;17&#34;&gt;17、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;质量保证了销量。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不能因为一味追求销量而忽视质量，质量才是决定销量的根本原因。&lt;/p&gt;
+&lt;h1 id=&#34;18&#34;&gt;18、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是我第一次意识到“有些认识，哪怕是简单的常识，也需要亲身经历后才能真正体会”。只有拥有无与伦比的打字速度，才能体会打字速度快的好处。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;人们告诉你的「好」，你不一定知道真的「好」。亲身经历后才更显珍贵。&lt;/p&gt;
+&lt;h1 id=&#34;19&#34;&gt;19、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当有机会学习一项技能的时候，人们常常会问：“学这东西有什么用呢？”其实，在尚未学习之前，对提问者来说，答案只能是“不知道”——尽管很多书籍中都已经花费大量的篇幅去论述“为什么要学习（某项技能）”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有时候真的觉得命运这个东西挺神奇的，你永远不知道现在的某个决定会对以后有什么影响。&lt;/p&gt;
+&lt;h1 id=&#34;20&#34;&gt;20、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一方面是自己的欲望无限，一方面是要完成的事情太多，一方面是自我满意度的不断下降——这就是人们总是不由自主地期望速成的根源。出路肯定存在，但这出路只有一个起点——接受现实。告诉自己：我有不足，我需要时间，我没办法一蹴而就。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;戒躁，不要想着速成。真正的成功是需要沉淀的。&lt;/p&gt;
+&lt;h1 id=&#34;21&#34;&gt;21、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;生活的本质就是这样，你想要什么，它偏不给你什么。摆脱这个死循环的方法只有一个——给我什么我就用好什么，积累到一定程度再去换能换的东西。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;靠积累获取「我有的」，再换取「我想要的」。&lt;/p&gt;
+&lt;h1 id=&#34;22&#34;&gt;22、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;咨询工作的人都有深刻的体验：客户的常识越少，要求越高——因为不懂，所以会随便提要求。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;想到了前几年网上有个很火的需求讨论：根据手机壳颜色设置 App 主题颜色。 这个需求根本不可能实现，有些 PM 提需求完全不考虑实现可行性，因为他们不懂技术。&lt;/p&gt;
+&lt;h1 id=&#34;23&#34;&gt;23、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有人能够做到完美。我们至多能做到接近完美，或者更接近完美。所以，我们不管做什么事情，都需要时刻忍耐各种各样的不完美，否则事情根本无法完成。最终完成的事情，结果也常常是不完美的。缺憾必然存在。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;生活本身就不完美，所以没必要追求所谓的完美而迟迟不去做它。能够尽量接近完美就已经很好了。&lt;/p&gt;
+&lt;h1 id=&#34;24&#34;&gt;24、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们害怕未知，害怕不确定的东西。我们希望一切都在自己的掌握之中，只是我们永远做不到。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;人们习惯于不改变。&lt;/p&gt;
+&lt;h1 id=&#34;25&#34;&gt;25、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;事实上，“做人难”也是一样的道理。我们从小时候开始就要做一些事情，而为什么要做，只有长大之后才会明白。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;「做什么」是明白「为什么做」的前置引用。所以往往是在不经意的未来知道了「为什么做」的原因。&lt;/p&gt;
+&lt;h1 id=&#34;26&#34;&gt;26、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;焦虑是导致时间浪费、效率低下的根源之一。当人处于焦虑状态的时候，甚至可能出现一切理智都被清空的情况。另外，焦虑的情绪会让人觉得“必须要做点什么”，但是，在缺乏理智状态下的任何决定和行为都可能带来灾难性的后果。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;头脑清醒冷静的时候才适合做决定。焦虑只会让事情变得更糟。&lt;/p&gt;
+&lt;h1 id=&#34;27&#34;&gt;27、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;尽管天分确实很重要，但一个人的能力主要靠积累获得。从一个人开始从事一个职业的那一瞬间起，只要足够认真、努力，他的能力就会不停地积累。如果这个人实际上向往的是另一个职业，那么他的所谓“梦想”几乎必然使他在当前这份职业上心不在焉、无甚积累。其实，世界上80%以上的职业并不过分依赖天分，更可能甚至几乎只依赖积累。天长日久，这个人在当前的职业中将逐渐落后于那些认真做事的人。但此时他不会因为自己的落后而奋起直追，反过来，更可能的是把“反正我的梦想不是这个”当作借口。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;大多数人不喜欢当前的工作而幻想有一份梦想中的工作要去实现，都是逃避工作中的挫败感。因为工作没有带来成就感，所以不愿意去积累工作经验。&lt;/p&gt;
+&lt;h1 id=&#34;28&#34;&gt;28、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;心怀“梦想”的时间越长，它的沉没成本就越高。很多人都在无意之间被自己的“梦想”所绑架，所以，很多时候，对很多人来说，所谓“梦想”也许只是陷阱。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;心怀“梦想”，一直脱离现实，减少了投入实际工作中的精力，慢慢地就会两边都没做好，工作不努力，梦想也只是幻想。&lt;/p&gt;
+&lt;h1 id=&#34;29&#34;&gt;29、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;越是不满现状，摆脱现状的欲望就越强烈，而这种欲望会让一个人最终迷失方向，因为无论是谁，从本质上看都无法摆脱现状——每一时刻的现状都是过去某一或者某些时刻的结果，而每一时刻的现状都是未来某一或者某些时刻的原因。没有人能够逃脱现实的束缚。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;接受现实，某个过去导致了现在，而现在又是未来的原因。&lt;/p&gt;
+&lt;h1 id=&#34;30&#34;&gt;30、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这些年我遇到的优秀的年轻人几乎都有这样的特征：他们很少对现状不满（可能是他们的优秀使他们难以觉得不满吧），他们热爱自己的生活，他们相对更不在意外界的影响，他们更专注于做事而心无旁骛，他们身处良性循环之中，当然，他们也因此每时每刻都在进步。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;热爱生活，关注自己，减少抱怨。&lt;/p&gt;
+&lt;h1 id=&#34;31&#34;&gt;31、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;怎样判断所做的事情是否正确？核心只有一个：看它是否现实。&lt;/p&gt;
+&lt;p&gt;几乎一切愚蠢的行为都来自否定现实、逃避现实。只有接受现实，才可能脚踏实地，避免心浮气躁、好高骛远。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;就是说要接受现实。&lt;/p&gt;
+&lt;h1 id=&#34;32&#34;&gt;32、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这个世界上的资源并非平均分布在每一个人的身上，有一种数学曲线能够比较好地呈现这种分布情况，它就是正态分布曲线。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;资源分配呈现正态分布。&lt;/p&gt;
+&lt;h1 id=&#34;33&#34;&gt;33、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以上提到的种种现实，包括“速成绝无可能”、“只有付出才有收获”、“完美永不存在”、“未知永远存在”、“现状无法马上摆脱”，都既清楚又简单，你必须要接受——不仅要接受，还要牢记；不仅要牢记，还要坚信，不容半点动摇。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这些都是现实的常态。&lt;/p&gt;
+&lt;h1 id=&#34;34&#34;&gt;34、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通过不时地记录、思考与反省，你会越来越善于甄别那些不现实的念头，进而摆脱它们的影响。这就是差别。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;及时记录、思考与反省，早日接受现实。&lt;/p&gt;
+&lt;h1 id=&#34;35&#34;&gt;35、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;错误估算任务所需时间，是最常见，也是最致命的错误。在时间领域有一个与墨菲定律同源、貌似悖论的侯世达法则值得牢记：完成一个任务实际花费的时间总会超过计划花费的时间，就算制定计划的时候考虑到本法则，也不能避免这种情况的发生。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在实际工作中，比如我所在团队实行的敏捷开发，一周按五个故事点算，实际排任务其实排 3.5 - 4.5 个故事点就行了，因为总有中途插入的需求或者 bug。估算任务所需时间也是一种能力，都是靠经验累积的。&lt;/p&gt;
+&lt;h1 id=&#34;36&#34;&gt;36、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;实际上，这些“意外”是任何完成这个任务的人都必然会经历的事情。只有完整地执行一次任务，任务的属性由“陌生”变为“熟悉”之后，才有可能顺利解决这些“意外”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;意外的发生主要是因为对于任务的不熟悉才导致的。&lt;/p&gt;
+&lt;h1 id=&#34;37&#34;&gt;37、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;现实生活中，我们需要完成的任务的真实属性往往是“一部分熟悉，一部分陌生”。这就从根本上解释了为什么前文描述的那个貌似悖论的法则总是应验——我们必须处理未知，而从陌生到熟悉，就需要花费时间去学习，这个过程无法逾越。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;实际就是在部分熟悉部分陌生的工作中解决问题，然后会发现遇到各种各样的意外，需要持续学习。&lt;/p&gt;
+&lt;h1 id=&#34;38&#34;&gt;38、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要想提高估算时间的能力，就要从现在开始养成习惯：做任何事情之前先判断其熟悉程度（或陌生程度），再据此判断估算完成任务所需要的时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;给任务估时之前先判断任务熟悉还是陌生。&lt;/p&gt;
+&lt;h1 id=&#34;39&#34;&gt;39、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所谓做事拖延，不是拖延着做事，而是拖延着不开始做事。明知自己拖延的人很痛苦，因为他们不是不知道该做什么，而是不知道为什么“无法进入状态”——这是他们能够想出来的对自己的行为最拿得出手的描述。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;找不到开始进入的状态，所以迟迟不开始，事情只会越拖越晚开始。&lt;/p&gt;
+&lt;h1 id=&#34;40&#34;&gt;40、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有谁从一开始就能做对、做好。所有做对、做好的人都是一路磕磕绊绊走过来的，这就是生活常态。而动辄给出非建设性负面评价的人，往往不是正经做事的人，他们和那些正经做事的人身处不一样的世界，这也是生活常态。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;提出建设性的负面评价是好事。要接受做对、做好不可能一帆风顺的生活常态，被嘲笑也是生活常态。&lt;/p&gt;
+&lt;h1 id=&#34;41&#34;&gt;41、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在起步晚了的情况下，问题不是“到时候能不能做好”，而是“到时候能做多好就做多好，总好过什么都不做”。明白了这个道理，以后不管遇到什么任务，永远不要再问“什么时候开始才好”，因为答案只有一个：现在！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;拒绝拖延的办法就是现在就开始做。&lt;/p&gt;
+&lt;h1 id=&#34;42&#34;&gt;42、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所有真正踏实做事的人都知道，任何任务的绝大部分都是枯燥而又无趣的，所谓有创意的部分，可能连1%都不到。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是常态与现实，学会接受它。&lt;/p&gt;
+&lt;h1 id=&#34;43&#34;&gt;43、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在做任何事情之前，通过关注“方法”去反复拆分任务，最终确认每个子任务都是可完成的，这是一个人不可或缺的功课。这样的习惯，会使一个人变得现实、踏实。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;拆分任务也是一种技能，将复杂的任务拆分成若干小任务，难度系数会降很多。&lt;/p&gt;
+&lt;h1 id=&#34;44&#34;&gt;44、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一些早期的计算机操作系统，如微软的DOS，是单任务操作系统；为了提高效率，程序员们又开发出了多任务操作系统，如现在的Windows。从发展的角度看，为了提高效率，我们也有必要给自己的大脑打造一个“多任务操作系统”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;并行比串行效率高，人脑也应该学会并行处理任务。&lt;/p&gt;
+&lt;h1 id=&#34;45&#34;&gt;45、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;并行两个任务的一个重要前提是执行者足够了解这两个任务，且对自己有足够清楚的认识，即，对执行者来说，这两个任务是“主动并行”的。被动发生的并行任务往往只能使效率变得更为低下。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;打断工作的一些事情只会降低并行效率。&lt;/p&gt;
+&lt;h1 id=&#34;46&#34;&gt;46、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这个机制里，进程不是按其本质属性被划分为子进程，而是被处理器的时间片硬性划分为进程片。这是关键。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;计算机操作系统的一个知识点：时间片轮转算法。&lt;/p&gt;
+&lt;h1 id=&#34;47&#34;&gt;47、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;焦虑本身没有任何好处，只能带来负面影响。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一直焦虑是没有用的，接受它并且尝试解决它。&lt;/p&gt;
+&lt;h1 id=&#34;48&#34;&gt;48、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;既然管理时间是不可能的，那么解决方法就只能是：想尽一切办法真正了解自己、真正了解时间、精确感知时间，而后再想尽一切办法使自己及自己的行为与时间“合拍”。按我的话说就是——“与时间做朋友”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;开始记录时间，逐渐对时间有一定的认识与熟悉。&lt;/p&gt;
+&lt;h1 id=&#34;49&#34;&gt;49、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有了目标，就可以倒推每个实施步骤，最终自然地形成计划。所有真正执行到底的计划，都是因为其目标现实可行。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;制定计划应该以目标现实可行为出发点。&lt;/p&gt;
+&lt;h1 id=&#34;50&#34;&gt;50、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一般来讲，期限越短、内容越清晰，目标就越容易实现。长期目标、人生理想固然要有，但理想这东西往往太遥远，以至我们总是看不清楚。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;短期目标易于实现，长期目标不可控因素太多。&lt;/p&gt;
+&lt;h1 id=&#34;51&#34;&gt;51、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;斯坦福大学的约翰·克拉姆博兹教授在他的《运气并非偶然》一书里说：“我的一生以及整个事业都在被不可预期的事件影响着。”而他的调查发现，在35岁时仍然在做自己18岁时最想做的事情的人，在整个样本群体中占的比例小到可以忽略不计。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;生活本身充满了意外，并且，总是意外到无以复加的地步。&lt;/p&gt;
+&lt;h1 id=&#34;52&#34;&gt;52、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;雾里看花，谁都看不清楚，但我相信，只要不停地往前走，早晚可以走到一个鲜花盛开的地方，在那里，无论雾有多大，我们总是可以看到那些“花”，因为距离已经足够近了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不要停下脚步&lt;/p&gt;
+&lt;h1 id=&#34;53&#34;&gt;53、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果想要改变自己，或者对自己目前的处境不满意，那就一切从简——找一个你觉得应该会带来改变的任务，然后去做就是了。不要怕碰壁，不要怕失败，那是必须经历的过程。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;想改变自己就开始行动，从做简单的能给自己带来好处的事做起。&lt;/p&gt;
+&lt;h1 id=&#34;54&#34;&gt;54、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;判断一件事情是否真的重要，标准只有一个：是否对目标（无论是长期还是短期）的实现有益。不过，判断一项任务是否真的紧急，标准却并不好找，因为人总会觉得每一件事都很紧急。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;对事情按照重要和紧急分类确实很有用，但难点在于人们并不具有对重要和紧急的判断。&lt;/p&gt;
+&lt;h1 id=&#34;55&#34;&gt;55、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;无论是学习、工作还是生活，我们面临的任务大都是重复性的。要想加快执行重复性任务的速度，只需在遇到重复性任务时先将其做完一次，然后马上总结、整理，搞清流程，再靠进一步的实践把它变成“闭着眼睛也能做好”的事。这是提高效率、减少失误的根本手段。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;把自己想象成一台计算机，只要有一次完整的任务执行经历，及时总结和整理，就能靠经验完全胜任这种重复性工作。&lt;/p&gt;
+&lt;h1 id=&#34;56&#34;&gt;56、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;给联系不是很频繁的工作伙伴发短信的时候，在末尾加上自己的姓名是一个并不麻烦并能省掉很多麻烦的好习惯。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;想到一个平时很微小但是很能让人省事的行为：有人微信问你xxx手机号，你可以先发一条“xxx的手机号是”，再单独发手机号。这样做的好处是对方可以直接复制手机号。如果你是写在一大段消息里一起回复的，那么对方复制就不太方便。这是高情商的表现。&lt;/p&gt;
+&lt;h1 id=&#34;57&#34;&gt;57、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我并不能克服恐惧，而是仅仅做到了习惯恐惧。然而，就算是这种退而求其次的“习惯恐惧”，都需要努力和挣扎。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不能克服恐惧就学会熟悉它。&lt;/p&gt;
+&lt;h1 id=&#34;58&#34;&gt;58、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;很多人做事半途而废、不了了之的根本原因在于从未想过要给自己执行任务时的表现设计一个验收机制。最基本的验收机制是针对最终结果的，部分有经验的人因为在做事之前总是更关注步骤，并会按照需求将任务拆分成若干子任务，所以，他们甚至会为每一个步骤设计相应的验收机制。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;上学时有各种考试作为验收机制，但是工作之后就只有自己能设置验收机制。而且这样的验收机制必须非常严格，因为一旦不通过可能就要面临被裁员。所以在学校里犯错成本是很低的。&lt;/p&gt;
+&lt;h1 id=&#34;59&#34;&gt;59、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;即便考得好，也不见得能获得机会，因为考试成绩往往不是唯一的考量因素（这不是借口，很多时候事实确实如此）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;“没有一场考试能决定一个人的一生”只是在否定“一考定终身”的观点，但不是不认真准备考试的借口。&lt;/p&gt;
+&lt;h1 id=&#34;60&#34;&gt;60、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第一，拒绝学习就不可能有机会知道学习之后的收获；第二，由于不知道学习之后的收获是什么，也就不可能知道那收获有多好、多大；第三，既然对学习的好处无从了解，自然就没有学习的动力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;确实是无解&lt;/p&gt;
+&lt;h1 id=&#34;61&#34;&gt;61、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;除了“试错”、“观察”、“阅读”之外，“思考”，准确地说，“正确地思考”，才是获取真正意义上的知识的主要手段。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;正确地思考才是获取知识的途径。&lt;/p&gt;
+&lt;h1 id=&#34;62&#34;&gt;62、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;即便我是一个所谓“没有信仰的人”，我也不会反对“信仰自由”，同时不应该、也无法强迫任何人放弃自己的信仰。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;求同存异。你不能强迫别人接受你的认知。&lt;/p&gt;
+&lt;h1 id=&#34;63&#34;&gt;63、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“为什么人们总是异常痛苦于不被理解，并且在那么强烈地认同‘理解万岁’之类口号的同时又常常无法理解他人”——每个人都或多或少受到自我经验的局限，而这也是经验主义局限的根源所在。摆脱自我经验局限的难度有时是无穷大的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;无法理解他人是因为自身经验的局限导致的。&lt;/p&gt;
+&lt;h1 id=&#34;64&#34;&gt;64、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“很多时候，人们的善良出自于软弱，而他们的残暴只不过来自于恐惧。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;转：杨奇函说过这么一句话:「维持我们节俭的，可能是我们的贫穷。维持我们检点的，可能是我们的丑陋。维持我们低调的，可能是我们的平庸。维持我们钻研的，可能是我们的笨拙。促成我们义无反顾的，可能是我们的走投无路。激发我们看淡一切的，可能是我们的一无所有。我们心无旁骛，可能只是因为我们没有能力去从容。我们刚正不阿，可能只是因为我们没有资格被诱惑。」&lt;/p&gt;
+&lt;h1 id=&#34;65&#34;&gt;65、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;检索能力建立在相当熟练的阅读理解能力的基础之上。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;先要理解，检索起来才会更方便。&lt;/p&gt;
+&lt;h1 id=&#34;66&#34;&gt;66、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;独立思考，只不过是从别人那里知道一个结论的时候，自己动脑重新推演一遍，看看得出结论的过程有没有漏洞和不合理的地方，衡量一下结论到底有没有道理的过程。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;直接得到一个结论很容易，但是是否正确需要自己推演来进行思考判断。&lt;/p&gt;
+&lt;h1 id=&#34;67&#34;&gt;67、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;为了避免麻烦而把思考推给别人是一种常见的解脱手段，由此，大多数人身上出现了大量“迷信权威”的现象，只不过程度不同。“迷信权威”本身就是一个典型的陷阱：权威的意见可能更加准确，可是，权威也好、专家也罢，滥竽充数的实在不少。为此我们不得不常常采取“求人不如求己”策略。这也展现了一个无奈的事实——我们生活在一个信任成本极高的社会。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;要有自己的判断，所谓的「权威」有可能只是打造的一个人设，其实是为了割粉丝韭菜。&lt;/p&gt;
+&lt;h1 id=&#34;68&#34;&gt;68、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;权威不是用来迷信的，权威在更多时候本应该是我们认识世界的辅助工具，而且我们在某些方面需要权威的同时，自己也会尽量成为某个方面的权威，这是社会大分工的基本意义。但权威却被很多人滥用，更有甚者，在滥用权威的同时沦为权威（无论是不是真正可靠、可信的权威）的奴隶。这还是本末倒置，东施附体。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;相信权威的同时要保持住自己的理智，切不可沦为权威的奴隶。&lt;/p&gt;
+&lt;h1 id=&#34;69&#34;&gt;69、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先要了解：权威不一定等于正确。进一步要明白：就算权威正确，也只是权威表达了正确，而非正确属于权威。最后要清楚：准确地说，权威只是权威，正确就是正确，它们俩什么时候都不是一回事。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;总的来说就是不能过分依赖权威。&lt;/p&gt;
+&lt;h1 id=&#34;70&#34;&gt;70、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;进步过程从本质上看其实就是不断地“试错”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;联想到不管是在学习还是工作上，走的很多弯路看似没什么用，甚至有点浪费时间，其实这是在试错，说不定在未来的哪天就会帮到你不走这条弯路，避免犯下很严重的过错。&lt;/p&gt;
+&lt;h1 id=&#34;71&#34;&gt;71、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自证预言的运作机理颇有些令人迷惑：好事很少心想事成，坏事往往无中生有。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;真实&lt;/p&gt;
+&lt;h1 id=&#34;72&#34;&gt;72、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;喜悦会使一个人停下行动去享受喜悦，而恐惧却恰恰相反，会引发一个人马上采取行动去避免危险。事实上，这种出于恐惧的决策几乎总是事与愿违。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;恐惧情绪&lt;/p&gt;
+&lt;h1 id=&#34;73&#34;&gt;73、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人类普遍拥有的一个认知偏差就是：把成功揽到自己身上，把失败归咎于别人或者坏运气。这在心理学上有个术语——自利性偏差。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;成功人士的经验不具有普适性。&lt;/p&gt;
+&lt;h1 id=&#34;74&#34;&gt;74、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;与其关注成功者，不妨反其道而行之——努力从失败者身上汲取经验。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;成功可能有一定运气，但是失败肯定有必然原因。试着从反方向来思考问题。&lt;/p&gt;
+&lt;h1 id=&#34;75&#34;&gt;75、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“赢得尊重”是最不能急于求成的，也绝对不可能靠“临时抱佛脚”实现。因为每个人都有足够的观察能力，而且人还会互相交流、互通有无——群众的眼睛是雪亮的。尊重只能靠积累获得，这是铁律。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;尊重要靠长期积累获得。&lt;/p&gt;
+&lt;h1 id=&#34;76&#34;&gt;76、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;没有人会像我们自己一样了解自己，也没有人会像我们自己一样关注自己。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;因此不要高估别人对自己的理解与关注。&lt;/p&gt;
+&lt;h1 id=&#34;77&#34;&gt;77、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;摆脱经验主义，不仅需要对道理本身的了解，还需要勇气。其实，求知的路走到一定程度后就必须依靠勇气，而非智商。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;勇气是摆脱经验主义的办法。&lt;/p&gt;
+&lt;h1 id=&#34;78&#34;&gt;78、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;读杂书会大大提高一个人接受新事物的能力（这种能力也是一种理解能力）。阅历丰富、博览群书的人，肯定拥有更强的理解能力，因为他们在遇到未知的时候，更有可能迅速地在自己已有的知识中找到可以用来类比的信息。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;所以读杂书并不是表面上没用，只是不会那么明显，影响是潜移默化的。&lt;/p&gt;
+&lt;h1 id=&#34;79&#34;&gt;79、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;往往不是有兴趣才能做好，而是做好了才有兴趣。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;能获得成就感才会喜欢做，否则很难坚持下去。&lt;/p&gt;
+&lt;h1 id=&#34;80&#34;&gt;80、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们不必过分害怕痛苦的原因在于，心理学研究发现，人类的大脑有一种自我保护功能——遗忘痛苦。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;身体的痛苦只是暂时的，心灵的创伤才是永久的。&lt;/p&gt;
+&lt;h1 id=&#34;81&#34;&gt;81、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;曾有人这样比喻：“如果说记忆本身是葡萄，那么回忆的过程就是发酵。每个人都有努力使自己的历史变得更加清白、更加美好的倾向，所以，人往往会不自觉地给自己的记忆进行各种形式的修补，甚至进一步的加工，然后才会觉得心满意足。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;人们倾向于喜欢美好的事物，因此记忆也大多是和美好相关的且趋于完美。&lt;/p&gt;
+&lt;h1 id=&#34;82&#34;&gt;82、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大多数人一生无法摆脱由比较而产生的情绪——不管是正面的，还是负面的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;和别人比较没有什么意义，比赢了也就图个虚荣感，比输了却要耿耿于怀影响心情。做自己就好。&lt;/p&gt;
+&lt;h1 id=&#34;83&#34;&gt;83、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;生活无法彻底回避比较，但是，无须比较就可以获得的快乐和幸福也同样很多，只不过它们常常被人们忽略。于是，无数人花费大量的时间去追求必须通过比较才能获得的快乐和幸福，而他们最终获得的，只有更多的痛苦。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不要把快乐寄托在比较中，而是应该善于在生活中发现简单而朴素的快乐。&lt;/p&gt;
+&lt;h1 id=&#34;84&#34;&gt;84、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;从本质上来看，运气不过是与我完全无关的一种现实存在。换句话讲，尽管运气确实存在，但我不能相信运气，或者完整地说，我不能相信运气与我有关。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不要把成功归于运气，同时也不要在做计划时总想着会有一定运气能度过难关。凡事都不要考虑到运气这个不可控因素。&lt;/p&gt;
+&lt;h1 id=&#34;85&#34;&gt;85、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;承认自己能力有限，是保持心理健康的前提。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;量力而行并不丢脸。&lt;/p&gt;
+&lt;h1 id=&#34;86&#34;&gt;86、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有些资源很难靠白手起家获得，例如金钱、地位、名誉。然而，有些资源却可以轻易从零开始积累，例如一个人的才华与学识。才华与学识，是一定可以通过努力获得的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;出生决定起点，后天努力决定上限。&lt;/p&gt;
+&lt;h1 id=&#34;87&#34;&gt;87、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作为整个社会的一员，大多数人并没有意识到，有时候，整个社会向他灌输的观念可能是错误的。道理也很简单：每个人都是通过自己的感觉感知这个世界的，而“感觉”本身非常不准确，且特别容易受影响，甚至被误导。显而易见，整个社会的观念不过是绝大多数人的观念的组合，其中必然包含未矫正的、粗糙并扭曲的所谓“真实的感觉”。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;社会是一面镜子，人们各种各样的观点都在这面镜子中体现，但是并不都是正确的，因为带有主观认识。&lt;/p&gt;
+&lt;h1 id=&#34;88&#34;&gt;88、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;嘲弄别人“弱”往往只是为了证明自己的“强”，而真的“强”是不需要证明的，需要证明的“强”其实是清楚自证的“弱”。通过嘲弄他人而获得的“强”的感觉，必然是远离“真实的自己”的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;通过比较得到的结果没有什么意义，只不过是对自己的不信任，而想通过比较来获得虚荣感。&lt;/p&gt;
+&lt;h1 id=&#34;89&#34;&gt;89、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;很多时候，所谓“谦虚”和“低调”其实是一种自我保护的优化策略。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不去炫耀会让别人觉得舒服。&lt;/p&gt;
+&lt;h1 id=&#34;90&#34;&gt;90、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;任何人都不可能100%地有效率，至少不可能总是100%地有效率。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不要高估自己的能力，排任务也不能排太紧，要留 buffer 空间。&lt;/p&gt;
+&lt;h1 id=&#34;91&#34;&gt;91、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果一个人把大部分的时间花在工作和学习上，那么他是以工作成就为导向的人；如果一个人把大部分的时间花在享受欢乐上，那么他是以生活满足为导向的人。每个人都不相同，有些人可以在工作和学习上获得更多的乐趣，有些人则会在生活琐事中获得更多的幸福。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你不能要求别人的追求和你一样。有人只想躺平，觉得生活就应该多体验玩乐，有人则把更多的精力和时间放在工作和学习上，想获得更多的成就感。这都没什么，人各有志，不能因为自己喜欢学习就看不起喜欢玩乐的人。&lt;/p&gt;
+&lt;h1 id=&#34;92&#34;&gt;92、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;应该随身携带一个用于记录的工具，以便记录每次与家庭成员或亲属通电话的日期和时间——尤其是那些你并不经常联络的人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;照片与 vlog 都可以记录下珍贵的回忆。&lt;/p&gt;
+&lt;h1 id=&#34;93&#34;&gt;93、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;帮助优秀的人给自己带来的回报，很可能会比帮助一般的人更高。相信我，要想提高自己的社交质量，最好将时间和精力更多地倾注在“把自己变得更加优秀”这件事情上—— 哪怕只在某一个方面。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你若盛开，蝴蝶自来。&lt;/p&gt;
+&lt;h1 id=&#34;94&#34;&gt;94、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当一个团队成功的时候，几乎每个人都会倾向于把成功归因于自己的贡献而忽略别人的存在；当一个团队失败的时候，几乎每个人都会倾向于把失败归咎于他人的过失而尽量把自己排除在外。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;“自利性偏差”现象&lt;/p&gt;
+&lt;h1 id=&#34;95&#34;&gt;95、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们所使用的语言往往没什么道理——优秀的人的理想通常被称为“抱负”，平庸的人的理想通常被称为“野心”，这其实都是一回事。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;同样都是理想的意思，却因为带了主观情感而表现出褒贬。&lt;/p&gt;
+&lt;h1 id=&#34;96&#34;&gt;96、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;雷茵霍尔德·尼布尔在他著名的《宁静祷词》里说的话，可说是一把帮助人们摆脱这种境地的钥匙。这些内容，在过去的一个多世纪里，曾使无数人动容：&lt;/p&gt;
+&lt;p&gt;愿上帝赐予我从容去接受我不能改变的，赐予我勇气去改变我可以改变的，并赐予我智慧去分辨这两者间的区别。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;接受现实，并努力改变。&lt;/p&gt;
+&lt;h1 id=&#34;97&#34;&gt;97、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;很多人就是这样，以为自己在拼命提高效率，却暗中提前结束了自己的生命——效率再高都没有什么用处。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;养成良好的习惯，包括但不限于作息习惯，很多时候你以为熬夜多了一个小时学习的时间，但其实未来的健康已经在此刻被换取走了一点。&lt;/p&gt;
+&lt;h1 id=&#34;98&#34;&gt;98、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;男人所谓的性能力，与其心肺功能紧密相关。如果一个男人在二十五六岁的时候不管从什么渠道得知了这一点的话，那么他就应该坚持每周至少3次有氧运动。几年之后，他就会发现，在他的朋友、同事都被工作压垮了身体、了无生活乐趣的时候，他竟然可以通过积累做到一枝独秀。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;原来是要做有氧运动，记下了。&lt;/p&gt;
+&lt;h1 id=&#34;99&#34;&gt;99、&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以我个人的体会，我非常鼓励每个年轻人能花上几年时间到国外走一走，学一学。教育的根本其实只不过是“见多识广”。然后，再用五到十年时间定义一个属于自己的人生方向，为之奋斗，为之坚持，不知停歇地努力上十年二十年。有些成功靠运气，可是持续的成功却与运气无关。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;同意「教育的根本其实只不过是『见多识广』」这个观点。就像高考考上 985、211、双非普通一本又或者是二本、三本，带来的影响是不一样的。认识的同学、老师水平不一样，见识也不一样。可以简单地理解成「环境影响认知」。我觉得环境大多时候都比努力更重要。&lt;/p&gt;
+&lt;h1 id=&#34;写在后面&#34;&gt;写在后面&lt;/h1&gt;
+&lt;p&gt;最近公司裁员之后工作忙碌程度呈指数级上升了起来，晚上到家以及周末还要加班处理工作上的事情，为数不多属于自己的时间也就上下班通勤能看会这本书，从 2021 年 10 月 14 日开始看，到 2021 年 11 月 19 日耗时一个月多一点才终于看完了这本书。发现这本书和李笑来在前言里说的一样，是真的枯燥。不过看完收获却是非常大的。&lt;/p&gt;
+&lt;p&gt;觉得李笑来提出的「时间不能被管理，要管理的不是时间，而是自己」的观点很有意思。自己一直在学习时间管理，上学时在学，工作之后依然在学，GTD 工具用了不少，发现还是没学会时间管理。&lt;/p&gt;
+&lt;p&gt;看完全书得到的结论大概有这几点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;提升自己认知，提高思考能力&lt;/li&gt;
+&lt;li&gt;成功靠积累&lt;/li&gt;
+&lt;li&gt;接受现实，努力让自己变得更好&lt;/li&gt;
+&lt;/ol&gt;</description>
+        </item>
+        <item>
+        <title>工作近半年的一些个人感悟</title>
+        <link>https://wonz.wang/%E5%B7%A5%E4%BD%9C%E8%BF%91%E5%8D%8A%E5%B9%B4%E7%9A%84%E4%B8%80%E4%BA%9B%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%82%9F/</link>
+        <pubDate>Wed, 30 Dec 2020 23:19:54 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E5%B7%A5%E4%BD%9C%E8%BF%91%E5%8D%8A%E5%B9%B4%E7%9A%84%E4%B8%80%E4%BA%9B%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%82%9F/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;计算机专业的学生到底读研还是工作？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;写在前面&#34;&gt;写在前面&lt;/h2&gt;
+&lt;p&gt;2019.12.21-12.22，我参加了 2020 全国硕士研究生招生考试初试。后来的结果算是意料之中，没考上，经过自己的一番思考之后，毅然决定毕业后直接工作。在参加 2020 年春招的时候，我写下了一篇文章：&lt;a class=&#34;link&#34; href=&#34;https://wonz.wang/2020/03/05/309-work-not-postgraduate/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;我选择直接工作，不读研&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;现在是 2020 年 12 月，快接近 2020 年的尾声了。我也有五个月的工作经验了，现在对程序员的工作又有了新的体会与感想。&lt;/p&gt;
+&lt;h2 id=&#34;浅谈国内大学教育环境&#34;&gt;浅谈国内大学教育环境&lt;/h2&gt;
+&lt;p&gt;说句实话，国内大学学的知识和实际工作相比，真的是小巫见大巫（这里暂且以计算机专业为例，其他专业我不清楚）。&lt;/p&gt;
+&lt;p&gt;计算机本就是一个重&lt;strong&gt;实践&lt;/strong&gt;的学科。而国内大学因为种种原因，大多都教成了只会书本知识，动手能力差，实际项目开发能力弱。这一点，其实大家应该深有体会，懂的都懂。&lt;/p&gt;
+&lt;p&gt;我自己也属于动手能力差，写代码很菜的那一类。所以我才更加不喜欢这样的教育模式。&lt;/p&gt;
+&lt;h2 id=&#34;读研-or-工作&#34;&gt;读研 or 工作&lt;/h2&gt;
+&lt;p&gt;再来说说计算机专业的学生到底读研还是工作。&lt;/p&gt;
+&lt;p&gt;我先说下自己的个人看法：如果你对科研感兴趣，有科研的热情，立志想为中国乃至世界计算机领域做出一点科研贡献，那么恭喜你，去读研吧。如果只是想要一个硕士文凭，方便以后好找工作，那还不如现在就工作，早积累几年工作经验。&lt;/p&gt;
+&lt;p&gt;说句我观察到的事实，其实大部分人选择读研的目的并不是想做科研，而是不想这么早就进入社会。一方面是现在学历通胀的影响，导致只有本科学历确实没什么竞争力，一方面是想再受几年学校这个「避风港」的保护。&lt;/p&gt;
+&lt;p&gt;要我说，该面对的总归都要面对，只不过是往后推迟了几年而已。我觉得，早点积累 2-3 年工作经验，其实比花个 2-3 年拿个硕士文凭要更值得。因为现在是&lt;strong&gt;互联网&lt;/strong&gt;时代，确切的说是**互联网+**时代，时代不等人，有些机会错过了就是错过了。&lt;/p&gt;
+&lt;h2 id=&#34;初入职场的工作感悟&#34;&gt;初入职场的工作感悟&lt;/h2&gt;
+&lt;p&gt;刚开始工作的时候，每天都会感慨自己怎么什么都不会，这么菜会不会被公司辞退啊。工作之后的压力真的比上学大多了。因为在学校至少还有一些保护，工作之后真的是只能靠自己了。&lt;/p&gt;
+&lt;p&gt;先说说收获吧。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开发能力以显著的速度在提升，当然发际线也以显著的速度在上升（我真的快秃了，我哭了）&lt;/li&gt;
+&lt;li&gt;独立解决问题的能力得到很大提升，会自己查看相关文档（甚至是全英文官方文档），寻找解决方法。&lt;/li&gt;
+&lt;li&gt;更加注重了代码规范与工作流程（强烈建议国内大学在上编程课之前能够指导一下「代码规范」，包括但不限于注释怎么写，函数命名采用&lt;strong&gt;驼峰命名法&lt;/strong&gt;，空格怎么空等）。&lt;/li&gt;
+&lt;li&gt;了解到很多之前没接触过的专业「开发工具」，比如写接口文档的 YApi，测前后端分离接口的 Postman 等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;再来说说其他方面，工作之后不只是要面对代码，当然还有人际关系，包括但不限于同事相处等。其实进入社会，往深了看你与公司就是打工人与资本主义。现实是很残酷的。&lt;/p&gt;
+&lt;p&gt;万幸的是，我暂时还没遇到令我崩溃的事情，工作上恶心的事倒是遇到两三件，就不展开说了。还有一点很深的感触就是，有时候一天工作下来，真的很累，从身体到心理，我终于理解了为什么日剧里的社畜喜欢下班去居酒屋喝一杯酒了。当然我也理解了为什么有些同事喜欢抽时间下楼抽根烟，因为开发真的好累，特别是解决 bug 的时候。&lt;/p&gt;
+&lt;p&gt;反正我觉得人是要成长的，我想要早日成为独当一面的人，所以我现在挺庆幸自己选择了毕业直接工作。&lt;/p&gt;
+&lt;h2 id=&#34;题外话&#34;&gt;题外话&lt;/h2&gt;
+&lt;p&gt;再说点题外话，其实工作之后挺喜欢和很多不同的人交流的。&lt;/p&gt;
+&lt;p&gt;和 live 朋友约饭，喜欢聊聊音乐聊聊生活。和即友约饭，喜欢聊聊职场聊聊规划。&lt;/p&gt;
+&lt;p&gt;上一次和几个工作三年以上的即友吃饭聊天，听到了很多我之前没有接触过的知识。甚至晚上回到家我还自己靠着记忆做了笔记，关于运营/产品/设计/创业等一系列内容都有所涉猎，这些都是我想了解学习的。这个应该和我自身有关，我上大学时就不满足于课堂上教的，所以我自学 Python 和深度学习，才有了转专业去计算机学院的后话。而工作之后，我也不满足于工作本身，想接触许许多多的领域，并不限于技术这一层面。因为我觉得还有很多有意思的领域等着我去探索。&lt;/p&gt;
+&lt;h2 id=&#34;写在后面&#34;&gt;写在后面&lt;/h2&gt;
+&lt;p&gt;其实选择写这么一篇文章，一方面是对自己工作快半年的复盘，另一方面 2021 全国硕士研究生招生考试初试刚刚结束，希望能够给学弟学妹们一点我的个人小意见，解决关于读研还是工作的一些焦虑与烦恼。&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>聊聊我自己的「卡在中间」情况</title>
+        <link>https://wonz.wang/%E8%81%8A%E8%81%8A%E6%88%91%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%A1%E5%9C%A8%E4%B8%AD%E9%97%B4%E6%83%85%E5%86%B5/</link>
+        <pubDate>Mon, 25 May 2020 19:45:57 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E8%81%8A%E8%81%8A%E6%88%91%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%A1%E5%9C%A8%E4%B8%AD%E9%97%B4%E6%83%85%E5%86%B5/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;stuck in middle&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;写在前面&#34;&gt;写在前面&lt;/h3&gt;
+&lt;p&gt;其实「卡在中间」是我非常喜欢的一个播客节目的名字。每期都听，而且有的单集会听很多遍。因为心理上产生了很多共鸣。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;官方解释：「卡在中间」是一档从校园跨入社会的青年以“95后”身份处于上辈社会掌控者与下代互联网原住民之间复杂处境，进行自我探索的播客节目。我们所讨论的“卡学”：卡在中间，进退维谷，日文为立ち往生。往生，意指摆脱过往的恶业业力束缚获得新生的过程，即死亡。“卡”是当代人常有的状态，或许呆立与困顿才是稳定的、必然的，而平坦与顺畅才是暂时的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;选择专业&#34;&gt;选择专业&lt;/h3&gt;
+&lt;p&gt;很多人高考选择专业的时候，其实是并不知道自己喜欢什么的，我自己也是。当时我刚高考完还是「电气工程及其自动化」这个专业非常火的时候，我同学进入大学之后转专业也转的这个专业，但是临近毕业他转计算机方向了。&lt;/p&gt;
+&lt;p&gt;大部分高中重视的是学习，学生的个人发展是属于被忽视的。这就导致很多学生在高考填报志愿的时候选的大多数是当前的热门专业或者父母/父母的朋友建议的专业，而不知道自己真正想学什么专业。这样导致的很大一个问题是，进入大学很有可能遇到那些根本提不起兴趣学的课程。&lt;/p&gt;
+&lt;p&gt;诚然大学里有转专业的机会，但是达到转专业的条件又是一个门槛。&lt;/p&gt;
+&lt;h3 id=&#34;读研还是工作&#34;&gt;读研还是工作&lt;/h3&gt;
+&lt;p&gt;万年不变的老话题。&lt;/p&gt;
+&lt;p&gt;很多人说考研很痛苦，一方面是身体上的高强度学习，另一方面是心理上的起起伏伏。但是从我自己的考研经历来说，其实不痛苦，我就把考研当作生活中的一部分，平时认真记录生活，照常吃饭。不必把考研当作生活的全部。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;01（A）期节目提到：很多人说“有了研究生文凭才能找到好工作”。这是将因果颠倒了，其实是你有那个能力才可以考上研究生，才可以找到好工作。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我自己的看法其实是如果对科研真的有热情想有所建树，那就读研吧。如果只是想晚几年进入社会，那还是早点进入社会历练自己吧。毕竟为了一个研究生文凭少了三年工作经验，我觉得不划算。&lt;/p&gt;
+&lt;p&gt;正好最近又有学弟问我为什么不建议学计算机的考研。我整理了一下自己的看法如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先，你要确定考研的目的是什么？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;喜欢科研，想发 paper？&lt;/li&gt;
+&lt;li&gt;仅仅为了研究生文凭好找工作？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;读研&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;导师放不放你实习？不放实习相当于少了三年工作经验。&lt;/li&gt;
+&lt;li&gt;读研方向做什么？如果你选机器学习/人工智能这种方向的话，普通 985 出来找算法工程师都不一定找得到，基本只认 Top5 的那几所学校研究生。如果你工作找开发岗的话，很大程度上和你研究生学的没啥关系。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;工作&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果认真工作努力提升自己的话，三年工作经验的优势 &amp;gt; 普通研究生学历。&lt;/li&gt;
+&lt;li&gt;本科学历没什么差的，自己努力就行。未来又不是仅凭学历就能决定一切的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不是读了研究生就能找到好工作，两者不是必然关系。是自己优秀，才考上的研究生，或者找到的好工作。关键还是看自己，和考不考研关系不大。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;你到底想要什么&#34;&gt;你到底想要什么&lt;/h3&gt;
+&lt;p&gt;这个算是世纪难题了。&lt;/p&gt;
+&lt;p&gt;我自己也没有明确的答案。老实说自己当初喜欢编程的原因是自己开发的小游戏让同学们觉得很有趣，我自己觉得这样很酷也很快乐。但是转入计科专业之后，几次课程设计并没有让我感受到以前的这种快乐。再加上没有实际参与过完整的团队项目开发，毕竟学校的程序设计和公司的软件开发区别还是很大的。所以我也不知道自己会在编程这条路走多远，我只能说，现在的我还是很喜欢编程的，还想继续走下去。&lt;/p&gt;
+&lt;p&gt;至于其他兴趣爱好，我只能说在工作之余会多去尝试。如果找到了比编程更让我热爱的，我会认真去对待。&lt;/p&gt;
+&lt;h3 id=&#34;环境重要还是人更重要&#34;&gt;环境重要还是人更重要&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;01（A）期节目里有一句话很喜欢：环境可以教给你的东西是远胜于书本的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;大一暑假的时候一个人去重庆旅行，在飞机上和邻座的一位南京阿姨聊天。阿姨问过我这个问题：你觉得环境重要还是人更重要。因为她女儿当时初升高进入的是南京的一所很不错的高中，但是班级好像一般。我当时的回答不太记得了，好像是自己坚持认真学习，班级差一点没关系的。&lt;/p&gt;
+&lt;p&gt;现在我看法其实变了好多。我觉得环境真的挺重要的。因为环境的不同带来的是格局、视野、机会等等一系列的不同。大城市之所以是大城市，其实是有原因的。&lt;/p&gt;
+&lt;h3 id=&#34;破釜沉舟还是留点后手&#34;&gt;破釜沉舟还是留点后手&lt;/h3&gt;
+&lt;p&gt;卖书有感。&lt;/p&gt;
+&lt;p&gt;前阵子处理自己的大学四年的书籍。有的书网上卖给了收二手书的，其他不收二手书的都卖给了学校收书的，六毛钱一斤。一共收入 340 元。当时卖完书整个人心情有点低落，一方面是因为自己不想再接触机器学习/深度学习就把西瓜书和花书都卖了，基本都是全新，但卖的很便宜，卖完后悔了，应该自己留着的。另一方面是觉得自己大学四年学习的书本就这样卖了实在可惜，毕竟都写了好多笔记。&lt;/p&gt;
+&lt;p&gt;想想还是冲动了。因为自己作为一个开发岗的程序员，觉得自己不打算读研，可能没机会接触算法岗的东西，就卖了西瓜书和花书，太后悔了。&lt;/p&gt;
+&lt;h3 id=&#34;广度还是深度&#34;&gt;广度还是深度&lt;/h3&gt;
+&lt;p&gt;拿我自己来说，其实找工作的时候发现程序员只是一个很笼统的概括，方向具体细分还是有很多的，比如前端、后端、全栈等。使用语言也不一样，世界上编程语言这么多，不可能全部都学一遍。自己因为没有接触过前端，所以找工作找的是后端开发。但是我自己并不太了解后端其实是做什么，因为有听说后端如果就是写写 API 接口，做做 crud，那其实还是很没有意思的。因此，我自己是想接触一下前端的，想看看自己是否有兴趣，如果有兴趣的话可能会从后端转前端。&lt;/p&gt;
+&lt;p&gt;再从职业角度来说，因为我个人爱好比较广泛，挺多领域都想涉足尝试一下看看。一方面是不想自己只拘束于某一个小领域而让自己视野变得狭隘，另一方面也是想多元化发展一下自己。但是很多领域其实在大学里并不教授，比如产品、运营。&lt;/p&gt;
+&lt;p&gt;涉足太多领域也有弊端，有可能会多而不精。最好的方法是在某个领域竖向发展，钻研深度，其他感兴趣的领域横向发展，扩展广度。&lt;/p&gt;
+&lt;h3 id=&#34;平凡一点还是伟大一点&#34;&gt;平凡一点还是伟大一点&lt;/h3&gt;
+&lt;p&gt;自己在以前的专业也算小有名气，只是因为当时成绩好而已。后来来到计科之后，我更多的是低调做事。默默坚持更新自己的技术博客，后来慢慢被越来越多的人发现。&lt;/p&gt;
+&lt;p&gt;其实自己一直有个大厂梦，程序员梦想去 BAT 这样的大公司算是一种情节吧。但是前阵子自己认真思考之后发现，其实大部分的一生其实是个普通人。倒不是说普通不好，我的意思是就是不会成为特别有名，全国闻名的那种人。但是在自己擅长的小领域有一定名气还是可以做到的。&lt;/p&gt;
+&lt;p&gt;有时候想想其实平凡的生活也没什么不好，因为大部分人其实并不真正关心你的生活与成就。我觉得做人没必要活给别人看，因为是你自己的人生。但是我内心又真的很想追逐一下大厂梦。或许以后会是个别人看起来很平凡的普通人，但是我自己却乐在其中。&lt;/p&gt;
+&lt;h3 id=&#34;写在后面&#34;&gt;写在后面&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“卡”是当代人常有的状态，或许呆立与困顿才是稳定的、必然的，而平坦与顺畅才是暂时的。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+        </item>
+        <item>
+        <title>关于工作的一些个人看法</title>
+        <link>https://wonz.wang/%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%B8%80%E4%BA%9B%E4%B8%AA%E4%BA%BA%E7%9C%8B%E6%B3%95/</link>
+        <pubDate>Thu, 30 Apr 2020 20:47:47 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%B8%80%E4%BA%9B%E4%B8%AA%E4%BA%BA%E7%9C%8B%E6%B3%95/</guid>
+        <description>&lt;h3 id=&#34;写在前面&#34;&gt;写在前面&lt;/h3&gt;
+&lt;p&gt;封面是今天寄出去的就业协议书的快递信息。&lt;/p&gt;
+&lt;p&gt;从确定找工作到找到理想工作差不多有两个多月的时间了，也算时间跨度够长的了。今年的就业形势不用说也清楚。我也没必要贩卖焦虑，大环境如此，用心做好自己的事就行。其他的，let it go~&lt;/p&gt;
+&lt;p&gt;这次参加春招感触挺多的，想记录一下自己的心路历程。&lt;/p&gt;
+&lt;h3 id=&#34;955wlb-or-996icu&#34;&gt;955.WLB or 996.ICU&lt;/h3&gt;
+&lt;p&gt;去年在全球最大&lt;del&gt;同性&lt;/del&gt;交友网站 GitHub 上出现过一个轰动全球的项目：&lt;code&gt;996.ICU&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-04-30_21-02-35.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;众所周知，互联网行业 996 其实是很普遍的现象。福报厂（阿里）公然宣称 996 是福报。&lt;/p&gt;
+&lt;p&gt;个人其实挺反感 996 的，我追求的是 work-life balance。我自认还算喜欢写代码，但是并不想一直写代码。我觉得工作之余应该多给自己的生活留点空间，发展一下自己的兴趣爱好。我想做个有趣的人，而不是所谓的码农。&lt;/p&gt;
+&lt;p&gt;写代码是为了养活自己，热爱生活是为了养好自己。&lt;/p&gt;
+&lt;p&gt;虽然很想选择互联网公司，奈何加班少的互联网公司真的太少了，几家特别心仪的互联网公司也没有校招 HC 了。因此最后选择的是一家不怎么加班的国企，但是业务方面还是非常互联网的。&lt;/p&gt;
+&lt;h3 id=&#34;大公司-or-小公司&#34;&gt;大公司 or 小公司&lt;/h3&gt;
+&lt;p&gt;关于大公司还是小公司的看法，见仁见智。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大公司进去很可能是拧螺丝&lt;/li&gt;
+&lt;li&gt;小公司规范上可能比不上大公司，跳槽认可度不高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我个人的看法是：不反感加班严重的话，能去大公司当然好，去不了大公司也没啥，选个流程清晰，规范的小公司一样对自己提升很大。&lt;/p&gt;
+&lt;p&gt;以前我也是梦想进 BAT 这样的大厂的，但是了解的东西越多，越是感觉大厂的一些不好的地方（有些信息我不方便说出来）。反正这次春招，我没投阿里，百度只是为了投了感受一下大厂笔试难度，腾讯自己还是比较想去的，奈何投的比较晚，应该是没有 HC 了，简历投了半个多月一直没消息。至于字节跳动公司，因为个人不喜欢他们的产品价值观，加上加班实在太严重，面试挂了也不可惜，本来就不准备去，虽然钱给的多，但是对我来说身体健康更重要。&lt;/p&gt;
+&lt;p&gt;最近我的简历被不止一个人（有的是帮忙内推的，有的是面试官）说过完全可以去 BAT 字节这样的公司，为什么不去呢？说实话我自己并不觉得自己简历很优秀，我如实回答了：腾讯投的晚，没有 HC 了，字节准备不充分面试挂了，而且我不太喜欢加班太严重。&lt;/p&gt;
+&lt;p&gt;还有很重要的一点，简历上面最多只能反映自己在校期间的表现，和真正工作还是有很大区别的。就像我自己的简历，有专利有比赛获奖有技术博客有一个还算不错的小项目，和一般人比起来确实算很不错了。但是又有什么用呢，我没有实习经历啊，本科阶段没有完整地经历过一个团队开发项目的经验，所以我到现在对项目开发的整个流程还是模糊的。&lt;/p&gt;
+&lt;p&gt;我找工作至今，觉得简历里面内容重要程度：实习经历 &amp;gt; 项目经历/ACM经历 &amp;gt; 其他比赛获奖/GPA/奖学金。&lt;/p&gt;
+&lt;h3 id=&#34;城市&#34;&gt;城市&lt;/h3&gt;
+&lt;p&gt;说说我为什么选择去北京工作吧。&lt;/p&gt;
+&lt;p&gt;其实自己心中的理想工作城市有三个：北京、上海、深圳。上海去过，北京深圳都没去过。北京的互联网公司其实是要多于上海的。虽然自己最后没选择互联网公司，不过我觉得环境可以造就机会。自己也打算利用业余时间多接触些互联网方面的知识进行学习。所以我很期待北京的互联网氛围。&lt;/p&gt;
+&lt;p&gt;大城市意味着机会多，生活压力确实大了点，每个月辛辛苦苦打工挣到的钱也不见得能剩下多少。但是我觉得钱不是省下来的。如果还是保留着父母甚至爷爷一辈的想法的话，那存款不知道多少年才够买房。相比之下，我的想法更倾向于年轻时多投资自己，努力工作，坚持学习，让时间告诉自己答案。&lt;/p&gt;
+&lt;p&gt;或许有人要说我还是太年轻了，目光短浅，不考虑买房安家什么的。我觉得当前我一个应届毕业生的身份，考虑太长远的事情是没有意义的。我虽然选择去北京工作，但是要不要留下来这种问题，我暂时还不会考虑，或者说，现在考虑了有什么意义呢？年轻最大的优点就是可以多尝试，不要害怕失败，该拼搏时就拼搏。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;stormzhang&lt;/code&gt; 说的下面这句话个人非常赞同，也送给你们。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-04-30_21-40-20.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;技术语言&#34;&gt;技术语言&lt;/h3&gt;
+&lt;p&gt;因为自己大学期间出于兴趣自学的 &lt;code&gt;Python&lt;/code&gt; ，当时也打算以后主攻这个语言。但是真正找工作的时候，了解了很多资料后发现，其实 &lt;code&gt;Python&lt;/code&gt; 不是很适合作为工作的主语言，更多时候适合一门副语言作一些效率提升上的事情，比如写写自动化脚本。详情可以去 B 站看&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1vt411n7WX&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;这个视频&lt;/a&gt;。因为我找的是 &lt;code&gt;后端开发&lt;/code&gt; 的工作，事实上现在后端开发主流的还是 &lt;code&gt;Java&lt;/code&gt; ，但是我个人一点也不喜欢 &lt;code&gt;Java&lt;/code&gt; ，所以根本不考虑找 &lt;code&gt;Java&lt;/code&gt; 的工作。如果你和我一样，既不喜欢 &lt;code&gt;Java&lt;/code&gt; ，又不是很想写 &lt;code&gt;C/C++&lt;/code&gt; ，那我建议学下 &lt;code&gt;Golang&lt;/code&gt; ，目前也有一些互联网公司用这门语言进行后端开发。毕竟外号是 &lt;code&gt;21世纪的C++&lt;/code&gt; 。这里也算给后来的人提个醒吧，算是自己踩过的一个坑了。&lt;/p&gt;
+&lt;p&gt;因为自己不想找 &lt;code&gt;Java/C/C++&lt;/code&gt; 的工作，无形中又给自己找工作增加了一些难度，还好北京招 &lt;code&gt;Python&lt;/code&gt; 的公司有一些，这也是我为什么选择北京的一个原因。&lt;/p&gt;
+&lt;h3 id=&#34;薪资&#34;&gt;薪资&lt;/h3&gt;
+&lt;p&gt;我觉得其实薪资能养活自己就行，刚进职场，尽量以提升自己为主，薪资其实是次要的。8k 有 8k 的活法，30k 有 30k 的活法，没必要去攀比。前期个人提升的越多，后期薪资的增长其实很快的，所以刚毕业不用太担心薪资的问题。&lt;/p&gt;
+&lt;p&gt;自己既然选择北漂，就没有想过要顺风顺水的生活。该吃的苦还是要咬牙吃的。&lt;/p&gt;
+&lt;h3 id=&#34;职业规划&#34;&gt;职业规划&lt;/h3&gt;
+&lt;p&gt;写到这里的时候，不禁想起了大三上过的 &lt;code&gt;职业规划&lt;/code&gt; 课，然而却什么都想不起来了。&lt;/p&gt;
+&lt;p&gt;前阵子被毕业设计搞的异常烦躁，甚至有点不想写代码了。或许就是所谓的过犹不及吧。自己理想中最喜欢的状态大概是大二的时候为了开发个小游戏作为儿童节礼物，利用课余时间在短短 4-5 个小时之内就开发出来了。虽然只有很简单的 300 行 C语言代码，但是很有成就感。还有一次就是大三的程序设计周，自已一个人在两周不到的时间内从零开始用 &lt;code&gt;Pygame&lt;/code&gt; 独立开发了一个迷宫小游戏。&lt;/p&gt;
+&lt;p&gt;我一直觉得兴趣是最好的老师。有兴趣，做事情才有激情。强迫我做不喜欢的事反而会让我觉得反感。&lt;/p&gt;
+&lt;p&gt;我也不知道自己会写多少年代码，当多少年程序员。今天刚和一位工作一年的朋友聊了聊，提到刚工作的一两年当个缓冲期，好好思考下想要什么，规划一下。这点我非常赞同，确实需要好好规划，职场和学校差别还是很大的。希望能够早点摆脱学生思维，尽快成长起来。想做一个内心成熟的人。&lt;/p&gt;
+&lt;p&gt;推荐一篇自己觉得写的很棒的文章：&lt;a class=&#34;link&#34; href=&#34;http://losergogogo.com/article/1565256150386&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;说一说程序员的职业规划&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;为自己多留点后手&#34;&gt;为自己多留点后手&lt;/h3&gt;
+&lt;p&gt;正如之前提到的，我想在工作之余多发展一下自己的兴趣爱好，其实也是想看看这些兴趣爱好是否能成为自己的第二第三技能，提高自己的竞争力。&lt;/p&gt;
+&lt;h3 id=&#34;写在后面&#34;&gt;写在后面&lt;/h3&gt;
+&lt;p&gt;放下自己参加 2020 春招期间投的一些公司记录（部分）吧，也算是这两个多月来努力找工作的一个证明，还有一些投了没消息或者一些小公司的就不放了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-05-07_19-52-43.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;「往者不可谏，来者犹可追」，回见！&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>我选择直接工作，不读研</title>
+        <link>https://wonz.wang/%E6%88%91%E9%80%89%E6%8B%A9%E7%9B%B4%E6%8E%A5%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%AF%BB%E7%A0%94/</link>
+        <pubDate>Thu, 05 Mar 2020 22:35:16 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E6%88%91%E9%80%89%E6%8B%A9%E7%9B%B4%E6%8E%A5%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%AF%BB%E7%A0%94/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;黄色的树林里分出两条路 ,&lt;/p&gt;
+&lt;p&gt;我选择了人迹更少的一条，&lt;/p&gt;
+&lt;p&gt;从此决定了我一生的道路。&lt;/p&gt;
+&lt;p&gt;—罗伯特.弗罗斯特《未选择的路》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;写在前面&#34;&gt;写在前面&lt;/h3&gt;
+&lt;p&gt;重要的事情说三遍：&lt;/p&gt;
+&lt;p&gt;下面全是自己的个人主观想法。&lt;/p&gt;
+&lt;p&gt;下面全是自己的个人主观想法。&lt;/p&gt;
+&lt;p&gt;下面全是自己的个人主观想法。&lt;/p&gt;
+&lt;h3 id=&#34;关于考研&#34;&gt;关于考研&lt;/h3&gt;
+&lt;p&gt;前阵子 2020 考研出分，不出意料，凉了。出分前的很长一段时间一直在思考一个问题：自己当初选择读研到底为了什么。&lt;/p&gt;
+&lt;p&gt;经历过考研，我更加清楚地认识了自己。曾经问过自己很多次读研是为了什么。现在有了明确的答案。是的，主要就是想弥补一下高考的遗憾，没有去名校或许是我至今最大的遗憾。一千个读者心中有一千个哈姆雷特。全国那么多考研的人中，目的也不会一模一样。曾经的自己也是幻想过要认真搞科研，想写 paper 参加顶会发顶刊。但是真正了解过之后，发现那样的生活并不是我真正喜欢的。&lt;/p&gt;
+&lt;p&gt;诚然自己当初是因为喜欢 &lt;code&gt;人工智能&lt;/code&gt; 选择了转专业，因为我觉得这是未来的趋势。事实证明，确实如此。&lt;code&gt;机器学习&lt;/code&gt; 、&lt;code&gt;深度学习&lt;/code&gt; 、&lt;code&gt;强化学习&lt;/code&gt; ，无疑不是让人向往的领域。可是我读研的目的也只是为了研究生学历更有竞争力。&lt;/p&gt;
+&lt;p&gt;但是深入了解之后，我发现国内计算机领域的就业情况，大多数研究生毕业还是干 &lt;code&gt;开发&lt;/code&gt; ，真正能搞 &lt;code&gt;算法&lt;/code&gt; 的很少很少。一方面是岗位本来就少，另外一方面是基本只认国内顶尖的那几所名校的研究生以上学历。下面是 2019 年看到某位互联网行业大佬的见闻：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%e5%be%ae%e4%bf%a1%e5%9b%be%e7%89%87_20200305234250.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;再加上自己就算研究生读完找工作的话，也不会去找 &lt;code&gt;算法岗&lt;/code&gt; 的工作，因为自己对那方面其实不太感兴趣，更喜欢的是 &lt;code&gt;开发岗&lt;/code&gt; 。就像自己平时喜欢写代码和写文字一样，因为我觉得代码和文字可以让我创造属于自己的世界，那是一种热情。既然如此，那工作相关的和研究生读的基本没有什么关系了。所以，为什么不选择早点进入互联网行业打拼呢？&lt;/p&gt;
+&lt;p&gt;别的专业 or 行业我不清楚，在这里我只谈论我了解到的计算机领域。学历在大多数专业和领域都是很有用的，但是计算机专业是个例外。随着年龄的增长，我越来越觉得生命的短暂，花个 2-3 年时间就为了一个研究生学历，毕业后做和读研期间没多大联系的工作，我觉得自己实在不能接受。&lt;/p&gt;
+&lt;p&gt;还有很重要的一方面原因，我对自己大学四年最不满意的地方其实是自己的动手实践能力太差。诚然有一部分原因是缺了大学前两年的科班学习，但是还是觉得自己基础的不扎实。大三的几次程序设计周，我就清楚地感觉到自己一个人开发一个项目的能力真的很弱。我很担心，自己如果有幸读研的话，是不是还会变得和本科一样，只会理论，不会实践。如果还是那样的话，那我是万万不能接受的。&lt;/p&gt;
+&lt;p&gt;还想说一说国内的考研风气。一味地鼓吹考研和一味地鼓吹工作都不值得我持赞同的想法。一概而论是逻辑学里很明显的一个错误方法。但是国内这种考研风气实在让我不能接受。就像自己当初转来 CS 的时候，上课发现其实真正喜欢计算机的人没有我想象中那么多。再看看现在的考研大军，真正对科研有执念的又有多少呢。对于真正喜欢科研做实事而不是 paper 灌水的人，我是衷心敬佩的。因为那是我曾经的梦想。其实很多人只是把读研当作一个缓冲，因为还没做好进入社会的准备。相比社会的残酷，或许大学真的是个避风港吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%e5%be%ae%e4%bf%a1%e5%9b%be%e7%89%87_20200305231650.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;其他选择&#34;&gt;其他选择&lt;/h3&gt;
+&lt;p&gt;知道考研成绩后，其实我倒没多大难过。之前思考了这么多，早就明白自己想做什么了。我是第一时间就否定了 &lt;code&gt;二战&lt;/code&gt; 和 &lt;code&gt;调剂&lt;/code&gt; 的。&lt;code&gt;二战&lt;/code&gt; 代价太大，我自己不能接受，&lt;code&gt;调剂&lt;/code&gt; 也不考虑。那么当时的选择其实就很有限了，&lt;code&gt;出国&lt;/code&gt; 、&lt;code&gt;工作&lt;/code&gt; 、&lt;code&gt;考公务员&lt;/code&gt; 。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;考公务员&lt;/code&gt; 我也是第一时间否定掉的，自己不喜欢那样的工作。一眼就可以望到未来的人生不是我想要的。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;出国&lt;/code&gt; 倒是有这方面的想法，但是经过自己上面对读研的初衷的分析之后，也就否定掉了，因为我害怕自己所学不值得付出的 &lt;code&gt;时间成本&lt;/code&gt;。当然还有一部分原因来自经济上。&lt;/p&gt;
+&lt;p&gt;这里还有个小插曲。有个学长说愿意支付我出国的费用，工作以后还他就行。当时真的非常震惊，毕竟不是小数目，谢谢学长这么看得起我。对此我深感到由衷的感谢，但是我拒绝了。因为我觉得自己现在这种状态不适合读研。先去社会历练历练吧，以后想再回学校读书那是以后的事了。&lt;/p&gt;
+&lt;h3 id=&#34;关于工作&#34;&gt;关于工作&lt;/h3&gt;
+&lt;p&gt;我发现，其实环境对一个人的影响真的挺大的。&lt;/p&gt;
+&lt;p&gt;自己一直都比较喜欢和比自己成熟（不是指年龄，可以理解为经历更加丰富）的人接触，因为和他们相处，总能学到自己平时学不到的东西。换句话说，就是上大学时，自己所处的圈子有限，差不多都是身边的同学。但是意外接触到一些已经在工作和读研读博的人，偶尔和他们聊聊，或者看看平时的朋友圈动态，都会感觉圈子不一样格局也不一样。加上自己平时比较关注 &lt;code&gt;互联网&lt;/code&gt; 行业，所以其实自己心中早就更倾向于工作了，只是一直放不下心中的名校梦而已。&lt;/p&gt;
+&lt;p&gt;自己也发现，比起学校学的书本知识，我更喜欢学校里学不到的知识。比如产品，比如运营，比如理财。这些我都有所涉猎，我并不是个满足于现状的人，我很喜欢吸收新知识。虽然自己本职工作是个写代码的。&lt;/p&gt;
+&lt;h3 id=&#34;谈谈热爱这个词&#34;&gt;谈谈热爱这个词&lt;/h3&gt;
+&lt;p&gt;之前很迷茫的时候，在网上发过疑问。很庆幸的是，收到了其中一位网友的回复。言辞虽然犀利了一点，但是真的对我触动很大。是啊，自己当成选择转专业不就是因为喜欢计算机吗，那还那么焦虑犹犹豫豫做不出选择干什么，想不通就先去社会上历练历练吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%e5%be%ae%e4%bf%a1%e5%9b%be%e7%89%87_20200305231706.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;认识一个朋友，在拿到保研 Offer 之后，本科快毕业时去了一趟深圳，回来就自己决定不读研了，选择了直接工作。工作之后也有几次提高学历的机会，甚至有一次语言都考过了，突然就不想留学了。之前也看到朋友感慨，自己是家中学历最低的，但是并没有觉得难过，相反自己觉得很喜欢这种生活。是啊，真正知道自己想要什么的人，真的很值得我尊敬。&lt;/p&gt;
+&lt;h3 id=&#34;其他&#34;&gt;其他&lt;/h3&gt;
+&lt;p&gt;自己今天发了个朋友圈，算是最近的有感而发吧。&lt;/p&gt;
+&lt;p&gt;前几天在网上看到一句个人很欣赏的话：「人类很恐惧沉没成本，因为你做什么都无法改变它，干脆就合理化它。所以我们犯的一错再错的case太多了。」&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%e5%be%ae%e4%bf%a1%e5%9b%be%e7%89%87_20200305231659.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;面对做出选择的时候，人们最终的选择很多时候不是因为喜欢这个选择，而且因为并不喜欢其他选择。人们害怕失去，害怕改变，所以会选择逃避自己不想面对的事情。这其实是人之常情，安于现状其实是很多人的共性，但是很多成功的案例都是打破常规做出改变的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%e5%be%ae%e4%bf%a1%e5%9b%be%e7%89%87_20200305231703.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;写在最后&#34;&gt;写在最后&lt;/h3&gt;
+&lt;p&gt;也许半年后，又或者若干年后，自己会后悔现在做出的决定。但至少对于现在的自己来说，这个选择已经是当下自己能认可的最优解了不是吗？&lt;/p&gt;
+&lt;p&gt;人们总要在不断否定自己的过程中慢慢成长。&lt;/p&gt;
+&lt;p&gt;谁能保证自己做的一直都是对的呢？&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>黄色的树林里分出两条路，我选择了人迹更少的一条，从此决定了我一生的道路</title>
+        <link>https://wonz.wang/%E9%BB%84%E8%89%B2%E7%9A%84%E6%A0%91%E6%9E%97%E9%87%8C%E5%88%86%E5%87%BA%E4%B8%A4%E6%9D%A1%E8%B7%AF%E6%88%91%E9%80%89%E6%8B%A9%E4%BA%86%E4%BA%BA%E8%BF%B9%E6%9B%B4%E5%B0%91%E7%9A%84%E4%B8%80%E6%9D%A1%E4%BB%8E%E6%AD%A4%E5%86%B3%E5%AE%9A%E4%BA%86%E6%88%91%E4%B8%80%E7%94%9F%E7%9A%84%E9%81%93%E8%B7%AF/</link>
+        <pubDate>Wed, 19 Feb 2020 21:29:46 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E9%BB%84%E8%89%B2%E7%9A%84%E6%A0%91%E6%9E%97%E9%87%8C%E5%88%86%E5%87%BA%E4%B8%A4%E6%9D%A1%E8%B7%AF%E6%88%91%E9%80%89%E6%8B%A9%E4%BA%86%E4%BA%BA%E8%BF%B9%E6%9B%B4%E5%B0%91%E7%9A%84%E4%B8%80%E6%9D%A1%E4%BB%8E%E6%AD%A4%E5%86%B3%E5%AE%9A%E4%BA%86%E6%88%91%E4%B8%80%E7%94%9F%E7%9A%84%E9%81%93%E8%B7%AF/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;写在 2020 考研初试成绩出分前&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;写在前面&#34;&gt;写在前面&lt;/h3&gt;
+&lt;p&gt;最近除了等 2020 考研初试成绩，更多的是思考人生。&lt;/p&gt;
+&lt;h3 id=&#34;关于考研&#34;&gt;关于考研&lt;/h3&gt;
+&lt;p&gt;其实之前也说过自己考研的初衷，更多的是觉得自己高考考得不好吧。大三蹭了一学期的南大机器学习导论课，就更加想要去南大读研了。&lt;/p&gt;
+&lt;p&gt;最近又深刻地想了这个问题。诚然，读研是我一直向往的。但是我内心其实并不想走科研这条路，自己还是比较倾向去互联网公司工作的。所以读研对我来说更多的是再学习一些新知识，也好为进入社会缓冲一下并且增加点筹码。&lt;/p&gt;
+&lt;p&gt;其实自己本科一直没有找到所谓的平衡。一方面是自己学习方法和效率上有问题，另一方面自己也不太擅长调节。我自己是很喜欢学习新知识的，但是又不想成为只会学习的机器，这点是我极力反感的。其实我也很担心自己真正成为研究生之后，是否又会变成本科阶段的样子，找不到平衡。&lt;/p&gt;
+&lt;h3 id=&#34;关于工作&#34;&gt;关于工作&lt;/h3&gt;
+&lt;p&gt;在对未来迷茫的时候，其实早点进入社会是个很不错的选择。只有经历了社会的历练，才会感受到原来学生时代是多么的美好。&lt;/p&gt;
+&lt;p&gt;一方面，自己想早点进入社会锻炼自己的实践能力。因为我知道自己本科阶段的学习最大的劣势是实践能力弱，自己写代码水平不高，项目经验也没多少。&lt;/p&gt;
+&lt;p&gt;另一方面，也许经历过社会的残酷，才会让我更加珍惜现在的生活吧。事实上现在已经感受到了。最近已经在看找工作的信息了，某些 JD(Job Description) 上明确表示需要 985/211 本科生，有些岗位像机器学习/深度学习更是硕士生起步。学历真的是一道门槛，虽说有实力学历真的不是问题。但是对于大多数人，学历就是一个问题，而且是大问题。网传“985的面试和双非的面试，一个是普通级，一个是炼狱级”，我觉得有点在理。&lt;/p&gt;
+&lt;p&gt;最近在刷 &lt;code&gt;LeetCode&lt;/code&gt; ，发现刷算法还是会给我带来快乐，就和本科参加 ACM 一样。虽然很菜，但是乐在其中。&lt;/p&gt;
+&lt;p&gt;最近也在看面经，发现考研复习的那些专业课，又要从头再来。&lt;/p&gt;
+&lt;p&gt;没办法，欠下的总要还的。&lt;/p&gt;
+&lt;h3 id=&#34;关于未来&#34;&gt;关于未来&lt;/h3&gt;
+&lt;p&gt;《解忧杂货店》中说过这么一句话：很多时候，咨询的人心里已经有了答案，来咨询只是想确认自己的决定是对的。&lt;/p&gt;
+&lt;p&gt;是的，确实如此。总体来说，我自己已经有了规划，比起盲目地去读研，其实当前的自己更倾向于工作。早点感受社会的残酷或许会让我更快地成长起来吧。不过最近工作也不好找，一方面是春招，本来岗位就少，另一方面是自己没有实习经历，项目经历也一般般，简历上或许不太好看，加上时间也确实很紧张，复习有点来不及，要看的感觉比考研还要多。&lt;/p&gt;
+&lt;p&gt;如果有幸能够研究生上岸，或许我会尽可能多出去实习，为研究生毕业积累经验。真的不想再成为空有书本知识，动手能力为零的人了。&lt;/p&gt;
+&lt;h3 id=&#34;写在后面&#34;&gt;写在后面&lt;/h3&gt;
+&lt;p&gt;祝好。&lt;/p&gt;
+&lt;p&gt;2020.02.19&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

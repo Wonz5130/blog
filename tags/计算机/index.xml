@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>计算机 on Wonz</title>
+        <link>https://wonz.wang/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/</link>
+        <description>Recent content in 计算机 on Wonz</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 18 Aug 2021 22:29:38 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我的 2021 社招 9 个月工作经验面经</title>
+        <link>https://wonz.wang/%E6%88%91%E7%9A%84-2021-%E7%A4%BE%E6%8B%9B-9-%E4%B8%AA%E6%9C%88%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E9%9D%A2%E7%BB%8F/</link>
+        <pubDate>Wed, 18 Aug 2021 22:29:38 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E6%88%91%E7%9A%84-2021-%E7%A4%BE%E6%8B%9B-9-%E4%B8%AA%E6%9C%88%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E9%9D%A2%E7%BB%8F/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;肚子好饿，早知道当初多刷点 LeetCode 了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/243A4A5F-E98A-4458-8AE5-337B067AB524_1_105_c.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;243A4A5F-E98A-4458-8AE5-337B067AB524_1_105_c&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;写在前面&#34;&gt;写在前面&lt;/h2&gt;
+&lt;p&gt;前文&lt;a class=&#34;link&#34; href=&#34;https://wonz.wang/2021/07/21/344-Resign/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;我，离职了&lt;/a&gt;提到会出一篇面经，于是抽空整理了下之前的面试经历。&lt;/p&gt;
+&lt;p&gt;简单科普一下：程序员面试一般都至少 2-3 轮技术面，后面还有 HR 面等。技术面分为计算机基础 + 项目经历 + 算法，一般都需要现场写代码。社招的话，按照常理，比起计算机基础，应该更看重项目经历。但是我面试了很多家，其中也有问计算机基础的，只能说都要准备吧。其实我一直不太喜欢背书，计算机基础（也叫&lt;strong&gt;八股文&lt;/strong&gt;）又是同行面试必问的共识，这就导致我准备面试期间，还是挺痛苦的。虽然经常背，但是有些知识因为没有实际项目经历的支撑，很难找到共鸣，所以理解也就很浅。&lt;/p&gt;
+&lt;p&gt;至于算法，虽然我本科阶段就一直对这方面感兴趣，也参加了一些算法竞赛，虽然成绩一般，但好在兴趣还在。春招的时候，也刷了不少题，但发现性价比并不高。于是这次我换了种思路，这次就只刷&lt;strong&gt;剑指Offer&lt;/strong&gt;。因为 &lt;strong&gt;三百道题刷一遍的效果远没有一百道题刷三遍的效果好&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我差不多是五一假期结束后，正式开始投简历的。李安说过：“&lt;strong&gt;人生不能像做菜，把所有的料都准备好了才下锅&lt;/strong&gt;。”我选择的方式是通过面试来激励自己准备面试。刚开始面的几家成绩惨不忍睹，信心一度被打击，算法、项目经历、计算机基础都不合格。好在自己查缺补漏，每面一家就及时做面经整理。&lt;/p&gt;
+&lt;p&gt;因为涉及到一些隐私，所以我隐去了公司的名字与面试轮次，暂且以 A、B、C 等公司称呼，且一二三轮面试等问题会记录在一起，不单独写了。另外，自己在前司做过的相关项目也已经做了模糊处理，不会涉及到泄密。&lt;/p&gt;
+&lt;h2 id=&#34;a-公司&#34;&gt;A 公司&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;自我介绍 + 项目&lt;/li&gt;
+&lt;li&gt;XXX 项目是前后端分离的吗？&lt;/li&gt;
+&lt;li&gt;TCP 和 UDP 区别&lt;/li&gt;
+&lt;li&gt;TCP 怎么保证传输可靠？&lt;/li&gt;
+&lt;li&gt;HTTP 和 HTTPS 区别&lt;/li&gt;
+&lt;li&gt;HTTPS 的 SSL/TLS 机制&lt;/li&gt;
+&lt;li&gt;GET 和 POST 区别，有了解其他 RESTful 比如 PUT 吗？&lt;/li&gt;
+&lt;li&gt;MySQL 索引 B+ 树&lt;/li&gt;
+&lt;li&gt;B 树和 B+ 树区别&lt;/li&gt;
+&lt;li&gt;MySQL 最大索引长度&lt;/li&gt;
+&lt;li&gt;MySQL 引擎 InnoDB&lt;/li&gt;
+&lt;li&gt;缓存有了解吗？&lt;/li&gt;
+&lt;li&gt;Django 请求链路流程&lt;/li&gt;
+&lt;li&gt;Django 的 setting 里的中间件 middleware&lt;/li&gt;
+&lt;li&gt;Git 版本控制&lt;/li&gt;
+&lt;li&gt;Docker 有使用过吗？&lt;/li&gt;
+&lt;li&gt;自我评价九个月工作经验，以及未来规划&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;b-公司&#34;&gt;B 公司&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;自我介绍&lt;/li&gt;
+&lt;li&gt;详细说说在前司参与 XXX 项目开发做了哪些工作？&lt;/li&gt;
+&lt;li&gt;XXX 算法有了解实现原理吗？&lt;/li&gt;
+&lt;li&gt;Django 和 Flask 区别&lt;/li&gt;
+&lt;li&gt;Django 请求生命周期&lt;/li&gt;
+&lt;li&gt;CSRF 机制&lt;/li&gt;
+&lt;li&gt;有了解其他数据库吗？&lt;/li&gt;
+&lt;li&gt;redis 缓存数据库&lt;/li&gt;
+&lt;li&gt;算法题：求最大子序列和&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;c-公司&#34;&gt;C 公司&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;自我介绍 + 项目&lt;/li&gt;
+&lt;li&gt;使用过 Linux 吗？&lt;/li&gt;
+&lt;li&gt;算法题一：匹配括号&lt;/li&gt;
+&lt;li&gt;算法题二：两两交换链表元素&lt;/li&gt;
+&lt;li&gt;为什么要离职？&lt;/li&gt;
+&lt;li&gt;在这家公司学到了什么？&lt;/li&gt;
+&lt;li&gt;平时业余时间如何提升技术？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;d-公司&#34;&gt;D 公司&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;自我介绍 + 项目&lt;/li&gt;
+&lt;li&gt;询问前司项目相关&lt;/li&gt;
+&lt;li&gt;XXX 算法知道原理吗？&lt;/li&gt;
+&lt;li&gt;Python 数据类型&lt;/li&gt;
+&lt;li&gt;Python 多进程、多线程&lt;/li&gt;
+&lt;li&gt;Python 内置函数&lt;/li&gt;
+&lt;li&gt;Python 深拷贝和浅拷贝&lt;/li&gt;
+&lt;li&gt;设计模式有了解吗？单例模式、装饰器模式和迭代器模式&lt;/li&gt;
+&lt;li&gt;算法题：实现深拷贝函数，int 型和 dictionary 型&lt;/li&gt;
+&lt;li&gt;写博客最大收获是什么？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;e-公司&#34;&gt;E 公司&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prometheus 怎么实现监控指标的，可以举一个例子吗？比如每秒吞吐量&lt;/li&gt;
+&lt;li&gt;怎么理解每秒吞吐量，讲讲自己的理解&lt;/li&gt;
+&lt;li&gt;如何保证吞吐量数据一致性？加锁&lt;/li&gt;
+&lt;li&gt;还有什么用到了加锁？&lt;/li&gt;
+&lt;li&gt;Git 项目流程&lt;/li&gt;
+&lt;li&gt;详细讲讲前司的 XXX 项目&lt;/li&gt;
+&lt;li&gt;XXX 算法了解原理吗？&lt;/li&gt;
+&lt;li&gt;XXX 算法里提到的 bytes 类型是 Django 的，对应到 MySQL 数据库是什么类型？&lt;/li&gt;
+&lt;li&gt;非关系型数据库有了解吗？&lt;/li&gt;
+&lt;li&gt;为什么要替换 Pandas 库？&lt;/li&gt;
+&lt;li&gt;XXX 项目里讲一个自己印象比较深的模块&lt;/li&gt;
+&lt;li&gt;如何保证不同表的数量一致：事务一致性&lt;/li&gt;
+&lt;li&gt;为什么写博客？有什么收获？&lt;/li&gt;
+&lt;li&gt;讲讲印象最深的一个技术点&lt;/li&gt;
+&lt;li&gt;查询 5K 条数据，如何保证使用 filter() 进行查询？&lt;/li&gt;
+&lt;li&gt;设计题：查询数据，如何设计 API，前端传什么参数，后端如何实现分页？&lt;/li&gt;
+&lt;li&gt;算法题：作家信息去国籍，匹配括号（使用栈，不用额外空间）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;f-公司&#34;&gt;F 公司&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;为什么要替换 Pandas 库？&lt;/li&gt;
+&lt;li&gt;对称加密算法和非对称加密算法有哪些？&lt;/li&gt;
+&lt;li&gt;RSA 应用场景：SSH 公私钥&lt;/li&gt;
+&lt;li&gt;SSH 有了解吗？&lt;/li&gt;
+&lt;li&gt;内存管理有了解吗？&lt;/li&gt;
+&lt;li&gt;Python 有 GIL 机制，为什么还要多线程？&lt;/li&gt;
+&lt;li&gt;线程和协程区别&lt;/li&gt;
+&lt;li&gt;项目为什么选择 Django 框架，不用 Flask 这些？&lt;/li&gt;
+&lt;li&gt;在 Linux 环境下执行一个进程，需要用到 C 语言的什么库？&lt;/li&gt;
+&lt;li&gt;有研究过什么技术吗？&lt;/li&gt;
+&lt;li&gt;看过 Django 源码吗？&lt;/li&gt;
+&lt;li&gt;算法题：IPv4 字符串转 32 bit 无符号整数（位运算）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;g-公司&#34;&gt;G 公司&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;介绍一下 XXX 项目&lt;/li&gt;
+&lt;li&gt;XXX 项目分工&lt;/li&gt;
+&lt;li&gt;Django 如何操作数据库的？&lt;/li&gt;
+&lt;li&gt;怎么查询数据库：filter() 会如何调用？&lt;/li&gt;
+&lt;li&gt;算法题：硬币找零，n 元纸币，有若干 a0 - am 硬币，有多少种组合？&lt;/li&gt;
+&lt;li&gt;DFS 和 BFS 讲讲，还有时间复杂度？&lt;/li&gt;
+&lt;li&gt;二分查找的时间复杂度：log2n&lt;/li&gt;
+&lt;li&gt;归并排序的时间复杂度：nlogn&lt;/li&gt;
+&lt;li&gt;最快的排序算法的时间复杂度：nlogn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;h-公司&#34;&gt;H 公司&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python 基础（具体忘了）&lt;/li&gt;
+&lt;li&gt;算法题一：最大连续子数组（动态规划）&lt;/li&gt;
+&lt;li&gt;算法题二：数组前 k 小的数（快排）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;写在后面&#34;&gt;写在后面&lt;/h2&gt;
+&lt;p&gt;前前后后参加了八个公司的面试，有小厂有大厂，当然还有很多公司连简历都没过（比如找了小米的朋友内推，说社招不招一年工作经验的）。&lt;/p&gt;
+&lt;p&gt;面试基本都是约的线上，唯一一家去线下参加面试的公司是&lt;strong&gt;爱奇艺&lt;/strong&gt;。这场也是我至今面试体验非常差的一场。很大程度上是因为自己准备不够充分，但是同时我也感觉到了面试官的不专业性（手撕代码遇到卡壳，面试官并没有引导完善代码，而且全程感受到了面试官对面试者的轻蔑，上一家有这种体验的还是&lt;strong&gt;字节跳动&lt;/strong&gt;，因此我对这两家公司印象很不好）。&lt;/p&gt;
+&lt;p&gt;下面的照片是我面完&lt;strong&gt;爱奇艺&lt;/strong&gt;走出爱奇艺大厦随手拍了一张，算是纪念吧。中关村，我还会再来的，下次就不允许再失败了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/3665CD95-ED0A-4903-811C-F4943B68E8BD_1_105_c.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;当然面试的过程远不止简单的这几句话，就不详细展开了，反正整个五月和六月上旬我都过得非常焦虑。焦虑的原因更多是自己菜，因为技术菜，才更加想换个平台努力提升自己。&lt;/p&gt;
+&lt;p&gt;准备期间，有时面试安排在中午和晚上，我得赶公交车回去视频面试，饭来不及吃挺正常的。回头再想，也算是一种回忆了。&lt;/p&gt;
+&lt;p&gt;好在最后也有了满意的 offer，现在新公司都很满意，算是还不错的结果吧。&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>一篇想了很久的推送</title>
+        <link>https://wonz.wang/%E4%B8%80%E7%AF%87%E6%83%B3%E4%BA%86%E5%BE%88%E4%B9%85%E7%9A%84%E6%8E%A8%E9%80%81/</link>
+        <pubDate>Sat, 30 Mar 2019 21:08:19 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E4%B8%80%E7%AF%87%E6%83%B3%E4%BA%86%E5%BE%88%E4%B9%85%E7%9A%84%E6%8E%A8%E9%80%81/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;你的征途是星辰大海&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;当初一起转专业来计算机学院的一个同学，最近竟然和我说不想读计算机的研究生。这让我感到很诧异，当初转专业确实感受到了这位同学对计算机的热爱。但是，最后做出这个决定确实让我没有想到。不过他说的有一点很有道理，“竞赛算法和工程算法”区别是很大的。也许是被 bug 折腾得失去了当初的热爱，也许是看到了计算机这条路过于火爆，对未来充满了担忧。我不去猜测他人的想法，但是我却想到了其他一些事情。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;就像上面那位同学一样，想起以前认识的一位巨佬，几个月前也发出了 &lt;code&gt;“码生无望”&lt;/code&gt; 的感叹。这位巨佬一直是我在计算机这条路前进的动力，当初踏入算法这条路多亏了她的帮助，在此表示深深的感谢。我不知道，到底是什么造成了陆陆续续的计算机专业的人选择了转行。我也不知道自己能在计算机这条路走多远。但是我知道，起码现在我还热爱计算机。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;稍微关注 &lt;code&gt;计算机考研&lt;/code&gt; 的人都知道，2019 年计算机考研大热，那些跨考的、在职考研的，占据了很大一部分比例。是否，计算机真的那么吸引人？是的！比起其他行业，计算机行业的薪资确实高很多。但是带来的弊端也很明显，那就是累！最近 GitHub 上一个 &lt;code&gt;996.ICU&lt;/code&gt; 项目很火，列举了当前社会上一些实行 &lt;code&gt;996&lt;/code&gt; 工作制的公司（即早上 9 点上班，晚上 9 点下班，一周工作 6 天）太多人只看到了计算机光鲜的外表，却不曾发现那些不为人知的辛苦的暗。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;昨天，被身边一位同学冷嘲热讽怼得好难过。放张截图你们自己感受一下。&lt;/p&gt;
+&lt;p&gt;真的烦，不止说一遍。我知道自己菜，每次身边有人叫我 &lt;code&gt;大佬&lt;/code&gt; ，叫我 &lt;code&gt;舟神&lt;/code&gt; ，我都会很惶恐，因为我知道，他们看到的其实都是假象。想起自己原来在管理学院，看到爱学习的同学真的不多，优秀的人也不多。但是 &lt;code&gt;15级&lt;/code&gt; 还是有一些学长学姐，是真的很优秀的，我也一直以他们为前进的动力。来到仙林之后，才知道原来自己就是一只 &lt;code&gt;井底之蛙&lt;/code&gt; ，有绩点大佬，那种理工科 GPA4.2+ 的大佬不少，虽然有一些是只会学习（我一直不希望自己成为这样的人）但是别人只学习还是值得让人尊敬的；有竞赛大佬，虽然有些绩点不高甚至挂科，但是我依然觉得他们是我值得尊敬的人，那种一心投入竞赛的心情我是可以理解的，那是真的热爱，比如 ACM 校队大佬；还有学习竞赛齐头并进的大佬，这种是真的强，我认识的就有好几个，强哥就是其一，也是我一直仰望的存在，但是和他交流真的一点压力都没有。&lt;/p&gt;
+&lt;p&gt;这还只是仙林校区，最近自己的圈子也扩大了一些，认识了一些 985 名校的学长学姐甚至同学学弟学妹，给我感受只有：我好菜啊。那么菜，还不赶紧努力？？？&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;5
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;6
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;7
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;我接受身边人说我菜  说我垃圾  因为这是事实
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;但是不能否定我想考 985 研究生的决心
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;我从来都是对自己要求很高的人
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;经过近三年的认知
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;我深知平台的重要性
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;总之我就是想去 985 读研究生
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;高考是这样
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;大二确定了目标院校至今一直没改变  仍然是这样
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;5&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最近接连收到学长学姐考上研究生的好消息。两位直系学长双双考上了 985 计算机的研究生，而且成绩还都很高。真心替他们感到高兴，所有的努力都是值得的。希望明年的自己，也能像他们一样，以好消息收尾。&lt;/p&gt;
+&lt;p&gt;的确，有时选择比努力更重要。我深知这个道理。但是如果不敢于尝试，那谈什么未来？你可以说我头铁，当你什么时候心中有梦校之后，就是那种拼了命也想去的地方时，自然就会懂这种感觉了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不过，最近两位同学也给自己敲响了警钟，既然选择考 985 研究生，那么该付出的努力自然要比一般人要多得多。确实该一心一意专心考研了。博客、GitHub、比赛该停停了。在此之前大概有两三位同学找我做数模比赛，我都推掉了。今天也正式把 GitHub 状态改成了 &lt;code&gt;CS-kaoyan&lt;/code&gt; ，谨以此纪念陪伴了我i一年多的 GitHub 。&lt;/p&gt;
+&lt;p&gt;虽然考研归考研，但是我并不想自己生活中只有考研，所以该跑的步还是会去跑，偶尔也会看部电影放松一下，偶尔也会写篇推送记记杂七杂八的事情。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;7&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天是学校毕业信息采集的日子，要拍照片。借了同学的白衬衫，才意识到原来时间过得这么快。是该抽个时间回三牌楼看看 15 级的学长学姐们了，再不约就很难有机会了。想他们。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;8&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;排队拍照的时候刷到了曹君的新推送。真是越来越喜欢曹君的文字，原来理科生的文字也能这么让人喜欢，第一次看就喜欢上了。那种随性的感觉真好，是我羡慕的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;9&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;抓住三月的尾巴
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;想说一声
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;今天也要加油鸭
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;你的征途是星辰大海
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>写给计算机学院的同学们</title>
+        <link>https://wonz.wang/%E5%86%99%E7%BB%99%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</link>
+        <pubDate>Thu, 31 Jan 2019 12:33:40 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E5%86%99%E7%BB%99%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;半年前，我写过一篇微信推送，给想走计算机这条路的学弟学妹们一些自己的建议。&lt;/p&gt;
+&lt;p&gt;半年后，真正在计算机学院待了一学期之后，我对计算机的认知又有了新的看法。&lt;/p&gt;
+&lt;p&gt;于是，想重新写一篇博客，想尽我所能地让学弟学妹们少走点歪路吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/250-1.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;to-students-at-school-of-computer-science&#34;&gt;To students at School of Computer Science:&lt;/h2&gt;
+&lt;h3 id=&#34;目录&#34;&gt;目录&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;写在前面&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;正文开始&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大一、大二&lt;/li&gt;
+&lt;li&gt;大三&lt;/li&gt;
+&lt;li&gt;学习&lt;/li&gt;
+&lt;li&gt;竞赛&lt;/li&gt;
+&lt;li&gt;科研&lt;/li&gt;
+&lt;li&gt;出国&lt;/li&gt;
+&lt;li&gt;考研&lt;/li&gt;
+&lt;li&gt;考证&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;补坑&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;致谢&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;写在前面&#34;&gt;写在前面&lt;/h3&gt;
+&lt;p&gt;提笔，思绪就回到了一年半前。想起了自己大学进来之后一路摸索，兜兜转转，花了一年的时间终于找到了自己真正喜欢的东西，那就是计算机！&lt;/p&gt;
+&lt;p&gt;本着一心给学弟学妹贡献干货的初衷，只想学弟学妹能够少走点歪路，变得越来越优秀，肯定要超过我啊。&lt;/p&gt;
+&lt;p&gt;本博客只是根据自己的个人经验，以及学长学姐们给我的建议，自己写的一些小指导。&lt;/p&gt;
+&lt;p&gt;**记住：**计算机不等于编程，计算机 &amp;raquo; 编程。路是自己走的，适合自己的才是最好的。&lt;/p&gt;
+&lt;p&gt;**注意：**有些坑，我可以告诉你们，但是有些坑还是要自己亲自去踩一遍的，至于原因嘛，卖个关子。&lt;/p&gt;
+&lt;h3 id=&#34;正文开始&#34;&gt;正文开始&lt;/h3&gt;
+&lt;p&gt;三条主线，会有交叉。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;**时间线：**大一、大二、大三、大四&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;**方向线：**学习、竞赛、科研&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;**规划线：**国内读研、工作、出国&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;大一大二&#34;&gt;大一、大二&lt;/h5&gt;
+&lt;p&gt;学习的重要性就不说了，&lt;code&gt;GPA&lt;/code&gt; 真的是个好东西，有个保研的学长告诉我，本科阶段，刷 &lt;code&gt;GPA&lt;/code&gt; 比竞赛拿奖容易太多了。事实上，我觉得也是这样。&lt;/p&gt;
+&lt;p&gt;大一大二还是可以参加点比赛的，不过小川同学的建议是，竞赛贵在精，不在多。含金量高的竞赛就那么几个，&lt;code&gt;数模&lt;/code&gt; 、&lt;code&gt;ACM&lt;/code&gt; 、&lt;code&gt;电赛&lt;/code&gt; 、&lt;code&gt;挑战杯&lt;/code&gt; 等等，其他一些比赛，站在功利点的角度，其实真的没什么意义，你和外校的同学竞争的时候，提起一些校内甚至院内的比赛，他们可能听都没听过。但是，你一说，&lt;code&gt;数模&lt;/code&gt; 啊，&lt;code&gt;ACM&lt;/code&gt; 啊，他们就知道了。&lt;code&gt;数模&lt;/code&gt; 可以参加，但是我觉得 &lt;code&gt;ACM&lt;/code&gt; 其实更偏向于读计算机专业的学生参加。&lt;code&gt;算法&lt;/code&gt; 和 &lt;code&gt;数据结构&lt;/code&gt; ，不管是找工作，还是考研复试上机，都是要考的。但是，&lt;code&gt;ACM&lt;/code&gt; 是很累的，非常非常累！没有寒暑假，还会占据平时的放松时间，毕竟每周都要训练几十小时，这可不是开玩笑的。但是我可以郑重地告诉你，坚持下来，肯定收获很大，不说能不能拿个奖牌，单说 &lt;code&gt;算法&lt;/code&gt; 这方面，就可以碾压很多人了。&lt;/p&gt;
+&lt;p&gt;另外，如果你接触了 &lt;code&gt;ACM&lt;/code&gt; 之后，发现没有很大的兴趣，也没事。你可以选择 &lt;code&gt;做项目&lt;/code&gt; ，有个学长就是在 &lt;code&gt;ACM 校队&lt;/code&gt; 呆了之后，发现自己对做项目更有兴趣，于是转了方向，后来在 &lt;code&gt;微软&lt;/code&gt; 、&lt;code&gt;阿里云&lt;/code&gt; 都实习过。这里就要提到&lt;code&gt;STITP&lt;/code&gt; 了，虽说有些学长说，国家级的才有点含金量，省级的有些都没什么用，更别说校级了。这里，我想说的是，别那么功利性，项目做出来，收获肯定有的。导师方面也要多咨询，有些老师，就算是校级的项目，都能出三四个专利。我的 &lt;code&gt;STITP&lt;/code&gt; 只有校级重点的评级，但是我一点都不难过，当时放弃 &lt;code&gt;数模&lt;/code&gt; ，选择 &lt;code&gt;做大创&lt;/code&gt; ，就想好了，不管什么评级，都要好好做。算是为自己增加一个项目经验。毕竟，学计算机的，大学四年，连个项目都没做出来过，说出来真的会被人笑话。我也想 &lt;code&gt;GitHub&lt;/code&gt; 上多捞点 &lt;code&gt;Star&lt;/code&gt; 啊！&lt;/p&gt;
+&lt;h5 id=&#34;大三&#34;&gt;大三&lt;/h5&gt;
+&lt;p&gt;准备就业的话，大三就要开始 &lt;code&gt;找实习&lt;/code&gt; 了。暑假期间肯定要申请到一份实习，有实习能大大降低简历被刷的概率。一般计算机秋招在暑假刚结束的 8 月末 9 月初开始。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实习面试内容：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;算法 + 数据结构 + 数据库 + 计算机网络 + 操作系统 + 项目经历 + 对应岗位技术需求&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实习必备：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;牛客网 (用过的都知道好，去了阿里的学长的实习内推就是从这里投的)&lt;/p&gt;
+&lt;p&gt;LeetCode&lt;/p&gt;
+&lt;p&gt;实习僧 (不那么大的公司)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实习准备书：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《剑指 Offer》《编程之美》&lt;/p&gt;
+&lt;h5 id=&#34;学习&#34;&gt;学习&lt;/h5&gt;
+&lt;p&gt;前面也说了 &lt;code&gt;GPA&lt;/code&gt; 很重要。但是我这里想说的是，大学只学习真的是不够的。可能，你能刷到 4.5+ 的恐怖 &lt;code&gt;GPA&lt;/code&gt;，但是是否真的掌握了呢。不过一般 GPA 到了这种地步的，估计老师没讲过的他自己也课后理解会了。但是你要是大学四年只学习，真的是万万不可取的。稍微了解了点就知道了，只学习的，在考研复试，或者保研面试，其实很容易暴露出问题。毕竟大学考试什么样子，大家心里也都清楚 (除了几所顶尖的)。分数考得高，并不代表你真的掌握了。&lt;/p&gt;
+&lt;p&gt;高中刷了三年的题目，最后发现还是不会考试。进入大学之后，我就下定决心，不想再做只学习的人。如果只学习，那和再读四年高中有什么区别。我想要的是真正学到实质性的知识。&lt;/p&gt;
+&lt;h5 id=&#34;竞赛&#34;&gt;竞赛&lt;/h5&gt;
+&lt;p&gt;除了上文提到的那几个含金量比较高的比赛，再推荐几个校外的企业比赛，感兴趣就去参加吧，不要怕。&lt;code&gt;阿里天池&lt;/code&gt; 、&lt;code&gt;腾讯广告算法大赛&lt;/code&gt; 等等，不过这些一般都要 &lt;code&gt;机器学习&lt;/code&gt; 、&lt;code&gt;深度学习&lt;/code&gt; 的基础，这些是研究生学的了，感兴趣就提前自学好了（我就是因为兴趣，所以自学了 &lt;code&gt;吴恩达老师&lt;/code&gt; 的深度学习课程，但是并没有学完。我认识的一个很厉害的学弟，大一就把 &lt;code&gt;吴恩达老师&lt;/code&gt; 的 ML 和 DL 课程学完了，现在去 &lt;code&gt;南大匡亚明学院&lt;/code&gt; 交换了，所以说啊，优秀的人，学校根本不是限制）。虽然本科生参加难度很大，但是说不定就能认识一些大佬呢。我混在 &lt;code&gt;腾讯广告算法大赛群&lt;/code&gt; ，就发现了一个比研究生还厉害的 &lt;code&gt;中山大学&lt;/code&gt; 本科生，ML、DL、NLP 都有涉猎而且都学得很好，真的强！&lt;/p&gt;
+&lt;p&gt;竞赛获奖固然辉煌，但是你也要想到那些获奖的人背后付出的努力。我邮 &lt;code&gt;ACM 校队&lt;/code&gt; 的那几个大佬，哪个不是投入了大量的精力和时间呢？2016 年校队队长 &lt;code&gt;CZY学长&lt;/code&gt; 、2017 年校队队长 &lt;code&gt;ZZX学长&lt;/code&gt; 、2018 年校队队长 &lt;code&gt;LYY同学&lt;/code&gt; 、还有最佳女队 &lt;code&gt;LYT学姐&lt;/code&gt;······稍微了解就知道他们付出的真的不是常人能想象的。但是坚持下来的真的都很厉害，有去 &lt;code&gt;Google&lt;/code&gt; 的，有保研去 &lt;code&gt;清华&lt;/code&gt; 的等等。&lt;/p&gt;
+&lt;h5 id=&#34;科研&#34;&gt;科研&lt;/h5&gt;
+&lt;p&gt;如果你对竞赛不是那么有兴趣，你可以试着接触点科研，联系个导师，跟着做个项目，说不定就有感觉了。本科阶段有老师带真的是好事！毕竟，读研期间就是做科研啊，大多数学校不发论文研究生不能毕业。&lt;/p&gt;
+&lt;h5 id=&#34;出国&#34;&gt;出国&lt;/h5&gt;
+&lt;p&gt;这方面我了解的不多。&lt;/p&gt;
+&lt;p&gt;但是有老师、学长都说，出国读研比国内读研好。&lt;/p&gt;
+&lt;h5 id=&#34;考研&#34;&gt;考研&lt;/h5&gt;
+&lt;p&gt;计算机专业那几门课大概考研都会考：&lt;code&gt;计网&lt;/code&gt; 、&lt;code&gt;计组&lt;/code&gt; 、&lt;code&gt;操作系统&lt;/code&gt; 、&lt;code&gt;数据结构&lt;/code&gt; 和 &lt;code&gt;算法&lt;/code&gt; 一定要好好学。&lt;code&gt;离散数学&lt;/code&gt; 有些学校复试会考。反正如果你不清楚的话，只要是培养方案里标注的专业课，你要花比其他课都多的时间去学，准没错！至少要花和高数一样多的时间吧。考研有人说太早准备不好，有人说半年不够，我其实也不知道准确的时间。但是我知道，复习后期 (也就是大四 9 月以后) 考验的不是智商，是坚持。那时候，看到同学拿到 offer 了，你可能会开始焦虑，顶住压力。&lt;/p&gt;
+&lt;h5 id=&#34;考证&#34;&gt;考证&lt;/h5&gt;
+&lt;p&gt;&lt;code&gt;全国 / 计算机等级考试&lt;/code&gt; 这个怎么说呢，含金量不高，但是大家都考你不考又感觉不舒服，就很难受。再推荐个计算机专业的考证。&lt;code&gt;浙大 PAT&lt;/code&gt; ，可以去了解一下，类似于 ACM，但是难度比 ACM 低，乙级 3 小时编程 5 道题，中文题目，甲级 3 小时编程 4 道题，全英文。顶级，不敢想，ACM 竞赛生玩的东西。这个含金量挺高的，也是一个学长告诉我的，有些学校考研复试上机成绩，可以直接拿 PAT 成绩替掉，有些实习面试的算法题，也可以直接拿 PAT 成绩替掉。&lt;/p&gt;
+&lt;p&gt;另外，信息安全专业有一个 &lt;code&gt;CISSP&lt;/code&gt; 的认证，很火爆。可以自己去了解一下，我知道的不多。&lt;/p&gt;
+&lt;h3 id=&#34;补坑&#34;&gt;补坑&lt;/h3&gt;
+&lt;p&gt;前面说到，有些坑还是要自己亲自去踩一遍的。这话其实，也是我大二第二学期的时候感受到的。发现真的很有道理。&lt;/p&gt;
+&lt;p&gt;就比如，现在大学计算机专业学的第一门编程语言几乎都是 &lt;code&gt;C 语言&lt;/code&gt; ，然后会接触 &lt;code&gt;C++&lt;/code&gt; ，&lt;code&gt;Java&lt;/code&gt; ，但是稍微了解就知道了，&lt;code&gt;Python&lt;/code&gt; 已经把他们三个都超了。据我所知，苏州大学已经把 &lt;code&gt;Python&lt;/code&gt; 作为大一计算机专业学的第一门编程语言了。我也是经一个哥哥指点，自学 &lt;code&gt;Python&lt;/code&gt; ，然后发现，真的好用！当时就想，为什么要学这么麻烦的 &lt;code&gt;C 语言&lt;/code&gt; 呢。前阵子我知道了，当然要学，你可以以后不用它，但是面向过程和面向对象的思想你还是要了解的。现在 &lt;code&gt;Python&lt;/code&gt; 很火，但是谁能说，它不会没落？最近不是 &lt;code&gt;Julia&lt;/code&gt; 语言也开始兴起了吗。&lt;/p&gt;
+&lt;p&gt;当时大二上学期想转专业的时候，还只停在单纯地喜欢 &lt;code&gt;Python&lt;/code&gt; 的层面，但是有个转专业的学长告诉我，光学 &lt;code&gt;Python&lt;/code&gt; 是不够的，当时我不懂什么意思。大二下学期，我知道了！因为当时开了 &lt;code&gt;《微型计算机原理与接口技术》&lt;/code&gt; 这门课，要写 &lt;code&gt;汇编语言&lt;/code&gt; 程序。这个简直是比 &lt;code&gt;C 语言&lt;/code&gt; 还繁琐的语言，很低级。但是我接触了之后，发现并没有想象中那么枯燥，能够深入了解一下计算机底层的东西，其实也很好。所以我就从当时上课连 &lt;code&gt;寻址方式&lt;/code&gt; 都听不懂，到清明在家恶补狂刷了几遍 &lt;code&gt;西安交大&lt;/code&gt; 的慕课，慢慢地有了感觉。后面老师布置的几个编程作业，我也都是自己编出来了。很感谢那时候的自己，枯燥的汇编语言也坚持下来了。我觉得，对计算机的执念大概就是那时候培养起来的吧。&lt;/p&gt;
+&lt;p&gt;所以说啊，这些坑都要你自己亲自踩的。&lt;/p&gt;
+&lt;p&gt;有个学姐在我大二升大三暑假的时候还和我聊到，她好心给学弟学妹一些指点，有些人听了很感激，有些人并不知道其中的辛酸。这些都是一点点摸索过来的经验啊。打个比方：我自己体验了物品 A 很不好用，找了很久问了很多人才知道 B 物品更好用，如果自己直接告诉别人 B 很好用，那个人没体验过 A 的难用和艰辛，根本谈不上感激吧？而且很有可能将来他用了 C 觉得推荐 B 物品的人没见过世面误导自己。所以说啊，有些坑自己去踩吧，总会有收获的，虽然会花点时间。&lt;/p&gt;
+&lt;p&gt;另外，计算机学院的一些课，因为是从国外引入的，不先进。学校教的不与当前潮流接轨。学校课程安排，跟实践脱离，所以平时要多敲代码，遇到问题搜 &lt;code&gt;Google&lt;/code&gt; 、&lt;code&gt;Stack Overflow&lt;/code&gt; 。学计算机的，本科四年下来，代码量肯定得达到 &lt;code&gt;1w 行&lt;/code&gt; ，只能多不能少！其实，这些很多都是大一、大二完成的，大三一些专业课敲代码比较少，但是你可以做项目来积累代码量。&lt;/p&gt;
+&lt;p&gt;另外，&lt;code&gt;GitHub&lt;/code&gt; 这个东西一定要自己去注册个账号，摸索一下怎么使用。对学计算机的同学是非常有用的！(这可是世界最大&lt;del&gt;同性交友网站&lt;/del&gt;程序员的圣地啊！）所以有学长学姐带你真的很省事啊，我大二第一学期结束才知道 &lt;code&gt;GitHub&lt;/code&gt; 这个东西，没有人告诉我，我都是自己摸索的，流过很多汗水，但是都值得啊！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/250-2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;再补充一个，博客最好也有一个。我大二下学期才开始写博客，在 &lt;code&gt;CSDN&lt;/code&gt; 上写的，后来限制太多，利用暑假时间，自己搭了一个 &lt;code&gt;个人博客&lt;/code&gt; ，坚持 &lt;code&gt;输出&lt;/code&gt; ，但是贵在精，不能一味追求数量。别小看写博客这个东西，你学会一个知识点是一件事，但是你写出来让别人看懂就是另一件事了。去了解了解 &lt;code&gt;「费曼学习法」&lt;/code&gt; ，你就知道原因了。而且，博客也能作为加分点啊。我认识的去了 &lt;code&gt;阿里&lt;/code&gt; 的学长，就是因为博客记录了一些 &lt;code&gt;智能算法&lt;/code&gt; 的文章，面试官问了他博客上的这些智能算法，学长都答出来了，顺利拿到阿里 Offer。&lt;/p&gt;
+&lt;h3 id=&#34;致谢&#34;&gt;致谢&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;去了阿里的「宋学长」&lt;/li&gt;
+&lt;li&gt;同大二转专业的「郭学长」&lt;/li&gt;
+&lt;li&gt;告诉我 PAT 的「尤鱼哥学长」&lt;/li&gt;
+&lt;li&gt;给我很多帮助的「顾学长」&lt;/li&gt;
+&lt;li&gt;不愿透露姓名的「某学姐」&lt;/li&gt;
+&lt;li&gt;给我打开网络新世界大门的「陈学长」&lt;/li&gt;
+&lt;li&gt;给我 ACM 希望的「刘学姐」&lt;/li&gt;
+&lt;li&gt;告诉我 Python 是个好东西的「大哥哥」&lt;/li&gt;
+&lt;li&gt;给我走 CS 路信心的「徐学长」&lt;/li&gt;
+&lt;li&gt;管院爱好编程的「杨学长」&lt;/li&gt;
+&lt;li&gt;从事 C# 开发的「于学姐、崔学长」&lt;/li&gt;
+&lt;li&gt;给我考研一些指导的「张学长」&lt;/li&gt;
+&lt;/ul&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

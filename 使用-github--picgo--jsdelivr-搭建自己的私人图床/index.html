@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content=' 妈妈再也不用担心我上传图片啦！
+'>
+<title>使用 GitHub &#43; PicGo &#43; jsDelivr 搭建自己的私人图床</title>
+
+<link rel='canonical' href='https://wonz.wang/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/'>
+
+<link rel="stylesheet" href="/scss/style.min.b6ddbb5a80fc02c9c841d70d5c40fdb16f9e28c97d8379c31c535b184fb10dbf.css"><meta property='og:title' content='使用 GitHub &#43; PicGo &#43; jsDelivr 搭建自己的私人图床'>
+<meta property='og:description' content=' 妈妈再也不用担心我上传图片啦！
+'>
+<meta property='og:url' content='https://wonz.wang/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/'>
+<meta property='og:site_name' content='Wonz'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='图床' /><meta property='article:tag' content='PicGo' /><meta property='article:tag' content='工具' /><meta property='article:published_time' content='2021-03-08T20:51:16&#43;00:00'/><meta property='article:modified_time' content='2021-03-08T20:51:16&#43;00:00'/>
+<meta name="twitter:title" content="使用 GitHub &#43; PicGo &#43; jsDelivr 搭建自己的私人图床">
+<meta name="twitter:description" content=" 妈妈再也不用担心我上传图片啦！
+">
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/base16/darcula.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu78d6a7cc435407b089c92d3c65a49b3d_33854_300x0_resize_box_3.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Wonz</a></h1>
+            <h2 class="site-description"></h2>
+        </div>
+    </header><ol class="social-menu">
+            
+                <li>
+                    <a 
+                        href='https://github.com/Wonz5130'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://instagram.com/wonz_wang'
+                        target="_blank"
+                        title="Instagram"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 50" width="24px" height="24px"><path d="M 16 3 C 8.8324839 3 3 8.8324839 3 16 L 3 34 C 3 41.167516 8.8324839 47 16 47 L 34 47 C 41.167516 47 47 41.167516 47 34 L 47 16 C 47 8.8324839 41.167516 3 34 3 L 16 3 z M 16 5 L 34 5 C 40.086484 5 45 9.9135161 45 16 L 45 34 C 45 40.086484 40.086484 45 34 45 L 16 45 C 9.9135161 45 5 40.086484 5 34 L 5 16 C 5 9.9135161 9.9135161 5 16 5 z M 37 11 A 2 2 0 0 0 35 13 A 2 2 0 0 0 37 15 A 2 2 0 0 0 39 13 A 2 2 0 0 0 37 11 z M 25 14 C 18.936712 14 14 18.936712 14 25 C 14 31.063288 18.936712 36 25 36 C 31.063288 36 36 31.063288 36 25 C 36 18.936712 31.063288 14 25 14 z M 25 16 C 29.982407 16 34 20.017593 34 25 C 34 29.982407 29.982407 34 25 34 C 20.017593 34 16 29.982407 16 25 C 16 20.017593 20.017593 16 25 16 z"/></svg>
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/categories' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>Categories</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/tags' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>Tags</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/index.xml' target="_blank">
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-rss" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="5" cy="19" r="1" />
+  <path d="M4 4a16 16 0 0 1 16 16" />
+  <path d="M4 11a9 9 0 0 1 9 9" />
+</svg>
+
+
+
+                
+                <span>RSS Feed</span>
+            </a>
+        </li>
+        
+
+        <div class="menu-bottom-section">
+            
+            
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Dark Mode</span>
+                </li>
+            
+        </div>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/" >
+                数字生活
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/">使用 GitHub &#43; PicGo &#43; jsDelivr 搭建自己的私人图床</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Mar 08, 2021</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    2 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <blockquote>
+<p>妈妈再也不用担心我上传图片啦！</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+</blockquote>
+<h3 id="一背景">一、背景</h3>
+<p>以前写技术博客的时候，都是用的本地图片，一些博客平台比如 <strong>CSDN</strong> 同步更新的时候需要手动上传图片，这很浪费时间和精力。为了减少重复工作，一直有用<strong>图床</strong>的想法，但是又听到 <code>XXX图床挂了</code> ，一直很担心这个问题。后来发现了一个非常棒的搭建属于自己的私人图床的方法，现记录下来，希望帮助到有同样需求的朋友们。</p>
+<h3 id="二创建-github-图床仓库">二、创建 GitHub 图床仓库</h3>
+<p>首先你需要有个 <strong>GitHub</strong> 账号（搞技术的应该都知道全球最大程序员<del>同性</del>交友网站吧）然后按照下图提示创建一个图床仓库，名字随便起好了。</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-47-13.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p><strong>注意:</strong> 因为 <strong>GitHub</strong> 现在支持创建<strong>私人仓库</strong>了，但是图床仓库不能设为私人的，否则会影响后面的图片超链接显示。一开始我 <strong>GitHub</strong> 图床仓库设成 Private，测试之后发现博客里的图片并不能成功显示出来，后来我把图床仓库改为 Public 之后，图片就能成功显示了。</p>
+<h3 id="三生成-access-token">三、生成 Access token</h3>
+<p>然后进入个人账号的 <code>Settings</code> ：</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-48-23.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>然后选择 <code>Developer settings</code> ：</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-49-26.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>再选择 <code>Personal access tokens</code> ：</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-50-47.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>创建新的 <code>token</code>：</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-51-50.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>然后填写 Note，并把 <code>repo</code> 全勾上。</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-52-52.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>然后点击页面底部的 <code>Generate token</code> ，就生成了 <code>token</code>，记得及时复制并保存下来，页面关闭就看不到了，后面要用到。</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-53-46.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<h3 id="四配置-picgo使用-jsdelivr-的-cdn">四、配置 PicGo，使用 jsDelivr 的 CDN</h3>
+<p>下载 <a class="link" href="https://github.com/Molunerfinn/picgo/releases"  target="_blank" rel="noopener"
+    >PicGo</a> 软件，安装。</p>
+<p>选择系统对应的版本下载，我用的是 <code>Windows</code> 系统，所以直接下的 <code>.exe</code> 文件。</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-56-24.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>打开 PicGo 的图床设置：</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-57-49.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>输入自己的 GitHub 仓库名、分支名写 <code>master</code> 、Token、存储路径就写 <code>img/</code> 就行了。</p>
+<p>因为我们需要使用 <code>jsDelivr</code> 加速访问，所以将自定义域名设置为 <code>https://cdn.jsdelivr.net/gh/GitHub用户名/图床仓库名</code> ，进行配置：</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-58-29.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<h3 id="五使用私人图床">五、使用私人图床</h3>
+<p>点击上传区，选择图床为 <strong>GitHub图床</strong>，链接格式为 <code>Markdown</code> ，直接拖动图片到方框里，等待上传完成，会自动复制 Markdown 链接，然后直接粘贴到正在写的博客中就行，非常方便快捷，大大减少了写作中无意义的重复劳动。</p>
+<p><img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_21-02-22.png"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<h3 id="六使用提示">六、使用提示</h3>
+<p>图片上传图床还要注意保护个人隐私，因为仓库是 <strong>Public</strong> 的，其他用户其实可以看到你上传了什么图片。</p>
+<p>虽然这篇文章是一年前写的，但是大学室友最近按照我之前写的教程亲测有效，所以我决定重新排下版，润色了一下文字，重新发表出来。</p>
+<h3 id="七致谢">七、致谢</h3>
+<p><a class="link" href="https://segmentfault.com/a/1190000020240864"  target="_blank" rel="noopener"
+    >GitHub+jsDelivr+PicGo搭建免费图床</a></p>
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/%E5%9B%BE%E5%BA%8A/">图床</a>
+        
+            <a href="/tags/picgo/">PicGo</a>
+        
+            <a href="/tags/%E5%B7%A5%E5%85%B7/">工具</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span><!-- raw HTML omitted -->CC BY-SA 4.0<!-- raw HTML omitted --></span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">构建自己的阅读工作流</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">互联网写作规范指北</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">使用 Shields.io 数据牌 &#43; GitHub 统计卡片美化你的 GitHub profile</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/rss%E5%BA%94%E7%94%A8%E5%88%86%E4%BA%ABrsshub/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">RSS应用分享：RSSHub</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        
+        2018 - 2023 Wonz
+    </section>
+    
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.20.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

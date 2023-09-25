@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>NJUPT on Wonz</title>
+        <link>https://wonz.wang/tags/njupt/</link>
+        <description>Recent content in NJUPT on Wonz</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Thu, 17 May 2018 00:36:49 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/njupt/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>转专业回忆</title>
+        <link>https://wonz.wang/%E8%BD%AC%E4%B8%93%E4%B8%9A%E5%9B%9E%E5%BF%86/</link>
+        <pubDate>Thu, 17 May 2018 00:36:49 +0000</pubDate>
+        
+        <guid>https://wonz.wang/%E8%BD%AC%E4%B8%93%E4%B8%9A%E5%9B%9E%E5%BF%86/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;2018.5.15—2018.5.16&lt;/p&gt;
+&lt;p&gt;为期两天的转专业考试终于结束了，心里的一块大石头终于落地了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;先说说 5.15 的笔试。&lt;/p&gt;
+&lt;p&gt;笔试考的是数据结构 B。一开始做感觉不是很难。不过中间做到一道简答题的第二小问：求一个森林 (含有三棵树) 的先序遍历，脑子一抽把原来的答案改掉了，改成了三棵子树同时进行先序遍历。森林如下图所示：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;第一小问是转化成二叉树：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;第二小问就是求这个&lt;strong&gt;森林&lt;/strong&gt;的&lt;strong&gt;先序遍历&lt;/strong&gt;。本来想都没想写的：&lt;strong&gt;ADBEC&lt;/strong&gt;。后来真的是脑子抽了，改成了 &lt;strong&gt;ABCDE&lt;/strong&gt;。因为想起了之前做到的一道题，森林的层次遍历就是三棵子树同时进行遍历的，这里先序遍历我想当然以为也是这样。后来一直没改，考完上网查了一下，翻书又确认了一遍，发现错了。求森林的先序遍历就是求&lt;strong&gt;对应二叉树的先序遍历&lt;/strong&gt;啊！怪我基础知识掌握的不扎实。大概扣了 2-4 分。&lt;/p&gt;
+&lt;p&gt;还有一道选择题不确定：求高度为 2 的 5 阶 B - 树最少的关键字个数。一开始我是不会做的，后来就从” 最小 “出发。B - 树每个结点&lt;strong&gt;最少&lt;/strong&gt;有 ceil[m/2]-1 个元素。但是这有一个前提！那就是&lt;strong&gt;除根和失败结点以外&lt;/strong&gt;！我又想当然的以为根结点也是，结果就以为根结点是 2 个关键字，下面有三个子树，2&lt;em&gt;3+2=8 个。但是根结点时可以&lt;strong&gt;最少只有一个关键字&lt;/strong&gt;的！所以答案应该是 1+2&lt;/em&gt;2=5！又两分没了。&lt;/p&gt;
+&lt;p&gt;其他感觉还行，比较难的知识点，比如：双向链表，稀疏矩阵，二叉平衡树的插入，B - 树的插入、删除，迪杰斯特拉算法，快排，构建最小堆，都没有考到。最后两个算法设计题，第一道是计算一棵二叉树中关键字等于 x 的结点个数。第二道是简单选择排序算法。&lt;/p&gt;
+&lt;p&gt;计算一棵二叉树中关键字等于 x 的结点个数：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 4
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 5
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 6
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 7
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 8
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 9
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;10
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;11
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;12
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;13
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;14
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;15
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;16
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;17
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;18
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;19
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;20
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;21
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;22
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-C++&#34; data-lang=&#34;C++&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;// 定义二叉树的结构体和二叉树结点类型的结构体(题目给出的)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#ff79c6&#34;&gt;typedef&lt;/span&gt; &lt;span style=&#34;color:#ff79c6&#34;&gt;struct&lt;/span&gt; &lt;span style=&#34;color:#50fa7b&#34;&gt;btnode&lt;/span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff79c6&#34;&gt;struct&lt;/span&gt; &lt;span style=&#34;color:#50fa7b&#34;&gt;btnode&lt;/span&gt; &lt;span style=&#34;color:#ff79c6&#34;&gt;*&lt;/span&gt;left;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff79c6&#34;&gt;struct&lt;/span&gt; &lt;span style=&#34;color:#50fa7b&#34;&gt;btnode&lt;/span&gt; &lt;span style=&#34;color:#ff79c6&#34;&gt;*&lt;/span&gt;right;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8be9fd&#34;&gt;int&lt;/span&gt; data;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}BTnode;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff79c6&#34;&gt;typedef&lt;/span&gt; &lt;span style=&#34;color:#ff79c6&#34;&gt;struct&lt;/span&gt; &lt;span style=&#34;color:#50fa7b&#34;&gt;bitree&lt;/span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff79c6&#34;&gt;struct&lt;/span&gt; &lt;span style=&#34;color:#50fa7b&#34;&gt;btnode&lt;/span&gt; &lt;span style=&#34;color:#ff79c6&#34;&gt;*&lt;/span&gt;root;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}Btree;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;// count在main主函数里初始化为0
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#8be9fd&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#50fa7b&#34;&gt;Count&lt;/span&gt;(Btree &lt;span style=&#34;color:#ff79c6&#34;&gt;*&lt;/span&gt;t,&lt;span style=&#34;color:#8be9fd&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#ff79c6&#34;&gt;*&lt;/span&gt;count,&lt;span style=&#34;color:#8be9fd&#34;&gt;int&lt;/span&gt; x){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff79c6&#34;&gt;if&lt;/span&gt;(t &lt;span style=&#34;color:#ff79c6&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#8be9fd;font-style:italic&#34;&gt;NULL&lt;/span&gt;){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ff79c6&#34;&gt;return&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff79c6&#34;&gt;if&lt;/span&gt;(t&lt;span style=&#34;color:#ff79c6&#34;&gt;-&amp;gt;&lt;/span&gt;root&lt;span style=&#34;color:#ff79c6&#34;&gt;-&amp;gt;&lt;/span&gt;data &lt;span style=&#34;color:#ff79c6&#34;&gt;==&lt;/span&gt; x){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        count &lt;span style=&#34;color:#ff79c6&#34;&gt;+=&lt;/span&gt; &lt;span style=&#34;color:#bd93f9&#34;&gt;1&lt;/span&gt;;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Count(t&lt;span style=&#34;color:#ff79c6&#34;&gt;-&amp;gt;&lt;/span&gt;left,&lt;span style=&#34;color:#ff79c6&#34;&gt;&amp;amp;&lt;/span&gt;count,x);  &lt;span style=&#34;color:#6272a4&#34;&gt;//因为把count定义为指针变量，传的是count的地址，所以要加&amp;amp;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;&lt;/span&gt;    Count(t&lt;span style=&#34;color:#ff79c6&#34;&gt;-&amp;gt;&lt;/span&gt;right,&lt;span style=&#34;color:#ff79c6&#34;&gt;&amp;amp;&lt;/span&gt;count,x);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;简单选择排序算法：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 4
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 5
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 6
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 7
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 8
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 9
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;10
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;11
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;12
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;13
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;14
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;15
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;16
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;17
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;18
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-C++&#34; data-lang=&#34;C++&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;//简单选择排序算法
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#8be9fd&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#50fa7b&#34;&gt;SelectSort&lt;/span&gt;(&lt;span style=&#34;color:#8be9fd&#34;&gt;int&lt;/span&gt; a[],&lt;span style=&#34;color:#8be9fd&#34;&gt;int&lt;/span&gt; n){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8be9fd&#34;&gt;int&lt;/span&gt; i,j,small,x;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff79c6&#34;&gt;for&lt;/span&gt;(i &lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#bd93f9&#34;&gt;0&lt;/span&gt;;i &lt;span style=&#34;color:#ff79c6&#34;&gt;&amp;lt;&lt;/span&gt; n;i &lt;span style=&#34;color:#ff79c6&#34;&gt;++&lt;/span&gt;){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        small &lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt; i;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ff79c6&#34;&gt;for&lt;/span&gt;(j &lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt; i &lt;span style=&#34;color:#ff79c6&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#bd93f9&#34;&gt;1&lt;/span&gt;;j &lt;span style=&#34;color:#ff79c6&#34;&gt;&amp;lt;&lt;/span&gt; n;j &lt;span style=&#34;color:#ff79c6&#34;&gt;++&lt;/span&gt;){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#ff79c6&#34;&gt;if&lt;/span&gt;(a[small] &lt;span style=&#34;color:#ff79c6&#34;&gt;&amp;gt;&lt;/span&gt; a[j]){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                small &lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt; j;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ff79c6&#34;&gt;if&lt;/span&gt;(small &lt;span style=&#34;color:#ff79c6&#34;&gt;!=&lt;/span&gt; i){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            x &lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt; a[i];
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            a[i] &lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt; a[small];
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            a[small] &lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt; x;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff79c6&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#bd93f9&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;其他应该没什么了。简答题考了一个直接插入排序，给出每一趟的结果。我当时在纠结的是括号括排好序的部分，还是未排好序的部分。最后还是选择括后面未排好序的部分。第一遍做完大概还剩几十分钟，就检查。前前后后检查了三遍，到考试时间结束才交上去，想把握大一点。&lt;/p&gt;
+&lt;p&gt;再来讲讲 &lt;strong&gt;5.16&lt;/strong&gt; 的面试。&lt;/p&gt;
+&lt;p&gt;面试分在第二组。前面都是 16 级大二转计科、软工的，然后是 17 级大一转软工、软工 (嵌入式) 的。之前有听学姐说面试会要 2 分钟的英文面试。所以一直在背。准备的不够充分，本来应该昨天 15 日就背下来的，结果到 16 日上午才把英文版的自我介绍写好。中午坐 D1 到仙林正好 13 点多一点，就去图书馆背了几遍英文自我介绍，就去计算机学科楼等面试签到了。记得学姐去年说大二面试顺序是按笔试成绩从高到低排的，所以看到自己面试是第二个，心里有点高兴吧，也算给自己一点鼓励：我可以的。第一个进去面试的同学也是管理学院的，信管的一个大佬。感觉进去时间挺长的，有 5-6 分钟，出来时他说没问什么，然后我带着准备的装了获奖证书以及荣誉证书的文件夹就进去了。&lt;/p&gt;
+&lt;p&gt;进去之后，首先是说老师好。然后就说了一下自己带的文件夹里放的是一些获奖证书，一个女老师拿过去看了。然后最右边的老师问是不是上过他的课，对我有点印象。我说蹭过他带的数据结构重修班两节课，因为之前想问这个老师关于机器学习的东西，就顺便去蹭了。发现不同老师教的不一样，深度也不一样。冥冥中自有天意，谁知道面试我的会是这个老师。然后就开始提问了。自我介绍都没让我介绍，坐在中间的老师先是问我对计科有什么了解。我就说了一下计科对数学要求高，还有编程能力，以及阅读英文文献的能力，因为先进的技术从国外传到国内需要一个过程，想要赶上学习的潮流，就得有阅读英文文献的能力。然后，讲到数学，对我印象深刻的老师就问了我一道数学的问题：如何理解矩阵的秩？我想了一下，就说是行列式的值。老师说不对，然后给我解释了一下。我确实忘了线性代数了 (大一下学的) 所以这方面的知识还得自己慢慢补，因为机器学习里经常用到。然后坐在中间的老师又问我，为什么要从电子商务转来计科，电子商务不是很火吗？我说，我想做人工智能方面的研究。大一升大二暑假看了部美剧《西部世界》，讲的是人工智能，机器人的觉醒，然后发现很有意思。后来买了谭浩强的 C 语言，整个暑假把这本书从头到尾重学了一遍，课后习题代码都动手敲了一遍，然后感觉就来了。后面就一发不可收拾，大二上自学了 Python。现在也在学深度学习。然后老师又问了我大创的是什么级别，我说是校级重点。问了我指导老师是谁，我说是带我微机接口的老师，名字挂到了通院的另一个老师名字下面。老师说那应该转通工啊 (可能他以为我做的是通工方向的大创)，我马上解释，我做的是和计算机有关的，做的是情绪识别，利用深度学习。然后那个女老师就问我证书里面有个 “单科成绩优秀奖学金” 是什么？我说是和同学合作发了一篇论文，辅导员通过了我的申请。接着，对我印象深刻的老师就说以后转来计算机，跟着计算机学院的老师做人工智能的项目。我说好的好的，谢谢老师。然后就面试结束了。期间，对我印象深刻的那个老师和其他老师提到好几次我对计算机很感兴趣。感觉冥冥中自有天意吧。&lt;/p&gt;
+&lt;p&gt;后来想想还好面试问的问题不难。之前准备的时候还在想 “&lt;strong&gt;面向对象&lt;/strong&gt;” 是什么意思，发现不会解释。就是大概知道什么意思，但是就是说不上来。另外准备的其他一些面试会问到的题目没有问到。最怕问 “&lt;strong&gt;你最大的缺点是什么&lt;/strong&gt;” 这个问题了。&lt;/p&gt;
+&lt;p&gt;走出面试会议室的大门，我感觉一下子轻松了好多。想想自己从当初大二上决定转，中间又畏惧大三补的课，退缩了几次，再到后面铁了心要转计科，真的是很艰难啊。不过还好，确定想转计科之后，就无所畏惧了。大二寒假留在学校培训美赛的时候，白天做数模题目，晚上抽一两个小时自学数据结构，看书 + 看 ppt。寒假结束差不多全部看了一遍，大二上开学花了两三周又看了一遍。然后就跟着学校的正常教学进度学了。到四月中旬的时候，开始重新复习，加上刷题。再到五月，开始做考研的数据结构题目。感觉自己为了转专业真的是投入了好多的精力。想想自己进入大学以来，没有哪一件事有准备转专业这么全力以赴了。最近的一件估计就是高考了。这种 all in 的感觉让我仿佛回到了高考。这样的感觉真不错！&lt;/p&gt;
+&lt;p&gt;期待好消息，晚安！&lt;/p&gt;
+&lt;p&gt;2018.5.17  0:36&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;本文于 2018 年 5 月 17 日首发于 &lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/Wonz5130/article/details/80344738&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CSDN&lt;/a&gt;。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
