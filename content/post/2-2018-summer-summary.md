@@ -1,16 +1,25 @@
 ---
 title: 2018 暑假总结
+description: 总结 过得太颓废了，很多计划都没完成。引以为戒！
 date: 2018-09-02 10:08:52
-tags: [复盘]
-categories: 总结
+lastmod: 
+
+author: Wonz
+image: 
+categories:
+- 总结
+tags:
+- 复盘
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
->总结：过得太颓废了，很多计划都没完成。
->
->引以为戒！
-
-<!--more-->
-
 * 健身：√
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/160-1.JPG)

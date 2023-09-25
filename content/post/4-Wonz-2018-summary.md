@@ -1,16 +1,25 @@
 ---
 title: Wonz の 2018 年度总结
+description: 好像人长大了，就变得越来越喜欢回忆过去了。这是 Wonz 的 2018 年度总结～
 date: 2018-12-31 23:37:31
-tags: [复盘]
-categories: 总结
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 总结
+tags:
+- 复盘
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 好像人长大了，就变得越来越喜欢回忆过去了。
->
-> 这是 `Wonz` 的 2018 年度总结~
-
-<!--more-->
-
 ### 一月~二月
 
 什么都不懂但还是硬着头皮参加了美赛，体验了接近一个月的仙林生活，真的很喜欢这里了。
@@ -104,4 +113,3 @@ categories: 总结
 最后一天和学弟学妹约了饭。
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/233-15.jpg)
-

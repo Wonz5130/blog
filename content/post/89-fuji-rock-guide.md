@@ -1,14 +1,26 @@
 ---
 title: FUJI ROCK 不完全攻略
 date: 2023-08-20 16:44:16
-tags: [fuji, 露营, 音乐节]
-categories: 音乐
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308251211101.jpg
+categories:
+- 音乐
+tags:
+- fuji
+- 露营
+- 音乐节
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
->![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308251211101.jpg)
-
-<!--more-->
-
 # 写在前面
 
 千呼万唤的攻略终于写完啦。
@@ -289,14 +301,14 @@ Kids Land 是对亲子游搭建的舞台，在森林里有工作人员带孩子�
 - 折叠椅：占位置、休息用。
 - 便携水袋：我带的是 480ml，完全不够喝，而且会场接饮用水的地方非常少。建议带个大水壶，不喝的时候其实可以扔露营椅上，没人偷的。
 - 小酒壶：FUJI 现场没什么烈酒卖，喜欢喝酒的可以自己带点酒进去，不查的。但是要注意别喝多，喝多了会被 FUJI 工作人员请离场的。
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308251209520.jpg)
+  ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308251209520.jpg)
 - 烟袋：吸烟需要到指定的吸烟点，可以带个便携眼袋装烟灰和烟头。爱护环境，从我做起。
 - 防水烟盒：香烟也要做好防水工作。
 - 防水手机套：最好也准备一个，直接挂脖子上那种。下雨之后，手机屏幕有水真的很不方便使用。
 - 充电宝：白天带一个 1w 的进会场就行。少玩手机，多感受现场。
 - 防水小挎包：不过我更推荐带个背包，还要装雨衣、冲锋衣啥的。
 - 多功能肩带挂绳：买了完全没用上。
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308241623720.jpg)
+  ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308241623720.jpg)
 - 西瓜卡/现金/信用卡：有些美食摊位现金队伍人会比较少。
 - 相机（可选）：其实会发现手机拍最方便。我带了台 GR2，就第一天拍了几张。
 
@@ -309,7 +321,7 @@ Kids Land 是对亲子游搭建的舞台，在森林里有工作人员带孩子�
 - 雨衣：推荐买开襟式的雨衣，热了开，冷了穿。别买一次性的，根本防不了什么雨。
 - 短裤：速干的就行，下了雨能够不黏身上。
 - 溯溪鞋：我是四天全程溯溪鞋。山间走路真的好，而且脱了还能下水溯溪。比较有名的品牌就是 Keen 和 teva 了。我买的 merrell，很好穿。
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308251209385.jpg)
+  ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308251209385.jpg)
 - 雨靴：很多都推荐野鸟协会 WBSJ。要选有收口的，不然容易变成鱼塘。
 - 毛巾：真的很有用，擦汗啥的。
 
@@ -369,12 +381,12 @@ Kids Land 是对亲子游搭建的舞台，在森林里有工作人员带孩子�
 
 P.S. 之前写过一篇纯体验的 repo，感兴趣的可以先通过那篇文章来感受 FUJI ROCK 的魅力。链接在这里：[我从 FUJI ROCK 23 露营回来啦](https://mp.weixin.qq.com/s/xfldZFOVBDnCHnHgej-S9Q)
 
- # 其他参考攻略
+# 其他参考攻略
 
 - [FUJI ROCK 官网](https://www.fujirockfestival.com/)，很多信息和注意事项都能在这查到
 - [我从富士音乐节（Fuji Rock 19)露营回来了！这份完全指南请收好](https://www.douban.com/note/728892700/?_i=81004981ISYmhD)
 - [【亲测】富士音乐节 FUJI ROCK FESTIVAL 2017 归来，告诉你来年再战攻略！](https://www.sohu.com/a/162515370_395944)
 - [Fuji Rock Festival 富士音乐节全攻略](https://www.mafengwo.cn/gonglve/ziyouxing/224560.html)
 - [Fuji Rock音乐节淋雨三年，我终于学会了买户外装备！](https://mp.weixin.qq.com/s/IKY01I7RfdtjtyOD7rH4NQ)
-- [FUJI ROCK临行指南&隐藏玩法（露营版）](https://mp.weixin.qq.com/s/4xwajdCzs7gwowB1C8EWmQ)
+- [FUJI ROCK临行指南&amp;隐藏玩法（露营版）](https://mp.weixin.qq.com/s/4xwajdCzs7gwowB1C8EWmQ)
 - [Fuji Rock 出发前，为各位扫雷一小时](https://www.xiaoyuzhoufm.com/episode/649e3856ae00f3a85a055d70)

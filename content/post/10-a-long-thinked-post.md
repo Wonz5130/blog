@@ -1,14 +1,26 @@
 ---
 title: 一篇想了很久的推送
+description: 你的征途是星辰大海
 date: 2019-03-30 21:08:19
-tags: [计算机,考研]
-categories: 随笔
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 随笔
+tags:
+- 计算机
+- 考研
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 你的征途是星辰大海
-
-<!--more-->
-
 > 1
 
 当初一起转专业来计算机学院的一个同学，最近竟然和我说不想读计算机的研究生。这让我感到很诧异，当初转专业确实感受到了这位同学对计算机的热爱。但是，最后做出这个决定确实让我没有想到。不过他说的有一点很有道理，“竞赛算法和工程算法”区别是很大的。也许是被 bug 折腾得失去了当初的热爱，也许是看到了计算机这条路过于火爆，对未来充满了担忧。我不去猜测他人的想法，但是我却想到了其他一些事情。

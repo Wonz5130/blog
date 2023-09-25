@@ -1,14 +1,25 @@
 ---
 title: 音乐 | 让我遇见更真实的自己
+description: 
 date: 2019-05-05 12:52:49
-tags: [摇滚]
-categories: 音乐
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/TIM图片20190505123515.jpg
+categories:
+- 音乐
+tags:
+- 摇滚
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/TIM图片20190505123515.jpg)
-
-<!--more-->
-
 ### 写在前面
 
 2019.05.03
@@ -43,31 +54,31 @@ categories: 音乐
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/IMG_3652.JPG)
 
->  英摇我最爱 `Coldplay` ，已经陪伴了我快三年了，连续两年的 `网易云音乐年度歌手` 都是这只英伦摇滚乐队。酷玩好听的歌真的太多了。如果以后遇到喜欢的女生，她没有听过 `Coldplay` 的歌，我会这样推荐几首歌给她听：
+> 英摇我最爱 `Coldplay` ，已经陪伴了我快三年了，连续两年的 `网易云音乐年度歌手` 都是这只英伦摇滚乐队。酷玩好听的歌真的太多了。如果以后遇到喜欢的女生，她没有听过 `Coldplay` 的歌，我会这样推荐几首歌给她听：
 >
->  相恋 Yellow
+> 相恋 Yellow
 >
->  热恋 A Sky Full of Stars
+> 热恋 A Sky Full of Stars
 >
->  平淡 Everglow
+> 平淡 Everglow
 >
->  分离 The Scientist
+> 分离 The Scientist
 >
->  释怀 Gravity
+> 释怀 Gravity
 >
->  我觉得这大概是一个人恋爱成长的过程吧
+> 我觉得这大概是一个人恋爱成长的过程吧
 >
->  我还会推荐
+> 我还会推荐
 >
->  Up&Up 这首歌真的是满满的向上的动力
+> Up&Up 这首歌真的是满满的向上的动力
 >
->  Viva La Vida 歌颂生命的美好
+> Viva La Vida 歌颂生命的美好
 >
->  Magic 这首歌真的有魔力
+> Magic 这首歌真的有魔力
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/IMG_0760.JPG)
 
->  以前不知道听后摇是什么感觉。直到有一次被日推到一首后摇，`Saul` 的**《Summer Ends》**，高潮部分真的听出了好多东西，太有感觉了，听完就感觉：后摇给人带来的力量也太强了吧。从此爱上后摇，但是真的很忧郁，一般只有难过的时候才会听这首歌。后来又遇到了 `Athletics` 的**《Ⅲ》**。那天跑完 `仙林半程马拉松` 之后，在第三天听了几首后摇，虽然上下楼梯还是膝盖疼，还有腿酸，但当时听完后摇甚至想再去跑个半马。	
+> 以前不知道听后摇是什么感觉。直到有一次被日推到一首后摇，`Saul` 的**《Summer Ends》**，高潮部分真的听出了好多东西，太有感觉了，听完就感觉：后摇给人带来的力量也太强了吧。从此爱上后摇，但是真的很忧郁，一般只有难过的时候才会听这首歌。后来又遇到了 `Athletics` 的**《Ⅲ》**。那天跑完 `仙林半程马拉松` 之后，在第三天听了几首后摇，虽然上下楼梯还是膝盖疼，还有腿酸，但当时听完后摇甚至想再去跑个半马。
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/TIM图片20190505122900.png)
 
@@ -81,7 +92,7 @@ categories: 音乐
 
 那天晚上看完 live ，想进一下星巢的群然后加了两个拉人进群的小姐姐。翻了翻票圈。发现她们会染发，会纹身。换作以前的我，我会有些不习惯。但是现在的我，觉得这才是真实。
 
->  如果只是为被人活，那会很累的。
+> 如果只是为被人活，那会很累的。
 >
 > 不为他人而活才最美。
 

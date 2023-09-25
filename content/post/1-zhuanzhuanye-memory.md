@@ -1,23 +1,33 @@
 ---
 title: 转专业回忆
+description: 2018.5.15—2018.5.16 为期两天的转专业考试终于结束了，心里的一块大石头终于落地了。
 date: 2018-05-17 0:36:49
-tags: [NJUPT,转专业]
-categories: 大学
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 大学
+tags:
+- NJUPT
+- 转专业
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
->2018.5.15—2018.5.16
->
->为期两天的转专业考试终于结束了，心里的一块大石头终于落地了。
-
-<!--more-->
-
 先说说 5.15 的笔试。
 
 笔试考的是数据结构 B。一开始做感觉不是很难。不过中间做到一道简答题的第二小问：求一个森林 (含有三棵树) 的先序遍历，脑子一抽把原来的答案改掉了，改成了三棵子树同时进行先序遍历。森林如下图所示：
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/1.png)
 
-第一小问是转化成二叉树： 
+第一小问是转化成二叉树：
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/2.png)
 
@@ -54,7 +64,7 @@ void Count(Btree *t,int *count,int x){
 }
 ```
 
-简单选择排序算法： 
+简单选择排序算法：
 
 ```C++
 //简单选择排序算法
@@ -93,4 +103,4 @@ int SelectSort(int a[],int n){
 
 2018.5.17  0:36
 
-<u>本文于 2018 年 5 月 17 日首发于 [CSDN](https://blog.csdn.net/Wonz5130/article/details/80344738)。</u>
+`<u>`本文于 2018 年 5 月 17 日首发于 [CSDN](https://blog.csdn.net/Wonz5130/article/details/80344738)。`</u>`

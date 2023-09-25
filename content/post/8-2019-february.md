@@ -1,14 +1,25 @@
 ---
 title: 2019 年 2 月小记
+description: 
 date: 2019-02-28 23:50:32
-tags: [感想]
-categories: 随笔
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 随笔
+tags:
+- 感想
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 2019 年 2 月感想
-
-<!--more-->
-
 > 写在前面
 
 开学快两周了。感想有点多。

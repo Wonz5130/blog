@@ -1,20 +1,28 @@
 ---
 title: 我选择直接工作，不读研
+description: 黄色的树林里分出两条路，我选择了人迹更少的一条，从此决定了我一生的道路。——罗伯特.弗罗斯特《未选择的路》
 date: 2020-03-05 22:35:16
-tags: [考研,工作,热爱,出国]
-categories: 思考
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 思考
+tags:
+- 考研
+- 工作
+- 热爱
+- 出国
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 黄色的树林里分出两条路 , 
->
-> 我选择了人迹更少的一条，
->
-> 从此决定了我一生的道路。
->
-> —罗伯特.弗罗斯特《未选择的路》
-
-<!--more-->
-
 ### 写在前面
 
 重要的事情说三遍：

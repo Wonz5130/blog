@@ -1,15 +1,25 @@
 ---
 title: 我选择相信未来
+description: Code can change the world！
 date: 2019-03-10 0:01:49
-tags: [考研]
-categories: 大学
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 大学
+tags:
+- 考研
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> Code can change the world！
->
-
-<!--more-->
-
 > 关于考研
 
 记得之前写的一篇微信公众号推送里提到，不后悔选择 `考研` 这条路。之前还奢望过 `保研` ，后来发现还是自己太天真了。不过一点都不后悔，因为我有自己的想法。最近意外发现一个友人上周在自己的公众号写到自己考研的初衷，竟然和我以及去年一个考 `ZJU` 研究生的学长惊人的相似。

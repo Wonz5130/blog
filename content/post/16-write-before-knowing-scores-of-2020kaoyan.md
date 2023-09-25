@@ -1,14 +1,27 @@
 ---
 title: 黄色的树林里分出两条路，我选择了人迹更少的一条，从此决定了我一生的道路
+description: 写在 2020 考研初试成绩出分前
 date: 2020-02-19 21:29:46
-tags: [考研,工作,社会]
-categories: 随笔
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 随笔
+tags:
+- 考研
+- 工作
+- 社会
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 写在 2020 考研初试成绩出分前
-
-<!--more-->
-
 ### 写在前面
 
 最近除了等 2020 考研初试成绩，更多的是思考人生。

@@ -1,14 +1,25 @@
 ---
 title: 复盘 | 我的 2019 年
+description: 2018.5.15—2018.5.16 为期两天的转专业考试终于结束了，心里的一块大石头终于落地了。
 date: 2020-01-01 15:29:52
-tags: [复盘]
-categories: 总结
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/IMG_1817.JPG
+categories:
+- 总结
+tags:
+- 复盘
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/IMG_1817.JPG)
-
-<!--more-->
-
 > 写在前面
 
 一年一次。
@@ -54,31 +65,24 @@ Forest 2019 年的种树记录
 * 2019.5.3 落日飞车 南京·太阳宫剧场
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171133.jpg)
-
 * 2019.9.3 The fin. 南京·欧拉艺术空间
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171138.jpg)
-
 * 2019.9.7 星巢音乐节 南京·鱼嘴湿地公园
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171143.jpg)
-
 * 2019.10.20 理想后花园 南京·欧拉艺术空间
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171444.jpg)
-
 * 2019.12.25 Deca Joins 南京·欧拉艺术空间
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171152.jpg)
-
 * 2019.12.28 萨满 苏州·MAO Livehouse
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171156.jpg)
-
 * 2019.12.31 麻园诗人 南京·德基广场
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171440.jpg)
-
 * 2020.1.1 梅卡德尔 南京·德基广场
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171435.jpg)

@@ -1,14 +1,27 @@
 ---
 title: 克里斯托弗，是他初恋的名字
+description: 《模仿游戏》观后感
 date: 2018-11-03 00:01:54
-categories: 电影
-tags: [图灵,传记,二战]
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 电影
+tags:
+- 图灵
+- 传记
+- 二战
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 《模仿游戏》观后感
-
-<!--more-->
-
 * 2018.11.2
 * 今日观影：《模仿游戏》
 

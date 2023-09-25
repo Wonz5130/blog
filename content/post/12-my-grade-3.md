@@ -1,14 +1,25 @@
 ---
 title: 复盘 | 我的大三
+description: 2018.5.15—2018.5.16 为期两天的转专业考试终于结束了，心里的一块大石头终于落地了。
 date: 2019-08-03 23:33:11
-tags: [复盘]
-categories: 大学
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/TIM图片20190803235846.jpg
+categories:
+- 大学
+tags:
+- 复盘
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/TIM图片20190803235846.jpg)
-
-<!--more-->
-
 > 写在前面
 
 每走过一段路，总习惯回头看看。
@@ -35,7 +46,7 @@ categories: 大学
 
 感谢南大，感谢 LAMDA 的老师，让我更加坚定了自己当初选择的路。
 
->  2019 美赛 = 两天睡了 5 个小时
+> 2019 美赛 = 两天睡了 5 个小时
 
 要说本科至今投入最多精力的比赛就只有两个吧，一个是美赛，一个是 ACM 。
 

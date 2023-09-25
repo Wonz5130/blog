@@ -1,11 +1,27 @@
 ---
 title: 关于工作的一些个人看法
+description: 2018.5.15—2018.5.16 为期两天的转专业考试终于结束了，心里的一块大石头终于落地了。
 date: 2020-04-30 20:47:47
-tags: [工作,work-life-balance,996]
-categories: 随笔
----
-<!--more-->
+lastmod:
 
+author: Wonz
+image: 
+categories:
+- 随笔
+tags:
+- 工作
+- work-life-balance
+- 996
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 ### 写在前面
 
 封面是今天寄出去的就业协议书的快递信息。
@@ -94,7 +110,3 @@ categories: 随笔
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-05-07_19-52-43.jpg)
 
 「往者不可谏，来者犹可追」，回见！
-
-
-
-

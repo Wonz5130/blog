@@ -1,14 +1,25 @@
 ---
 title: 关于 2020 考研的回忆
+description: 2018.5.15—2018.5.16 为期两天的转专业考试终于结束了，心里的一块大石头终于落地了。
 date: 2019-12-27 23:42:37
-tags: [考研]
-categories: 大学
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20191227235314.jpg
+categories:
+- 大学
+tags:
+- 考研
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20191227235314.jpg)
-
-<!--more-->
-
 > 写在前面
 
 2019.12.21-12.22
@@ -125,13 +136,10 @@ categories: 大学
 
 > 写在最后
 
-其实前阵子还有很多感慨的，没有及时写下来，现在已经没有之前的那些感觉了，就写到这吧。 
+其实前阵子还有很多感慨的，没有及时写下来，现在已经没有之前的那些感觉了，就写到这吧。
 
 最后就还是用 `GitHub` 上看到的那篇经验贴的节选来结束着这篇考研回忆吧。
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2019-12-27_22-50-42.png)
 
 祝好！
-
-
-

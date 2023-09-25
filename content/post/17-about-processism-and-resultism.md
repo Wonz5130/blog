@@ -1,13 +1,25 @@
 ---
 title: 关于过程论者和结果论者
+description: 写在 2020 考研初试成绩出分后。
 date: 2020-02-27 22:52:08
-tags: [未来]
-categories: 思考
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 思考
+tags:
+- 未来
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-> 写在 2020 考研初试成绩出分后
-
-<!--more-->
-
 ### 写在前面
 
 前阵子和一个好朋友聊到 `过程论者` 和 `结果论者` ，很有感触。
@@ -15,7 +27,6 @@ categories: 思考
 以前的我大概是个 `结果论者` ，但是经历多了发现绝大多数事情的结果并不会如自己所愿的那样，或者说结果不会像自己想象中那么完美，后来我就变成一个 `过程论者` 了。转变大概是大三参加的那次美赛吧。大二也参加过，成绩惨不忍睹。以为大三经验还可以，总得拿个比上次好点的奖吧，事实上结果还是和上次一样。但是回过来仔细想想，其实那段训练 + 比赛的时光更值得回忆。
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200229211957.jpg)
-
 
 看着上面的照片，比赛最后一天通宵的场景仿佛还历历在目。从凌晨 1 点的第一稿论文，一直改到上午 8 点的第五稿论文，原来自己也是可以这么拼的。
 

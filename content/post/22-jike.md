@@ -1,16 +1,25 @@
 ---
 title: 我与即刻
+description: 写在 2020.03.28，即刻五周年纪念日
 date: 2020-05-25 19:24:02
-tags: [即刻]
-categories: 随笔
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200520215138.jpg
+categories:
+- 随笔
+tags:
+- 即刻
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 写在 2020.03.28，即刻五周年纪念日。
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200520215138.jpg)
-
-<!--more-->
-
 ### 记一件小事
 
 其实一直很想写写自己喜欢的即刻。
@@ -71,19 +80,15 @@ categories: 随笔
 下面是我截止目前为止的面即打卡（有些没有拍照和合影）
 
 * 2019.12.31  南京·德基广场跨年  呱呱学弟
-
 * 2020.01.06  南京·新白鹿餐厅  PM学长
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200328234950.jpg)
-
 * 2020.01.10  上海·南京大排档  鱼饼鱼/阿柴/咸鱼
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200328234944.jpg)
-
 * 2020.01.11  上海·大学路302号屿见面  阿柴/呼噜
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200328234940.jpg)
-
 * 2020.01.21  溧阳·KFC平陵广场店  呆梨
 
 ### 值得纪念的时刻
@@ -93,23 +98,18 @@ categories: 随笔
 * 被瓦总点赞
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200329000459.jpg)
-
 * 被瓦总评论
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200328230617.jpg)
-
 * 小透明动态第一次上热门
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200328230636.jpg)
-
 * 即刻 2019 年总结
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200328230640.jpg)
-
 * 2019.10.19  Jellow 了 1000 天
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200328234216.jpg)
-  
 * 2020.05.20
 
   ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200520210147.jpg)

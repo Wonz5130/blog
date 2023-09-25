@@ -1,19 +1,33 @@
 ---
 title: 走过路过，进来看看
+description: 欢迎订阅「进来看看」https://wonz.hedwig.pub
 date: 2020-06-15 09:58:33
-tags: [Newsletter,RSS,公众号,博客]
-categories: Newsletter
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- Newsletter
+tags:
+- Newsletter
+- RSS
+- 公众号
+- 博客
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 欢迎订阅[「进来看看」](https://wonz.hedwig.pub)
-
-<!--more-->
-
 ### 写在前面
 
 哈喽大家好，在开微信公众号、博客之后，我准备开一个 Newsletter 了。
 
-----
+---
 
 ### 微信公众号
 
@@ -57,7 +71,7 @@ categories: Newsletter
 * 也会分享一些自己平时看到觉得不错的**文章/视频/播客节目**。自己很喜欢使用微信的「在看」功能，看到觉得写得不错的文章会点「在看」，有时也会转发到朋友圈让大家看到，但是还是有点知音难觅的感觉。
 * 长期关注**互联网/科技/编程/金融/数码产品**等领域，尽量做到一月至少两更，底线是一月一更。
 
-----
+---
 
 ### 写在后面
 
