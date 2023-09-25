@@ -1,4 +1,4 @@
-name: gh-pages
+name: generate github pages to gh-pages branch
 
 on:
   push:
