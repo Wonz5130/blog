@@ -1,14 +1,31 @@
 ---
 title: 我，转岗了
+description: 
 date: 2022-04-30 14:10:31
-tags: [互联网, 程序员, 压力, 绩效, 后端, 前端, 思维方式]
-categories: 工作
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG473.jpeg
+categories:
+- 工作
+tags:
+- 互联网
+- 程序员
+- 压力
+- 绩效
+- 后端
+- 前端
+- 思维方式
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![WechatIMG473](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG473.jpeg)
-
-<!--more-->
-
 # 写在前面
 
 距离[《我，离职了》](https://wonz.wang/2021/07/21/53-resign/)这篇文章已经过去大半年了，如今在毕业后的第二家公司里待了快一年了，最近又经历了转岗，从全栈转到了后端。最近还在转岗适应期，两个多月的时间也收获了很多，决定记录一下。

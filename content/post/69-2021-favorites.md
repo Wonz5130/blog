@@ -1,14 +1,26 @@
 ---
 title: 2021 年一些喜欢的东西
+description: 
 date: 2022-01-02 13:10:05
-tags: [喜欢]
-categories: 总结
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG298.jpeg
+categories:
+- 总结
+tags:
+- 热爱
+- 喜欢
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![WechatIMG298](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG298.jpeg)
-
-<!--more-->
-
 2020 年末的时候在即刻看到 CEO 瓦恁写了这么一句话：在产房陪产的时候，想起那句「人们会被自己热爱的事物改变」，打算今年起每个年底，整理一年里最喜欢东西。于是决定今年也开始整理一年里最喜欢的东西。
 
 > 最喜欢的一本书
@@ -156,8 +168,6 @@ The Daily Bagel 的超级反转
 2021 年 6 月 30 日
 
 在西藏看到了圣湖纳木错，敬畏大自然。
-
-
 
 人们会被自己热爱的事物改变，而没有人因为分享而贫穷。
 

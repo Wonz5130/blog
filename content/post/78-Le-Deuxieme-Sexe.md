@@ -1,18 +1,32 @@
 ---
 title: 《第二性》读书笔记
+description: 
 date: 2022-07-16 17:12:42
-tags: [女性主义, 社会, 权利]
-categories: Wonz笔记
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s29833856.jpeg
+categories:
+- Wonz笔记
+tags:
+- 女性主义
+- 社会
+- 权利
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
 > 这是 Wonz 记录的 **第 15 篇** 笔记
 >
 > 书籍：《第二性》（合卷本）
 >
 > 作者：西蒙娜·德·波伏瓦
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s29833856.jpeg)
-
-<!--more-->
 
 # 一、书摘记录
 

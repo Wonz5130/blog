@@ -1,14 +1,25 @@
 ---
 title: 聊聊我的护肤之路
+description: 护肤从我做起
 date: 2020-10-27 22:34:18
-tags: [护肤]
-categories: 生活
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 生活
+tags:
+- 护肤
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 护肤从我做起。
-
-<!--more-->
-
 ### 写在前面
 
 我是大学三年级的时候开始接触护肤（准确地说是大二升大三的暑假，此处应该感谢当时我的部长**四爷**，带我打开了护肤的大门）。

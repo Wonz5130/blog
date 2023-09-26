@@ -1,14 +1,28 @@
 ---
 title: 与联通相伴 1248 天后，我办理了携号转网
+description: 
 date: 2020-09-14 14:47:29
-tags: [运营商,联通,电信,移动]
-categories: [随笔]
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917145751.jpg
+categories:
+- 数字生活
+tags:
+- 运营商
+- 联通
+- 电信
+- 移动
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917145751.jpg)
-
-<!--more-->
-
 ### 一、写在前面
 
 大学第一年的时候办理了这张哔哩哔哩卡，当时就是本着可以免流刷 B 站的目的办理的。现在发现早就不怎么看 B 站了，而且要看也是用电脑看。然而我每个月对流量需求还是比较大，差不多一个月消费 50 元左右。最最最重要的就是联通的信号实在是太差了。记得大学期间在宿舍只有两格信号，在公司负一楼的健身房直接一格信号，流量完全没法用。

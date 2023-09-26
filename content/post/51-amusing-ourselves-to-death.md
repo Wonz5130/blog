@@ -1,19 +1,30 @@
 ---
 title: 《娱乐至死》书摘记录
+description: 
 date: 2021-07-19 22:57:00
-tags: [娱乐]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s28048575.jpeg
+categories:
+- Wonz笔记
+tags:
+- 娱乐
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 2 篇** 书摘
 >
 > 书籍：《娱乐至死》
 >
 > 作者：尼尔·波兹曼
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s28048575.jpeg)
-
-<!--more-->
 
 ### 1、
 
@@ -117,7 +128,7 @@ categories: Wonz笔记
 
 > 第一次危机出现在公元前5世纪，那时雅典人经历了从口头文化到字母书写文化的变更，如果要了解其中的意义，我们应该读一读柏拉图。第二次危机出现在16世纪，印刷机的出现使欧洲发生了巨变，要了解这个阶段，我们应该读一读约翰·洛克。第三个阶段正发生在美国，这是电子革命，特别是电视机发明后产生的后果，要想了解其中的奥妙，我们应该读一读马歇尔·麦克卢汉。
 
-### 18、 
+### 18、
 
 反对源于不满意
 

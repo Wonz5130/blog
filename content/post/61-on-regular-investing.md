@@ -1,19 +1,33 @@
 ---
 title: 《定投改变命运》书摘记录
+description: 
 date: 2021-10-16 13:26:28
-tags: [定投, 区块链, BTC, 投资]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-10-16_11-54-30.png
+categories:
+- Wonz笔记
+tags:
+- 定投
+- 区块链
+- BTC
+- 投资
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 5 篇** 书摘
 >
 > 书籍：《定投改变命运（第三版）》
 >
 > 作者：李笑来
->
-> ![Snipaste_2021-10-16_11-54-30](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-10-16_11-54-30.png)
-
-<!--more-->
 
 # 1、
 

@@ -1,14 +1,28 @@
 ---
 title: 北漂两年回忆录
+description: 我爱北京
 date: 2022-08-07 20:08:42
-tags: [北漂, 生活, 职业发展, 人生]
-categories: 随笔
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 随笔
+tags:
+- 北漂
+- 生活
+- 职业发展
+- 人生
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 我爱北京
-
-<!--more-->
-
 # 写在前面
 
 2020 年 7 月 29 日，我来到了北京，开始了自己的北漂生活。工作之后发现时间过得很快，转眼已经北漂两年了。在北京短短的两年里，留下了很多珍贵的回忆。北漂一年整的时候就有写篇回忆录的想法，但迟迟没有动笔，如今已经开启了北漂的第三年，感觉是时候开始提笔写这篇回忆录了。

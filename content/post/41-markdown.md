@@ -1,11 +1,26 @@
 ---
 title: 互联网写作规范指北
+description: 
 date: 2020-11-21 21:09:46
-tags: [Markdown, 写作]
-categories: 数字生活
----
-<!--more-->
+lastmod:
 
+author: Wonz
+image: 
+categories:
+- 数字生活
+tags:
+- Markdown
+- 写作
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 ## 一、写在前面
 
 我从 2018 年开始接触 **Markdown**，自从习惯了 **Markdown** 写作之后，再也不想用 **Word** 写东西了。
@@ -158,6 +173,7 @@ Markdown 最大可支持六级标题，但是过于复杂的章节反而会影�
 ```python
 print("hello, python!")
 ```
+
 ```
 
 展示效果：

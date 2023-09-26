@@ -1,18 +1,32 @@
 ---
 title: 《OKR工作法：谷歌、领英等顶级公司的高绩效秘籍》书摘记录
+description: 
 date: 2021-12-25 15:41:05
-tags: [OKR, 工作, 管理]
-categories: Wonz笔记
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/51fiyCB9e5L.jpeg
+categories:
+- Wonz笔记
+tags:
+- OKR
+- 工作
+- 管理
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
 > 这是 Wonz 记录的 **第 8 篇** 笔记
 >
 > 书籍：《OKR工作法：谷歌、领英等顶级公司的高绩效秘籍》
 >
 > 作者：克里斯蒂娜·沃特克
->
-> ![51fiyCB9e5L](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/51fiyCB9e5L.jpeg)
-
-<!--more-->
 
 # 1、
 

@@ -1,10 +1,26 @@
 ---
 title: Wonz现场 | 沼泽「风知我」2020巡演北京站现场记录
+description: 
 date: 2020-12-23 21:43:30
-tags: [后摇, live]
-categories: Wonz现场
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201223214637.jpg
+categories:
+- Wonz现场
+tags:
+- live
+- 后摇
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 拍摄的 **第 4 场** 现场记录
 >
 > 乐队：沼泽
@@ -12,10 +28,6 @@ categories: Wonz现场
 > 时间：2020 年 12 月 20 日
 >
 > 场地：北京市 疆进酒 OMNI SPACE
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201223214637.jpg)
-
-<!--more-->
 
 **沼泽**乐队（Zhaoze） 即使在世界范围的摇滚领域，**沼泽**也堪称蹊径独行、自成一派。二〇〇六年，**沼泽**乐队开始探索融入有着古老历史的中国乐器——古琴，并逐渐打造成古琴加摇滚三大件的经典范式。**沼泽**以自己独一无二的方式，将古琴和摇滚融合得如此彻底和全面，将中国山水画般的写意和情怀，泼墨浸染进血液里。  “**沼泽**”名字的缘起，其实寓意了人的周遭自然，直到灵魂之居所——我们内心最深处的隐秘，两者是何等神似：既厌倦，又眷恋；既胶着凝滞，而又在暗里流淌；既糜烂肮脏而又充满郁郁生机……这也可以看作是**沼泽**音乐的一种诠释。 ——摘自网易云音乐
 

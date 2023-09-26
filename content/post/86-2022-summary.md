@@ -1,16 +1,26 @@
 ---
 title: 用 OKR 进行个人目标管理的这一年
+description: 新年快乐
 date: 2023-01-04 21:36:37
-tags: [疫情, 热爱]
-categories: 总结
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308201204652.jpg
+categories:
+- 总结
+tags:
+- 疫情
+- 热爱
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308201204652.jpg)
->
-> 新年快乐
-
-<!--more-->
-
 # 一、写在前面
 
 往年我一直有写年终总结的习惯，但是逐渐意识到自己的年终总结并没有一个大纲，而是想到什么写什么。直到 2022 年初的时候看到派友 [@在下小钢炮](https://sspai.com/u/gunpowder/updates) 写的这篇文章：[毕业倒计时，我这样用 OKR 进行目标管理](https://sspai.com/post/65268)，深受启发。

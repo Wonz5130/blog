@@ -1,21 +1,32 @@
 ---
 title: 青岛游记
+description: 
 date: 2020-09-28 10:58:58
-tags: [大海,旅行,青岛]
-categories: [旅行]
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 旅行
+tags:
+- 大海
+- 旅行
+- 青岛
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: true
 ---
-
-> 待完善
-
-<!--more-->
-
 ### 攻略
 
 9.26
 
 北京南➡️青岛北➡️ Party9无国籍料理➡️五四广场金都花园海景民宿➡️睡个午觉休息一下➡️奥帆中心➡️情人坝➡️小麦岛公园看夜景➡️硬盒现场看live➡️台东路步行街夜市烧烤海鲜原浆啤酒➡️民宿
-
-
 
 9.27
 
@@ -41,10 +52,6 @@ categories: [旅行]
 - 龙江路
 - 小麦岛公园
 - 万象城➡️五四广场➡️奥帆中心➡️情人坝➡️西海岸金沙滩啤酒节
-
-
-
-
 
 吃
 

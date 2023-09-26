@@ -8,22 +8,11 @@
         <language>zh-cn</language>
         <lastBuildDate>Mon, 08 Mar 2021 20:51:16 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E5%9B%BE%E5%BA%8A/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>使用 GitHub &#43; PicGo &#43; jsDelivr 搭建自己的私人图床</title>
-        <link>https://wonz.wang/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</link>
+        <link>https://wonz.wang/2021/03/08/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</link>
         <pubDate>Mon, 08 Mar 2021 20:51:16 +0000</pubDate>
         
-        <guid>https://wonz.wang/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</guid>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;妈妈再也不用担心我上传图片啦！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;一背景&#34;&gt;一、背景&lt;/h3&gt;
+        <guid>https://wonz.wang/2021/03/08/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</guid>
+        <description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png" alt="Featured image of post 使用 GitHub &#43; PicGo &#43; jsDelivr 搭建自己的私人图床" /&gt;&lt;h3 id=&#34;一背景&#34;&gt;一、背景&lt;/h3&gt;
 &lt;p&gt;以前写技术博客的时候，都是用的本地图片，一些博客平台比如 &lt;strong&gt;CSDN&lt;/strong&gt; 同步更新的时候需要手动上传图片，这很浪费时间和精力。为了减少重复工作，一直有用&lt;strong&gt;图床&lt;/strong&gt;的想法，但是又听到 &lt;code&gt;XXX图床挂了&lt;/code&gt; ，一直很担心这个问题。后来发现了一个非常棒的搭建属于自己的私人图床的方法，现记录下来，希望帮助到有同样需求的朋友们。&lt;/p&gt;
 &lt;h3 id=&#34;二创建-github-图床仓库&#34;&gt;二、创建 GitHub 图床仓库&lt;/h3&gt;
 &lt;p&gt;首先你需要有个 &lt;strong&gt;GitHub&lt;/strong&gt; 账号（搞技术的应该都知道全球最大程序员&lt;del&gt;同性&lt;/del&gt;交友网站吧）然后按照下图提示创建一个图床仓库，名字随便起好了。&lt;/p&gt;
@@ -137,7 +126,8 @@
 &lt;p&gt;虽然这篇文章是一年前写的，但是大学室友最近按照我之前写的教程亲测有效，所以我决定重新排下版，润色了一下文字，重新发表出来。&lt;/p&gt;
 &lt;h3 id=&#34;七致谢&#34;&gt;七、致谢&lt;/h3&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://segmentfault.com/a/1190000020240864&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub+jsDelivr+PicGo搭建免费图床&lt;/a&gt;&lt;/p&gt;</description>
+    &gt;GitHub+jsDelivr+PicGo搭建免费图床&lt;/a&gt;&lt;/p&gt;
+</description>
         </item>
         
     </channel>

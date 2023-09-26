@@ -1,19 +1,32 @@
 ---
 title: 《正常人》读书笔记
+description: 
 date: 2022-05-03 18:53:54
-tags: [亲密关系, 爱情, 成长]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s33684682.jpeg
+categories:
+- Wonz笔记
+tags:
+- 亲密关系
+- 爱情
+- 成长
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 14 篇** 笔记
 >
 > 书籍：《正常人》（2020年同名英剧原著）
 >
 > 作者：萨利·鲁尼
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s33684682.jpeg)
-
-<!--more-->
 
 # 一、书摘记录
 
@@ -217,4 +230,4 @@ categories: Wonz笔记
 
 推荐
 
-《Normal People》是我2021年看过的最喜欢的剧。当时觉得结局有点不太满意，大概是那时候没能理解玛丽安和康奈尔。最近开始补原著，也借这机会温故一下亲密关系。发现原著刻画了很丰富的人物内心想法，比剧更值得看。看到结局的时候突然懂了或许这样的结局才是最好的结局，想到了「Love Will Tear Us Apart」这首歌。玛丽安和康奈尔在感情中成长了许多，都在努力成为一个正常人。 
+《Normal People》是我2021年看过的最喜欢的剧。当时觉得结局有点不太满意，大概是那时候没能理解玛丽安和康奈尔。最近开始补原著，也借这机会温故一下亲密关系。发现原著刻画了很丰富的人物内心想法，比剧更值得看。看到结局的时候突然懂了或许这样的结局才是最好的结局，想到了「Love Will Tear Us Apart」这首歌。玛丽安和康奈尔在感情中成长了许多，都在努力成为一个正常人。

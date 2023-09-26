@@ -1,14 +1,27 @@
 ---
 title: 工作近半年的一些个人感悟
+description: 计算机专业的学生到底读研还是工作？
 date: 2020-12-30 23:19:54
-tags: [读研,工作,职场]
-categories: 工作
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 工作
+tags:
+- 读研
+- 工作
+- 职场
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 计算机专业的学生到底读研还是工作？
-
-<!--more-->
-
 ## 写在前面
 
 2019.12.21-12.22，我参加了 2020 全国硕士研究生招生考试初试。后来的结果算是意料之中，没考上，经过自己的一番思考之后，毅然决定毕业后直接工作。在参加 2020 年春招的时候，我写下了一篇文章：[我选择直接工作，不读研](https://wonz.wang/2020/03/05/309-work-not-postgraduate/)。

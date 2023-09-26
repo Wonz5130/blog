@@ -1,15 +1,27 @@
 ---
 title: 我的 2021 社招 9 个月工作经验面经
+description: 肚子好饿，早知道当初多刷点 LeetCode 了
 date: 2021-08-18 22:29:38
-tags: [计算机, 后端, Python]
-categories: 工作
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/243A4A5F-E98A-4458-8AE5-337B067AB524_1_105_c.jpeg
+categories:
+- 工作
+tags:
+- 计算机
+- 后端
+- Python
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-> 肚子好饿，早知道当初多刷点 LeetCode 了
->
-> ![243A4A5F-E98A-4458-8AE5-337B067AB524_1_105_c](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/243A4A5F-E98A-4458-8AE5-337B067AB524_1_105_c.jpeg)
-
-<!--more-->
-
 ## 写在前面
 
 前文[我，离职了](https://wonz.wang/2021/07/21/344-Resign/)提到会出一篇面经，于是抽空整理了下之前的面试经历。

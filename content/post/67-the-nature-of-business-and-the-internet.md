@@ -1,19 +1,31 @@
 ---
 title: 《商业的本质和互联网》书摘记录
+description: 
 date: 2021-12-25 16:15:39
-tags: [商业, 互联网]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s33542894.jpeg
+categories:
+- Wonz笔记
+tags:
+- 商业
+- 互联网
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 9 篇** 笔记
 >
 > 书籍：《**商业的本质和互联网**》
 >
 > 作者：许小年
->
-> ![s33542894](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s33542894.jpeg)
-
-<!--more-->
 
 # 1、
 
@@ -54,9 +66,11 @@ categories: Wonz笔记
 # 9、
 
 > 公式表达如下
+>
 > $$
 > V_M=k_1·n^2
 > $$
+>
 > 式中，$V_M$代表具有梅特卡夫效应的网络价值，$k_1$是个常数，n是网络节点或网络用户数。
 >
 > 活跃用户数和用户增长本质上还是增加用户之间的互动。

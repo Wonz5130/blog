@@ -1,14 +1,25 @@
 ---
 title: 北京鼓楼喝酒不完全指南
+description: 
 date: 2022-12-12 23:28:56
-tags: [酒]
-categories: 生活
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202212180002084.jpeg
+categories:
+- 生活
+tags:
+- 酒
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![890DDAC1-65B1-461D-890D-317F1BCD4CCC_1_105_c.jpeg](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202212180002084.jpeg)
-
-<!--more-->
-
 # 写在前面
 
 写这篇文章的起因还算有点意思，可以拿来简单讲讲作为本篇文章的开头部分。之所以想写这篇文章是因为前段时间偶然在少数派刷到一位我关注很久的派友 @[Konstantine](https://sspai.com/u/konstantine/updates) 写的这篇文章：[城市收藏夹 | 北京精酿啤酒不完全赏味指南](https://sspai.com/post/68914)。当时我就想，既然我周末总喜欢去喝一杯，为什么不写一篇北京鸡尾酒指南呢（我比较爱喝鸡尾酒）。再加上自己平时也收藏和打卡了不少鸡尾酒吧，于是马上开始付诸实践。

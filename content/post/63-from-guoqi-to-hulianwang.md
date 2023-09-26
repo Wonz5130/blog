@@ -1,14 +1,28 @@
 ---
 title: 从国企到互联网，一个初入职场将近一年半工作经验程序员的「得」与「失」
+description: 
 date: 2021-11-24 00:43:31
-tags: [国企, 互联网, 程序员, 加班]
-categories: 工作
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG149.jpeg
+categories:
+- 工作
+tags:
+- 国企
+- 互联网
+- 程序员
+- 加班
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![WechatIMG149](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG149.jpeg)
-
-<!--more-->
-
 # 写在前面
 
 2020 年 7 月 29 日，我只身一人来到北京，开始人生中的第一份工作，在一家国企从事软件开发工作。

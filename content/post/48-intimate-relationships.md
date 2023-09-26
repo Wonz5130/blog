@@ -1,19 +1,32 @@
 ---
 title: 《亲密关系》书摘记录
+description: 
 date: 2021-03-02 21:06:24
-tags: [亲密关系, 恋爱, 婚姻]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s29497110.jpg
+categories:
+- Wonz笔记
+tags:
+- 亲密关系
+- 恋爱
+- 婚姻
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 1 篇** 书摘
 >
 > 书籍：《亲密关系（第6版）》 (社会心理学精品译丛)
 >
 > 作者：罗兰·米勒 (Rowland S. Miller)
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s29497110.jpg)
-
-<!--more-->
 
 ### 1、
 
@@ -152,7 +165,6 @@ categories: Wonz笔记
 有害观点
 
 > - 争吵具有破坏性。争吵就表明伴侣爱自己还不够深。如果彼此深深相爱，就不会发生任何争执。
->
 > - “读心术”很重要。真正彼此关爱的伴侣仅凭直觉就能知道对方的需要和偏好，根本不需要告知对方自己的所思所想。如果必须告诉伴侣自己的想法和愿望，那只能说明伴侣爱自己还不够深。
 > - 伴侣是不会发生改变的。一旦亲密关系变糟，就无法得到改善。如果爱人曾伤害过你，毫无疑问还会一而再，再而三地伤害你。
 > - 每一次的性生活都应该是完美的。只要爱情是忠贞的，每一次的性生活都应该是神奇美妙、令人满足的。伴侣应该经常渴望并为性生活做好准备。
@@ -340,11 +352,8 @@ CLalt影响最终做出离婚决定
 > 当研究者要求100对婚龄持续了45年的满意夫妻解释他们成功的原因时（Lauer et al.，1990），他们的回答是：
 >
 > - 他们珍视婚姻，并认为婚姻是长期的承诺和忠诚；
->
 > - 幽默感非常有益于婚姻；
->
 > - 他们非常相似，在大部分事情上都能达成一致意见；
->
 > - 他们真正地喜欢自己的配偶，喜欢与配偶共度美好时光。
 >
 > 我们希望你的婚姻也能这样。

@@ -10,7 +10,7 @@ enableEmoji: true
 hasCJKLanguage: true
 
 permalinks:
-    post: /:title/
+    post: /:year/:month/:day/:slug/
     page: /:filename/
 
 # 下面是 Stack 主题的参数

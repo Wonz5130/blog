@@ -1,19 +1,31 @@
 ---
 title: 《敏捷实践》学习笔记
+description: 
 date: 2021-12-19 16:49:51
-tags: [敏捷, 工作]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG285.jpeg
+categories:
+- Wonz笔记
+tags:
+- 敏捷
+- 工作
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 7 篇** 笔记
 >
 > 课程：《敏捷实践》
 >
 > 来源：公司内部培训
->
-> ![WechatIMG285](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG285.jpeg)
-
-<!--more-->
 
 # 一、为什么敏捷，敏捷是什么？探秘业务可持续交付的密码
 
@@ -40,9 +52,7 @@ categories: Wonz笔记
 敏捷方法关注持续交付可见的正确成果。
 
 - 增量
-
 - Scrum方法：迭代开发、增量交付、持续的检查和调整
-
 - 1-2周一个迭代，每个迭代长度为固定的时间盒
 
 **频繁的交付可见的成果进行验证，及时进行调整。**
@@ -68,9 +78,7 @@ XP（极限编程）
 ### 1) 个体互动胜于流程和工具
 
 - 以人为本，**人**是获得成功的最为重要的因素
-
 - **沟通及互动**是催化剂、黏合剂，推动项目走向成功
-
 - 适当的使用**流程和工具**有助项目成功，反之有助项目失败
 
 ### 2) 工作的软件胜于详尽的文档

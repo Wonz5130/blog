@@ -1,14 +1,27 @@
 ---
 title: 我从 FUJI ROCK 23 露营回来啦
+description: 
 date: 2023-08-18 11:46:26
-tags: [fuji, 露营, 音乐节]
-categories: 音乐
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308191133901.jpg
+categories:
+- 音乐
+tags:
+- fuji
+- 露营
+- 音乐节
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308191133901.jpg)
-
-<!--more-->
-
 # 写在前面
 
 最早知道 FUJI ROCK 的时候还是在豆瓣看到一篇文章：[我从富士音乐节（Fuji Rock 19)露营回来了！这份完全指南请收好](https://www.douban.com/note/728892700/?_i=81004981ISYmhD,2363707iHsWs3d)。读完心潮澎湃，心想怎么会有这么棒的音乐节。去年的时候看了 FUJI ROCK 22 的直播，心里想着 2025 年之前必须要去一趟 FUJI ROCK。

@@ -1,11 +1,26 @@
 ---
 title: 使用 Shields.io 数据牌 + GitHub 统计卡片美化你的 GitHub profile
+description: 
 date: 2020-09-07 19:06:07
-tags: [GitHub,美化]
-categories: 数字生活
----
-<!--more-->
+lastmod:
 
+author: Wonz
+image: 
+categories:
+- 数字生活
+tags:
+- GitHub
+- 美化
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 ### 一、在 GitHub 中发现小彩蛋
 
 首先，在 GitHub 中创建和账号**同名的**一个 repository，就会发现这个小彩蛋。

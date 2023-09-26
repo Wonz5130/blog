@@ -1,15 +1,25 @@
 ---
 title: 失去微信的二十四小时
+description: 互联网下是否存在真正属于自己的账号？
 date: 2022-10-13 19:12:07
-tags: [微信]
-categories: 随笔
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/IMG_2461.jpeg
+categories:
+- 随笔
+tags:
+- 微信
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-> 互联网下是否存在真正属于自己的账号？
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/IMG_2461.jpeg)
-
-<!--more-->
-
 # 写在前面
 
 2022 年 10 月 13 日，我因为不可抗力失去了使用六年多的微信。在之后的二十四小时里，我尝试了不使用微信，记录了一些变化和思考。

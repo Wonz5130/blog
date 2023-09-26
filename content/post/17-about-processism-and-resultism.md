@@ -1,6 +1,6 @@
 ---
 title: 关于过程论者和结果论者
-description: 写在 2020 考研初试成绩出分后。
+description: 写在 2020 考研初试成绩出分后
 date: 2020-02-27 22:52:08
 lastmod:
 

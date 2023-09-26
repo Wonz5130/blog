@@ -1,10 +1,27 @@
 ---
 title: Wonz现场 | 景德镇文艺复兴 2020 秋季巡演北京站现场记录
+description: 
 date: 2020-09-25 20:33:32
-tags: [后摇,传说,live]
-categories: Wonz现场
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200925221850.jpg
+categories:
+- Wonz现场
+tags:
+- 后摇
+- 传说
+- live
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > Wonz 拍摄的 **第 1 场** 现场
 >
 > 时间：2020 年 9 月 24 日
@@ -12,10 +29,6 @@ categories: Wonz现场
 > 地点：北京市 MAO·Livehouse
 >
 > 乐队：景德镇文艺复兴
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200925221850.jpg)
-
-<!--more-->
 
 ### 写在前面
 
@@ -74,4 +87,3 @@ categories: Wonz现场
 这是正式开始记录的第 1 场现场，希望以后能够成为专业的现场摄影师，拍出更多好看的现场照片。
 
 我是 Wonz，不爱摇滚乐的摄影师不是好程序员，很高兴拍的照片被你们喜欢。
-

@@ -1,12 +1,30 @@
 ---
 title: Wonz 的 2021 年终总结
+description: 
 date: 2022-01-06 00:41:47
-tags: [总结, 北漂, 热爱生活, 摄影, 音乐, 认知]
-categories: 总结
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 总结
+tags:
+- 总结
+- 北漂
+- 热爱生活
+- 摄影
+- 音乐
+- 认知
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-<!--more-->
-
 # 写在前面
 
 老实说这篇年终总结一开始写得并不顺利，一直没有什么好的思路。

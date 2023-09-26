@@ -1,14 +1,28 @@
 ---
 title: 我的 2020 年复盘
+description: 
 date: 2021-01-20 22:50:14
-tags: [复盘, 总结, 生活, 北漂]
-categories: 总结
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103221531.jpg
+categories:
+- 总结
+tags:
+- 复盘
+- 总结
+- 生活
+- 北漂
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103221531.jpg)
-
-<!--more-->
-
 ## 学习与工作
 
 2020 年 6 月，我大学毕业，关于我的大学四年，都写在了这篇文章：[我在南京邮电大学的四年](https://wonz.wang/2020/06/23/317-NJUPT/)。
@@ -215,40 +229,35 @@ P9.「让我再看你一眼，从南到北」摄于江苏南京
    使用一个月后的个人测评文章在这：[新 iPhone SE 使用一个月后的评测](https://wonz.wang/2020/06/14/315-SE2/)。
 
    使用七个月后的感受：我想换 12 Pro。
-
 2. 富士 X-T30 + XF 18-55mm 镜头
 
    ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103201701.jpg)
-
 3. 国家地理相机包
 
    颜值非常高，我经常带出门。
 
    ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103201705.jpg)
-
 4. Apple Watch S6 Nike版
 
    测评文章 2021 年一定写出来！我不能再拖更了。
 
    ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103210823.png)
-
 5. 智米加湿器
 
    北京的秋冬天真的干燥，加湿器真的很有必要。
 
    买加湿器我主要看这几点：
+
    1) 蒸发式，超声波加湿不过滤会有白粉
    2) 容量大，可支持一整晚加湿使用
    3) 便捷式上注水，不用揭盖就能加水
 
    ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103210558.jpg)
-
 6. 智米泡脚桶
 
    买给我妈妈用的。
 
    ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103201720.jpg)
-
 7. 罗技 Anywhere 2S 无线鼠标
 
    目前用过最好用的鼠标，比较适合我这种手小的。之前用的是罗技G300s，用了四年。
@@ -258,13 +267,11 @@ P9.「让我再看你一眼，从南到北」摄于江苏南京
    比较看重它的罗技 FLOW 功能，可以跨电脑复制粘贴，比如我在公司台式机上复制一个网址，然后鼠标切回自己的笔记本，可以直接粘贴。但是目前我还没体验上这个功能，好像需要两台电脑接入同一个网络，一台有线一台无线也不行，必须都是有线或者都是无线。
 
    ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103201711.jpg)
-
 8. 米乔靠背垫
 
    久坐族必备。暂时还没打算买人体工学椅，就先买个靠垫用着。程序员一天坐椅子上至少七个小时，长期不活动会造成腰肌劳损，还是要多注意自己的身体。
 
    ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103201715.jpg)
-
 9. 湿厕纸
 
    极大提升了生活幸福指数。
@@ -283,7 +290,7 @@ P9.「让我再看你一眼，从南到北」摄于江苏南京
 
 [复盘 | 我的 2019 年](https://wonz.wang/2020/01/01/305-2019-summary/)
 
-**P.S.** 
+**P.S.**
 
 封面是九连真人首专「六百万精英」北京首演的现场照片。因为看完我深有感慨，所以就用作开始北漂的自己的 2020 年终总结封面吧。
 

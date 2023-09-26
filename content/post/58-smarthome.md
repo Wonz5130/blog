@@ -1,14 +1,27 @@
 ---
 title: 解放双手，让生活变得更简单一点——我的智能家居入坑指南
+description: 
 date: 2021-10-02 16:56:30
-tags: [智能家居, 数字生活, 小米]
-categories: 生活
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG92.jpeg
+categories:
+- 生活
+tags:
+- 智能家居
+- 数字生活
+- 小米
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
->  ![WechatIMG92](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG92.jpeg)
-
-<!--more-->
-
 # 一、写在前面
 
 想象一下以下的场景：炎炎夏日的夜晚下班回到家，打开大门，玄关灯自动打开，走入客厅，客厅灯一盏一盏慢慢打开，此时发现客厅空调已经提前打开，给屋里降温到合适的温度，再从冰箱里拿出一瓶北冰洋，是不是很惬意。
@@ -300,4 +313,3 @@ categories: 生活
 [1] [空气湿度影响人体健康](http://www.xinhuanet.com/science/2019-07/05/c_138200744.htm)
 
 本文关于智能家居产品的图片来自 [小米有品](https://www.xiaomiyoupin.com/)。
-

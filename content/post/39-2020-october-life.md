@@ -1,17 +1,29 @@
 ---
 title: 2020 年 10 月的碎碎念
+description: 
 date: 2020-11-11 20:35:46
-tags: [生活,快乐]
-categories: Wonz碎碎念
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201102223010.jpg
+categories:
+- Wonz碎碎念
+tags:
+- 生活
+- 快乐
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201102223010.jpg)
-
-<!--more-->
-
 ### 2020.10.01
 
-****
+---
 
 昨晚和朋友蹦完花墙又去赶了第二场和迷笛认识的小河约的局。
 

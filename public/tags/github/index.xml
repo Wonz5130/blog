@@ -8,10 +8,10 @@
         <language>zh-cn</language>
         <lastBuildDate>Mon, 07 Sep 2020 19:06:07 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>使用 Shields.io 数据牌 &#43; GitHub 统计卡片美化你的 GitHub profile</title>
-        <link>https://wonz.wang/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</link>
+        <link>https://wonz.wang/2020/09/07/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</link>
         <pubDate>Mon, 07 Sep 2020 19:06:07 +0000</pubDate>
         
-        <guid>https://wonz.wang/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</guid>
+        <guid>https://wonz.wang/2020/09/07/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</guid>
         <description>&lt;h3 id=&#34;一在-github-中发现小彩蛋&#34;&gt;一、在 GitHub 中发现小彩蛋&lt;/h3&gt;
 &lt;p&gt;首先，在 GitHub 中创建和账号&lt;strong&gt;同名的&lt;/strong&gt;一个 repository，就会发现这个小彩蛋。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_15-35-38.png&#34;
@@ -178,7 +178,8 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/59593&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub Readme Stats&lt;/a&gt;&lt;/p&gt;</description>
+    &gt;GitHub Readme Stats&lt;/a&gt;&lt;/p&gt;
+</description>
         </item>
         
     </channel>

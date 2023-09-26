@@ -1,19 +1,34 @@
 ---
 title: 《把时间当作朋友》书摘记录
+description: 
 date: 2021-11-19 22:48:48
-tags: [认知, 时间, 成功, 工作, 比较]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/cover.jpeg
+categories:
+- Wonz笔记
+tags:
+- 认知
+- 时间
+- 成功
+- 工作
+- 比较
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 6 篇** 书摘
 >
 > 书籍：《把时间当作朋友（第3版）》
 >
 > 作者：李笑来
->
-> ![cover](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/cover.jpeg)
-
-<!--more-->
 
 # 1、
 

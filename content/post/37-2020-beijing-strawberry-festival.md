@@ -1,14 +1,27 @@
 ---
 title: Hi, 我也在北京草莓
+description: 
 date: 2020-10-09 14:37:12
-tags: [音乐节,草莓,朋友,开火车,拉圈,排甩]
-categories: 音乐
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201009135429.jpg
+categories:
+- 音乐
+tags:
+- 音乐节
+- 草莓
+- 朋友
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201009135429.jpg)
-
-<!--more-->
-
 ### 写在前面
 
 ---

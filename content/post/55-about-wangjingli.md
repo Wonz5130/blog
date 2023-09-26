@@ -1,14 +1,26 @@
 ---
 title: 关于王经理
+description: 爷爷一路走好
 date: 2021-09-03 23:19:32
-tags: [死亡, 爷爷]
-categories: 随笔
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 随笔
+tags:
+- 死亡
+- 爷爷
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 爷爷一路走好
-
-<!--more-->
-
 # 关于王经理
 
 王经理生于 1945 年 9 月 23 日，属鸡。

@@ -1,14 +1,28 @@
 ---
 title: 我，离职了
+description: 
 date: 2021-07-21 16:19:39
-tags: [互联网, 程序员, 跳槽, 国企]
-categories: 工作
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/396E10BE-62CF-47D1-A7F8-6395C651F089_1_105_c.jpeg
+categories:
+- 工作
+tags:
+- 互联网
+- 程序员
+- 跳槽
+- 国企
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
->![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/396E10BE-62CF-47D1-A7F8-6395C651F089_1_105_c.jpeg)
-
-<!--more-->
-
 ## 写在前面
 
 本来幻想着提笔开始写这篇文章的时候，会有说不完的话。但是真正到写完这个非常简单的题目时，发现好像也没那么多想说的话。大概是许久没有写文章的原因，翻了下公众号发现停更快三个月了。一部分原因是在准备面试以及其他杂七杂八的事情，另一部分原因是有点渐渐丧失了表达欲。

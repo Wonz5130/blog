@@ -1,11 +1,27 @@
 ---
 title: 一生总要来西藏朝一次圣，说一声「扎西德勒」
+description: 
 date: 2021-07-20 20:11:22
-tags: [西藏, 朝圣, 敬畏自然]
-categories: 旅行
----
-<!--more-->
+lastmod:
 
+author: Wonz
+image: 
+categories:
+- 旅行
+tags:
+- 西藏
+- 朝圣
+- 敬畏自然
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 # 一、写在前面
 
 这是一次很早就萌生了想法的旅行。在 2021 年 6 月提交了离职申请之后，立马开始研究这次所谓的「朝圣」旅行攻略。

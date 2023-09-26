@@ -1,16 +1,28 @@
 ---
 title: 居家办公一个月，我在思考些什么
+description: 「不要说如果，不要等以后」
 date: 2022-05-25 23:43:05
-tags: [疫情, 自律, 生活, 社会]
-categories: 思考
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG497.jpeg
+categories:
+- 思考
+tags:
+- 疫情
+- 自律
+- 生活
+- 社会
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG497.jpeg)
->
-> 「不要说如果，不要等以后」
-
-<!--more-->
-
 # 写在前面
 
 由于疫情，公司从 4 月 11 日开始按照园区 50% 上班限流规定，安排 AB 班。一直到 4 月末仍然是如此，但是过了五一因为疫情严重，就变成了全员居家办公，一直到 5 月 30 日才结束全员居家办公。期间自己所在区的地铁、公交、出租车等交通工具都停运了，导致最远只去过家附近 3km 的地方，本来计划的腰部按摩理疗以及拔智齿都搁置了。满打满算，其实居家办公的日子已经快两个月了。不过整个五月全员居家办公对我的影响更大，也因此有机会更加深入思考了一些东西。
@@ -116,4 +128,3 @@ categories: 思考
 其实整个五月居家办公我过得并不开心，压力与焦虑常伴，我也没找到恢复正常生活状态的方法。前段时间看到有位即友也因为居家办公一个月导致情绪低落，我是这么安慰的「可以找一些快乐的事情做一做 看个电影做做美食健身 前段时间情绪也很低落 一个月没去超过家3km的地方也没人说话 真的容易emo」但是现在转念一想，其实自己情绪低落的时候，也和这位即友一样对什么都提不起兴趣，真的很难受。
 
 如果要问疫情对我最大的影响是什么，那我觉得人生还是应该「Carpe Diem」。大多数时候的后悔和遗憾都是在一些事情发生之后，才意识到之前错过的很多美好的。所以「不要说如果，不要等以后」。
-

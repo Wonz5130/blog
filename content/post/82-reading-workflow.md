@@ -1,13 +1,26 @@
 ---
 title: 构建自己的阅读工作流
+description: 七步法则：信息源 -> 稍后阅读 -> 划线批注 -> 临时笔记 -> 永久笔记（知识库） -> 回顾系统 -> 创作输出
 date: 2022-10-08 10:13:53
-tags: [效率工具, 数字生活]
-categories: 数字生活
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 数字生活
+tags:
+- 效率工具
+- 阅读
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-> 七步法则：信息源 -> 稍后阅读 -> 划线批注 -> 临时笔记 -> 永久笔记（知识库） -> 回顾系统 -> 创作输出
-
-<!--more-->
-
 # 写在前面
 
 作为一名写了五年多的写作爱好者，我深知每篇文章的不易，因为优质的输出对应的是持续的输入。在即将过去的 2022 年我主要依靠阅读书籍、公众号文章、Newsletter 和听播客等方式来进行输入。

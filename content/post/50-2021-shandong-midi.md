@@ -1,15 +1,27 @@
 ---
 title: 迷笛 我的乌托邦 “回家”真快乐
+description: 永远年轻，永远热泪盈眶
 date: 2021-05-12 20:30:40
-tags: [迷笛, 朋友, 摇滚]
-categories: 音乐
+lastmod:
+
+author: Wonz
+image: 
+categories:
+- 音乐
+tags:
+- 迷笛
+- 朋友
+- 摇滚
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> 永远年轻，永远热泪盈眶。
->
-
-<!--more-->
-
 ## 写在前面
 
 感觉上次迷笛还是在昨天一样。

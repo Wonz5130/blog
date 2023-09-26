@@ -1,18 +1,32 @@
 ---
 title: 《昨日不辞而别》读书笔记
+description: 
 date: 2022-10-14 10:15:41
-tags: [摇滚乐, 历史, 西安]
-categories: Wonz笔记
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s28238032.jpeg
+categories:
+- Wonz笔记
+tags:
+- 摇滚乐
+- 历史
+- 西安
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
 > 这是 Wonz 记录的 **第 16 篇** 笔记
 >
 > 书籍：《昨日不辞而别：废都摇滚记忆1990-2014》
 >
 > 作者：锤子
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s28238032.jpeg)
-
-<!--more-->
 
 # 一、书摘记录
 

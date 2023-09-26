@@ -1,19 +1,32 @@
 ---
 title: 《断舍离》读书笔记
+description: 
 date: 2022-01-26 21:37:46
-tags: [生活方式, 收纳, 极简主义]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s26872396.jpeg
+categories:
+- Wonz笔记
+tags:
+- 生活方式
+- 收纳
+- 极简主义
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 12 篇** 笔记
 >
 > 书籍：《断舍离》
 >
 > 作者：山下英子
->
-> ![s26872396](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s26872396.jpeg)
-
-<!--more-->
 
 # 一、全书概括
 
@@ -232,4 +245,4 @@ categories: Wonz笔记
 
 认为一般
 
-讲的是生活中各种收纳整理的哲学，其实对于个人也适用，比如SNS社交也需要断舍离，读书也需要断舍离等等。 
+讲的是生活中各种收纳整理的哲学，其实对于个人也适用，比如SNS社交也需要断舍离，读书也需要断舍离等等。

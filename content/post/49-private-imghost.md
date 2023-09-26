@@ -1,15 +1,27 @@
 ---
 title: 使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床
+description: 妈妈再也不用担心我上传图片啦！
 date: 2021-03-08 20:51:16
-tags: [图床, PicGo, 工具]
-categories: 数字生活
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png
+categories:
+- 数字生活
+tags:
+- 图床
+- PicGo
+- 工具
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-> 妈妈再也不用担心我上传图片啦！
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png)
-
-<!--more-->
-
 ### 一、背景
 
 以前写技术博客的时候，都是用的本地图片，一些博客平台比如 **CSDN** 同步更新的时候需要手动上传图片，这很浪费时间和精力。为了减少重复工作，一直有用**图床**的想法，但是又听到 `XXX图床挂了` ，一直很担心这个问题。后来发现了一个非常棒的搭建属于自己的私人图床的方法，现记录下来，希望帮助到有同样需求的朋友们。

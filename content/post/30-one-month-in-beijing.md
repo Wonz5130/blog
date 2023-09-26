@@ -1,14 +1,26 @@
 ---
 title: 北漂一月有感
+description: 
 date: 2020-08-30 19:58:32
-tags: [北漂,生活]
-categories: 生活
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200831193032.jpg
+categories:
+- 生活
+tags:
+- 北漂
+- 生活
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200831193032.jpg)
-
-<!--more-->
-
 ### 写在前面
 
 来到北京已经一个月整了。

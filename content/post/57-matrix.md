@@ -1,14 +1,25 @@
 ---
 title: 我，加入少数派 Matrix 社区了
+description: 
 date: 2021-10-02 16:51:14
-tags: [少数派, 数字生活]
-categories: 少数派
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78-20211002170824063.jpeg
+categories:
+- 数字生活
+tags:
+- 少数派
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![WechatIMG78](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78-20211002170824063.jpeg)
-
-<!--more-->
-
 # Q1：介绍你自己。
 
 Hi，我是 Wonz。一个刚工作一年多的程序员，坐标北京，主要从事后端开发，最近也在写点前端，主要技术栈是 Python。

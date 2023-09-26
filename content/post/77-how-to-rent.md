@@ -1,14 +1,26 @@
 ---
 title: 租房，其实可以很简单
+description: 
 date: 2022-07-02 11:00:32
-tags: [租房, 北漂]
-categories: 生活
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/20220711202829.png
+categories:
+- 生活
+tags:
+- 租房
+- 北漂
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![img](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/20220711202829.png)
-
-<!--more-->
-
 # 一、写在前面
 
 北漂快两年整了，经历了一次搬家，换了两次居住环境，这次由于租房合同到期、房东涨价以及疫情小区封控，因此打算换个居住环境。

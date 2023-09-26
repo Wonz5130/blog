@@ -1,15 +1,26 @@
 ---
 title: 没工作的这一个月，我做了一次自我整理
+description: 
 date: 2023-05-26 11:55:57
-tags: [工作, 思考]
-categories: 思考
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308201207934.jpeg
+categories:
+- 思考
+tags:
+- 工作
+- 思考
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308201207934.jpeg)
-
-<!--more-->
-
-
 # 写在前面
 
 5 月看到一则新闻：2023 年 4 月，16-24 岁青年的失业率为 20.4%，创下有数据记录以来的新高。巧的是，自己也失业了。

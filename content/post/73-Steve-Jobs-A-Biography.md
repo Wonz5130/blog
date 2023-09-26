@@ -1,19 +1,32 @@
 ---
 title: 《乔布斯传》读书笔记
+description: 
 date: 2022-04-23 11:15:06
-tags: [传记, 创业, 产品]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s27207923.jpeg
+categories:
+- Wonz笔记
+tags:
+- 传记
+- 创业
+- 产品
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 13 篇** 笔记
 >
 > 书籍：《史蒂夫·乔布斯传》
 >
 > 作者：沃尔特·艾萨克森
->
-> ![s27207923](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s27207923.jpeg)
-
-<!--more-->
 
 # 一、书摘记录
 
@@ -405,4 +418,4 @@ categories: Wonz笔记
 
 推荐
 
-喜欢苹果的产品，所以更想了解乔布斯。 
+喜欢苹果的产品，所以更想了解乔布斯。

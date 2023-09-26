@@ -1,14 +1,26 @@
 ---
 title: 2022 年一些喜欢的东西
+description: 
 date: 2022-12-24 20:44:25
-tags: [喜欢, 热爱]
-categories: 总结
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202212252107657.JPG
+categories:
+- 总结
+tags:
+- 喜欢
+- 热爱
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202212252107657.JPG)
-
-<!--more-->
-
 2020 年末的时候在即刻看到 CEO 瓦恁写了这么一句话：在产房陪产的时候，想起那句「人们会被自己热爱的事物改变」，打算今年起每个年底，整理一年里最喜欢东西。于是我决定从 2021 年起，每年都整理过去的一年里最喜欢的东西。
 
 > 最喜欢的一本书

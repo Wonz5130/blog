@@ -1,14 +1,29 @@
 ---
 title: 我的 100 场 live 回忆
+description: 
 date: 2021-12-05 16:30:56
-tags: [摇滚乐, live, Livehouse, 音乐节, 现场]
-categories: [音乐]
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG165-20211205163438554.jpeg
+categories:
+- 音乐
+tags:
+- 摇滚乐
+- live
+- Livehouse
+- 音乐节
+- 现场
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
-
-> ![WechatIMG165](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG165-20211205163438554.jpeg)
-
-<!--more-->
-
 # 写在前面
 
 一名普普通通的喜欢摇滚乐的乐迷，爱看 live，不知不觉也看了有两年多正好 100 场 live 了，决定记录一下。

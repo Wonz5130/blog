@@ -1,18 +1,30 @@
 ---
 title: 《可能性的艺术：比较政治学30讲》读书笔记
+description: 
 date: 2022-12-14 11:29:49
-tags: [政治]
-categories: Wonz笔记
+lastmod:
+
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s34192061.jpeg
+categories:
+- Wonz笔记
+tags:
+- 政治
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
 ---
 > 这是 Wonz 记录的 **第 17 篇** 笔记
 >
 > 书籍：《可能性的艺术：比较政治学30讲》
 >
 > 作者：刘瑜
->
-> ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s34192061.jpeg)
-
-<!--more-->
 
 # 一、书摘记录
 

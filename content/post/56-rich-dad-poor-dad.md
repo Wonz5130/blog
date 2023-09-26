@@ -1,19 +1,31 @@
 ---
 title: 《富爸爸穷爸爸》书摘记录
+description: 
 date: 2021-09-19 23:31:15
-tags: [理财, 投资]
-categories: Wonz笔记
----
+lastmod:
 
+author: Wonz
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s29558323.jpeg
+categories:
+- Wonz笔记
+tags:
+- 理财
+- 投资
+
+comments: true
+mathJax: true
+ShowsNavLinks: true #上一篇文章 || 下一篇文章
+print_background: true
+puppeteer:
+  timeout: 1000
+
+draft: false
+---
 > 这是 Wonz 记录的 **第 3 篇** 书摘
 >
 > 书籍：《富爸爸穷爸爸（20周年修订版）》
 >
 > 作者：罗伯特·清崎
->
-> ![s29558323](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s29558323.jpeg)
-
-<!--more-->
 
 # 1、
 

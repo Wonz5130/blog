@@ -8,10 +8,10 @@
         <language>zh-cn</language>
         <lastBuildDate>Sat, 21 Nov 2020 21:09:46 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>互联网写作规范指北</title>
-        <link>https://wonz.wang/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</link>
+        <link>https://wonz.wang/2020/11/21/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</link>
         <pubDate>Sat, 21 Nov 2020 21:09:46 +0000</pubDate>
         
-        <guid>https://wonz.wang/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</guid>
+        <guid>https://wonz.wang/2020/11/21/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</guid>
         <description>&lt;h2 id=&#34;一写在前面&#34;&gt;一、写在前面&lt;/h2&gt;
 &lt;p&gt;我从 2018 年开始接触 &lt;strong&gt;Markdown&lt;/strong&gt;，自从习惯了 &lt;strong&gt;Markdown&lt;/strong&gt; 写作之后，再也不想用 &lt;strong&gt;Word&lt;/strong&gt; 写东西了。&lt;/p&gt;
 &lt;p&gt;按照&lt;strong&gt;维基百科&lt;/strong&gt;的说法，&lt;strong&gt;Markdown&lt;/strong&gt; 是一种&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Lightweight_markup_language&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -370,7 +370,8 @@ print(&amp;#34;hello, python!&amp;#34;)
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/ruanyf/document-style-guide&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;中文技术文档的写作规范——by 阮一峰&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tingtalk.me/markdown/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Markdown 入门教程及书写风格指南&lt;/a&gt;&lt;/p&gt;</description>
+    &gt;Markdown 入门教程及书写风格指南&lt;/a&gt;&lt;/p&gt;
+</description>
         </item>
         
     </channel>
