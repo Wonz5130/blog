@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数字生活 on Wonz</title><link>https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/</link><description>Recent content in 数字生活 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 08 Oct 2022 10:13:53 +0000</lastBuildDate><atom:link href="https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>构建自己的阅读工作流</title><link>https://wonz.wang/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</link><pubDate>Sat, 08 Oct 2022 10:13:53 +0000</pubDate><guid>https://wonz.wang/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid><description>&lt;blockquote>
-&lt;p>七步法则：信息源 -&amp;gt; 稍后阅读 -&amp;gt; 划线批注 -&amp;gt; 临时笔记 -&amp;gt; 永久笔记（知识库） -&amp;gt; 回顾系统 -&amp;gt; 创作输出&lt;/p>
-&lt;/blockquote>
-&lt;h1 id="写在前面">写在前面&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数字生活 on Wonz</title><link>https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/</link><description>Recent content in 数字生活 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 08 Oct 2022 10:13:53 +0000</lastBuildDate><atom:link href="https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>构建自己的阅读工作流</title><link>https://wonz.wang/2022/10/08/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</link><pubDate>Sat, 08 Oct 2022 10:13:53 +0000</pubDate><guid>https://wonz.wang/2022/10/08/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid><description>&lt;h1 id="写在前面">写在前面&lt;/h1>
 &lt;p>作为一名写了五年多的写作爱好者，我深知每篇文章的不易，因为优质的输出对应的是持续的输入。在即将过去的 2022 年我主要依靠阅读书籍、公众号文章、Newsletter 和听播客等方式来进行输入。&lt;/p>
 &lt;p>机缘巧合之下，我在 2022 年初看到了少数派派友 @&lt;a class="link" href="https://sspai.com/u/b8ciiv6r/updates" target="_blank" rel="noopener"
 >潦草学者&lt;/a> 写的&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
@@ -130,13 +127,49 @@ alt="img"
 &lt;p>&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
 >我的阅读工作流（2021版）- 潦草学者&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://sspai.com/post/70397" target="_blank" rel="noopener"
->我的信息管理方案 - Spike112&lt;/a>&lt;/p></description></item><item><title>使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床</title><link>https://wonz.wang/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</link><pubDate>Mon, 08 Mar 2021 20:51:16 +0000</pubDate><guid>https://wonz.wang/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</guid><description>&lt;blockquote>
-&lt;p>妈妈再也不用担心我上传图片啦！&lt;/p>
-&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png"
+>我的信息管理方案 - Spike112&lt;/a>&lt;/p></description></item><item><title>我，加入少数派 Matrix 社区了</title><link>https://wonz.wang/2021/10/02/%E6%88%91%E5%8A%A0%E5%85%A5%E5%B0%91%E6%95%B0%E6%B4%BE-matrix-%E7%A4%BE%E5%8C%BA%E4%BA%86/</link><pubDate>Sat, 02 Oct 2021 16:51:14 +0000</pubDate><guid>https://wonz.wang/2021/10/02/%E6%88%91%E5%8A%A0%E5%85%A5%E5%B0%91%E6%95%B0%E6%B4%BE-matrix-%E7%A4%BE%E5%8C%BA%E4%BA%86/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78-20211002170824063.jpeg" alt="Featured image of post 我，加入少数派 Matrix 社区了" />&lt;h1 id="q1介绍你自己">Q1：介绍你自己。&lt;/h1>
+&lt;p>Hi，我是 Wonz。一个刚工作一年多的程序员，坐标北京，主要从事后端开发，最近也在写点前端，主要技术栈是 Python。&lt;/p>
+&lt;p>上大学时就一直喜欢折腾一些效率工具，比如 Pin、快捷指令等。平时也对数码产品感兴趣，喜欢看网上的一些数码测评视频和文章。&lt;/p>
+&lt;p>对生活方式、摄影、家居装修、做饭很感兴趣。&lt;/p>
+&lt;h1 id="q2你目前正在主力使用的设备有哪些">Q2：你目前正在主力使用的设备有哪些？&lt;/h1>
+&lt;p>**手机：**iPhone SE 128GB（对续航和存储空间不满意，打算换 13）&lt;/p>
+&lt;p>**电脑：**MacBook Pro (13-inch, 2020)，16GB 内存，512GB 固态硬盘&lt;/p>
+&lt;p>**耳机：**AirPods 第二代&lt;/p>
+&lt;p>**相机：**Fujifilm X-T30 + XF18-55mmF2.8-4 镜头&lt;/p>
+&lt;p>**手表：**Apple Watch Nike Series 6 (GPS)&lt;/p>
+&lt;p>放一张现有的苹果产品全家福：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78.jpeg"
 loading="lazy"
+alt="WechatIMG78"
 >&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="一背景">一、背景&lt;/h3>
+&lt;h1 id="q3哪些-app-对你的工作--学习--生活最重要">Q3：哪些 App 对你的工作 / 学习 / 生活最重要？&lt;/h1>
+&lt;p>我的第一屏没放任何 App，就是想给壁纸留单独的一页。第二页开始才是主屏，基本是每天使用频率较高的 App。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG84.jpeg"
+loading="lazy"
+alt="WechatIMG84"
+>&lt;/p>
+&lt;p>推荐几个最喜欢用的 App。&lt;/p>
+&lt;p>**即刻：**兴趣社交，作为一名加入即刻已经 1700 多天的用户，喜欢在这里记录自己，因为「真实」。&lt;/p>
+&lt;p>**微信读书 + 小宇宙：**上下班通勤挤地铁的时候选择看书或者听播客，充分利用碎片化时间进行知识的「输入」。&lt;/p>
+&lt;p>**钱迹：**极简记账应用，坚持每天记账。&lt;/p>
+&lt;h1 id="q4能否具体谈谈你是如何使用你的设备和-app-的呢">Q4：能否具体谈谈你是如何使用你的设备和 App 的呢？&lt;/h1>
+&lt;p>MacBook 是我主要的输出工具。体验过 macOS 之后就不想再用 Windows 了，MacBook 号称程序员必备不是没道理的。搭配我的 ikbc poker2 红轴机械键盘和 Dell U2720QM 4K 显示器，敲代码和码字根本停不下来。&lt;/p>
+&lt;p>iPhone 则主要偏向娱乐休闲，主要是使用一些 SNS。&lt;/p>
+&lt;p>Apple Watch 作为手机的副屏，能够及时收到一些重要短信或者推送。每天也会关注一下是否合上圆环，包括站立、锻炼等。&lt;/p>
+&lt;h1 id="q5有什么自己用过-100-元以内提升自己生活品质的好东西吗">Q5：有什么自己用过 100 元以内提升自己生活品质的好东西吗？&lt;/h1>
+&lt;p>**键帽：**前段时间给自己的机械键盘换了一套 PBT 不打油的无刻键帽，敲代码的手速都提升了不少。&lt;/p>
+&lt;p>**香薰：**买了一款 layered fragrance 麝香味香薰放卧室，睡觉的时候闻着淡淡的幽香，真的太惬意了（价格稍微有点超 100 元，但是真的强烈推荐）。&lt;/p>
+&lt;h1 id="q6说一个你很喜欢但还少有人知道的-app">Q6：说一个你很喜欢、但还少有人知道的 App。&lt;/h1>
+&lt;p>**即士多：**一个分享好物的平台。&lt;/p>
+&lt;p>平时各种自己用过的提升生活幸福感的小玩意都会上架到这里。欢迎大家来即士多逛我的小店：棒棒堂。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG83.jpeg"
+loading="lazy"
+alt="WechatIMG83"
+>&lt;/p>
+&lt;h1 id="q7在你订阅的付费服务当中哪一些是不可或缺的">Q7：在你订阅的付费服务当中哪一些是不可或缺的？&lt;/h1>
+&lt;p>**iCloud：**喜欢苹果的生态。&lt;/p>
+&lt;p>**微信读书：**虽然自己也有上网找电子书资源的能力，但是往往折腾下来花费的时间和精力有点得不偿失，微信读书一键导出笔记的功能我很喜欢，方便做书摘。&lt;/p>
+&lt;p>&lt;strong>P.S.&lt;/strong> 之前申请过一次 Matrix 作者，但是没通过，一直以为审核比较严，毕竟少数派这个平台的文章质量都很高。最近又申请了一次，把自己的公众号、个人网站、博客链接都放上去了，总算申请通过了。以后应该会同步在 Matrix 社区更新一些文章，包括但不限于生活方式、产品体验、经验观点等。&lt;/p></description></item><item><title>使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床</title><link>https://wonz.wang/2021/03/08/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</link><pubDate>Mon, 08 Mar 2021 20:51:16 +0000</pubDate><guid>https://wonz.wang/2021/03/08/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png" alt="Featured image of post 使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床" />&lt;h3 id="一背景">一、背景&lt;/h3>
 &lt;p>以前写技术博客的时候，都是用的本地图片，一些博客平台比如 &lt;strong>CSDN&lt;/strong> 同步更新的时候需要手动上传图片，这很浪费时间和精力。为了减少重复工作，一直有用&lt;strong>图床&lt;/strong>的想法，但是又听到 &lt;code>XXX图床挂了&lt;/code> ，一直很担心这个问题。后来发现了一个非常棒的搭建属于自己的私人图床的方法，现记录下来，希望帮助到有同样需求的朋友们。&lt;/p>
 &lt;h3 id="二创建-github-图床仓库">二、创建 GitHub 图床仓库&lt;/h3>
 &lt;p>首先你需要有个 &lt;strong>GitHub&lt;/strong> 账号（搞技术的应该都知道全球最大程序员&lt;del>同性&lt;/del>交友网站吧）然后按照下图提示创建一个图床仓库，名字随便起好了。&lt;/p>
@@ -195,7 +228,7 @@ loading="lazy"
 &lt;p>虽然这篇文章是一年前写的，但是大学室友最近按照我之前写的教程亲测有效，所以我决定重新排下版，润色了一下文字，重新发表出来。&lt;/p>
 &lt;h3 id="七致谢">七、致谢&lt;/h3>
 &lt;p>&lt;a class="link" href="https://segmentfault.com/a/1190000020240864" target="_blank" rel="noopener"
->GitHub+jsDelivr+PicGo搭建免费图床&lt;/a>&lt;/p></description></item><item><title>互联网写作规范指北</title><link>https://wonz.wang/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</link><pubDate>Sat, 21 Nov 2020 21:09:46 +0000</pubDate><guid>https://wonz.wang/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</guid><description>&lt;h2 id="一写在前面">一、写在前面&lt;/h2>
+>GitHub+jsDelivr+PicGo搭建免费图床&lt;/a>&lt;/p></description></item><item><title>互联网写作规范指北</title><link>https://wonz.wang/2020/11/21/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</link><pubDate>Sat, 21 Nov 2020 21:09:46 +0000</pubDate><guid>https://wonz.wang/2020/11/21/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</guid><description>&lt;h2 id="一写在前面">一、写在前面&lt;/h2>
 &lt;p>我从 2018 年开始接触 &lt;strong>Markdown&lt;/strong>，自从习惯了 &lt;strong>Markdown&lt;/strong> 写作之后，再也不想用 &lt;strong>Word&lt;/strong> 写东西了。&lt;/p>
 &lt;p>按照&lt;strong>维基百科&lt;/strong>的说法，&lt;strong>Markdown&lt;/strong> 是一种&lt;a class="link" href="https://en.wikipedia.org/wiki/Lightweight_markup_language" target="_blank" rel="noopener"
 >轻量级的标记语言&lt;/a>，&lt;a class="link" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener"
@@ -541,7 +574,66 @@ loading="lazy"
 &lt;p>&lt;a class="link" href="https://github.com/ruanyf/document-style-guide" target="_blank" rel="noopener"
 >中文技术文档的写作规范——by 阮一峰&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://tingtalk.me/markdown/" target="_blank" rel="noopener"
->Markdown 入门教程及书写风格指南&lt;/a>&lt;/p></description></item><item><title>使用 Shields.io 数据牌 + GitHub 统计卡片美化你的 GitHub profile</title><link>https://wonz.wang/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</link><pubDate>Mon, 07 Sep 2020 19:06:07 +0000</pubDate><guid>https://wonz.wang/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</guid><description>&lt;h3 id="一在-github-中发现小彩蛋">一、在 GitHub 中发现小彩蛋&lt;/h3>
+>Markdown 入门教程及书写风格指南&lt;/a>&lt;/p></description></item><item><title>与联通相伴 1248 天后，我办理了携号转网</title><link>https://wonz.wang/2020/09/14/%E4%B8%8E%E8%81%94%E9%80%9A%E7%9B%B8%E4%BC%B4-1248-%E5%A4%A9%E5%90%8E%E6%88%91%E5%8A%9E%E7%90%86%E4%BA%86%E6%90%BA%E5%8F%B7%E8%BD%AC%E7%BD%91/</link><pubDate>Mon, 14 Sep 2020 14:47:29 +0000</pubDate><guid>https://wonz.wang/2020/09/14/%E4%B8%8E%E8%81%94%E9%80%9A%E7%9B%B8%E4%BC%B4-1248-%E5%A4%A9%E5%90%8E%E6%88%91%E5%8A%9E%E7%90%86%E4%BA%86%E6%90%BA%E5%8F%B7%E8%BD%AC%E7%BD%91/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917145751.jpg" alt="Featured image of post 与联通相伴 1248 天后，我办理了携号转网" />&lt;h3 id="一写在前面">一、写在前面&lt;/h3>
+&lt;p>大学第一年的时候办理了这张哔哩哔哩卡，当时就是本着可以免流刷 B 站的目的办理的。现在发现早就不怎么看 B 站了，而且要看也是用电脑看。然而我每个月对流量需求还是比较大，差不多一个月消费 50 元左右。最最最重要的就是联通的信号实在是太差了。记得大学期间在宿舍只有两格信号，在公司负一楼的健身房直接一格信号，流量完全没法用。&lt;/p>
+&lt;p>在经过网上的详细查阅资料研究之后，决定携号转网，投入电信的怀抱。&lt;/p>
+&lt;h3 id="二申请携号转网">二、申请携号转网&lt;/h3>
+&lt;p>首先编辑短信 &lt;strong>CXXZ#姓名#身份证号码&lt;/strong> 给要 &lt;strong>转出&lt;/strong> 的运营商，查询自己是否有携号转网资格。&lt;/p>
+&lt;p>我是发送给联通 10010，然后发现有一个 &lt;strong>低消送流量 3.0-18元档&lt;/strong> 的服务，于是打电话叫人工取消了，大概等了一个多小时就取消该服务了。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200914140932.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>因为我是想转入电信，打电话 10000 咨询携号转网发现可以直接下载 &lt;strong>电信营业厅&lt;/strong> App 进行相关操作。&lt;strong>电信营业厅&lt;/strong> App 可以登录联通的账号，然后就会看到非常明显的 &lt;strong>携号入网&lt;/strong> 字样（下面是用室友手机截的图，我自己当时忘记截了，现在已经看不到了）。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917141339.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>然后点击，照下面流程申请就行。选一个套餐，我申请的时候只有星卡日租版可以选，我就选了 &lt;strong>19元日租版&lt;/strong>，支付了一分钱，然后说等待 3-5 天。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200916233951.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>结果周日下午申请，发现晚上已经审核通过，直接发货了。第二天周一中午就打电话问要不要现场激活。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917214508.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="三激活">三、激活&lt;/h3>
+&lt;p>周一中午吃午饭的时候，就接到快递小哥的电话要来办理现场激活。流程大概就是快递背面写的这样，这些都是快递小哥操作的。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200914140919.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>现场激活，需要编辑短信 &lt;strong>SQXZ#姓名#身份证号码&lt;/strong> 给原运营商获取授权码。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200914141002.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>这里插一条：因为担心携号转网期间号码功能无法使用，于是就填的室友的手机号，快递信息也是直接打室友电话的。实际上，携号转网期间正常使用，流量通话短信都正常使用。&lt;/p>
+&lt;p>左边是电信星卡，右边是联通哔哩哔哩卡。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200914140959.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>之后我又在 &lt;strong>电信营业厅&lt;/strong> App 中点击了 &lt;strong>开通激活&lt;/strong> ，不知道这一步是不是多余。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200914140951.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>因为它是 &lt;strong>整点&lt;/strong> 开始生效，所以需要到 13:00 才能激活成功。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200915163401.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>可能有延迟，到 13:38 的时候电信还没有数据服务，之后就可以了。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200914140955.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>使用四天以来，感觉信号确实不错，公司宿舍基本满格，公司负一楼健身房也有两格信号。下次去 Livehouse 测试一下，上周去糖果大楼三层看 live 发现联通只有一格信号，啥也刷不了。&lt;/p>
+&lt;h3 id="四办理后的问题">四、办理后的问题&lt;/h3>
+&lt;h5 id="原运营商">原运营商&lt;/h5>
+&lt;p>原运营商剩余的话费需要次月 10 日之后去归属地营业厅办理退款申请。&lt;/p>
+&lt;p>转出后 120 天还能办理转回去。&lt;/p>
+&lt;h5 id="新运营商">新运营商&lt;/h5>
+&lt;p>之前我研究过许多套餐，最后看中两款很具有性价比的套餐。一款是北京校园电信，不需要学生身份证明就能办理，但是只支持归属地是北京的。遗憾的是我的归属地并不是北京，因此无奈放弃。还有一款也是非常具有性价比的，电信小安卡，月租 20 元 = 46G 全国统用流量 + 200G 定向流量 + 100 分钟全国通话 + 首月免月租。结果打电话给 10000 咨询办理这款套餐，客服说归属地那边没有这款，其他也没找到适合我这种对流量需求比较大且想要月租少一点的套餐了，无奈放弃。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917150310.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>其实这么一算，感觉现在一个月的话费消费应该和之前联通套餐差不多，顿时感觉好像携号转网没有必要了，唯一比较欣慰的就是目前发现电信信号确实好点了。&lt;/p>
+&lt;h5 id="归属地">归属地&lt;/h5>
+&lt;p>携号转网并不会改变号码本来的归属地。&lt;/p></description></item><item><title>使用 Shields.io 数据牌 + GitHub 统计卡片美化你的 GitHub profile</title><link>https://wonz.wang/2020/09/07/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</link><pubDate>Mon, 07 Sep 2020 19:06:07 +0000</pubDate><guid>https://wonz.wang/2020/09/07/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</guid><description>&lt;h3 id="一在-github-中发现小彩蛋">一、在 GitHub 中发现小彩蛋&lt;/h3>
 &lt;p>首先，在 GitHub 中创建和账号&lt;strong>同名的&lt;/strong>一个 repository，就会发现这个小彩蛋。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_15-35-38.png"
 loading="lazy"
@@ -642,7 +734,7 @@ loading="lazy"
 &lt;p>&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
 >用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
->GitHub Readme Stats&lt;/a>&lt;/p></description></item><item><title>RSS应用分享：RSSHub</title><link>https://wonz.wang/rss%E5%BA%94%E7%94%A8%E5%88%86%E4%BA%ABrsshub/</link><pubDate>Sun, 15 Mar 2020 13:00:02 +0000</pubDate><guid>https://wonz.wang/rss%E5%BA%94%E7%94%A8%E5%88%86%E4%BA%ABrsshub/</guid><description>&lt;h3 id="前言">前言&lt;/h3>
+>GitHub Readme Stats&lt;/a>&lt;/p></description></item><item><title>RSS应用分享：RSSHub</title><link>https://wonz.wang/2020/03/15/rss%E5%BA%94%E7%94%A8%E5%88%86%E4%BA%ABrsshub/</link><pubDate>Sun, 15 Mar 2020 13:00:02 +0000</pubDate><guid>https://wonz.wang/2020/03/15/rss%E5%BA%94%E7%94%A8%E5%88%86%E4%BA%ABrsshub/</guid><description>&lt;h3 id="前言">前言&lt;/h3>
 &lt;p>高效获取信息是我这种喜欢效率的人的首选方式。&lt;/p>
 &lt;p>正如开发她的人所说「万物皆可RSS」。覆盖的 RSS 真的非常丰富！爱折腾的话其实自己研究一下参数选择会发现很多有意思的 RSS。&lt;/p>
 &lt;h3 id="软件">软件&lt;/h3>

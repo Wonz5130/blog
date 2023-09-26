@@ -1,11 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>敏捷 on Wonz</title><link>https://wonz.wang/tags/%E6%95%8F%E6%8D%B7/</link><description>Recent content in 敏捷 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 19 Dec 2021 16:49:51 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E6%95%8F%E6%8D%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>《敏捷实践》学习笔记</title><link>https://wonz.wang/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link><pubDate>Sun, 19 Dec 2021 16:49:51 +0000</pubDate><guid>https://wonz.wang/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>敏捷 on Wonz</title><link>https://wonz.wang/tags/%E6%95%8F%E6%8D%B7/</link><description>Recent content in 敏捷 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 19 Dec 2021 16:49:51 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E6%95%8F%E6%8D%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>《敏捷实践》学习笔记</title><link>https://wonz.wang/2021/12/19/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link><pubDate>Sun, 19 Dec 2021 16:49:51 +0000</pubDate><guid>https://wonz.wang/2021/12/19/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG285.jpeg" alt="Featured image of post 《敏捷实践》学习笔记" />&lt;blockquote>
 &lt;p>这是 Wonz 记录的 &lt;strong>第 7 篇&lt;/strong> 笔记&lt;/p>
 &lt;p>课程：《敏捷实践》&lt;/p>
 &lt;p>来源：公司内部培训&lt;/p>
-&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG285.jpeg"
-loading="lazy"
-alt="WechatIMG285"
->&lt;/p>
 &lt;/blockquote>
 &lt;h1 id="一为什么敏捷敏捷是什么探秘业务可持续交付的密码">一、为什么敏捷，敏捷是什么？探秘业务可持续交付的密码&lt;/h1>
 &lt;h2 id="1-软件开发的发展过程">1. 软件开发的发展过程&lt;/h2>
@@ -20,15 +16,9 @@ alt="WechatIMG285"
 &lt;p>频繁的交付可见成果，目的是验证我们对市场和需求的认知，确保交付正确的成果，同时获取反馈进行快速调整。&lt;/p>
 &lt;p>敏捷方法关注持续交付可见的正确成果。&lt;/p>
 &lt;ul>
-&lt;li>
-&lt;p>增量&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Scrum方法：迭代开发、增量交付、持续的检查和调整&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>1-2周一个迭代，每个迭代长度为固定的时间盒&lt;/p>
-&lt;/li>
+&lt;li>增量&lt;/li>
+&lt;li>Scrum方法：迭代开发、增量交付、持续的检查和调整&lt;/li>
+&lt;li>1-2周一个迭代，每个迭代长度为固定的时间盒&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>频繁的交付可见的成果进行验证，及时进行调整。&lt;/strong>&lt;/p>
 &lt;h3 id="3-自组织">3) 自组织&lt;/h3>
@@ -42,15 +32,9 @@ alt="WechatIMG285"
 &lt;h2 id="3-敏捷宣言">3. 敏捷宣言&lt;/h2>
 &lt;h3 id="1-个体互动胜于流程和工具">1) 个体互动胜于流程和工具&lt;/h3>
 &lt;ul>
-&lt;li>
-&lt;p>以人为本，&lt;strong>人&lt;/strong>是获得成功的最为重要的因素&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>沟通及互动&lt;/strong>是催化剂、黏合剂，推动项目走向成功&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>适当的使用&lt;strong>流程和工具&lt;/strong>有助项目成功，反之有助项目失败&lt;/p>
-&lt;/li>
+&lt;li>以人为本，&lt;strong>人&lt;/strong>是获得成功的最为重要的因素&lt;/li>
+&lt;li>&lt;strong>沟通及互动&lt;/strong>是催化剂、黏合剂，推动项目走向成功&lt;/li>
+&lt;li>适当的使用&lt;strong>流程和工具&lt;/strong>有助项目成功，反之有助项目失败&lt;/li>
 &lt;/ul>
 &lt;h3 id="2-工作的软件胜于详尽的文档">2) 工作的软件胜于详尽的文档&lt;/h3>
 &lt;ul>
