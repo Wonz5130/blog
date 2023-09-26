@@ -12,11 +12,7 @@
         <pubDate>Mon, 15 Jun 2020 09:58:33 +0000</pubDate>
         
         <guid>https://wonz.wang/%E8%B5%B0%E8%BF%87%E8%B7%AF%E8%BF%87%E8%BF%9B%E6%9D%A5%E7%9C%8B%E7%9C%8B/</guid>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;欢迎订阅&lt;a class=&#34;link&#34; href=&#34;https://wonz.hedwig.pub&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;「进来看看」&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;写在前面&#34;&gt;写在前面&lt;/h3&gt;
+        <description>&lt;h3 id=&#34;写在前面&#34;&gt;写在前面&lt;/h3&gt;
 &lt;p&gt;哈喽大家好，在开微信公众号、博客之后，我准备开一个 Newsletter 了。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;微信公众号&#34;&gt;微信公众号&lt;/h3&gt;
@@ -49,7 +45,8 @@
 &lt;p&gt;按照传统，这是我的 Newsletter 第一篇文章，也就是所谓的第 0 期。&lt;/p&gt;
 &lt;p&gt;我会尽量做到发布的内容不让你们失望，「认真对待」是我做事的标准。&lt;/p&gt;
 &lt;p&gt;我是 Wonz，很高兴写的文章被你们看到。&lt;/p&gt;
-&lt;p&gt;总之，欢迎订阅：https://wonz.hedwig.pub&lt;/p&gt;</description>
+&lt;p&gt;总之，欢迎订阅：https://wonz.hedwig.pub&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>RSS应用分享：RSSHub</title>
@@ -125,7 +122,8 @@
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/idealclover/Easy-to-RSS&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Easy-to-RSS 源码&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;彩蛋&#34;&gt;彩蛋&lt;/h3&gt;
-&lt;p&gt;在「Easy-to-RSS」中发现了「即刻」的RSS（虽然已经 404 了）。&lt;/p&gt;</description>
+&lt;p&gt;在「Easy-to-RSS」中发现了「即刻」的RSS（虽然已经 404 了）。&lt;/p&gt;
+</description>
         </item>
         
     </channel>

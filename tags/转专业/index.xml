@@ -12,11 +12,7 @@
         <pubDate>Thu, 17 May 2018 00:36:49 +0000</pubDate>
         
         <guid>https://wonz.wang/%E8%BD%AC%E4%B8%93%E4%B8%9A%E5%9B%9E%E5%BF%86/</guid>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;2018.5.15—2018.5.16&lt;/p&gt;
-&lt;p&gt;为期两天的转专业考试终于结束了，心里的一块大石头终于落地了。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;先说说 5.15 的笔试。&lt;/p&gt;
+        <description>&lt;p&gt;先说说 5.15 的笔试。&lt;/p&gt;
 &lt;p&gt;笔试考的是数据结构 B。一开始做感觉不是很难。不过中间做到一道简答题的第二小问：求一个森林 (含有三棵树) 的先序遍历，脑子一抽把原来的答案改掉了，改成了三棵子树同时进行先序遍历。森林如下图所示：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/1.png&#34;
 	
@@ -140,8 +136,9 @@
 &lt;p&gt;走出面试会议室的大门，我感觉一下子轻松了好多。想想自己从当初大二上决定转，中间又畏惧大三补的课，退缩了几次，再到后面铁了心要转计科，真的是很艰难啊。不过还好，确定想转计科之后，就无所畏惧了。大二寒假留在学校培训美赛的时候，白天做数模题目，晚上抽一两个小时自学数据结构，看书 + 看 ppt。寒假结束差不多全部看了一遍，大二上开学花了两三周又看了一遍。然后就跟着学校的正常教学进度学了。到四月中旬的时候，开始重新复习，加上刷题。再到五月，开始做考研的数据结构题目。感觉自己为了转专业真的是投入了好多的精力。想想自己进入大学以来，没有哪一件事有准备转专业这么全力以赴了。最近的一件估计就是高考了。这种 all in 的感觉让我仿佛回到了高考。这样的感觉真不错！&lt;/p&gt;
 &lt;p&gt;期待好消息，晚安！&lt;/p&gt;
 &lt;p&gt;2018.5.17  0:36&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;本文于 2018 年 5 月 17 日首发于 &lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/Wonz5130/article/details/80344738&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CSDN&lt;/a&gt;。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;code&gt;&amp;lt;u&amp;gt;&lt;/code&gt;本文于 2018 年 5 月 17 日首发于 &lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/Wonz5130/article/details/80344738&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CSDN&lt;/a&gt;。&lt;code&gt;&amp;lt;/u&amp;gt;&lt;/code&gt;&lt;/p&gt;
+</description>
         </item>
         
     </channel>

@@ -12,10 +12,7 @@
         <pubDate>Thu, 27 Feb 2020 22:52:08 +0000</pubDate>
         
         <guid>https://wonz.wang/%E5%85%B3%E4%BA%8E%E8%BF%87%E7%A8%8B%E8%AE%BA%E8%80%85%E5%92%8C%E7%BB%93%E6%9E%9C%E8%AE%BA%E8%80%85/</guid>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;写在 2020 考研初试成绩出分后&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;写在前面&#34;&gt;写在前面&lt;/h3&gt;
+        <description>&lt;h3 id=&#34;写在前面&#34;&gt;写在前面&lt;/h3&gt;
 &lt;p&gt;前阵子和一个好朋友聊到 &lt;code&gt;过程论者&lt;/code&gt; 和 &lt;code&gt;结果论者&lt;/code&gt; ，很有感触。&lt;/p&gt;
 &lt;p&gt;以前的我大概是个 &lt;code&gt;结果论者&lt;/code&gt; ，但是经历多了发现绝大多数事情的结果并不会如自己所愿的那样，或者说结果不会像自己想象中那么完美，后来我就变成一个 &lt;code&gt;过程论者&lt;/code&gt; 了。转变大概是大三参加的那次美赛吧。大二也参加过，成绩惨不忍睹。以为大三经验还可以，总得拿个比上次好点的奖吧，事实上结果还是和上次一样。但是回过来仔细想想，其实那段训练 + 比赛的时光更值得回忆。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%e5%be%ae%e4%bf%a1%e5%9b%be%e7%89%87_20200229211957.jpg&#34;
@@ -64,7 +61,8 @@
 	loading=&#34;lazy&#34;
 	
 	
-&gt;&lt;/p&gt;</description>
+&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>写给计算机学院的同学们</title>
@@ -72,20 +70,7 @@
         <pubDate>Thu, 31 Jan 2019 12:33:40 +0000</pubDate>
         
         <guid>https://wonz.wang/%E5%86%99%E7%BB%99%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E7%9A%84%E5%90%8C%E5%AD%A6%E4%BB%AC/</guid>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;半年前，我写过一篇微信推送，给想走计算机这条路的学弟学妹们一些自己的建议。&lt;/p&gt;
-&lt;p&gt;半年后，真正在计算机学院待了一学期之后，我对计算机的认知又有了新的看法。&lt;/p&gt;
-&lt;p&gt;于是，想重新写一篇博客，想尽我所能地让学弟学妹们少走点歪路吧。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/250-1.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;to-students-at-school-of-computer-science&#34;&gt;To students at School of Computer Science:&lt;/h2&gt;
+        <description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/250-1.jpg" alt="Featured image of post 写给计算机学院的同学们" /&gt;&lt;h2 id=&#34;to-students-at-school-of-computer-science&#34;&gt;To students at School of Computer Science:&lt;/h2&gt;
 &lt;h3 id=&#34;目录&#34;&gt;目录&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -120,20 +105,14 @@
 &lt;h3 id=&#34;正文开始&#34;&gt;正文开始&lt;/h3&gt;
 &lt;p&gt;三条主线，会有交叉。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;**时间线：**大一、大二、大三、大四&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;**方向线：**学习、竞赛、科研&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;**规划线：**国内读研、工作、出国&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;**时间线：**大一、大二、大三、大四&lt;/li&gt;
+&lt;li&gt;**方向线：**学习、竞赛、科研&lt;/li&gt;
+&lt;li&gt;**规划线：**国内读研、工作、出国&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h5 id=&#34;大一大二&#34;&gt;大一、大二&lt;/h5&gt;
 &lt;p&gt;学习的重要性就不说了，&lt;code&gt;GPA&lt;/code&gt; 真的是个好东西，有个保研的学长告诉我，本科阶段，刷 &lt;code&gt;GPA&lt;/code&gt; 比竞赛拿奖容易太多了。事实上，我觉得也是这样。&lt;/p&gt;
 &lt;p&gt;大一大二还是可以参加点比赛的，不过小川同学的建议是，竞赛贵在精，不在多。含金量高的竞赛就那么几个，&lt;code&gt;数模&lt;/code&gt; 、&lt;code&gt;ACM&lt;/code&gt; 、&lt;code&gt;电赛&lt;/code&gt; 、&lt;code&gt;挑战杯&lt;/code&gt; 等等，其他一些比赛，站在功利点的角度，其实真的没什么意义，你和外校的同学竞争的时候，提起一些校内甚至院内的比赛，他们可能听都没听过。但是，你一说，&lt;code&gt;数模&lt;/code&gt; 啊，&lt;code&gt;ACM&lt;/code&gt; 啊，他们就知道了。&lt;code&gt;数模&lt;/code&gt; 可以参加，但是我觉得 &lt;code&gt;ACM&lt;/code&gt; 其实更偏向于读计算机专业的学生参加。&lt;code&gt;算法&lt;/code&gt; 和 &lt;code&gt;数据结构&lt;/code&gt; ，不管是找工作，还是考研复试上机，都是要考的。但是，&lt;code&gt;ACM&lt;/code&gt; 是很累的，非常非常累！没有寒暑假，还会占据平时的放松时间，毕竟每周都要训练几十小时，这可不是开玩笑的。但是我可以郑重地告诉你，坚持下来，肯定收获很大，不说能不能拿个奖牌，单说 &lt;code&gt;算法&lt;/code&gt; 这方面，就可以碾压很多人了。&lt;/p&gt;
-&lt;p&gt;另外，如果你接触了 &lt;code&gt;ACM&lt;/code&gt; 之后，发现没有很大的兴趣，也没事。你可以选择 &lt;code&gt;做项目&lt;/code&gt; ，有个学长就是在 &lt;code&gt;ACM 校队&lt;/code&gt; 呆了之后，发现自己对做项目更有兴趣，于是转了方向，后来在 &lt;code&gt;微软&lt;/code&gt; 、&lt;code&gt;阿里云&lt;/code&gt; 都实习过。这里就要提到&lt;code&gt;STITP&lt;/code&gt; 了，虽说有些学长说，国家级的才有点含金量，省级的有些都没什么用，更别说校级了。这里，我想说的是，别那么功利性，项目做出来，收获肯定有的。导师方面也要多咨询，有些老师，就算是校级的项目，都能出三四个专利。我的 &lt;code&gt;STITP&lt;/code&gt; 只有校级重点的评级，但是我一点都不难过，当时放弃 &lt;code&gt;数模&lt;/code&gt; ，选择 &lt;code&gt;做大创&lt;/code&gt; ，就想好了，不管什么评级，都要好好做。算是为自己增加一个项目经验。毕竟，学计算机的，大学四年，连个项目都没做出来过，说出来真的会被人笑话。我也想 &lt;code&gt;GitHub&lt;/code&gt; 上多捞点 &lt;code&gt;Star&lt;/code&gt; 啊！&lt;/p&gt;
+&lt;p&gt;另外，如果你接触了 &lt;code&gt;ACM&lt;/code&gt; 之后，发现没有很大的兴趣，也没事。你可以选择 &lt;code&gt;做项目&lt;/code&gt; ，有个学长就是在 &lt;code&gt;ACM 校队&lt;/code&gt; 呆了之后，发现自己对做项目更有兴趣，于是转了方向，后来在 &lt;code&gt;微软&lt;/code&gt; 、&lt;code&gt;阿里云&lt;/code&gt; 都实习过。这里就要提到 &lt;code&gt;STITP&lt;/code&gt; 了，虽说有些学长说，国家级的才有点含金量，省级的有些都没什么用，更别说校级了。这里，我想说的是，别那么功利性，项目做出来，收获肯定有的。导师方面也要多咨询，有些老师，就算是校级的项目，都能出三四个专利。我的 &lt;code&gt;STITP&lt;/code&gt; 只有校级重点的评级，但是我一点都不难过，当时放弃 &lt;code&gt;数模&lt;/code&gt; ，选择 &lt;code&gt;做大创&lt;/code&gt; ，就想好了，不管什么评级，都要好好做。算是为自己增加一个项目经验。毕竟，学计算机的，大学四年，连个项目都没做出来过，说出来真的会被人笑话。我也想 &lt;code&gt;GitHub&lt;/code&gt; 上多捞点 &lt;code&gt;Star&lt;/code&gt; 啊！&lt;/p&gt;
 &lt;h5 id=&#34;大三&#34;&gt;大三&lt;/h5&gt;
 &lt;p&gt;准备就业的话，大三就要开始 &lt;code&gt;找实习&lt;/code&gt; 了。暑假期间肯定要申请到一份实习，有实习能大大降低简历被刷的概率。一般计算机秋招在暑假刚结束的 8 月末 9 月初开始。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习面试内容：&lt;/strong&gt;&lt;/p&gt;
@@ -191,7 +170,8 @@
 &lt;li&gt;管院爱好编程的「杨学长」&lt;/li&gt;
 &lt;li&gt;从事 C# 开发的「于学姐、崔学长」&lt;/li&gt;
 &lt;li&gt;给我考研一些指导的「张学长」&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+</description>
         </item>
         
     </channel>
