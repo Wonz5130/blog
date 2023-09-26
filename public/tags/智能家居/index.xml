@@ -12,301 +12,334 @@
         <pubDate>Sat, 02 Oct 2021 16:56:30 +0000</pubDate>
         
         <guid>https://wonz.wang/%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B%E8%AE%A9%E7%94%9F%E6%B4%BB%E5%8F%98%E5%BE%97%E6%9B%B4%E7%AE%80%E5%8D%95%E4%B8%80%E7%82%B9%E6%88%91%E7%9A%84%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E5%85%A5%E5%9D%91%E6%8C%87%E5%8D%97/</guid>
-        <description>&gt;  ![WechatIMG92](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG92.jpeg)
-
-
-
-# 一、写在前面
-
-想象一下以下的场景：炎炎夏日的夜晚下班回到家，打开大门，玄关灯自动打开，走入客厅，客厅灯一盏一盏慢慢打开，此时发现客厅空调已经提前打开，给屋里降温到合适的温度，再从冰箱里拿出一瓶北冰洋，是不是很惬意。
-
-而这，就是我想要的智能家居生活。智能家居的初衷是让机器记住自己的生活习惯，解放双手，提升生活幸福感。
-
-因此，如果单纯为了购买一些智能家居而让平时的行为更加复杂化，这是不推崇的。
-
-# 二、米家 or HomeKit
-
-智能家居生态有苹果的 HomeKit、小米的米家、华为等。在网上查阅相关资料之后，加上预算有限，因此考虑了性价比高、产品覆盖全面的米家。HomeKit 生态的产品普遍比小米贵很多，而且产品线也没有小米全面。至于华为等就不考虑了。
-
-另外小米是比较统一的性冷淡白，非常符合我的审美。
-
-# 三、物联网协议
-
-## 1. Wi-Fi
-
-优点：稳定性强。
-
-缺点：耗能高，浪费带宽，依赖路由性能。
-
-## 2. 蓝牙
-
-优点：大多数智能家居都带蓝牙。
-
-缺点：稳定性弱。功耗、稳定性、传输距离都不太好。
-
-## 3. ZigBee
-
-优点：稳定性强。自组网，低功耗，距离15米。
-
-缺点：产品较少。
-
-# 四、硬件篇
-
-考虑到自己是租房党，因此不会考虑大件智能家居，比如洗碗机等。先放一张自己的智能家居全览图。
-
-![WechatIMG91](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG91.jpeg)
-
-## 1. 川
-
-这里是我的工作台，也就是给自己「充电」的区域。主要是一张升降桌 + 人体工学椅，平时在这里写文章、学技术、修图片、看电影。
-
-### 1)  米家台灯1S ¥149
-
-#### 产品
-
-![Snipaste_2021-10-02_16-09-07](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-10-02_16-09-07.png)
-
-#### 我的使用场景
-
-主要用于工作台照明，不过现在已经被显示器挂灯取代。
-
-### 2) 米家显示器挂灯 ¥199
-
-#### 产品
-
-![673123dd71ad5b18dbab48d3be19da6c](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/673123dd71ad5b18dbab48d3be19da6c.jpeg)
-
-#### 我的使用场景
-
-晚上不用再开台灯，显示器挂灯可以有效避免屏幕反光的情况发生。而且米家的显示器挂灯有一个无线遥控可以控制色温、亮度，非常方便。
-
-### 3) Yeelight彩光灯带1S 2米 ¥189
-
-#### 产品
-
-![5b57db12N1688c2b5](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/5b57db12N1688c2b5.jpeg)
-
-#### 我的使用场景
-
-买了升降桌之后就立马下单了灯带，晚上开着氛围灯不管是写代码还是看电影，都非常合适。满满的数码博主的样子。
-
-### 4) 小米智能摄像机 云台版2K ¥199
-
-#### 产品
-
-![Snipaste_2021-10-02_16-32-10](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-10-02_16-32-10.png)
-
-#### 我的使用场景
-
-我主要用来做安防用，摄像机这个东西买的就是安心，家里如果有小猫咪的话会非常有用。
-
-## 2. 客厅
-
-### 1) 小米路由器AX3000 ¥349
-
-#### 产品
-
-![06368882185c0c0c00ff3916eac7e392](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/06368882185c0c0c00ff3916eac7e392.webp)
-
-#### 我的使用场景
-
-许多智能设备都需要接入网络，而且只支持 2.4GHz。这款路由器支持 2.4GHz 和 5GHz 双频段。
-
-### 2) 小爱音箱万能遥控板 ¥115（咸鱼）
-
-#### 产品
-
-![Snipaste_2021-09-03_01-00-10](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-09-03_01-00-10.png)
-
-#### 我的使用场景
-
-这款官网已下架，在咸鱼淘了个二手，没啥毛病。支持语音、红外控制电器，比如电视机、空调、风扇等。已经习惯每天早上起床问一下小爱同学天气预报决定今天穿什么衣服和鞋，当然伞是每天出门必带的。
-
-### 3) 小米智能多模网关 ¥169
-
-#### 产品
-
-![834acc2fbef17d5acd42b9ea7eed5dc4](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/834acc2fbef17d5acd42b9ea7eed5dc4.jpeg)
-
-#### 我的使用场景
-
-这款小米多模网关，Wi-Fi、ZigBee 3.0、蓝牙都支持，可以很好的适配家中各种协议的智能家居产品。
-
-### 4) 米家空调伴侣2  ¥79
-
-#### 产品
-
-![b1f98f2bebccac445d6dcdb7ee14c9d8](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/b1f98f2bebccac445d6dcdb7ee14c9d8.webp)
-
-#### 我的使用场景
-
-这是刚搬入新家就买的智能家居产品。主要用来实现回家提前打开空调。
-
-只需要一个插座，就可以把传统空调变成智能空调。远程控制、小爱声控、睡后调温、电量统计，功能应有尽有。自带 Wi-Fi 功能，可直接连接网络。
-
-### 5) 米家智能开关 双开单控 ¥69
-
-#### 产品
-
-![Snipaste_2021-08-23_23-19-22](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-08-23_23-19-22.png)
-
-**注：** 此智能产品的远程控制、智能联动等功能，需要搭配支持蓝牙 Mesh 网关功能的设备才可以使用。可以考虑像我一样，买一台支持有蓝牙 Mesh 功能的小爱音箱即可进行智能联动。
-
-#### 我的使用场景
-
-要说家里最经常打开的，当然非电灯莫属了。而传统的都是墙壁开关，需要手动打开和关闭。
-
-米家智能开关主要分为单火和零火两个版本。从安全性角度，更推荐零火。但考虑到我是租房党，房屋装修已经定死了，预留零线这个已经做不到了，因此选择的是单火版，目前来看没有出现关灯状态下 **“灯闪”** 等异常情况。
-
-其实也可以考虑直接换米家智能灯，但是成本太高，且不易于搬家，而且花几十块买个智能开关就能将普通灯变成智能灯不香吗？
-
-另外安装的时候，尽量找专业的师傅比如小区电工师傅进行安装，安装前一定要断电。我找了师傅来安装发现安装服务费都快赶上开关的费用了。现场学习了一下安装过程，下次应该可以自己在家断电进行安装了。
-
-### 6) 小米人体传感器2  ¥59
-
-#### 产品
-
-![d23bc168fbc7d85df2a80d8b20ec352e](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/d23bc168fbc7d85df2a80d8b20ec352e.jpeg)
-
-#### 我的使用场景
-
-这款其实在网上看评论发现并不太智能，因为是通过红外线进行感应的。如果有人移动，它会感应到有人移动，但是如果停在它面前不移动，它就感应不出来了。不过才 59 元的人体传感器，要啥自行车？
-
-### 7) 智米纯净型加湿器 ¥499
-
-#### 产品
-
-![img](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/img.jpeg)
-
-**注：** 这款是无水雾无粉末，4L水箱，上注水，蒸发型。
-
-我选择加湿器主要关注这几点：
-
-1. 蒸发式，超声波加湿不过滤会有白粉。
-2. 容量大，可支持一整晚加湿使用。
-3. 便捷式上注水，不用揭盖就能加水。
-
-#### 我的使用场景
-
-北京的气候确实比南方干燥很多，本南方人虽然没有出现干燥到流鼻血的情况，但是脸上起皮倒是经常有，因此买了个加湿器。
-
-研究表明，最有益于人体的健康湿度范围为 45% 至 60%。如果空气中的湿度低于 45%，会造成室内干燥，导致皮肤、咽喉、呼吸道干燥，容易引发哮喘等呼吸道疾病。当空气湿度高于 60% 时，人体会感觉闷热难耐，而当空气湿度高于 80% 时，则属于湿度过高，会使人体散热困难，从而导致体温升高、心跳加快、头晕恶心等症状。 ^[1]^
-
-### 8) 小米米家蓝牙温湿度计 2 ¥29
-
-#### 产品
-
-![bc25e9bee1c171028ff58d96108fdb86](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/bc25e9bee1c171028ff58d96108fdb86.jpeg)
-
-#### 我的使用场景
-
-我买了这个主要是和加湿器一起配合使用，设置湿度低于 45% 就自动打开加湿器，高于 60% 就自动关闭加湿器。不过加湿器最近出现了点问题无法正常开机，正在寄回维修中。
-
-## 3. 玄关
-
-### 1) 小米门窗传感器2 ¥49
-
-#### 产品
-
-![46394a927c56f995f350864c1d1ed334](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/46394a927c56f995f350864c1d1ed334.jpeg)
-
-#### 我的使用场景
-
-主要通过该传感器判断开关门，达成回家条件，自动化执行回家命令。
-
-### 2) 米家夜灯2 蓝牙版  ¥59
-
-#### 产品
-
-![9e37f41daf2a64810f41d22b3fb9f388](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/9e37f41daf2a64810f41d22b3fb9f388.jpeg)
-
-**注：** 这款夜灯除了基础的夜灯功能，还有人体传感器、光线传感器的功能。
-
-#### 我的使用场景
-
-我把它安装在了玄关处，也是卧室到卫生间的走廊处。
-
-**场景一：** 晚上回家，打开大门，夜灯通过自带的人体传感功能判断到有人，且通过自带的光线传感功能判断环境光暗，就自动打开夜灯，然后在设置的时间内自动熄灭。我设置的是亮 30s。
-
-**场景二：** 晚上睡觉的时候，想去一趟卫生间，同理也是分别根据人体传感和光线传感判断条件，实现自动亮灯，30s 后自动熄灭。
-
-另外要说的一点是：夜灯的灯光属于比较昏暗的（可调节），不会像白色的日光灯那样对于刚从黑暗环境出来的人产生刺眼的感觉。这点非常人性化。
-
-## 4. 卧室
-
-### 1) 米家智能开关 单开单控 ¥59
-
-客厅用的是双开单控，卧室用的是单开单控，都是单火版。
-
-### 2) 米家插电夜灯 ¥19.9
-
-#### 产品
-
-![10dc91e10833bdfcfdecc868ecb21a3c](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/10dc91e10833bdfcfdecc868ecb21a3c.jpeg)
-
-#### 我的使用场景
-
-晚上不想在漆黑的卧室看到刺眼的白色灯光，于是装了个小夜灯，晚上自动亮起，灯光偏暖色不刺眼，卧室的吸顶灯基本用不到。不过这款不支持接入米家。
-
-## 5. 想买但还没买
-
-- 智能窗帘：再也不用手动拉窗帘了。
-- 扫地机器人：住大房子每周打扫真的很麻烦。
-- HomePod mini：可以自己设置通过捷径实现 Siri 控制智能家居。
-
-# 五、软件篇
-
-软件部分主要就是设置各种自动化场景，真正实现解放双手。
-
-## 场景一：回家提前开空调
-
-晚上下班回家，**地理围栏** 检测到我走到小区 100 米范围内，并判断屋里温度高于 26℃，自动打开客厅空调，并调至预设温度。
-
-![WechatIMG89](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG89.jpeg)
-
-**注：** **地理围栏** 只有 iOS 才可以使用。
-
-## 场景二：回家
-
-打开大门，触发门窗传感器，接着打开台灯、灯带、川吸顶灯，摄像机进入休眠状态，小爱音箱播放自定义内容。如果走入客厅，人体传感器判断到有人移动，再打开客厅吸顶灯。
-
-![WechatIMG90](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG90.jpeg)
-
-## 场景三：夜间上洗手间
-
-玄关处的小米夜灯2 感应到有人经过，自动亮 30s 后关闭。
-
-# 六、一些槽点
-
-## 槽点一：回家场景与离家场景无法共存
-
-之前除了设置回家场景，还设置了离家场景。
-
-触发回家场景的判断条件是门窗传感器打开，即打开大门，陆续执行操作家中各种智能家居产品的指令。而触发离家场景的判断条件则是门窗传感器关闭，即关闭大门，陆续执行操作家中各种智能家居产品的指令。这样导致的一个问题就是，到家打开大门，灯都开了，关上大门发现灯又关了。于是我想到的一个简单的解决方法是不使用离家模式。因为我离家一般是不会忘记关灯关空调的。而且即使忘记了，可以手机上远程操作关闭。
-
-## 槽点二：Wi-Fi 一断产品就离线
-
-家里的 Wi-Fi 在三个月里有一两次意外断过，导致家里的智能家居很多都离线了。还在上班的我突然收到米家 App 发来的推送 **“产品已离线”** 还以为家里进贼了。
-
-# 七、一些思考
-
-在研究智能家居场景的时候，很像写代码，需要考虑触发条件和响应结果。但是如果考虑的触发条件太复杂，很容易导致 bug 的产生。因此需要实际使用中不断完善场景。因为自己就是写代码的，所以对于设置这些指令觉得很有意思。
-
-不过还是发现指令设置简单一点比较好。如果还用了嵌套很容易发生意想不到的情况，比如我客厅吸顶灯的打开指令嵌套进了回家场景，但是经常在不想客厅吸顶灯打开的情况下意外打开。
-
-购买不建议一次性把产品都买齐，可以先买些小爱音箱、智能开关、空调伴侣等入坑体验一下智能家居再决定是否购买其它智能家居产品。就比如我这个智能家居花了一个多月的时间才打造完成，智能家居产品也是慢慢添加的，遇到哪个场景不完善，需要新的设备进行配合，再购买即可。
-
-# 八、写在后面
-
-智能家居不是终点，科技只是为了提高生活的幸福感。
-
-最理想的生活还是需要人的陪伴，恋人也好，亲人朋友也罢，有人的地方才叫生活。
-
-# 九、引用
-
-[1] [空气湿度影响人体健康](http://www.xinhuanet.com/science/2019-07/05/c_138200744.htm)
-
-本文关于智能家居产品的图片来自 [小米有品](https://www.xiaomiyoupin.com/)。</description>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG92.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;WechatIMG92&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;一写在前面&#34;&gt;一、写在前面&lt;/h1&gt;
+&lt;p&gt;想象一下以下的场景：炎炎夏日的夜晚下班回到家，打开大门，玄关灯自动打开，走入客厅，客厅灯一盏一盏慢慢打开，此时发现客厅空调已经提前打开，给屋里降温到合适的温度，再从冰箱里拿出一瓶北冰洋，是不是很惬意。&lt;/p&gt;
+&lt;p&gt;而这，就是我想要的智能家居生活。智能家居的初衷是让机器记住自己的生活习惯，解放双手，提升生活幸福感。&lt;/p&gt;
+&lt;p&gt;因此，如果单纯为了购买一些智能家居而让平时的行为更加复杂化，这是不推崇的。&lt;/p&gt;
+&lt;h1 id=&#34;二米家-or-homekit&#34;&gt;二、米家 or HomeKit&lt;/h1&gt;
+&lt;p&gt;智能家居生态有苹果的 HomeKit、小米的米家、华为等。在网上查阅相关资料之后，加上预算有限，因此考虑了性价比高、产品覆盖全面的米家。HomeKit 生态的产品普遍比小米贵很多，而且产品线也没有小米全面。至于华为等就不考虑了。&lt;/p&gt;
+&lt;p&gt;另外小米是比较统一的性冷淡白，非常符合我的审美。&lt;/p&gt;
+&lt;h1 id=&#34;三物联网协议&#34;&gt;三、物联网协议&lt;/h1&gt;
+&lt;h2 id=&#34;1-wi-fi&#34;&gt;1. Wi-Fi&lt;/h2&gt;
+&lt;p&gt;优点：稳定性强。&lt;/p&gt;
+&lt;p&gt;缺点：耗能高，浪费带宽，依赖路由性能。&lt;/p&gt;
+&lt;h2 id=&#34;2-蓝牙&#34;&gt;2. 蓝牙&lt;/h2&gt;
+&lt;p&gt;优点：大多数智能家居都带蓝牙。&lt;/p&gt;
+&lt;p&gt;缺点：稳定性弱。功耗、稳定性、传输距离都不太好。&lt;/p&gt;
+&lt;h2 id=&#34;3-zigbee&#34;&gt;3. ZigBee&lt;/h2&gt;
+&lt;p&gt;优点：稳定性强。自组网，低功耗，距离15米。&lt;/p&gt;
+&lt;p&gt;缺点：产品较少。&lt;/p&gt;
+&lt;h1 id=&#34;四硬件篇&#34;&gt;四、硬件篇&lt;/h1&gt;
+&lt;p&gt;考虑到自己是租房党，因此不会考虑大件智能家居，比如洗碗机等。先放一张自己的智能家居全览图。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG91.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;WechatIMG91&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;1-川&#34;&gt;1. 川&lt;/h2&gt;
+&lt;p&gt;这里是我的工作台，也就是给自己「充电」的区域。主要是一张升降桌 + 人体工学椅，平时在这里写文章、学技术、修图片、看电影。&lt;/p&gt;
+&lt;h3 id=&#34;1--米家台灯1s-149&#34;&gt;1)  米家台灯1S ¥149&lt;/h3&gt;
+&lt;h4 id=&#34;产品&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-10-02_16-09-07.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Snipaste_2021-10-02_16-09-07&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;主要用于工作台照明，不过现在已经被显示器挂灯取代。&lt;/p&gt;
+&lt;h3 id=&#34;2-米家显示器挂灯-199&#34;&gt;2) 米家显示器挂灯 ¥199&lt;/h3&gt;
+&lt;h4 id=&#34;产品-1&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/673123dd71ad5b18dbab48d3be19da6c.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;673123dd71ad5b18dbab48d3be19da6c&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-1&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;晚上不用再开台灯，显示器挂灯可以有效避免屏幕反光的情况发生。而且米家的显示器挂灯有一个无线遥控可以控制色温、亮度，非常方便。&lt;/p&gt;
+&lt;h3 id=&#34;3-yeelight彩光灯带1s-2米-189&#34;&gt;3) Yeelight彩光灯带1S 2米 ¥189&lt;/h3&gt;
+&lt;h4 id=&#34;产品-2&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/5b57db12N1688c2b5.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;5b57db12N1688c2b5&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-2&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;买了升降桌之后就立马下单了灯带，晚上开着氛围灯不管是写代码还是看电影，都非常合适。满满的数码博主的样子。&lt;/p&gt;
+&lt;h3 id=&#34;4-小米智能摄像机-云台版2k-199&#34;&gt;4) 小米智能摄像机 云台版2K ¥199&lt;/h3&gt;
+&lt;h4 id=&#34;产品-3&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-10-02_16-32-10.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Snipaste_2021-10-02_16-32-10&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-3&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;我主要用来做安防用，摄像机这个东西买的就是安心，家里如果有小猫咪的话会非常有用。&lt;/p&gt;
+&lt;h2 id=&#34;2-客厅&#34;&gt;2. 客厅&lt;/h2&gt;
+&lt;h3 id=&#34;1-小米路由器ax3000-349&#34;&gt;1) 小米路由器AX3000 ¥349&lt;/h3&gt;
+&lt;h4 id=&#34;产品-4&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/06368882185c0c0c00ff3916eac7e392.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;06368882185c0c0c00ff3916eac7e392&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-4&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;许多智能设备都需要接入网络，而且只支持 2.4GHz。这款路由器支持 2.4GHz 和 5GHz 双频段。&lt;/p&gt;
+&lt;h3 id=&#34;2-小爱音箱万能遥控板-115咸鱼&#34;&gt;2) 小爱音箱万能遥控板 ¥115（咸鱼）&lt;/h3&gt;
+&lt;h4 id=&#34;产品-5&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-09-03_01-00-10.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Snipaste_2021-09-03_01-00-10&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-5&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;这款官网已下架，在咸鱼淘了个二手，没啥毛病。支持语音、红外控制电器，比如电视机、空调、风扇等。已经习惯每天早上起床问一下小爱同学天气预报决定今天穿什么衣服和鞋，当然伞是每天出门必带的。&lt;/p&gt;
+&lt;h3 id=&#34;3-小米智能多模网关-169&#34;&gt;3) 小米智能多模网关 ¥169&lt;/h3&gt;
+&lt;h4 id=&#34;产品-6&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/834acc2fbef17d5acd42b9ea7eed5dc4.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;834acc2fbef17d5acd42b9ea7eed5dc4&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-6&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;这款小米多模网关，Wi-Fi、ZigBee 3.0、蓝牙都支持，可以很好的适配家中各种协议的智能家居产品。&lt;/p&gt;
+&lt;h3 id=&#34;4-米家空调伴侣2--79&#34;&gt;4) 米家空调伴侣2  ¥79&lt;/h3&gt;
+&lt;h4 id=&#34;产品-7&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/b1f98f2bebccac445d6dcdb7ee14c9d8.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;b1f98f2bebccac445d6dcdb7ee14c9d8&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-7&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;这是刚搬入新家就买的智能家居产品。主要用来实现回家提前打开空调。&lt;/p&gt;
+&lt;p&gt;只需要一个插座，就可以把传统空调变成智能空调。远程控制、小爱声控、睡后调温、电量统计，功能应有尽有。自带 Wi-Fi 功能，可直接连接网络。&lt;/p&gt;
+&lt;h3 id=&#34;5-米家智能开关-双开单控-69&#34;&gt;5) 米家智能开关 双开单控 ¥69&lt;/h3&gt;
+&lt;h4 id=&#34;产品-8&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-08-23_23-19-22.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Snipaste_2021-08-23_23-19-22&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注：&lt;/strong&gt; 此智能产品的远程控制、智能联动等功能，需要搭配支持蓝牙 Mesh 网关功能的设备才可以使用。可以考虑像我一样，买一台支持有蓝牙 Mesh 功能的小爱音箱即可进行智能联动。&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-8&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;要说家里最经常打开的，当然非电灯莫属了。而传统的都是墙壁开关，需要手动打开和关闭。&lt;/p&gt;
+&lt;p&gt;米家智能开关主要分为单火和零火两个版本。从安全性角度，更推荐零火。但考虑到我是租房党，房屋装修已经定死了，预留零线这个已经做不到了，因此选择的是单火版，目前来看没有出现关灯状态下 &lt;strong&gt;“灯闪”&lt;/strong&gt; 等异常情况。&lt;/p&gt;
+&lt;p&gt;其实也可以考虑直接换米家智能灯，但是成本太高，且不易于搬家，而且花几十块买个智能开关就能将普通灯变成智能灯不香吗？&lt;/p&gt;
+&lt;p&gt;另外安装的时候，尽量找专业的师傅比如小区电工师傅进行安装，安装前一定要断电。我找了师傅来安装发现安装服务费都快赶上开关的费用了。现场学习了一下安装过程，下次应该可以自己在家断电进行安装了。&lt;/p&gt;
+&lt;h3 id=&#34;6-小米人体传感器2--59&#34;&gt;6) 小米人体传感器2  ¥59&lt;/h3&gt;
+&lt;h4 id=&#34;产品-9&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/d23bc168fbc7d85df2a80d8b20ec352e.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;d23bc168fbc7d85df2a80d8b20ec352e&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-9&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;这款其实在网上看评论发现并不太智能，因为是通过红外线进行感应的。如果有人移动，它会感应到有人移动，但是如果停在它面前不移动，它就感应不出来了。不过才 59 元的人体传感器，要啥自行车？&lt;/p&gt;
+&lt;h3 id=&#34;7-智米纯净型加湿器-499&#34;&gt;7) 智米纯净型加湿器 ¥499&lt;/h3&gt;
+&lt;h4 id=&#34;产品-10&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/img.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注：&lt;/strong&gt; 这款是无水雾无粉末，4L水箱，上注水，蒸发型。&lt;/p&gt;
+&lt;p&gt;我选择加湿器主要关注这几点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;蒸发式，超声波加湿不过滤会有白粉。&lt;/li&gt;
+&lt;li&gt;容量大，可支持一整晚加湿使用。&lt;/li&gt;
+&lt;li&gt;便捷式上注水，不用揭盖就能加水。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;我的使用场景-10&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;北京的气候确实比南方干燥很多，本南方人虽然没有出现干燥到流鼻血的情况，但是脸上起皮倒是经常有，因此买了个加湿器。&lt;/p&gt;
+&lt;p&gt;研究表明，最有益于人体的健康湿度范围为 45% 至 60%。如果空气中的湿度低于 45%，会造成室内干燥，导致皮肤、咽喉、呼吸道干燥，容易引发哮喘等呼吸道疾病。当空气湿度高于 60% 时，人体会感觉闷热难耐，而当空气湿度高于 80% 时，则属于湿度过高，会使人体散热困难，从而导致体温升高、心跳加快、头晕恶心等症状。 ^[1]^&lt;/p&gt;
+&lt;h3 id=&#34;8-小米米家蓝牙温湿度计-2-29&#34;&gt;8) 小米米家蓝牙温湿度计 2 ¥29&lt;/h3&gt;
+&lt;h4 id=&#34;产品-11&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/bc25e9bee1c171028ff58d96108fdb86.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;bc25e9bee1c171028ff58d96108fdb86&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-11&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;我买了这个主要是和加湿器一起配合使用，设置湿度低于 45% 就自动打开加湿器，高于 60% 就自动关闭加湿器。不过加湿器最近出现了点问题无法正常开机，正在寄回维修中。&lt;/p&gt;
+&lt;h2 id=&#34;3-玄关&#34;&gt;3. 玄关&lt;/h2&gt;
+&lt;h3 id=&#34;1-小米门窗传感器2-49&#34;&gt;1) 小米门窗传感器2 ¥49&lt;/h3&gt;
+&lt;h4 id=&#34;产品-12&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/46394a927c56f995f350864c1d1ed334.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;46394a927c56f995f350864c1d1ed334&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-12&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;主要通过该传感器判断开关门，达成回家条件，自动化执行回家命令。&lt;/p&gt;
+&lt;h3 id=&#34;2-米家夜灯2-蓝牙版--59&#34;&gt;2) 米家夜灯2 蓝牙版  ¥59&lt;/h3&gt;
+&lt;h4 id=&#34;产品-13&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/9e37f41daf2a64810f41d22b3fb9f388.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;9e37f41daf2a64810f41d22b3fb9f388&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注：&lt;/strong&gt; 这款夜灯除了基础的夜灯功能，还有人体传感器、光线传感器的功能。&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-13&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;我把它安装在了玄关处，也是卧室到卫生间的走廊处。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;场景一：&lt;/strong&gt; 晚上回家，打开大门，夜灯通过自带的人体传感功能判断到有人，且通过自带的光线传感功能判断环境光暗，就自动打开夜灯，然后在设置的时间内自动熄灭。我设置的是亮 30s。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;场景二：&lt;/strong&gt; 晚上睡觉的时候，想去一趟卫生间，同理也是分别根据人体传感和光线传感判断条件，实现自动亮灯，30s 后自动熄灭。&lt;/p&gt;
+&lt;p&gt;另外要说的一点是：夜灯的灯光属于比较昏暗的（可调节），不会像白色的日光灯那样对于刚从黑暗环境出来的人产生刺眼的感觉。这点非常人性化。&lt;/p&gt;
+&lt;h2 id=&#34;4-卧室&#34;&gt;4. 卧室&lt;/h2&gt;
+&lt;h3 id=&#34;1-米家智能开关-单开单控-59&#34;&gt;1) 米家智能开关 单开单控 ¥59&lt;/h3&gt;
+&lt;p&gt;客厅用的是双开单控，卧室用的是单开单控，都是单火版。&lt;/p&gt;
+&lt;h3 id=&#34;2-米家插电夜灯-199&#34;&gt;2) 米家插电夜灯 ¥19.9&lt;/h3&gt;
+&lt;h4 id=&#34;产品-14&#34;&gt;产品&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/10dc91e10833bdfcfdecc868ecb21a3c.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;10dc91e10833bdfcfdecc868ecb21a3c&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;我的使用场景-14&#34;&gt;我的使用场景&lt;/h4&gt;
+&lt;p&gt;晚上不想在漆黑的卧室看到刺眼的白色灯光，于是装了个小夜灯，晚上自动亮起，灯光偏暖色不刺眼，卧室的吸顶灯基本用不到。不过这款不支持接入米家。&lt;/p&gt;
+&lt;h2 id=&#34;5-想买但还没买&#34;&gt;5. 想买但还没买&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;智能窗帘：再也不用手动拉窗帘了。&lt;/li&gt;
+&lt;li&gt;扫地机器人：住大房子每周打扫真的很麻烦。&lt;/li&gt;
+&lt;li&gt;HomePod mini：可以自己设置通过捷径实现 Siri 控制智能家居。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;五软件篇&#34;&gt;五、软件篇&lt;/h1&gt;
+&lt;p&gt;软件部分主要就是设置各种自动化场景，真正实现解放双手。&lt;/p&gt;
+&lt;h2 id=&#34;场景一回家提前开空调&#34;&gt;场景一：回家提前开空调&lt;/h2&gt;
+&lt;p&gt;晚上下班回家，&lt;strong&gt;地理围栏&lt;/strong&gt; 检测到我走到小区 100 米范围内，并判断屋里温度高于 26℃，自动打开客厅空调，并调至预设温度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG89.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;WechatIMG89&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注：&lt;/strong&gt; &lt;strong&gt;地理围栏&lt;/strong&gt; 只有 iOS 才可以使用。&lt;/p&gt;
+&lt;h2 id=&#34;场景二回家&#34;&gt;场景二：回家&lt;/h2&gt;
+&lt;p&gt;打开大门，触发门窗传感器，接着打开台灯、灯带、川吸顶灯，摄像机进入休眠状态，小爱音箱播放自定义内容。如果走入客厅，人体传感器判断到有人移动，再打开客厅吸顶灯。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG90.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;WechatIMG90&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;场景三夜间上洗手间&#34;&gt;场景三：夜间上洗手间&lt;/h2&gt;
+&lt;p&gt;玄关处的小米夜灯2 感应到有人经过，自动亮 30s 后关闭。&lt;/p&gt;
+&lt;h1 id=&#34;六一些槽点&#34;&gt;六、一些槽点&lt;/h1&gt;
+&lt;h2 id=&#34;槽点一回家场景与离家场景无法共存&#34;&gt;槽点一：回家场景与离家场景无法共存&lt;/h2&gt;
+&lt;p&gt;之前除了设置回家场景，还设置了离家场景。&lt;/p&gt;
+&lt;p&gt;触发回家场景的判断条件是门窗传感器打开，即打开大门，陆续执行操作家中各种智能家居产品的指令。而触发离家场景的判断条件则是门窗传感器关闭，即关闭大门，陆续执行操作家中各种智能家居产品的指令。这样导致的一个问题就是，到家打开大门，灯都开了，关上大门发现灯又关了。于是我想到的一个简单的解决方法是不使用离家模式。因为我离家一般是不会忘记关灯关空调的。而且即使忘记了，可以手机上远程操作关闭。&lt;/p&gt;
+&lt;h2 id=&#34;槽点二wi-fi-一断产品就离线&#34;&gt;槽点二：Wi-Fi 一断产品就离线&lt;/h2&gt;
+&lt;p&gt;家里的 Wi-Fi 在三个月里有一两次意外断过，导致家里的智能家居很多都离线了。还在上班的我突然收到米家 App 发来的推送 &lt;strong&gt;“产品已离线”&lt;/strong&gt; 还以为家里进贼了。&lt;/p&gt;
+&lt;h1 id=&#34;七一些思考&#34;&gt;七、一些思考&lt;/h1&gt;
+&lt;p&gt;在研究智能家居场景的时候，很像写代码，需要考虑触发条件和响应结果。但是如果考虑的触发条件太复杂，很容易导致 bug 的产生。因此需要实际使用中不断完善场景。因为自己就是写代码的，所以对于设置这些指令觉得很有意思。&lt;/p&gt;
+&lt;p&gt;不过还是发现指令设置简单一点比较好。如果还用了嵌套很容易发生意想不到的情况，比如我客厅吸顶灯的打开指令嵌套进了回家场景，但是经常在不想客厅吸顶灯打开的情况下意外打开。&lt;/p&gt;
+&lt;p&gt;购买不建议一次性把产品都买齐，可以先买些小爱音箱、智能开关、空调伴侣等入坑体验一下智能家居再决定是否购买其它智能家居产品。就比如我这个智能家居花了一个多月的时间才打造完成，智能家居产品也是慢慢添加的，遇到哪个场景不完善，需要新的设备进行配合，再购买即可。&lt;/p&gt;
+&lt;h1 id=&#34;八写在后面&#34;&gt;八、写在后面&lt;/h1&gt;
+&lt;p&gt;智能家居不是终点，科技只是为了提高生活的幸福感。&lt;/p&gt;
+&lt;p&gt;最理想的生活还是需要人的陪伴，恋人也好，亲人朋友也罢，有人的地方才叫生活。&lt;/p&gt;
+&lt;h1 id=&#34;九引用&#34;&gt;九、引用&lt;/h1&gt;
+&lt;p&gt;[1] &lt;a class=&#34;link&#34; href=&#34;http://www.xinhuanet.com/science/2019-07/05/c_138200744.htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;空气湿度影响人体健康&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本文关于智能家居产品的图片来自 &lt;a class=&#34;link&#34; href=&#34;https://www.xiaomiyoupin.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;小米有品&lt;/a&gt;。&lt;/p&gt;</description>
         </item>
         
     </channel>
