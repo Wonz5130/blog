@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub on Wonz</title><link>https://wonz.wang/tags/github/</link><description>Recent content in GitHub on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 07 Sep 2020 19:06:07 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 Shields.io 数据牌 + GitHub 统计卡片美化你的 GitHub profile</title><link>https://wonz.wang/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</link><pubDate>Mon, 07 Sep 2020 19:06:07 +0000</pubDate><guid>https://wonz.wang/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</guid><description>&lt;h3 id="一在-github-中发现小彩蛋">一、在 GitHub 中发现小彩蛋&lt;/h3>
+&lt;p>首先，在 GitHub 中创建和账号&lt;strong>同名的&lt;/strong>一个 repository，就会发现这个小彩蛋。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_15-35-38.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="二编写-readme完善属于自己的-profile">二、编写 README，完善属于自己的 profile&lt;/h3>
+&lt;p>用 &lt;a class="link" href="https://typora.io/" target="_blank" rel="noopener"
+>Typora&lt;/a> 打开创建完的这个项目下的 README 文件，可以看到如下界面。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_19-29-30.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>你可以根据自己需求填写相关信息，完善属于自己的 profile。当然，也有美化 README 的方法。&lt;/p>
+&lt;h3 id="三认识-shieldsio">三、认识 Shields.io&lt;/h3>
+&lt;p>在浏览 GitHub 项目的时候，经常可以发现下图所示的 &lt;code>数据牌&lt;/code> 展示。我们完全可以使用 &lt;code>数据牌&lt;/code> 进行美化自己的 profile。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-01-37.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;a class="link" href="https://shields.io/" target="_blank" rel="noopener"
+>Shields.io&lt;/a> 就可以完成我们的这个需求，它其实就是一个「牌子渲染服务」。里面分为静态展示数据牌和动态展示数据牌。&lt;/p>
+&lt;h3 id="四静态数据牌展示">四、静态数据牌展示&lt;/h3>
+&lt;p>静态的比较简单。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-03-52.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>label&lt;/code> 写要展示的名字，比如：CSDN。&lt;/li>
+&lt;li>&lt;code>message&lt;/code> 可以写展示数据，比如：全国前 4K 名。&lt;/li>
+&lt;li>&lt;code>color&lt;/code> 选择一个颜色（当然，也可以到&lt;a class="link" href="https://www.sioe.cn/yingyong/yanse-rgb-16/" target="_blank" rel="noopener"
+>这里&lt;/a>找喜欢的颜色，输入对应的十六进制代码）。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-06-16.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>然后点右边的 &lt;code>Make Badage&lt;/code>，就会看到效果展示了：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-06-49.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>然后复制地址栏里的地址，直接使用 Markdown 的插入图片语法：&lt;code>![](这里粘贴地址栏地址)&lt;/code>，就可以展示出来了。但是需要注意的是，这种方法是静态展示，如果数据改变了，需要自己手动更新，不够自动化。&lt;/p>
+&lt;h3 id="五动态数据牌展示">五、动态数据牌展示&lt;/h3>
+&lt;p>动态展示相比静态展示，自然就更加自动化，可以实时更新数据。&lt;/p>
+&lt;p>这里介绍 &lt;a class="link" href="https://github.com/spencerwooo" target="_blank" rel="noopener"
+>SpencerWoo&lt;/a> 开发的 &lt;a class="link" href="https://github.com/spencerwooo/Substats" target="_blank" rel="noopener"
+>Substats&lt;/a> 小工具。使用教程可以参考开发人员写的这篇&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
+>文章&lt;/a>，当然也可以自己查看&lt;a class="link" href="https://substats.spencerwoo.com/" target="_blank" rel="noopener"
+>使用文档&lt;/a>。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-08-59.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>简单来说，就是先找到自己想展示的 API URL，比如我的 GitHub URL 就是：https://api.spencerwoo.com/substats/?source=github&amp;amp;queryKey=Wonz5130。一般都只需要修改 &lt;code>source&lt;/code> 后面的目标服务器以及 &lt;code>queryKey&lt;/code> 后面的请求数据标签，前者一般都是平台名，后者一般都是用户名。&lt;/li>
+&lt;li>&lt;code>data type&lt;/code> 选择 &lt;code>json&lt;/code> 。&lt;/li>
+&lt;li>&lt;code>label&lt;/code> 选择数据牌左侧你想展示的东西，比如我想展示的是 &lt;code>GitHub&lt;/code>。&lt;/li>
+&lt;li>&lt;code>query&lt;/code> 填： &lt;code>$.data.totalSubs&lt;/code>。&lt;/li>
+&lt;li>&lt;code>color&lt;/code> 填写一个十六进制的颜色代码。&lt;/li>
+&lt;li>剩下两个分别是数据牌右侧展示数据的前缀和后缀，我一般会填一个后缀 &lt;code>关注数&lt;/code>。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-23-22.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>然后点击 &lt;code>Make Badge&lt;/code>，可以看到以下界面：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-23-44.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>然后还是复制地址栏里的地址，用 Markdown 的插入图片语法：&lt;/p>
+&lt;pre tabindex="0">&lt;code>![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
+&lt;/code>&lt;/pre>&lt;p>就会展示以下标签了：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-25-37.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>当然，有些平台的用户名并不是你的用户名而是一串&lt;strong>独特的数字&lt;/strong>（比如微博），具体请参考 &lt;a class="link" href="https://substats.spencerwoo.com/api.html#%E5%8D%B3%E5%88%BB-jike-app" target="_blank" rel="noopener"
+>API 文档&lt;/a>。&lt;/p>
+&lt;p>目前支持的有这些平台：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-05_11-03-36.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>当然，你也可以在给标签加个&lt;strong>超链接&lt;/strong>指向自己的&lt;strong>主页&lt;/strong>，比如我给上面 GitHub 就加了一个自己的主页，代码如下：&lt;/p>
+&lt;pre tabindex="0">&lt;code>[![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://github.com/Wonz5130)
+&lt;/code>&lt;/pre>&lt;p>这样别人就能通过点击标签跳转到你的其他平台主页了。&lt;/p>
+&lt;h3 id="六github-统计卡片">六、GitHub 统计卡片&lt;/h3>
+&lt;p>当然，还可以再加一个 GitHub 统计卡片。&lt;/p>
+&lt;p>下面我是在&lt;strong>即刻员工&lt;/strong> &lt;a class="link" href="https://github.com/joway/joway" target="_blank" rel="noopener"
+>Joway&lt;/a> 的 profile 里发现的如下语法：&lt;/p>
+&lt;pre tabindex="0">&lt;code>&amp;lt;img align=&amp;#34;right&amp;#34; src=&amp;#34;https://github-readme-stats.vercel.app/api?username=joway&amp;amp;show_icons=true&amp;amp;icon_color=CE1D2D&amp;amp;text_color=718096&amp;amp;bg_color=ffffff&amp;amp;hide_title=true&amp;#34; /&amp;gt;
+&lt;/code>&lt;/pre>&lt;p>只需要把 username 改成自己的 GitHub 用户名就可以了。&lt;/p>
+&lt;p>当然也可以查看&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener"
+>这个项目&lt;/a>的&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
+>官方文档&lt;/a>，进行个性化设置，比如选择&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="_blank" rel="noopener"
+>主题&lt;/a>，或者自己选择相应板块颜色。&lt;/p>
+&lt;p>下面就是我的 GitHub 统计卡片：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-05_11-16-10.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="七最终效果展示">七、最终效果展示&lt;/h3>
+&lt;p>红色方框里的就是最终效果展示：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_19-38-18.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="八致谢">八、致谢&lt;/h3>
+&lt;p>&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
+>用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
+>GitHub Readme Stats&lt;/a>&lt;/p></description></item></channel></rss>

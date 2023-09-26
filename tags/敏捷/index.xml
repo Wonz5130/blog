@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>敏捷 on Wonz</title><link>https://wonz.wang/tags/%E6%95%8F%E6%8D%B7/</link><description>Recent content in 敏捷 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 19 Dec 2021 16:49:51 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E6%95%8F%E6%8D%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>《敏捷实践》学习笔记</title><link>https://wonz.wang/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link><pubDate>Sun, 19 Dec 2021 16:49:51 +0000</pubDate><guid>https://wonz.wang/%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid><description>&lt;blockquote>
+&lt;p>这是 Wonz 记录的 &lt;strong>第 7 篇&lt;/strong> 笔记&lt;/p>
+&lt;p>课程：《敏捷实践》&lt;/p>
+&lt;p>来源：公司内部培训&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG285.jpeg"
+loading="lazy"
+alt="WechatIMG285"
+>&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="一为什么敏捷敏捷是什么探秘业务可持续交付的密码">一、为什么敏捷，敏捷是什么？探秘业务可持续交付的密码&lt;/h1>
+&lt;h2 id="1-软件开发的发展过程">1. 软件开发的发展过程&lt;/h2>
+&lt;p>更规范 -&amp;gt; 更灵活&lt;/p>
+&lt;p>软件开发是探索的过程、知识发现的过程。&lt;/p>
+&lt;h2 id="2-核心价值观">2. 核心价值观&lt;/h2>
+&lt;h3 id="1-价值驱动">1) 价值驱动&lt;/h3>
+&lt;p>&lt;strong>关注高优先级目标，尽早开始，要事第一。&lt;/strong>&lt;/p>
+&lt;p>用最小的资源创造最大的价值。&lt;/p>
+&lt;p>一分钟总结：高优先级、尽早开始、价值优先、成果导向。&lt;/p>
+&lt;h3 id="2-适应变化">2) 适应变化&lt;/h3>
+&lt;p>频繁的交付可见成果，目的是验证我们对市场和需求的认知，确保交付正确的成果，同时获取反馈进行快速调整。&lt;/p>
+&lt;p>敏捷方法关注持续交付可见的正确成果。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>增量&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Scrum方法：迭代开发、增量交付、持续的检查和调整&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1-2周一个迭代，每个迭代长度为固定的时间盒&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>频繁的交付可见的成果进行验证，及时进行调整。&lt;/strong>&lt;/p>
+&lt;h3 id="3-自组织">3) 自组织&lt;/h3>
+&lt;p>&lt;strong>目标驱动、共享责任。&lt;/strong>&lt;/p>
+&lt;p>管理层微观管理成为瓶颈，团队等待指令，反馈慢；自组织的团队反馈更快、效率更高。&lt;/p>
+&lt;p>授权、支持、引导、反馈。&lt;/p>
+&lt;p>管理层关注打造团队、引导团队实现目标。&lt;/p>
+&lt;h3 id="4-技术卓越">4) 技术卓越&lt;/h3>
+&lt;p>XP（极限编程）&lt;/p>
+&lt;p>&lt;strong>追求技术卓越，简化不必要的工作提升敏捷力。&lt;/strong>&lt;/p>
+&lt;h2 id="3-敏捷宣言">3. 敏捷宣言&lt;/h2>
+&lt;h3 id="1-个体互动胜于流程和工具">1) 个体互动胜于流程和工具&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>以人为本，&lt;strong>人&lt;/strong>是获得成功的最为重要的因素&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>沟通及互动&lt;/strong>是催化剂、黏合剂，推动项目走向成功&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>适当的使用&lt;strong>流程和工具&lt;/strong>有助项目成功，反之有助项目失败&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-工作的软件胜于详尽的文档">2) 工作的软件胜于详尽的文档&lt;/h3>
+&lt;ul>
+&lt;li>“工作的软件”是指能够帮助客户解决问题，为客户带来价值&lt;/li>
+&lt;li>文档要适用，力求&lt;strong>少而精&lt;/strong>，过渡的文档输出并不会为客户带来价值&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-客户合作胜于合同谈判">3) 客户合作胜于合同谈判&lt;/h3>
+&lt;ul>
+&lt;li>客户价值为先，体现共赢&lt;/li>
+&lt;li>客户深度参与，频繁交互，应对不确定的变化&lt;/li>
+&lt;/ul>
+&lt;h3 id="4-响应变化胜于遵循计划">4) 响应变化胜于遵循计划&lt;/h3>
+&lt;ul>
+&lt;li>在敏捷中，项目应该从始至终地拥抱&lt;strong>变化&lt;/strong>&lt;/li>
+&lt;li>敏捷需要有&lt;strong>计划&lt;/strong>，但不是完全拘泥于计划，进行控制管理&lt;/li>
+&lt;li>随时响应变化的能力常常决定着一个软件项目的成败&lt;/li>
+&lt;/ul>
+&lt;h2 id="4-敏捷十二原则">4. 敏捷十二原则&lt;/h2>
+&lt;p>价值优先：我们最优先要做的是通过尽早的、持续的交付有价值的软件来使客户满意。&lt;/p>
+&lt;p>拥抱变化：即使到了开发的后期，也欢迎改变需求。敏捷过程利用变化来为客户创造竞争优势。&lt;/p>
+&lt;p>经常交付：经常性的交付可以工作的软件，交付的间隔可以从几周到几个月，交付的时间间隔越短越好。&lt;/p>
+&lt;p>业务参与：在整个项目开发期间，业务人员和开发人员必须天天都在一起工作。&lt;/p>
+&lt;p>以人为本：围绕被激励起来的人个来构建项目。给他们提供所需要的环境和支持，并且信任他们能够完成工作。&lt;/p>
+&lt;p>直面沟通：在团队内部，最具有效果并且富有效率的传递信息的方法，就是面对面的交谈。&lt;/p>
+&lt;p>成果导向：工作的软件是首要进度度量标准。&lt;/p>
+&lt;p>持续交付：敏捷过程提倡可持续的开发速度。责任人、开发者和用户应该能够保持一个长期的、恒定的开发速度。&lt;/p>
+&lt;p>追求卓越：不断地关注优秀的技能和好的设计会增强敏捷能力。&lt;/p>
+&lt;p>精益求精：以简洁为本，它是极力减少不必要工作量的艺术。&lt;/p>
+&lt;p>团队自组织：最好的构架、需求和设计出自与自组织的团队。&lt;/p>
+&lt;p>持续改进：每隔一定时间，团队会回顾如何才能更有效地工作，然后相应地对自己的行为进行调整。&lt;/p>
+&lt;h2 id="5-敏捷金字塔">5. 敏捷金字塔&lt;/h2>
+&lt;p>价值：敏捷宣言、核心价值观&lt;/p>
+&lt;p>原则：敏捷十二原则&lt;/p>
+&lt;p>方法：Scrum、DSDM、Crystal、FDD、Kanban、XP&lt;/p>
+&lt;p>实践：站会、计划、回顾、价值流动、重构、WIP、结对、测试、持续集成&lt;/p>
+&lt;h1 id="二需求拆分及估算降低开发风险制定合理计划">二、需求拆分及估算，降低开发风险，制定合理计划&lt;/h1>
+&lt;h2 id="1-什么是需求">1. 什么是需求&lt;/h2>
+&lt;p>用户—需求—解决方案—达成共识&lt;/p>
+&lt;h2 id="2-需求拆分的原因及方法">2. 需求拆分的原因及方法&lt;/h2>
+&lt;h3 id="收益">收益&lt;/h3>
+&lt;ul>
+&lt;li>降低复杂度，拆分后易于分析需求，识别问题&lt;/li>
+&lt;li>频繁交付，及时反馈质量&lt;/li>
+&lt;li>价值驱动、优先级排序&lt;/li>
+&lt;li>建立共识，促进协作&lt;/li>
+&lt;/ul>
+&lt;h3 id="原则">原则&lt;/h3>
+&lt;ul>
+&lt;li>独立，避免需求耦合&lt;/li>
+&lt;li>对用户有价值的，避免接口需求，界面需求&lt;/li>
+&lt;li>小的，避免开发测试完成超过3天&lt;/li>
+&lt;li>可测试&lt;/li>
+&lt;/ul>
+&lt;h3 id="方法">方法&lt;/h3>
+&lt;ul>
+&lt;li>业务流程拆分法&lt;/li>
+&lt;li>业务操作拆分法（CRUD）&lt;/li>
+&lt;li>业务规则拆分法&lt;/li>
+&lt;li>数据多样性拆分法&lt;/li>
+&lt;li>展示展示拆分法&lt;/li>
+&lt;li>大头工作拆分法&lt;/li>
+&lt;li>简单/复杂拆分法&lt;/li>
+&lt;li>延迟性能拆分法&lt;/li>
+&lt;li>探索性研究拆分法&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-需求估算的原因及方法">3. 需求估算的原因及方法&lt;/h2>
+&lt;h3 id="收益-1">收益&lt;/h3>
+&lt;ul>
+&lt;li>计算成本、周期&lt;/li>
+&lt;li>了解投资回报&lt;/li>
+&lt;li>做计划&lt;/li>
+&lt;li>团队对齐需求，发现并排除坑&lt;/li>
+&lt;/ul>
+&lt;h2 id="4-团队速率">4. 团队速率&lt;/h2>
+&lt;p>团队速率是一个团队在一个周期（Sprint、周）中实际完成的点数。&lt;/p>
+&lt;p>通过团队速率可以知道团队做的有多快。&lt;/p>
+&lt;h3 id="计算速率">计算速率&lt;/h3>
+&lt;p>记录每个Sprint/周的速率，得到平均值。&lt;/p>
+&lt;h1 id="三敏捷团队及环境构建实施敏捷的组织结构和文化">三、敏捷团队及环境，构建实施敏捷的组织结构和文化&lt;/h1>
+&lt;h2 id="1-高效团队的特征">1. 高效团队的特征&lt;/h2>
+&lt;ul>
+&lt;li>高度信任&lt;/li>
+&lt;li>统一目标&lt;/li>
+&lt;li>清晰角色&lt;/li>
+&lt;li>牢固的关系&lt;/li>
+&lt;li>共享领导力&lt;/li>
+&lt;li>卓越的沟通&lt;/li>
+&lt;li>有效的过程&lt;/li>
+&lt;li>持续进化&lt;/li>
+&lt;li>伟大的成果&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-敏捷团队及环境">2. 敏捷团队及环境&lt;/h2>
+&lt;h3 id="三个角色">三个角色&lt;/h3>
+&lt;h4 id="product-owner-产品负责人">Product Owner 产品负责人&lt;/h4>
+&lt;ul>
+&lt;li>拥有一个可行的、充满吸引力的产品远景，能激发团队、公司及客户的激情；&lt;/li>
+&lt;li>构建一个路线图来实现这个愿景，让每个人都看见并遵守；&lt;/li>
+&lt;li>构建一个价值驱动、持续完善的需求清单；&lt;/li>
+&lt;li>花一半时间与客户，销售员，市场部门在一起；&lt;/li>
+&lt;li>花一半时间与开发团队在一起告诉他们正确的需求。&lt;/li>
+&lt;/ul>
+&lt;h4 id="scrum-master">Scrum Master&lt;/h4>
+&lt;ul>
+&lt;li>保护团队正确的运用敏捷实践；&lt;/li>
+&lt;li>保证团队良好协作、自组织、工作高效；&lt;/li>
+&lt;li>协调和组织会议；&lt;/li>
+&lt;li>与所有角色协同工作、移除障碍；&lt;/li>
+&lt;li>管理团队内外的依赖；&lt;/li>
+&lt;li>支持团队、作为团队和外部的接口，屏蔽外界对团队的干扰。&lt;/li>
+&lt;/ul>
+&lt;h4 id="developer-team-研发团队">Developer Team 研发团队&lt;/h4>
+&lt;ul>
+&lt;li>帮助产品负责人完善需求（解决方案）；&lt;/li>
+&lt;li>需求研发及商业发布（开发的是功能而不是BUG）；&lt;/li>
+&lt;li>持续改进团队，流程、协作、工程实践等能力。&lt;/li>
+&lt;/ul>
+&lt;h3 id="特性团队">特性团队&lt;/h3>
+&lt;ul>
+&lt;li>团队内可以做到端到端，所以减少了等待，周期加快&lt;/li>
+&lt;li>比较容易快速交付可用的产品增量&lt;/li>
+&lt;li>减少了团队之间依赖，计划会更容易&lt;/li>
+&lt;li>责任范围的扩大，各种不同领域的专家在一个团队，增加了个人学习和团队学习的机会&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-构建高效团队文化">3. 构建高效团队文化&lt;/h2>
+&lt;h3 id="自组织团队">自组织团队&lt;/h3>
+&lt;ul>
+&lt;li>团队决定谁做什么，即任务的分配&lt;/li>
+&lt;li>团队决定如何做，如何实现目标，即团队做技术决策&lt;/li>
+&lt;li>团队需要在确保目标的前提下制定团队内的行为准则&lt;/li>
+&lt;li>团队有义务保持过程的透明性&lt;/li>
+&lt;li>管理层和团队教练通过引导的管理方式给出指导思路，帮助团队向正确的方向前进&lt;/li>
+&lt;li>管理层不直接决定团队内的工作分配&lt;/li>
+&lt;/ul>
+&lt;h1 id="四固态项目交付深度解密迭代增量式交付的核心框架打造有节奏有目标感的团队">四、固态项目交付深度解密，迭代+增量式交付的核心框架，打造有节奏有目标感的团队&lt;/h1>
+&lt;h2 id="1-什么是scrum">1. 什么是Scrum&lt;/h2>
+&lt;p>Scrum 是一个用于开发和维护复杂产品的框架，是一个增量的、迭代的开发过程，专注于最短的时间内交付最高的商业价值。&lt;/p>
+&lt;h2 id="2-三个角色和三个物件">2. 三个角色和三个物件&lt;/h2>
+&lt;h3 id="三个角色-1">三个角色&lt;/h3>
+&lt;ul>
+&lt;li>Product Owner&lt;/li>
+&lt;li>Scrum Master&lt;/li>
+&lt;li>Developer Team&lt;/li>
+&lt;/ul>
+&lt;h3 id="三个物件">三个物件&lt;/h3>
+&lt;ul>
+&lt;li>Product Backlog&lt;/li>
+&lt;li>Sprint Backlog&lt;/li>
+&lt;li>Increment&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-五个价值观和五个活动">3. 五个价值观和五个活动&lt;/h2>
+&lt;h3 id="五个价值观">五个价值观&lt;/h3>
+&lt;ul>
+&lt;li>Courage（勇气）&lt;/li>
+&lt;li>Openness（透明）&lt;/li>
+&lt;li>Focus（专注）&lt;/li>
+&lt;li>Commitment（承诺）&lt;/li>
+&lt;li>Respect（尊重）&lt;/li>
+&lt;/ul>
+&lt;h3 id="五个活动">五个活动&lt;/h3>
+&lt;ul>
+&lt;li>Product Backlog Refinement（需求梳理）&lt;/li>
+&lt;li>Sprint Planning&lt;/li>
+&lt;li>Daily Scrum&lt;/li>
+&lt;li>Sprint Review/Show Case&lt;/li>
+&lt;li>Sprint Retrospective&lt;/li>
+&lt;/ul>
+&lt;h2 id="4-应用及扩展">4. 应用及扩展&lt;/h2>
+&lt;ul>
+&lt;li>Sprint 日历&lt;/li>
+&lt;li>规模化Scrum&lt;/li>
+&lt;/ul>
+&lt;h1 id="五敏态项目交付深度解密破解软件研发7种浪费利用精益思想追逐高效率交付">五、敏态项目交付深度解密，破解软件研发7种浪费，利用精益思想追逐高效率交付&lt;/h1>
+&lt;h2 id="1-精益思想">1. 精益思想&lt;/h2>
+&lt;h3 id="精益的诞生">精益的诞生&lt;/h3>
+&lt;ul>
+&lt;li>科学管理原理&lt;/li>
+&lt;li>大规模生产&lt;/li>
+&lt;li>丰田生产方式&lt;/li>
+&lt;li>戴明14点&lt;/li>
+&lt;/ul>
+&lt;h3 id="精益思想5大原则">精益思想5大原则&lt;/h3>
+&lt;ul>
+&lt;li>价值：价值只能由最终客户来确定，任何不为客户增值的活动都是浪费。&lt;/li>
+&lt;li>价值流：使承载客户价值的产品或服务从概念到发布，或从下单到交付给客户的所有步骤构成的过程。&lt;/li>
+&lt;li>流动：让承诺客户价值的需求顺畅流动起来。&lt;/li>
+&lt;li>拉动：客户拉动生产、下游拉动上游。&lt;/li>
+&lt;li>尽善尽美：持续改善要求每一位管理人员及作业人员，要以相对较少的费用来连接不断地改进工作。&lt;/li>
+&lt;/ul>
+&lt;h3 id="映射价值流">映射价值流&lt;/h3>
+&lt;p>团队的价值流应由团队成员共同识别并达成共识。&lt;/p>
+&lt;h3 id="价值流映射5步法">价值流映射5步法&lt;/h3>
+&lt;ul>
+&lt;li>第1步：分析工作项的类型&lt;/li>
+&lt;li>第2步：列出工作项从诞生到交付给客户或用户的整个过程中都经过的哪些环节&lt;/li>
+&lt;li>第3步：分析哪些环节是增值环节，哪些是不增值环节&lt;/li>
+&lt;li>第4步：估算每个环节的耗时&lt;/li>
+&lt;li>第5步：团队共同讨论，如何去除不增值的环节，或者缩短不增值的时间&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-精益看板">2. 精益看板&lt;/h2>
+&lt;h3 id="什么是看板">什么是看板&lt;/h3>
+&lt;ul>
+&lt;li>可视化管理&lt;/li>
+&lt;li>增进共识&lt;/li>
+&lt;li>任务清晰&lt;/li>
+&lt;li>高效协同&lt;/li>
+&lt;li>职责共享&lt;/li>
+&lt;/ul>
+&lt;p>总结：看板 = 可视化 + 拉动&lt;/p>
+&lt;h3 id="可视化管理与拉动系统">可视化管理与拉动系统&lt;/h3>
+&lt;h4 id="可视化管理">可视化管理&lt;/h4>
+&lt;p>将工作管理所需要的任何信息可视化在团队的工作区域，让每个人可见，使团队的工作流程更加直观，有效表达团队内部的信息，从而实现管理上的透明化。&lt;/p>
+&lt;h4 id="拉动系统">拉动系统&lt;/h4>
+&lt;ul>
+&lt;li>在制品少：未完成的需求在研发管理数量很少，完成一个需求再从队列中拉入一个需求；&lt;/li>
+&lt;li>风险低：并行处理的需求少，当交付截止日期临近，可以集中精力交付正在研发管道中的需求，从而延期风险可控；&lt;/li>
+&lt;li>浪费低：一旦市场或客户的需求有变化导致大量需求作废，由于只有少量需求正在研发管道，浪费成本较低；&lt;/li>
+&lt;li>交付时间短：团队同时处理的需求量与团队的产能匹配，不会因为人力不够而停滞流动，因而交付周期短。&lt;/li>
+&lt;/ul>
+&lt;h3 id="看板6大实践">看板6大实践&lt;/h3>
+&lt;ul>
+&lt;li>可视化&lt;/li>
+&lt;li>限制在制品数量&lt;/li>
+&lt;li>管理价值流（也叫工作流）&lt;/li>
+&lt;li>显示化定义工作流转规则&lt;/li>
+&lt;li>构建反馈环&lt;/li>
+&lt;li>协作式改进, 试验中演进（使用模型和科学方法）&lt;/li>
+&lt;/ul>
+&lt;h1 id="六敏捷团队如何开展测试存在哪些挑战">六、敏捷团队如何开展测试？存在哪些挑战？&lt;/h1>
+&lt;h2 id="1-传统测试在敏捷环境面临的挑战">1. 传统测试在敏捷环境面临的挑战&lt;/h2>
+&lt;ul>
+&lt;li>时间短&lt;/li>
+&lt;li>变更频繁&lt;/li>
+&lt;li>文档较少&lt;/li>
+&lt;li>资源不足&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-什么是敏捷测试">2. 什么是敏捷测试？&lt;/h2>
+&lt;p>敏捷测试是一套遵循敏捷软件开发原则的软件测试实践，敏捷开发将测试集成到开发过程中，而不是将其作为单独的阶段。因此，测试是核心软件开发的一个组织部分，并积极参与软件开发过程。&lt;/p>
+&lt;h2 id="3-敏捷测试与传统测试的异同">3. 敏捷测试与传统测试的异同&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">传统测试&lt;/th>
+&lt;th style="text-align:center">敏捷测试&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">测试发生在最后阶段&lt;/td>
+&lt;td style="text-align:center">测试发生在开发过程中&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">团队之间正式沟通更多&lt;/td>
+&lt;td style="text-align:center">团队之间沟通面对面非正式活动更多&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">自动化测试是可选的&lt;/td>
+&lt;td style="text-align:center">自动化测试被高度推荐&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">从需求角度测试&lt;/td>
+&lt;td style="text-align:center">从用户角度测试&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">详细的测试计划&lt;/td>
+&lt;td style="text-align:center">精益的测试计划&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">计划是一次性活动&lt;/td>
+&lt;td style="text-align:center">不同级别的计划&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">项目经理为团队做计划&lt;/td>
+&lt;td style="text-align:center">团队被授权并参与计划&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">繁重的需求说明文档&lt;/td>
+&lt;td style="text-align:center">较轻的需求说明文档&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="4-敏捷交付下的测试策略">4. 敏捷交付下的测试策略&lt;/h2>
+&lt;p>“质量左移”测试策略作为敏捷开发交付的核心理念之一贯穿到整个软件生命周期交付中。&lt;/p></description></item></channel></rss>

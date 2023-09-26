@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数字生活 on Wonz</title><link>https://wonz.wang/tags/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/</link><description>Recent content in 数字生活 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 08 Oct 2022 10:13:53 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>构建自己的阅读工作流</title><link>https://wonz.wang/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</link><pubDate>Sat, 08 Oct 2022 10:13:53 +0000</pubDate><guid>https://wonz.wang/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid><description>&lt;blockquote>
+&lt;p>七步法则：信息源 -&amp;gt; 稍后阅读 -&amp;gt; 划线批注 -&amp;gt; 临时笔记 -&amp;gt; 永久笔记（知识库） -&amp;gt; 回顾系统 -&amp;gt; 创作输出&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="写在前面">写在前面&lt;/h1>
+&lt;p>作为一名写了五年多的写作爱好者，我深知每篇文章的不易，因为优质的输出对应的是持续的输入。在即将过去的 2022 年我主要依靠阅读书籍、公众号文章、Newsletter 和听播客等方式来进行输入。&lt;/p>
+&lt;p>机缘巧合之下，我在 2022 年初看到了少数派派友 @&lt;a class="link" href="https://sspai.com/u/b8ciiv6r/updates" target="_blank" rel="noopener"
+>潦草学者&lt;/a> 写的&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
+>《我的阅读工作流（2021版）》&lt;/a>，让我开始有意识地尝试构建属于自己的阅读工作流。在经历了网上查阅资料、阅读他人博客、实操软件使用、工作流迭代，差不多实践了大半年之后，我终于也拥有了属于自己的一套阅读工作流。&lt;/p>
+&lt;p>简单来说，我的阅读工作流参考了派友 @&lt;a class="link" href="https://sspai.com/u/b8ciiv6r/updates" target="_blank" rel="noopener"
+>潦草学者&lt;/a>，一共有七步，分别是：信息源 -&amp;gt; 稍后阅读 -&amp;gt; 划线批注 -&amp;gt; 临时笔记 -&amp;gt; 永久笔记（知识库） -&amp;gt; 回顾系统 -&amp;gt; 创作输出。&lt;/p>
+&lt;h1 id="一信息源">一、信息源&lt;/h1>
+&lt;p>输入的首要前提肯定是要有信息源，而且是优质的信息源。对我来说，我的信息源主要分为即时 / 社交信息、工作信息、深度信息这三大类。&lt;/p>
+&lt;h2 id="即时--社交信息">即时 / 社交信息&lt;/h2>
+&lt;p>例如：Twitter / 即刻 / 豆瓣等社交平台上一些大V的动态以及优秀的 Telegram Channel&lt;/p>
+&lt;p>方案：使用 RSSHub 将自己欣赏的大V动态转为 RSS，并对订阅源设置过滤，比如设置关键字和屏蔽关键字。&lt;/p>
+&lt;p>备注：但是这个方案我几乎没有实践，一是因为大多数都属于消遣时间的信息，很少会遇到有价值的内容，二是因为我在社交平台上关注的输出有价值的大V并不多，所以我基本都是一刷而过。但是如果遇到有价值的内容，我会及时做笔记，大概率会先记到临时笔记里（详情见第五步）。&lt;/p>
+&lt;h2 id="工作信息">工作信息&lt;/h2>
+&lt;p>例如：平时工作中查阅的技术博客、技术文档等&lt;/p>
+&lt;p>方案：使用浏览器打开，进行阅读。&lt;/p>
+&lt;h2 id="深度信息">深度信息&lt;/h2>
+&lt;p>例如：文章、书籍&lt;/p>
+&lt;p>方案：PC 端加入到简悦的稍后读，粗略浏览一遍全文，使用标签 / 备注进行粗加工。选择&lt;strong>专门的时间段&lt;/strong>比如下班回到家进行集中阅读。&lt;/p>
+&lt;h3 id="文章">文章&lt;/h3>
+&lt;ul>
+&lt;li>Newsletter：Gmail 订阅 -&amp;gt; 简悦 · 稍后读&lt;/li>
+&lt;li>微信公众号：使用微信读书阅读公众号文章，可以手动将批注和评论内容一键复制，但是需要手动调整格式&lt;/li>
+&lt;li>blog：RSS，移动端使用 Reeder 这个 App 进行阅读，PC 端使用 Inoreader 通过简悦阅读&lt;/li>
+&lt;/ul>
+&lt;h3 id="书籍">书籍&lt;/h3>
+&lt;p>我认可纸质书的不可替代性，但考虑笔记数字化以及方便输出这两点之后，我还是选择了阅读电子书这种方式。&lt;/p>
+&lt;p>我使用微信读书，选择&lt;strong>专门的时间段&lt;/strong>阅读。2021 年我看的书基本都是在通勤地铁上完成的，但是渐渐发现通勤这种碎片化时间不适合阅读专业性书籍（很难专注以及思考），但人物传记、小说可以在通勤时阅读。另外有一点需要提醒的是，微信读书上的书籍并不一定是未删减版（或者可以说大概率是删减之后的），而且有可能读着读着书籍就被下架了（网友亲身经历）。我最近在寻找微信读书的替代品，如果你有觉得还不错的，欢迎推荐。&lt;/p>
+&lt;h1 id="二稍后阅读">二、稍后阅读&lt;/h1>
+&lt;p>有了信息源，还不着急立马就进入阅读，而是稍后阅读。简单来说，稍后阅读就是一个待读清单，当你手上没有需要立马读的，那就可以到这个 list 里找优先级较高的进行阅读。但是待读清单如果使用的不好，就很有可能变成「去我的收藏夹吃灰吧」，久而久之，自己都不知道曾经收藏过这篇文章。&lt;/p>
+&lt;p>这里主要提到两个工具，分别是简悦 · 稍后读和 Cubox。针对文章阅读，大多数时候我都是使用的 PC 端，因此更倾向于使用简悦 · 稍后读。Cubox 使用了几次感觉体验不如简悦 · 稍后读，所以就不过多介绍 Cubox，感兴趣的可以自己去尝试一下。&lt;/p>
+&lt;h2 id="简悦--稍后读">简悦 · 稍后读&lt;/h2>
+&lt;p>使用简悦优化网页阅读体验，在必要的时候进行批注，可以加个 tag 暂存到稍后阅读里。&lt;/p>
+&lt;h2 id="cubox">Cubox&lt;/h2>
+&lt;p>其中有微信收藏助手服务，可以和微信生态比如微信公众号建立起联系。但我个人觉得微信生态过于闭塞，因此不考虑。&lt;/p>
+&lt;h1 id="三划线批注">三、划线批注&lt;/h1>
+&lt;p>加入稍后阅读之后，接下来就是正式阅读。在正式阅读时，我一般都会记笔记，这就涉及划线批注。&lt;/p>
+&lt;h2 id="移动端">移动端&lt;/h2>
+&lt;p>微信读书：缺点是导出笔记单一且无格式&lt;/p>
+&lt;h2 id="pc-端">PC 端&lt;/h2>
+&lt;p>PC 端主要有简悦、Hypothesis、Cubox 这三个工具，我使用的仍然是简悦。&lt;/p>
+&lt;ul>
+&lt;li>简悦：需要使用简悦的标注功能对全文进行标记和评注。临时笔记导出至 flomo，永久笔记导出至 Notion【同时对精品文章做备份，防止 404。如果标注内容已经涵盖文章精华，可以不做全文备份】。&lt;/li>
+&lt;li>Hypothesis：只支持阅读 pdf 文件和网页&lt;/li>
+&lt;li>Cubox：批注不支持导出到知识库&lt;/li>
+&lt;/ul>
+&lt;p>比如最右侧部分就是我使用简悦提取的文章精华内容：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG23.png"
+loading="lazy"
+>&lt;/p>
+&lt;h1 id="四临时笔记">四、临时笔记&lt;/h1>
+&lt;p>主要针对的是碎片化笔记，不是完整体系的。适合回顾进行思维碰撞，加深印象，带来新的想法。&lt;/p>
+&lt;p>主要有两个工具：flomo 和 Apple 生态自带的备忘录。&lt;/p>
+&lt;h2 id="flomo">flomo&lt;/h2>
+&lt;p>支持自动将 flomo 笔记导入到 Notion 中（需要开通会员）。可以关联 memo，让笔记得到连接。&lt;/p>
+&lt;p>flomoplus 插件：API 接口，导入微信读书划线，导入 Kindle 读书笔记等功能（个人没深入使用过，故不做展开）。&lt;/p>
+&lt;p>下面是我使用 flomo 其中一个分类的临时笔记：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2022-12-06_22-10-47.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="apple-自带的备忘录">Apple 自带的备忘录&lt;/h2>
+&lt;ul>
+&lt;li>随手记笔记&lt;/li>
+&lt;li>完整体系的笔记&lt;/li>
+&lt;/ul>
+&lt;p>简单分享一下我个人的备忘录：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/20221127000224.png"
+loading="lazy"
+>&lt;/p>
+&lt;h1 id="五永久笔记知识库">五、永久笔记（知识库）&lt;/h1>
+&lt;p>网上有很多笔记类软件，我也尝试过很多，包括印象笔记、Notion、Obsidian 等等，最后我选用的是贯彻「All-In-One」理念的 Notion（但是我并不鼓励 All-In-One，有机会可以简单唠唠）。我在 2020 年初接触到了 Notion，但当时因为有一定上手门槛没有坚持使用。在 2021 年我又重新捡起了Notion 并且一直在使用，因此也有了一些个人的使用心得，后面看情况打算写一篇文章简单介绍一下自己如何使用 Notion 管理自己的「everything」。&lt;/p>
+&lt;h2 id="notion">Notion&lt;/h2>
+&lt;p>在我个人的 Notion 知识库里，专门有一个 category 存放输入素材，包括书籍、文章、播客等。&lt;/p>
+&lt;p>下面是我的文章类输入部分记录：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2022-12-06_21-40-59.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>其中有一个叫 Raw 的字段是专门存放文章元数据以及第四步进行划线标注导出的精华笔记的：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2022-12-06_22-14-25.png"
+loading="lazy"
+>&lt;/p>
+&lt;h1 id="六回顾系统">六、回顾系统&lt;/h1>
+&lt;p>看过的东西如果不回顾很容易遗忘，因此需经常回顾自己做的笔记。在参考网上的文章，了解到可以通过 简悦 / flomo / &lt;a class="link" href="https://link.zhihu.com/?target=http%3A//Readwise.io" target="_blank" rel="noopener"
+>Readwise&lt;/a> 等做回顾系统，最后我选择了 flomo + Notion。&lt;/p>
+&lt;h2 id="flomo-1">flomo&lt;/h2>
+&lt;p>在微信或是小组件中回顾笔记，支持设计更新频率和回顾规则。只有一开始的时候会记得回顾，现在已经很久不回顾了。不过本来就是存放临时笔记的，信息较为碎片化。&lt;/p>
+&lt;h2 id="notion-1">Notion&lt;/h2>
+&lt;p>之前打算使用我的好朋友 @伪君子 的方案：通过 Notion 的 API 来获取我的阅读笔记，然后随机发送一条信息给自己，具体考虑通过邮件 / Server酱 / PushDeer 的方式。但实际上自己并没有实践。&lt;/p>
+&lt;p>最后是利用 @&lt;a class="link" href="https://sspai.com/u/b8ciiv6r/updates" target="_blank" rel="noopener"
+>潦草学者&lt;/a> 提供的 &lt;a class="link" href="https://sspai.com/post/64522" target="_blank" rel="noopener"
+>时间戳&lt;/a> 思路来实现「随机漫步」数据库视图。&lt;/p>
+&lt;p>分享一下「随机漫步」的实现：&lt;/p>
+&lt;p>在 Input Table 里建一个 Created time 字段，理论上没有两条笔记的创建时间会是一样的。然后再建一个 Formula 字段，输入下面的内容，其中随机间隔我写的是 3600000 ms，通过公式就会计算出一个值。这样每隔 1h 随机展示的内容都是不一样的。&lt;/p>
+&lt;pre tabindex="0">&lt;code>mod(mod(timestamp(prop(&amp;#34;Created time&amp;#34;)) * 100011979 + 500067713, 900066731) *
+mod(round(timestamp(now()) / 3600000) * 3600000 * 800067089 + 800068411,
+800053967) + 900067309, 900066571)
+&lt;/code>&lt;/pre>&lt;p>下面是「随机漫步」展示的内容：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2022-12-06_22-23-05.png"
+loading="lazy"
+>&lt;/p>
+&lt;h1 id="七创作输出">七、创作输出&lt;/h1>
+&lt;p>「阅读的终点不是完成一份值得参考的笔记，而是应该利用笔记进行创作输出。」费曼学习法告诉我们，掌握知识的最好方式是以教为学。&lt;/p>
+&lt;p>工欲善其事，必先利其器。市面上进行创作输出的工具实在数不胜数，有我从本科开始进行技术博客和公众号写作时就开始使用的 Typora，还有宇宙最强编辑器 VS Code。还有一些是我在网上阅读别人文章时看到的安利，比如可以自动将大纲转为思维导图的 Effie，还有 Writeathon。最后我是选择在 VS Code 中使用 Markdown 语法进行文章创作。&lt;/p>
+&lt;h2 id="typora已废弃">Typora【已废弃】&lt;/h2>
+&lt;p>在 2021 年 11 月 Typora 推出 1.0 正式版，并宣布开始收费 $14.99。本来我是想付费支持一下的，但是留意到下面这段文字，意识到没说明是否是买断制，担心后面版本更新需要重新付费，于是寻找替代方案。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/20221130231930.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="vs-code">VS Code&lt;/h2>
+&lt;p>VS Code 是微软出的一款轻量级代码编辑器，除了可以写代码外，还可以干许多你想不到的事。在网上查阅相关资料之后，我转向了在 VS Code 中写 Markdown。需要搭配下面两个小工具。&lt;/p>
+&lt;h3 id="markdown-插件office-viewermarkdown-editorhttpsgithubcomcweijanvscode-officeblobheadreadme-cnmd">Markdown 插件：&lt;a class="link" href="https://github.com/cweijan/vscode-office/blob/HEAD/README-CN.md" target="_blank" rel="noopener"
+>Office Viewer(Markdown Editor)&lt;/a>&lt;/h3>
+&lt;p>个人使用大半年来，发现这个插件还是有不少 bug 的。比如：复制一段粘贴替换选中的内容，结果发现选中的内容还在。&lt;/p>
+&lt;h3 id="图床picgohttpsgithubcommolunerfinnpicgo">图床：&lt;a class="link" href="https://github.com/Molunerfinn/PicGo" target="_blank" rel="noopener"
+>PicGo&lt;/a>&lt;/h3>
+&lt;p>如果有图片上传需求，则可以搭配 &lt;a class="link" href="https://github.com/Molunerfinn/PicGo" target="_blank" rel="noopener"
+>PicGo&lt;/a> 图床进行使用。具体使用可以查看官方文档，也可以看我之前写过的这篇文章：&lt;a class="link" href="https://mp.weixin.qq.com/s/X6fKdGh4Ksyc-IXVonlXLw" target="_blank" rel="noopener"
+>使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床&lt;/a>。&lt;/p>
+&lt;p>本篇文章就是全程在 VS Code 中完成的：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2022-12-07_20-48-19.png"
+loading="lazy"
+alt="img"
+>&lt;/p>
+&lt;h1 id="写在后面">写在后面&lt;/h1>
+&lt;p>总体来看，我自己这套阅读工作流其实还是有点过于复杂，涉及的软件 / App / 工具还是太多了。但目前来看，已经是我能找到最适合自己的方案了。不过一个好的产品肯定是需要不停迭代的。因此，我这套阅读工作流方案也会不停迭代，期间如果有尝试新的软件 / App / 工具 也会尝试使用，看看能不能优化一下这套阅读工作流。&lt;/p>
+&lt;h1 id="参考">参考&lt;/h1>
+&lt;p>&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
+>我的阅读工作流（2021版）- 潦草学者&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://sspai.com/post/70397" target="_blank" rel="noopener"
+>我的信息管理方案 - Spike112&lt;/a>&lt;/p></description></item><item><title>解放双手，让生活变得更简单一点——我的智能家居入坑指南</title><link>https://wonz.wang/%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B%E8%AE%A9%E7%94%9F%E6%B4%BB%E5%8F%98%E5%BE%97%E6%9B%B4%E7%AE%80%E5%8D%95%E4%B8%80%E7%82%B9%E6%88%91%E7%9A%84%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E5%85%A5%E5%9D%91%E6%8C%87%E5%8D%97/</link><pubDate>Sat, 02 Oct 2021 16:56:30 +0000</pubDate><guid>https://wonz.wang/%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B%E8%AE%A9%E7%94%9F%E6%B4%BB%E5%8F%98%E5%BE%97%E6%9B%B4%E7%AE%80%E5%8D%95%E4%B8%80%E7%82%B9%E6%88%91%E7%9A%84%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E5%85%A5%E5%9D%91%E6%8C%87%E5%8D%97/</guid><description>&lt;blockquote>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG92.jpeg"
+loading="lazy"
+alt="WechatIMG92"
+>&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="一写在前面">一、写在前面&lt;/h1>
+&lt;p>想象一下以下的场景：炎炎夏日的夜晚下班回到家，打开大门，玄关灯自动打开，走入客厅，客厅灯一盏一盏慢慢打开，此时发现客厅空调已经提前打开，给屋里降温到合适的温度，再从冰箱里拿出一瓶北冰洋，是不是很惬意。&lt;/p>
+&lt;p>而这，就是我想要的智能家居生活。智能家居的初衷是让机器记住自己的生活习惯，解放双手，提升生活幸福感。&lt;/p>
+&lt;p>因此，如果单纯为了购买一些智能家居而让平时的行为更加复杂化，这是不推崇的。&lt;/p>
+&lt;h1 id="二米家-or-homekit">二、米家 or HomeKit&lt;/h1>
+&lt;p>智能家居生态有苹果的 HomeKit、小米的米家、华为等。在网上查阅相关资料之后，加上预算有限，因此考虑了性价比高、产品覆盖全面的米家。HomeKit 生态的产品普遍比小米贵很多，而且产品线也没有小米全面。至于华为等就不考虑了。&lt;/p>
+&lt;p>另外小米是比较统一的性冷淡白，非常符合我的审美。&lt;/p>
+&lt;h1 id="三物联网协议">三、物联网协议&lt;/h1>
+&lt;h2 id="1-wi-fi">1. Wi-Fi&lt;/h2>
+&lt;p>优点：稳定性强。&lt;/p>
+&lt;p>缺点：耗能高，浪费带宽，依赖路由性能。&lt;/p>
+&lt;h2 id="2-蓝牙">2. 蓝牙&lt;/h2>
+&lt;p>优点：大多数智能家居都带蓝牙。&lt;/p>
+&lt;p>缺点：稳定性弱。功耗、稳定性、传输距离都不太好。&lt;/p>
+&lt;h2 id="3-zigbee">3. ZigBee&lt;/h2>
+&lt;p>优点：稳定性强。自组网，低功耗，距离15米。&lt;/p>
+&lt;p>缺点：产品较少。&lt;/p>
+&lt;h1 id="四硬件篇">四、硬件篇&lt;/h1>
+&lt;p>考虑到自己是租房党，因此不会考虑大件智能家居，比如洗碗机等。先放一张自己的智能家居全览图。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG91.jpeg"
+loading="lazy"
+alt="WechatIMG91"
+>&lt;/p>
+&lt;h2 id="1-川">1. 川&lt;/h2>
+&lt;p>这里是我的工作台，也就是给自己「充电」的区域。主要是一张升降桌 + 人体工学椅，平时在这里写文章、学技术、修图片、看电影。&lt;/p>
+&lt;h3 id="1--米家台灯1s-149">1) 米家台灯1S ¥149&lt;/h3>
+&lt;h4 id="产品">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-10-02_16-09-07.png"
+loading="lazy"
+alt="Snipaste_2021-10-02_16-09-07"
+>&lt;/p>
+&lt;h4 id="我的使用场景">我的使用场景&lt;/h4>
+&lt;p>主要用于工作台照明，不过现在已经被显示器挂灯取代。&lt;/p>
+&lt;h3 id="2-米家显示器挂灯-199">2) 米家显示器挂灯 ¥199&lt;/h3>
+&lt;h4 id="产品-1">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/673123dd71ad5b18dbab48d3be19da6c.jpeg"
+loading="lazy"
+alt="673123dd71ad5b18dbab48d3be19da6c"
+>&lt;/p>
+&lt;h4 id="我的使用场景-1">我的使用场景&lt;/h4>
+&lt;p>晚上不用再开台灯，显示器挂灯可以有效避免屏幕反光的情况发生。而且米家的显示器挂灯有一个无线遥控可以控制色温、亮度，非常方便。&lt;/p>
+&lt;h3 id="3-yeelight彩光灯带1s-2米-189">3) Yeelight彩光灯带1S 2米 ¥189&lt;/h3>
+&lt;h4 id="产品-2">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/5b57db12N1688c2b5.jpeg"
+loading="lazy"
+alt="5b57db12N1688c2b5"
+>&lt;/p>
+&lt;h4 id="我的使用场景-2">我的使用场景&lt;/h4>
+&lt;p>买了升降桌之后就立马下单了灯带，晚上开着氛围灯不管是写代码还是看电影，都非常合适。满满的数码博主的样子。&lt;/p>
+&lt;h3 id="4-小米智能摄像机-云台版2k-199">4) 小米智能摄像机 云台版2K ¥199&lt;/h3>
+&lt;h4 id="产品-3">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-10-02_16-32-10.png"
+loading="lazy"
+alt="Snipaste_2021-10-02_16-32-10"
+>&lt;/p>
+&lt;h4 id="我的使用场景-3">我的使用场景&lt;/h4>
+&lt;p>我主要用来做安防用，摄像机这个东西买的就是安心，家里如果有小猫咪的话会非常有用。&lt;/p>
+&lt;h2 id="2-客厅">2. 客厅&lt;/h2>
+&lt;h3 id="1-小米路由器ax3000-349">1) 小米路由器AX3000 ¥349&lt;/h3>
+&lt;h4 id="产品-4">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/06368882185c0c0c00ff3916eac7e392.webp"
+loading="lazy"
+alt="06368882185c0c0c00ff3916eac7e392"
+>&lt;/p>
+&lt;h4 id="我的使用场景-4">我的使用场景&lt;/h4>
+&lt;p>许多智能设备都需要接入网络，而且只支持 2.4GHz。这款路由器支持 2.4GHz 和 5GHz 双频段。&lt;/p>
+&lt;h3 id="2-小爱音箱万能遥控板-115咸鱼">2) 小爱音箱万能遥控板 ¥115（咸鱼）&lt;/h3>
+&lt;h4 id="产品-5">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-09-03_01-00-10.png"
+loading="lazy"
+alt="Snipaste_2021-09-03_01-00-10"
+>&lt;/p>
+&lt;h4 id="我的使用场景-5">我的使用场景&lt;/h4>
+&lt;p>这款官网已下架，在咸鱼淘了个二手，没啥毛病。支持语音、红外控制电器，比如电视机、空调、风扇等。已经习惯每天早上起床问一下小爱同学天气预报决定今天穿什么衣服和鞋，当然伞是每天出门必带的。&lt;/p>
+&lt;h3 id="3-小米智能多模网关-169">3) 小米智能多模网关 ¥169&lt;/h3>
+&lt;h4 id="产品-6">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/834acc2fbef17d5acd42b9ea7eed5dc4.jpeg"
+loading="lazy"
+alt="834acc2fbef17d5acd42b9ea7eed5dc4"
+>&lt;/p>
+&lt;h4 id="我的使用场景-6">我的使用场景&lt;/h4>
+&lt;p>这款小米多模网关，Wi-Fi、ZigBee 3.0、蓝牙都支持，可以很好的适配家中各种协议的智能家居产品。&lt;/p>
+&lt;h3 id="4-米家空调伴侣2--79">4) 米家空调伴侣2 ¥79&lt;/h3>
+&lt;h4 id="产品-7">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/b1f98f2bebccac445d6dcdb7ee14c9d8.webp"
+loading="lazy"
+alt="b1f98f2bebccac445d6dcdb7ee14c9d8"
+>&lt;/p>
+&lt;h4 id="我的使用场景-7">我的使用场景&lt;/h4>
+&lt;p>这是刚搬入新家就买的智能家居产品。主要用来实现回家提前打开空调。&lt;/p>
+&lt;p>只需要一个插座，就可以把传统空调变成智能空调。远程控制、小爱声控、睡后调温、电量统计，功能应有尽有。自带 Wi-Fi 功能，可直接连接网络。&lt;/p>
+&lt;h3 id="5-米家智能开关-双开单控-69">5) 米家智能开关 双开单控 ¥69&lt;/h3>
+&lt;h4 id="产品-8">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-08-23_23-19-22.png"
+loading="lazy"
+alt="Snipaste_2021-08-23_23-19-22"
+>&lt;/p>
+&lt;p>&lt;strong>注：&lt;/strong> 此智能产品的远程控制、智能联动等功能，需要搭配支持蓝牙 Mesh 网关功能的设备才可以使用。可以考虑像我一样，买一台支持有蓝牙 Mesh 功能的小爱音箱即可进行智能联动。&lt;/p>
+&lt;h4 id="我的使用场景-8">我的使用场景&lt;/h4>
+&lt;p>要说家里最经常打开的，当然非电灯莫属了。而传统的都是墙壁开关，需要手动打开和关闭。&lt;/p>
+&lt;p>米家智能开关主要分为单火和零火两个版本。从安全性角度，更推荐零火。但考虑到我是租房党，房屋装修已经定死了，预留零线这个已经做不到了，因此选择的是单火版，目前来看没有出现关灯状态下 &lt;strong>“灯闪”&lt;/strong> 等异常情况。&lt;/p>
+&lt;p>其实也可以考虑直接换米家智能灯，但是成本太高，且不易于搬家，而且花几十块买个智能开关就能将普通灯变成智能灯不香吗？&lt;/p>
+&lt;p>另外安装的时候，尽量找专业的师傅比如小区电工师傅进行安装，安装前一定要断电。我找了师傅来安装发现安装服务费都快赶上开关的费用了。现场学习了一下安装过程，下次应该可以自己在家断电进行安装了。&lt;/p>
+&lt;h3 id="6-小米人体传感器2--59">6) 小米人体传感器2 ¥59&lt;/h3>
+&lt;h4 id="产品-9">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/d23bc168fbc7d85df2a80d8b20ec352e.jpeg"
+loading="lazy"
+alt="d23bc168fbc7d85df2a80d8b20ec352e"
+>&lt;/p>
+&lt;h4 id="我的使用场景-9">我的使用场景&lt;/h4>
+&lt;p>这款其实在网上看评论发现并不太智能，因为是通过红外线进行感应的。如果有人移动，它会感应到有人移动，但是如果停在它面前不移动，它就感应不出来了。不过才 59 元的人体传感器，要啥自行车？&lt;/p>
+&lt;h3 id="7-智米纯净型加湿器-499">7) 智米纯净型加湿器 ¥499&lt;/h3>
+&lt;h4 id="产品-10">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/img.jpeg"
+loading="lazy"
+alt="img"
+>&lt;/p>
+&lt;p>&lt;strong>注：&lt;/strong> 这款是无水雾无粉末，4L水箱，上注水，蒸发型。&lt;/p>
+&lt;p>我选择加湿器主要关注这几点：&lt;/p>
+&lt;ol>
+&lt;li>蒸发式，超声波加湿不过滤会有白粉。&lt;/li>
+&lt;li>容量大，可支持一整晚加湿使用。&lt;/li>
+&lt;li>便捷式上注水，不用揭盖就能加水。&lt;/li>
+&lt;/ol>
+&lt;h4 id="我的使用场景-10">我的使用场景&lt;/h4>
+&lt;p>北京的气候确实比南方干燥很多，本南方人虽然没有出现干燥到流鼻血的情况，但是脸上起皮倒是经常有，因此买了个加湿器。&lt;/p>
+&lt;p>研究表明，最有益于人体的健康湿度范围为 45% 至 60%。如果空气中的湿度低于 45%，会造成室内干燥，导致皮肤、咽喉、呼吸道干燥，容易引发哮喘等呼吸道疾病。当空气湿度高于 60% 时，人体会感觉闷热难耐，而当空气湿度高于 80% 时，则属于湿度过高，会使人体散热困难，从而导致体温升高、心跳加快、头晕恶心等症状。 ^[1]^&lt;/p>
+&lt;h3 id="8-小米米家蓝牙温湿度计-2-29">8) 小米米家蓝牙温湿度计 2 ¥29&lt;/h3>
+&lt;h4 id="产品-11">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/bc25e9bee1c171028ff58d96108fdb86.jpeg"
+loading="lazy"
+alt="bc25e9bee1c171028ff58d96108fdb86"
+>&lt;/p>
+&lt;h4 id="我的使用场景-11">我的使用场景&lt;/h4>
+&lt;p>我买了这个主要是和加湿器一起配合使用，设置湿度低于 45% 就自动打开加湿器，高于 60% 就自动关闭加湿器。不过加湿器最近出现了点问题无法正常开机，正在寄回维修中。&lt;/p>
+&lt;h2 id="3-玄关">3. 玄关&lt;/h2>
+&lt;h3 id="1-小米门窗传感器2-49">1) 小米门窗传感器2 ¥49&lt;/h3>
+&lt;h4 id="产品-12">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/46394a927c56f995f350864c1d1ed334.jpeg"
+loading="lazy"
+alt="46394a927c56f995f350864c1d1ed334"
+>&lt;/p>
+&lt;h4 id="我的使用场景-12">我的使用场景&lt;/h4>
+&lt;p>主要通过该传感器判断开关门，达成回家条件，自动化执行回家命令。&lt;/p>
+&lt;h3 id="2-米家夜灯2-蓝牙版--59">2) 米家夜灯2 蓝牙版 ¥59&lt;/h3>
+&lt;h4 id="产品-13">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/9e37f41daf2a64810f41d22b3fb9f388.jpeg"
+loading="lazy"
+alt="9e37f41daf2a64810f41d22b3fb9f388"
+>&lt;/p>
+&lt;p>&lt;strong>注：&lt;/strong> 这款夜灯除了基础的夜灯功能，还有人体传感器、光线传感器的功能。&lt;/p>
+&lt;h4 id="我的使用场景-13">我的使用场景&lt;/h4>
+&lt;p>我把它安装在了玄关处，也是卧室到卫生间的走廊处。&lt;/p>
+&lt;p>&lt;strong>场景一：&lt;/strong> 晚上回家，打开大门，夜灯通过自带的人体传感功能判断到有人，且通过自带的光线传感功能判断环境光暗，就自动打开夜灯，然后在设置的时间内自动熄灭。我设置的是亮 30s。&lt;/p>
+&lt;p>&lt;strong>场景二：&lt;/strong> 晚上睡觉的时候，想去一趟卫生间，同理也是分别根据人体传感和光线传感判断条件，实现自动亮灯，30s 后自动熄灭。&lt;/p>
+&lt;p>另外要说的一点是：夜灯的灯光属于比较昏暗的（可调节），不会像白色的日光灯那样对于刚从黑暗环境出来的人产生刺眼的感觉。这点非常人性化。&lt;/p>
+&lt;h2 id="4-卧室">4. 卧室&lt;/h2>
+&lt;h3 id="1-米家智能开关-单开单控-59">1) 米家智能开关 单开单控 ¥59&lt;/h3>
+&lt;p>客厅用的是双开单控，卧室用的是单开单控，都是单火版。&lt;/p>
+&lt;h3 id="2-米家插电夜灯-199">2) 米家插电夜灯 ¥19.9&lt;/h3>
+&lt;h4 id="产品-14">产品&lt;/h4>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/10dc91e10833bdfcfdecc868ecb21a3c.jpeg"
+loading="lazy"
+alt="10dc91e10833bdfcfdecc868ecb21a3c"
+>&lt;/p>
+&lt;h4 id="我的使用场景-14">我的使用场景&lt;/h4>
+&lt;p>晚上不想在漆黑的卧室看到刺眼的白色灯光，于是装了个小夜灯，晚上自动亮起，灯光偏暖色不刺眼，卧室的吸顶灯基本用不到。不过这款不支持接入米家。&lt;/p>
+&lt;h2 id="5-想买但还没买">5. 想买但还没买&lt;/h2>
+&lt;ul>
+&lt;li>智能窗帘：再也不用手动拉窗帘了。&lt;/li>
+&lt;li>扫地机器人：住大房子每周打扫真的很麻烦。&lt;/li>
+&lt;li>HomePod mini：可以自己设置通过捷径实现 Siri 控制智能家居。&lt;/li>
+&lt;/ul>
+&lt;h1 id="五软件篇">五、软件篇&lt;/h1>
+&lt;p>软件部分主要就是设置各种自动化场景，真正实现解放双手。&lt;/p>
+&lt;h2 id="场景一回家提前开空调">场景一：回家提前开空调&lt;/h2>
+&lt;p>晚上下班回家，&lt;strong>地理围栏&lt;/strong> 检测到我走到小区 100 米范围内，并判断屋里温度高于 26℃，自动打开客厅空调，并调至预设温度。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG89.jpeg"
+loading="lazy"
+alt="WechatIMG89"
+>&lt;/p>
+&lt;p>&lt;strong>注：&lt;/strong> &lt;strong>地理围栏&lt;/strong> 只有 iOS 才可以使用。&lt;/p>
+&lt;h2 id="场景二回家">场景二：回家&lt;/h2>
+&lt;p>打开大门，触发门窗传感器，接着打开台灯、灯带、川吸顶灯，摄像机进入休眠状态，小爱音箱播放自定义内容。如果走入客厅，人体传感器判断到有人移动，再打开客厅吸顶灯。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG90.jpeg"
+loading="lazy"
+alt="WechatIMG90"
+>&lt;/p>
+&lt;h2 id="场景三夜间上洗手间">场景三：夜间上洗手间&lt;/h2>
+&lt;p>玄关处的小米夜灯2 感应到有人经过，自动亮 30s 后关闭。&lt;/p>
+&lt;h1 id="六一些槽点">六、一些槽点&lt;/h1>
+&lt;h2 id="槽点一回家场景与离家场景无法共存">槽点一：回家场景与离家场景无法共存&lt;/h2>
+&lt;p>之前除了设置回家场景，还设置了离家场景。&lt;/p>
+&lt;p>触发回家场景的判断条件是门窗传感器打开，即打开大门，陆续执行操作家中各种智能家居产品的指令。而触发离家场景的判断条件则是门窗传感器关闭，即关闭大门，陆续执行操作家中各种智能家居产品的指令。这样导致的一个问题就是，到家打开大门，灯都开了，关上大门发现灯又关了。于是我想到的一个简单的解决方法是不使用离家模式。因为我离家一般是不会忘记关灯关空调的。而且即使忘记了，可以手机上远程操作关闭。&lt;/p>
+&lt;h2 id="槽点二wi-fi-一断产品就离线">槽点二：Wi-Fi 一断产品就离线&lt;/h2>
+&lt;p>家里的 Wi-Fi 在三个月里有一两次意外断过，导致家里的智能家居很多都离线了。还在上班的我突然收到米家 App 发来的推送 &lt;strong>“产品已离线”&lt;/strong> 还以为家里进贼了。&lt;/p>
+&lt;h1 id="七一些思考">七、一些思考&lt;/h1>
+&lt;p>在研究智能家居场景的时候，很像写代码，需要考虑触发条件和响应结果。但是如果考虑的触发条件太复杂，很容易导致 bug 的产生。因此需要实际使用中不断完善场景。因为自己就是写代码的，所以对于设置这些指令觉得很有意思。&lt;/p>
+&lt;p>不过还是发现指令设置简单一点比较好。如果还用了嵌套很容易发生意想不到的情况，比如我客厅吸顶灯的打开指令嵌套进了回家场景，但是经常在不想客厅吸顶灯打开的情况下意外打开。&lt;/p>
+&lt;p>购买不建议一次性把产品都买齐，可以先买些小爱音箱、智能开关、空调伴侣等入坑体验一下智能家居再决定是否购买其它智能家居产品。就比如我这个智能家居花了一个多月的时间才打造完成，智能家居产品也是慢慢添加的，遇到哪个场景不完善，需要新的设备进行配合，再购买即可。&lt;/p>
+&lt;h1 id="八写在后面">八、写在后面&lt;/h1>
+&lt;p>智能家居不是终点，科技只是为了提高生活的幸福感。&lt;/p>
+&lt;p>最理想的生活还是需要人的陪伴，恋人也好，亲人朋友也罢，有人的地方才叫生活。&lt;/p>
+&lt;h1 id="九引用">九、引用&lt;/h1>
+&lt;p>[1] &lt;a class="link" href="http://www.xinhuanet.com/science/2019-07/05/c_138200744.htm" target="_blank" rel="noopener"
+>空气湿度影响人体健康&lt;/a>&lt;/p>
+&lt;p>本文关于智能家居产品的图片来自 &lt;a class="link" href="https://www.xiaomiyoupin.com/" target="_blank" rel="noopener"
+>小米有品&lt;/a>。&lt;/p></description></item><item><title>我，加入少数派 Matrix 社区了</title><link>https://wonz.wang/%E6%88%91%E5%8A%A0%E5%85%A5%E5%B0%91%E6%95%B0%E6%B4%BE-matrix-%E7%A4%BE%E5%8C%BA%E4%BA%86/</link><pubDate>Sat, 02 Oct 2021 16:51:14 +0000</pubDate><guid>https://wonz.wang/%E6%88%91%E5%8A%A0%E5%85%A5%E5%B0%91%E6%95%B0%E6%B4%BE-matrix-%E7%A4%BE%E5%8C%BA%E4%BA%86/</guid><description>&lt;blockquote>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78-20211002170824063.jpeg"
+loading="lazy"
+alt="WechatIMG78"
+>&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="q1介绍你自己">Q1：介绍你自己。&lt;/h1>
+&lt;p>Hi，我是 Wonz。一个刚工作一年多的程序员，坐标北京，主要从事后端开发，最近也在写点前端，主要技术栈是 Python。&lt;/p>
+&lt;p>上大学时就一直喜欢折腾一些效率工具，比如 Pin、快捷指令等。平时也对数码产品感兴趣，喜欢看网上的一些数码测评视频和文章。&lt;/p>
+&lt;p>对生活方式、摄影、家居装修、做饭很感兴趣。&lt;/p>
+&lt;h1 id="q2你目前正在主力使用的设备有哪些">Q2：你目前正在主力使用的设备有哪些？&lt;/h1>
+&lt;p>**手机：**iPhone SE 128GB（对续航和存储空间不满意，打算换 13）&lt;/p>
+&lt;p>**电脑：**MacBook Pro (13-inch, 2020)，16GB 内存，512GB 固态硬盘&lt;/p>
+&lt;p>**耳机：**AirPods 第二代&lt;/p>
+&lt;p>**相机：**Fujifilm X-T30 + XF18-55mmF2.8-4 镜头&lt;/p>
+&lt;p>**手表：**Apple Watch Nike Series 6 (GPS)&lt;/p>
+&lt;p>放一张现有的苹果产品全家福：&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78.jpeg"
+loading="lazy"
+alt="WechatIMG78"
+>&lt;/p>
+&lt;h1 id="q3哪些-app-对你的工作--学习--生活最重要">Q3：哪些 App 对你的工作 / 学习 / 生活最重要？&lt;/h1>
+&lt;p>我的第一屏没放任何 App，就是想给壁纸留单独的一页。第二页开始才是主屏，基本是每天使用频率较高的 App。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG84.jpeg"
+loading="lazy"
+alt="WechatIMG84"
+>&lt;/p>
+&lt;p>推荐几个最喜欢用的 App。&lt;/p>
+&lt;p>**即刻：**兴趣社交，作为一名加入即刻已经 1700 多天的用户，喜欢在这里记录自己，因为「真实」。&lt;/p>
+&lt;p>**微信读书 + 小宇宙：**上下班通勤挤地铁的时候选择看书或者听播客，充分利用碎片化时间进行知识的「输入」。&lt;/p>
+&lt;p>**钱迹：**极简记账应用，坚持每天记账。&lt;/p>
+&lt;h1 id="q4能否具体谈谈你是如何使用你的设备和-app-的呢">Q4：能否具体谈谈你是如何使用你的设备和 App 的呢？&lt;/h1>
+&lt;p>MacBook 是我主要的输出工具。体验过 macOS 之后就不想再用 Windows 了，MacBook 号称程序员必备不是没道理的。搭配我的 ikbc poker2 红轴机械键盘和 Dell U2720QM 4K 显示器，敲代码和码字根本停不下来。&lt;/p>
+&lt;p>iPhone 则主要偏向娱乐休闲，主要是使用一些 SNS。&lt;/p>
+&lt;p>Apple Watch 作为手机的副屏，能够及时收到一些重要短信或者推送。每天也会关注一下是否合上圆环，包括站立、锻炼等。&lt;/p>
+&lt;h1 id="q5有什么自己用过-100-元以内提升自己生活品质的好东西吗">Q5：有什么自己用过 100 元以内提升自己生活品质的好东西吗？&lt;/h1>
+&lt;p>**键帽：**前段时间给自己的机械键盘换了一套 PBT 不打油的无刻键帽，敲代码的手速都提升了不少。&lt;/p>
+&lt;p>**香薰：**买了一款 layered fragrance 麝香味香薰放卧室，睡觉的时候闻着淡淡的幽香，真的太惬意了（价格稍微有点超 100 元，但是真的强烈推荐）。&lt;/p>
+&lt;h1 id="q6说一个你很喜欢但还少有人知道的-app">Q6：说一个你很喜欢、但还少有人知道的 App。&lt;/h1>
+&lt;p>**即士多：**一个分享好物的平台。&lt;/p>
+&lt;p>平时各种自己用过的提升生活幸福感的小玩意都会上架到这里。欢迎大家来即士多逛我的小店：棒棒堂。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG83.jpeg"
+loading="lazy"
+alt="WechatIMG83"
+>&lt;/p>
+&lt;h1 id="q7在你订阅的付费服务当中哪一些是不可或缺的">Q7：在你订阅的付费服务当中哪一些是不可或缺的？&lt;/h1>
+&lt;p>**iCloud：**喜欢苹果的生态。&lt;/p>
+&lt;p>**微信读书：**虽然自己也有上网找电子书资源的能力，但是往往折腾下来花费的时间和精力有点得不偿失，微信读书一键导出笔记的功能我很喜欢，方便做书摘。&lt;/p>
+&lt;p>&lt;strong>P.S.&lt;/strong> 之前申请过一次 Matrix 作者，但是没通过，一直以为审核比较严，毕竟少数派这个平台的文章质量都很高。最近又申请了一次，把自己的公众号、个人网站、博客链接都放上去了，总算申请通过了。以后应该会同步在 Matrix 社区更新一些文章，包括但不限于生活方式、产品体验、经验观点等。&lt;/p></description></item></channel></rss>
