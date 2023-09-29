@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数字生活 on Wonz</title><link>https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/</link><description>Recent content in 数字生活 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 08 Oct 2022 10:13:53 +0000</lastBuildDate><atom:link href="https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>构建自己的阅读工作流</title><link>https://wonz.wang/2022/10/08/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</link><pubDate>Sat, 08 Oct 2022 10:13:53 +0000</pubDate><guid>https://wonz.wang/2022/10/08/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid><description>&lt;h1 id="写在前面">写在前面&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数字生活 on Wonz</title><link>https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/</link><description>Recent content in 数字生活 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Wonz</copyright><lastBuildDate>Sat, 08 Oct 2022 10:13:53 +0000</lastBuildDate><atom:link href="https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>构建自己的阅读工作流</title><link>https://wonz.wang/2022/10/08/82-reading-workflow/</link><pubDate>Sat, 08 Oct 2022 10:13:53 +0000</pubDate><guid>https://wonz.wang/2022/10/08/82-reading-workflow/</guid><description>&lt;h1 id="写在前面">写在前面&lt;/h1>
 &lt;p>作为一名写了五年多的写作爱好者，我深知每篇文章的不易，因为优质的输出对应的是持续的输入。在即将过去的 2022 年我主要依靠阅读书籍、公众号文章、Newsletter 和听播客等方式来进行输入。&lt;/p>
 &lt;p>机缘巧合之下，我在 2022 年初看到了少数派派友 @&lt;a class="link" href="https://sspai.com/u/b8ciiv6r/updates" target="_blank" rel="noopener"
 >潦草学者&lt;/a> 写的&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
@@ -91,10 +91,19 @@ loading="lazy"
 >时间戳&lt;/a> 思路来实现「随机漫步」数据库视图。&lt;/p>
 &lt;p>分享一下「随机漫步」的实现：&lt;/p>
 &lt;p>在 Input Table 里建一个 Created time 字段，理论上没有两条笔记的创建时间会是一样的。然后再建一个 Formula 字段，输入下面的内容，其中随机间隔我写的是 3600000 ms，通过公式就会计算出一个值。这样每隔 1h 随机展示的内容都是不一样的。&lt;/p>
-&lt;pre tabindex="0">&lt;code>mod(mod(timestamp(prop(&amp;#34;Created time&amp;#34;)) * 100011979 + 500067713, 900066731) *
-mod(round(timestamp(now()) / 3600000) * 3600000 * 800067089 + 800068411,
-800053967) + 900067309, 900066571)
-&lt;/code>&lt;/pre>&lt;p>下面是「随机漫步」展示的内容：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">mod(mod(timestamp(prop(&amp;#34;Created time&amp;#34;)) * 100011979 + 500067713, 900066731) *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">mod(round(timestamp(now()) / 3600000) * 3600000 * 800067089 + 800068411,
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">800053967) + 900067309, 900066571)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>下面是「随机漫步」展示的内容：&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2022-12-06_22-23-05.png"
 loading="lazy"
 >&lt;/p>
@@ -127,7 +136,7 @@ alt="img"
 &lt;p>&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
 >我的阅读工作流（2021版）- 潦草学者&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://sspai.com/post/70397" target="_blank" rel="noopener"
->我的信息管理方案 - Spike112&lt;/a>&lt;/p></description></item><item><title>我，加入少数派 Matrix 社区了</title><link>https://wonz.wang/2021/10/02/%E6%88%91%E5%8A%A0%E5%85%A5%E5%B0%91%E6%95%B0%E6%B4%BE-matrix-%E7%A4%BE%E5%8C%BA%E4%BA%86/</link><pubDate>Sat, 02 Oct 2021 16:51:14 +0000</pubDate><guid>https://wonz.wang/2021/10/02/%E6%88%91%E5%8A%A0%E5%85%A5%E5%B0%91%E6%95%B0%E6%B4%BE-matrix-%E7%A4%BE%E5%8C%BA%E4%BA%86/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78-20211002170824063.jpeg" alt="Featured image of post 我，加入少数派 Matrix 社区了" />&lt;h1 id="q1介绍你自己">Q1：介绍你自己。&lt;/h1>
+>我的信息管理方案 - Spike112&lt;/a>&lt;/p></description></item><item><title>我，加入少数派 Matrix 社区了</title><link>https://wonz.wang/2021/10/02/57-matrix/</link><pubDate>Sat, 02 Oct 2021 16:51:14 +0000</pubDate><guid>https://wonz.wang/2021/10/02/57-matrix/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78-20211002170824063.jpeg" alt="Featured image of post 我，加入少数派 Matrix 社区了" />&lt;h1 id="q1介绍你自己">Q1：介绍你自己。&lt;/h1>
 &lt;p>Hi，我是 Wonz。一个刚工作一年多的程序员，坐标北京，主要从事后端开发，最近也在写点前端，主要技术栈是 Python。&lt;/p>
 &lt;p>上大学时就一直喜欢折腾一些效率工具，比如 Pin、快捷指令等。平时也对数码产品感兴趣，喜欢看网上的一些数码测评视频和文章。&lt;/p>
 &lt;p>对生活方式、摄影、家居装修、做饭很感兴趣。&lt;/p>
@@ -169,7 +178,7 @@ alt="WechatIMG83"
 &lt;h1 id="q7在你订阅的付费服务当中哪一些是不可或缺的">Q7：在你订阅的付费服务当中哪一些是不可或缺的？&lt;/h1>
 &lt;p>**iCloud：**喜欢苹果的生态。&lt;/p>
 &lt;p>**微信读书：**虽然自己也有上网找电子书资源的能力，但是往往折腾下来花费的时间和精力有点得不偿失，微信读书一键导出笔记的功能我很喜欢，方便做书摘。&lt;/p>
-&lt;p>&lt;strong>P.S.&lt;/strong> 之前申请过一次 Matrix 作者，但是没通过，一直以为审核比较严，毕竟少数派这个平台的文章质量都很高。最近又申请了一次，把自己的公众号、个人网站、博客链接都放上去了，总算申请通过了。以后应该会同步在 Matrix 社区更新一些文章，包括但不限于生活方式、产品体验、经验观点等。&lt;/p></description></item><item><title>使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床</title><link>https://wonz.wang/2021/03/08/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</link><pubDate>Mon, 08 Mar 2021 20:51:16 +0000</pubDate><guid>https://wonz.wang/2021/03/08/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png" alt="Featured image of post 使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床" />&lt;h3 id="一背景">一、背景&lt;/h3>
+&lt;p>&lt;strong>P.S.&lt;/strong> 之前申请过一次 Matrix 作者，但是没通过，一直以为审核比较严，毕竟少数派这个平台的文章质量都很高。最近又申请了一次，把自己的公众号、个人网站、博客链接都放上去了，总算申请通过了。以后应该会同步在 Matrix 社区更新一些文章，包括但不限于生活方式、产品体验、经验观点等。&lt;/p></description></item><item><title>使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床</title><link>https://wonz.wang/2021/03/08/49-private-imghost/</link><pubDate>Mon, 08 Mar 2021 20:51:16 +0000</pubDate><guid>https://wonz.wang/2021/03/08/49-private-imghost/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png" alt="Featured image of post 使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床" />&lt;h3 id="一背景">一、背景&lt;/h3>
 &lt;p>以前写技术博客的时候，都是用的本地图片，一些博客平台比如 &lt;strong>CSDN&lt;/strong> 同步更新的时候需要手动上传图片，这很浪费时间和精力。为了减少重复工作，一直有用&lt;strong>图床&lt;/strong>的想法，但是又听到 &lt;code>XXX图床挂了&lt;/code> ，一直很担心这个问题。后来发现了一个非常棒的搭建属于自己的私人图床的方法，现记录下来，希望帮助到有同样需求的朋友们。&lt;/p>
 &lt;h3 id="二创建-github-图床仓库">二、创建 GitHub 图床仓库&lt;/h3>
 &lt;p>首先你需要有个 &lt;strong>GitHub&lt;/strong> 账号（搞技术的应该都知道全球最大程序员&lt;del>同性&lt;/del>交友网站吧）然后按照下图提示创建一个图床仓库，名字随便起好了。&lt;/p>
@@ -228,7 +237,7 @@ loading="lazy"
 &lt;p>虽然这篇文章是一年前写的，但是大学室友最近按照我之前写的教程亲测有效，所以我决定重新排下版，润色了一下文字，重新发表出来。&lt;/p>
 &lt;h3 id="七致谢">七、致谢&lt;/h3>
 &lt;p>&lt;a class="link" href="https://segmentfault.com/a/1190000020240864" target="_blank" rel="noopener"
->GitHub+jsDelivr+PicGo搭建免费图床&lt;/a>&lt;/p></description></item><item><title>互联网写作规范指北</title><link>https://wonz.wang/2020/11/21/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</link><pubDate>Sat, 21 Nov 2020 21:09:46 +0000</pubDate><guid>https://wonz.wang/2020/11/21/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/</guid><description>&lt;h2 id="一写在前面">一、写在前面&lt;/h2>
+>GitHub+jsDelivr+PicGo搭建免费图床&lt;/a>&lt;/p></description></item><item><title>互联网写作规范指北</title><link>https://wonz.wang/2020/11/21/41-markdown/</link><pubDate>Sat, 21 Nov 2020 21:09:46 +0000</pubDate><guid>https://wonz.wang/2020/11/21/41-markdown/</guid><description>&lt;h2 id="一写在前面">一、写在前面&lt;/h2>
 &lt;p>我从 2018 年开始接触 &lt;strong>Markdown&lt;/strong>，自从习惯了 &lt;strong>Markdown&lt;/strong> 写作之后，再也不想用 &lt;strong>Word&lt;/strong> 写东西了。&lt;/p>
 &lt;p>按照&lt;strong>维基百科&lt;/strong>的说法，&lt;strong>Markdown&lt;/strong> 是一种&lt;a class="link" href="https://en.wikipedia.org/wiki/Lightweight_markup_language" target="_blank" rel="noopener"
 >轻量级的标记语言&lt;/a>，&lt;a class="link" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener"
@@ -236,31 +245,31 @@ loading="lazy"
 &lt;h2 id="二markdown-基础语法">二、Markdown 基础语法&lt;/h2>
 &lt;h3 id="标题">标题&lt;/h3>
 &lt;p>使用 &lt;code>#&lt;/code> 可以给文章加上标题。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="font-weight:bold"># 一级标题：文章的标题
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-weight:bold">&lt;/span>&lt;span style="font-weight:bold">## 二级标题：正文的大标题
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-weight:bold">### 三级标题：正文的小标题
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="gh"># 一级标题：文章的标题
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh">&lt;/span>&lt;span class="gu">## 二级标题：正文的大标题
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">### 三级标题：正文的小标题
 &lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>Markdown 最大可支持六级标题，但是过于复杂的章节反而会影响阅读体验。因此我一般只使用二级标题和三级标题。二级标题用来做章节标题，三级标题用来做正文小标题。&lt;/p>
 &lt;h3 id="列表">列表&lt;/h3>
 &lt;p>使用 &lt;code>‐&lt;/code> 或 &lt;code>*&lt;/code> 或 &lt;code>+&lt;/code> 并跟随 1 个空格来表示无序列表。建议使用 &lt;code>‐&lt;/code>，因为 &lt;code>*&lt;/code> 会和加粗以及斜体产生混淆，而 &lt;code>+&lt;/code> 不常见。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">-&lt;/span> 这是1
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">-&lt;/span> 这是2
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">-&lt;/span> 这是3
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 这是1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 这是2
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 这是3
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
@@ -271,26 +280,26 @@ loading="lazy"
 &lt;/ul>
 &lt;h3 id="有序列表">有序列表&lt;/h3>
 &lt;p>使用数字 1、2、3 并跟随 1 个 &lt;code>.&lt;/code> 来表示有序列表。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">1.&lt;/span> 这是第一条
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">2.&lt;/span> 这是第二条
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">3.&lt;/span> 这是第三条
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">1.&lt;/span> 这是第一条
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">2.&lt;/span> 这是第二条
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">3.&lt;/span> 这是第三条
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;h3 id="引用">引用&lt;/h3>
 &lt;p>使用 &lt;code>&amp;gt;&lt;/code> 并跟随 1 个空格来表示引用。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">&amp;gt; &lt;/span>&lt;span style="text-decoration:underline">这是引用
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">&amp;gt; &lt;/span>&lt;span class="ge">这是引用
 &lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
@@ -299,36 +308,36 @@ loading="lazy"
 &lt;/blockquote>
 &lt;h3 id="粗体">粗体&lt;/h3>
 &lt;p>使用 2 个 * 分别包裹。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>这是**加粗**
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">这是**加粗**
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
 &lt;p>这是&lt;strong>加粗&lt;/strong>&lt;/p>
 &lt;h3 id="斜体">斜体&lt;/h3>
 &lt;p>使用 1 个 * 分别包裹。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>这是*斜体*
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">这是*斜体*
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
 &lt;p>这是&lt;em>斜体&lt;/em>&lt;/p>
 &lt;h3 id="删除线">删除线&lt;/h3>
 &lt;p>使用 2 个 ~ 分别包裹。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>这是~~删除线~~
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">这是~~删除线~~
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
@@ -336,12 +345,12 @@ loading="lazy"
 &lt;h3 id="链接">链接&lt;/h3>
 &lt;p>&lt;strong>普通链接&lt;/strong>&lt;/p>
 &lt;p>语法：&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#ff79c6">这是维基百科首页&lt;/span>](&lt;span style="color:#50fa7b">https://zh.wikipedia.org/zh-cn/&lt;/span>)
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">[&lt;span class="nt">这是维基百科首页&lt;/span>](&lt;span class="na">https://zh.wikipedia.org/zh-cn/&lt;/span>)
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
@@ -349,12 +358,12 @@ loading="lazy"
 >这是维基百科首页&lt;/a>&lt;/p>
 &lt;p>&lt;strong>图片链接&lt;/strong>&lt;/p>
 &lt;p>语法：&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#ff79c6">这是图片&lt;/span>](&lt;span style="color:#50fa7b">https://upload.wikimedia.org/wikipedia/zh/6/6a/Viva_La_Vida_Coldplay_Album.jpg&lt;/span>)
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">这是图片&lt;/span>](&lt;span class="na">https://upload.wikimedia.org/wikipedia/zh/6/6a/Viva_La_Vida_Coldplay_Album.jpg&lt;/span>)
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
@@ -371,44 +380,56 @@ alt="这是图片"
 &lt;p>有时我写技术文章的时候，难免会涉及到代码，此时就需要使用代码展示的语法了。&lt;/p>
 &lt;p>&lt;strong>行内代码&lt;/strong>&lt;/p>
 &lt;p>使用两个重音符 ` 包裹。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>这是行内 &lt;span style="color:#f1fa8c">`代码`&lt;/span>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">这是行内 &lt;span class="sb">`代码`&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
 &lt;p>这是行内 &lt;code>代码&lt;/code>&lt;/p>
 &lt;p>&lt;strong>代码块&lt;/strong>&lt;/p>
 &lt;p>使用三个重音符 ` 置于代码块的首行和末行，首行的三个重音符后面可以加代码语言名称。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>```python
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>print(&amp;#34;hello, python!&amp;#34;)
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">```python
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">print(&amp;#34;hello, python!&amp;#34;)
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;pre tabindex="0">&lt;code>
-展示效果：
-```python
-print(&amp;#34;hello, python!&amp;#34;)
-&lt;/code>&lt;/pre>&lt;h3 id="任务列表">任务列表&lt;/h3>
-&lt;p>有时无序列表只能展示一些内容，但是并不能达到可勾选的目的，此时任务列表就出现了。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/div>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">- [ ]&lt;/span> 这是任务一
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">- [x]&lt;/span> 这是任务二（已完成）
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">- [ ]&lt;/span> 这是任务三
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">展示效果：
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">```python
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">print(&amp;#34;hello, python!&amp;#34;)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="任务列表">任务列表&lt;/h3>
+&lt;p>有时无序列表只能展示一些内容，但是并不能达到可勾选的目的，此时任务列表就出现了。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [ ]&lt;/span> 这是任务一
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [x]&lt;/span> 这是任务二（已完成）
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [ ]&lt;/span> 这是任务三
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
@@ -422,91 +443,91 @@ print(&amp;#34;hello, python!&amp;#34;)
 &lt;ul>
 &lt;li>
 &lt;p>全角中文字符与半角英文字符之间，应有一个半角空格。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>错误：这是错误的example。
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>正确：这是正确的 example。
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">错误：这是错误的example。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">正确：这是正确的 example。
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;/li>
 &lt;li>
 &lt;p>全角中文字符与半角阿拉伯数字之间，有没有半角空格都可，但必须保证风格统一，不能两种风格混杂。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>正确：今天是2020年11月21日。
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>正确：今天是 2020 年 11 月 21 日。
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">正确：今天是2020年11月21日。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">正确：今天是 2020 年 11 月 21 日。
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;/li>
 &lt;li>
 &lt;p>专有名词请使用正确的大小写。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>错误：apple 发布了新款 iphone12 手机。
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>正确：Apple 发布了新款 iPhone12 手机。
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">错误：apple 发布了新款 iphone12 手机。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">正确：Apple 发布了新款 iPhone12 手机。
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;/li>
 &lt;li>
 &lt;p>数字与单位之间需要加空格，但是度的标志、百分号不加空格。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>正确：我身高没有 180 cm，今天空气湿度大概 50%。
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">正确：我身高没有 180 cm，今天空气湿度大概 50%。
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;/li>
 &lt;li>
 &lt;p>全角标点与其他字符之间不加空格。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>正确：大家好，我是 Wonz。
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">正确：大家好，我是 Wonz。
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;/li>
 &lt;li>
 &lt;p>推荐使用直角引号代替双引号。&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>正确：你知道「Wonz」吗？
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">正确：你知道「Wonz」吗？
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;/li>
 &lt;/ul>
 &lt;h3 id="表格">表格&lt;/h3>
 &lt;p>有时觉得大段的文字不如一个表格清晰：&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>| 左对齐 | 居中对齐 | 右对齐 |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| :--------- | :--------------: | ---------------: |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| 选项A | | |
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>| 选项B | | |
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">| 左对齐 | 居中对齐 | 右对齐 |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| :--------- | :--------------: | ---------------: |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| 选项A | | |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| 选项B | | |
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
@@ -533,18 +554,18 @@ print(&amp;#34;hello, python!&amp;#34;)
 &lt;/table>
 &lt;p>当然，表格这里我更建议直接使用 &lt;strong>Markdown&lt;/strong> 编辑器来实现，而不是写这么多代码来实现格式的规范（后面会提到，先卖个关子）。&lt;/p>
 &lt;p>当然，以上的这些语法完全是可以嵌套组合使用的，比如无序列表与加粗组合：&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">-&lt;/span> 这是**1**
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">-&lt;/span> 这是**1.1**
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">-&lt;/span> 这是**2**
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">-&lt;/span> 这是**3**
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 这是**1**
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">-&lt;/span> 这是**1.1**
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 这是**2**
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 这是**3**
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
@@ -574,7 +595,7 @@ loading="lazy"
 &lt;p>&lt;a class="link" href="https://github.com/ruanyf/document-style-guide" target="_blank" rel="noopener"
 >中文技术文档的写作规范——by 阮一峰&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://tingtalk.me/markdown/" target="_blank" rel="noopener"
->Markdown 入门教程及书写风格指南&lt;/a>&lt;/p></description></item><item><title>与联通相伴 1248 天后，我办理了携号转网</title><link>https://wonz.wang/2020/09/14/%E4%B8%8E%E8%81%94%E9%80%9A%E7%9B%B8%E4%BC%B4-1248-%E5%A4%A9%E5%90%8E%E6%88%91%E5%8A%9E%E7%90%86%E4%BA%86%E6%90%BA%E5%8F%B7%E8%BD%AC%E7%BD%91/</link><pubDate>Mon, 14 Sep 2020 14:47:29 +0000</pubDate><guid>https://wonz.wang/2020/09/14/%E4%B8%8E%E8%81%94%E9%80%9A%E7%9B%B8%E4%BC%B4-1248-%E5%A4%A9%E5%90%8E%E6%88%91%E5%8A%9E%E7%90%86%E4%BA%86%E6%90%BA%E5%8F%B7%E8%BD%AC%E7%BD%91/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917145751.jpg" alt="Featured image of post 与联通相伴 1248 天后，我办理了携号转网" />&lt;h3 id="一写在前面">一、写在前面&lt;/h3>
+>Markdown 入门教程及书写风格指南&lt;/a>&lt;/p></description></item><item><title>与联通相伴 1248 天后，我办理了携号转网</title><link>https://wonz.wang/2020/09/14/32-xiehaozhuanwang/</link><pubDate>Mon, 14 Sep 2020 14:47:29 +0000</pubDate><guid>https://wonz.wang/2020/09/14/32-xiehaozhuanwang/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917145751.jpg" alt="Featured image of post 与联通相伴 1248 天后，我办理了携号转网" />&lt;h3 id="一写在前面">一、写在前面&lt;/h3>
 &lt;p>大学第一年的时候办理了这张哔哩哔哩卡，当时就是本着可以免流刷 B 站的目的办理的。现在发现早就不怎么看 B 站了，而且要看也是用电脑看。然而我每个月对流量需求还是比较大，差不多一个月消费 50 元左右。最最最重要的就是联通的信号实在是太差了。记得大学期间在宿舍只有两格信号，在公司负一楼的健身房直接一格信号，流量完全没法用。&lt;/p>
 &lt;p>在经过网上的详细查阅资料研究之后，决定携号转网，投入电信的怀抱。&lt;/p>
 &lt;h3 id="二申请携号转网">二、申请携号转网&lt;/h3>
@@ -633,7 +654,7 @@ loading="lazy"
 >&lt;/p>
 &lt;p>其实这么一算，感觉现在一个月的话费消费应该和之前联通套餐差不多，顿时感觉好像携号转网没有必要了，唯一比较欣慰的就是目前发现电信信号确实好点了。&lt;/p>
 &lt;h5 id="归属地">归属地&lt;/h5>
-&lt;p>携号转网并不会改变号码本来的归属地。&lt;/p></description></item><item><title>使用 Shields.io 数据牌 + GitHub 统计卡片美化你的 GitHub profile</title><link>https://wonz.wang/2020/09/07/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</link><pubDate>Mon, 07 Sep 2020 19:06:07 +0000</pubDate><guid>https://wonz.wang/2020/09/07/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</guid><description>&lt;h3 id="一在-github-中发现小彩蛋">一、在 GitHub 中发现小彩蛋&lt;/h3>
+&lt;p>携号转网并不会改变号码本来的归属地。&lt;/p></description></item><item><title>使用 Shields.io 数据牌 + GitHub 统计卡片美化你的 GitHub profile</title><link>https://wonz.wang/2020/09/07/31-beautify-your-github-profile/</link><pubDate>Mon, 07 Sep 2020 19:06:07 +0000</pubDate><guid>https://wonz.wang/2020/09/07/31-beautify-your-github-profile/</guid><description>&lt;h3 id="一在-github-中发现小彩蛋">一、在 GitHub 中发现小彩蛋&lt;/h3>
 &lt;p>首先，在 GitHub 中创建和账号&lt;strong>同名的&lt;/strong>一个 repository，就会发现这个小彩蛋。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_15-35-38.png"
 loading="lazy"
@@ -697,8 +718,15 @@ loading="lazy"
 loading="lazy"
 >&lt;/p>
 &lt;p>然后还是复制地址栏里的地址，用 Markdown 的插入图片语法：&lt;/p>
-&lt;pre tabindex="0">&lt;code>![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
-&lt;/code>&lt;/pre>&lt;p>就会展示以下标签了：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>就会展示以下标签了：&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-25-37.png"
 loading="lazy"
 >&lt;/p>
@@ -709,14 +737,28 @@ loading="lazy"
 loading="lazy"
 >&lt;/p>
 &lt;p>当然，你也可以在给标签加个&lt;strong>超链接&lt;/strong>指向自己的&lt;strong>主页&lt;/strong>，比如我给上面 GitHub 就加了一个自己的主页，代码如下：&lt;/p>
-&lt;pre tabindex="0">&lt;code>[![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://github.com/Wonz5130)
-&lt;/code>&lt;/pre>&lt;p>这样别人就能通过点击标签跳转到你的其他平台主页了。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">[![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://github.com/Wonz5130)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>这样别人就能通过点击标签跳转到你的其他平台主页了。&lt;/p>
 &lt;h3 id="六github-统计卡片">六、GitHub 统计卡片&lt;/h3>
 &lt;p>当然，还可以再加一个 GitHub 统计卡片。&lt;/p>
 &lt;p>下面我是在&lt;strong>即刻员工&lt;/strong> &lt;a class="link" href="https://github.com/joway/joway" target="_blank" rel="noopener"
 >Joway&lt;/a> 的 profile 里发现的如下语法：&lt;/p>
-&lt;pre tabindex="0">&lt;code>&amp;lt;img align=&amp;#34;right&amp;#34; src=&amp;#34;https://github-readme-stats.vercel.app/api?username=joway&amp;amp;show_icons=true&amp;amp;icon_color=CE1D2D&amp;amp;text_color=718096&amp;amp;bg_color=ffffff&amp;amp;hide_title=true&amp;#34; /&amp;gt;
-&lt;/code>&lt;/pre>&lt;p>只需要把 username 改成自己的 GitHub 用户名就可以了。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">&amp;lt;img align=&amp;#34;right&amp;#34; src=&amp;#34;https://github-readme-stats.vercel.app/api?username=joway&amp;amp;show_icons=true&amp;amp;icon_color=CE1D2D&amp;amp;text_color=718096&amp;amp;bg_color=ffffff&amp;amp;hide_title=true&amp;#34; /&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>只需要把 username 改成自己的 GitHub 用户名就可以了。&lt;/p>
 &lt;p>当然也可以查看&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener"
 >这个项目&lt;/a>的&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
 >官方文档&lt;/a>，进行个性化设置，比如选择&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="_blank" rel="noopener"
@@ -734,7 +776,7 @@ loading="lazy"
 &lt;p>&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
 >用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
->GitHub Readme Stats&lt;/a>&lt;/p></description></item><item><title>RSS应用分享：RSSHub</title><link>https://wonz.wang/2020/03/15/rss%E5%BA%94%E7%94%A8%E5%88%86%E4%BA%ABrsshub/</link><pubDate>Sun, 15 Mar 2020 13:00:02 +0000</pubDate><guid>https://wonz.wang/2020/03/15/rss%E5%BA%94%E7%94%A8%E5%88%86%E4%BA%ABrsshub/</guid><description>&lt;h3 id="前言">前言&lt;/h3>
+>GitHub Readme Stats&lt;/a>&lt;/p></description></item><item><title>RSS应用分享：RSSHub</title><link>https://wonz.wang/2020/03/15/19-rss/</link><pubDate>Sun, 15 Mar 2020 13:00:02 +0000</pubDate><guid>https://wonz.wang/2020/03/15/19-rss/</guid><description>&lt;h3 id="前言">前言&lt;/h3>
 &lt;p>高效获取信息是我这种喜欢效率的人的首选方式。&lt;/p>
 &lt;p>正如开发她的人所说「万物皆可RSS」。覆盖的 RSS 真的非常丰富！爱折腾的话其实自己研究一下参数选择会发现很多有意思的 RSS。&lt;/p>
 &lt;h3 id="软件">软件&lt;/h3>

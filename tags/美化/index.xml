@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>美化 on Wonz</title><link>https://wonz.wang/tags/%E7%BE%8E%E5%8C%96/</link><description>Recent content in 美化 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 07 Sep 2020 19:06:07 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E7%BE%8E%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 Shields.io 数据牌 + GitHub 统计卡片美化你的 GitHub profile</title><link>https://wonz.wang/2020/09/07/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</link><pubDate>Mon, 07 Sep 2020 19:06:07 +0000</pubDate><guid>https://wonz.wang/2020/09/07/%E4%BD%BF%E7%94%A8-shields.io-%E6%95%B0%E6%8D%AE%E7%89%8C--github-%E7%BB%9F%E8%AE%A1%E5%8D%A1%E7%89%87%E7%BE%8E%E5%8C%96%E4%BD%A0%E7%9A%84-github-profile/</guid><description>&lt;h3 id="一在-github-中发现小彩蛋">一、在 GitHub 中发现小彩蛋&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>美化 on Wonz</title><link>https://wonz.wang/tags/%E7%BE%8E%E5%8C%96/</link><description>Recent content in 美化 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Wonz</copyright><lastBuildDate>Mon, 07 Sep 2020 19:06:07 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E7%BE%8E%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 Shields.io 数据牌 + GitHub 统计卡片美化你的 GitHub profile</title><link>https://wonz.wang/2020/09/07/31-beautify-your-github-profile/</link><pubDate>Mon, 07 Sep 2020 19:06:07 +0000</pubDate><guid>https://wonz.wang/2020/09/07/31-beautify-your-github-profile/</guid><description>&lt;h3 id="一在-github-中发现小彩蛋">一、在 GitHub 中发现小彩蛋&lt;/h3>
 &lt;p>首先，在 GitHub 中创建和账号&lt;strong>同名的&lt;/strong>一个 repository，就会发现这个小彩蛋。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_15-35-38.png"
 loading="lazy"
@@ -62,8 +62,15 @@ loading="lazy"
 loading="lazy"
 >&lt;/p>
 &lt;p>然后还是复制地址栏里的地址，用 Markdown 的插入图片语法：&lt;/p>
-&lt;pre tabindex="0">&lt;code>![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
-&lt;/code>&lt;/pre>&lt;p>就会展示以下标签了：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>就会展示以下标签了：&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-25-37.png"
 loading="lazy"
 >&lt;/p>
@@ -74,14 +81,28 @@ loading="lazy"
 loading="lazy"
 >&lt;/p>
 &lt;p>当然，你也可以在给标签加个&lt;strong>超链接&lt;/strong>指向自己的&lt;strong>主页&lt;/strong>，比如我给上面 GitHub 就加了一个自己的主页，代码如下：&lt;/p>
-&lt;pre tabindex="0">&lt;code>[![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://github.com/Wonz5130)
-&lt;/code>&lt;/pre>&lt;p>这样别人就能通过点击标签跳转到你的其他平台主页了。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">[![](https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://github.com/Wonz5130)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>这样别人就能通过点击标签跳转到你的其他平台主页了。&lt;/p>
 &lt;h3 id="六github-统计卡片">六、GitHub 统计卡片&lt;/h3>
 &lt;p>当然，还可以再加一个 GitHub 统计卡片。&lt;/p>
 &lt;p>下面我是在&lt;strong>即刻员工&lt;/strong> &lt;a class="link" href="https://github.com/joway/joway" target="_blank" rel="noopener"
 >Joway&lt;/a> 的 profile 里发现的如下语法：&lt;/p>
-&lt;pre tabindex="0">&lt;code>&amp;lt;img align=&amp;#34;right&amp;#34; src=&amp;#34;https://github-readme-stats.vercel.app/api?username=joway&amp;amp;show_icons=true&amp;amp;icon_color=CE1D2D&amp;amp;text_color=718096&amp;amp;bg_color=ffffff&amp;amp;hide_title=true&amp;#34; /&amp;gt;
-&lt;/code>&lt;/pre>&lt;p>只需要把 username 改成自己的 GitHub 用户名就可以了。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">&amp;lt;img align=&amp;#34;right&amp;#34; src=&amp;#34;https://github-readme-stats.vercel.app/api?username=joway&amp;amp;show_icons=true&amp;amp;icon_color=CE1D2D&amp;amp;text_color=718096&amp;amp;bg_color=ffffff&amp;amp;hide_title=true&amp;#34; /&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>只需要把 username 改成自己的 GitHub 用户名就可以了。&lt;/p>
 &lt;p>当然也可以查看&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener"
 >这个项目&lt;/a>的&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
 >官方文档&lt;/a>，进行个性化设置，比如选择&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="_blank" rel="noopener"

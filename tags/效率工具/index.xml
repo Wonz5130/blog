@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>效率工具 on Wonz</title><link>https://wonz.wang/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</link><description>Recent content in 效率工具 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 08 Oct 2022 10:13:53 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>构建自己的阅读工作流</title><link>https://wonz.wang/2022/10/08/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</link><pubDate>Sat, 08 Oct 2022 10:13:53 +0000</pubDate><guid>https://wonz.wang/2022/10/08/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid><description>&lt;h1 id="写在前面">写在前面&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>效率工具 on Wonz</title><link>https://wonz.wang/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</link><description>Recent content in 效率工具 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Wonz</copyright><lastBuildDate>Sat, 08 Oct 2022 10:13:53 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>构建自己的阅读工作流</title><link>https://wonz.wang/2022/10/08/82-reading-workflow/</link><pubDate>Sat, 08 Oct 2022 10:13:53 +0000</pubDate><guid>https://wonz.wang/2022/10/08/82-reading-workflow/</guid><description>&lt;h1 id="写在前面">写在前面&lt;/h1>
 &lt;p>作为一名写了五年多的写作爱好者，我深知每篇文章的不易，因为优质的输出对应的是持续的输入。在即将过去的 2022 年我主要依靠阅读书籍、公众号文章、Newsletter 和听播客等方式来进行输入。&lt;/p>
 &lt;p>机缘巧合之下，我在 2022 年初看到了少数派派友 @&lt;a class="link" href="https://sspai.com/u/b8ciiv6r/updates" target="_blank" rel="noopener"
 >潦草学者&lt;/a> 写的&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
@@ -91,10 +91,19 @@ loading="lazy"
 >时间戳&lt;/a> 思路来实现「随机漫步」数据库视图。&lt;/p>
 &lt;p>分享一下「随机漫步」的实现：&lt;/p>
 &lt;p>在 Input Table 里建一个 Created time 字段，理论上没有两条笔记的创建时间会是一样的。然后再建一个 Formula 字段，输入下面的内容，其中随机间隔我写的是 3600000 ms，通过公式就会计算出一个值。这样每隔 1h 随机展示的内容都是不一样的。&lt;/p>
-&lt;pre tabindex="0">&lt;code>mod(mod(timestamp(prop(&amp;#34;Created time&amp;#34;)) * 100011979 + 500067713, 900066731) *
-mod(round(timestamp(now()) / 3600000) * 3600000 * 800067089 + 800068411,
-800053967) + 900067309, 900066571)
-&lt;/code>&lt;/pre>&lt;p>下面是「随机漫步」展示的内容：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">mod(mod(timestamp(prop(&amp;#34;Created time&amp;#34;)) * 100011979 + 500067713, 900066731) *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">mod(round(timestamp(now()) / 3600000) * 3600000 * 800067089 + 800068411,
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">800053967) + 900067309, 900066571)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>下面是「随机漫步」展示的内容：&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2022-12-06_22-23-05.png"
 loading="lazy"
 >&lt;/p>
