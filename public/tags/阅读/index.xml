@@ -6,12 +6,13 @@
         <description>Recent content in 阅读 on Wonz</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
+        <copyright>Wonz</copyright>
         <lastBuildDate>Sat, 08 Oct 2022 10:13:53 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>构建自己的阅读工作流</title>
-        <link>https://wonz.wang/2022/10/08/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</link>
+        <link>https://wonz.wang/2022/10/08/82-reading-workflow/</link>
         <pubDate>Sat, 08 Oct 2022 10:13:53 +0000</pubDate>
         
-        <guid>https://wonz.wang/2022/10/08/%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid>
+        <guid>https://wonz.wang/2022/10/08/82-reading-workflow/</guid>
         <description>&lt;h1 id=&#34;写在前面&#34;&gt;写在前面&lt;/h1&gt;
 &lt;p&gt;作为一名写了五年多的写作爱好者，我深知每篇文章的不易，因为优质的输出对应的是持续的输入。在即将过去的 2022 年我主要依靠阅读书籍、公众号文章、Newsletter 和听播客等方式来进行输入。&lt;/p&gt;
 &lt;p&gt;机缘巧合之下，我在 2022 年初看到了少数派派友 @&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/u/b8ciiv6r/updates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -130,10 +131,19 @@
     &gt;时间戳&lt;/a&gt; 思路来实现「随机漫步」数据库视图。&lt;/p&gt;
 &lt;p&gt;分享一下「随机漫步」的实现：&lt;/p&gt;
 &lt;p&gt;在 Input Table 里建一个 Created time 字段，理论上没有两条笔记的创建时间会是一样的。然后再建一个 Formula 字段，输入下面的内容，其中随机间隔我写的是 3600000 ms，通过公式就会计算出一个值。这样每隔 1h 随机展示的内容都是不一样的。&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mod(mod(timestamp(prop(&amp;#34;Created time&amp;#34;)) * 100011979 + 500067713, 900066731) *
-mod(round(timestamp(now()) / 3600000) * 3600000 * 800067089 + 800068411,
-800053967) + 900067309, 900066571)
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;下面是「随机漫步」展示的内容：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mod(mod(timestamp(prop(&amp;#34;Created time&amp;#34;)) * 100011979 + 500067713, 900066731) *
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mod(round(timestamp(now()) / 3600000) * 3600000 * 800067089 + 800068411,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;800053967) + 900067309, 900066571)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;下面是「随机漫步」展示的内容：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2022-12-06_22-23-05.png&#34;
 	
 	
@@ -187,10 +197,10 @@ mod(round(timestamp(now()) / 3600000) * 3600000 * 800067089 + 800068411,
         </item>
         <item>
         <title>《如何阅读一本书》读书笔记</title>
-        <link>https://wonz.wang/2022/01/26/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+        <link>https://wonz.wang/2022/01/26/71-how-to-read-a-book/</link>
         <pubDate>Wed, 26 Jan 2022 21:37:02 +0000</pubDate>
         
-        <guid>https://wonz.wang/2022/01/26/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+        <guid>https://wonz.wang/2022/01/26/71-how-to-read-a-book/</guid>
         <description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s1670978.jpeg" alt="Featured image of post 《如何阅读一本书》读书笔记" /&gt;&lt;blockquote&gt;
 &lt;p&gt;这是 Wonz 记录的 &lt;strong&gt;第 11 篇&lt;/strong&gt; 笔记&lt;/p&gt;
 &lt;p&gt;书籍：《如何阅读一本书》&lt;/p&gt;

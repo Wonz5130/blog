@@ -2,24 +2,20 @@
 <html lang="zh-cn" dir="ltr">
     <head>
 	<meta name="generator" content="Hugo 0.119.0"><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content=''>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='演示说明'>
 <title>Wonz</title>
 
 <link rel='canonical' href='https://wonz.wang/'>
 
-<link rel="stylesheet" href="/scss/style.min.b6ddbb5a80fc02c9c841d70d5c40fdb16f9e28c97d8379c31c535b184fb10dbf.css"><meta property='og:title' content='Wonz'>
-<meta property='og:description' content=''>
+<link rel="stylesheet" href="/scss/style.min.abbd69b2908fdfcd5179898beaafd374514a86538d81639ddd2c58c06ae54e40.css"><meta property='og:title' content='Wonz'>
+<meta property='og:description' content='演示说明'>
 <meta property='og:url' content='https://wonz.wang/'>
 <meta property='og:site_name' content='Wonz'>
 <meta property='og:type' content='website'><meta property='og:updated_time' content=' 2023-08-20T16:44:16&#43;00:00 '/>
 <meta name="twitter:title" content="Wonz">
-<meta name="twitter:description" content=""><link rel="alternate" type="application/rss&#43;xml" href="https://wonz.wang/index.xml">
-    <link rel="shortcut icon" href="/assets/img/avatar.ico" />
+<meta name="twitter:description" content="演示说明"><link rel="alternate" type="application/rss&#43;xml" href="https://wonz.wang/index.xml">
+    <link rel="shortcut icon" href="/favicon.ico" />
 
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/base16/darcula.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
     </head>
     <body class="">
     <script>
@@ -45,7 +41,7 @@
     })();
 </script>
 <div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
-    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
         <span class="hamburger-box">
             <span class="hamburger-inner"></span>
         </span>
@@ -67,13 +63,15 @@
                 
                 </a>
                 
+                    <span class="emoji">🎸</span>
+                
             </figure>
             
         
         
         <div class="site-meta">
             <h1 class="site-name"><a href="/">Wonz</a></h1>
-            <h2 class="site-description"></h2>
+            <h2 class="site-description">Live Music Observing Artist</h2>
         </div>
     </header><ol class="social-menu">
             
@@ -210,6 +208,26 @@
         
         
         <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
             <a href='/tags' >
                 
                 
@@ -229,7 +247,7 @@
         
         
         <li >
-            <a href='/search' >
+            <a href='/search/' >
                 
                 
                 
@@ -288,6 +306,27 @@
         
 
         <div class="menu-bottom-section">
+                <li id="i18n-switch">  
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                    <select name="language" onchange="window.location.href = this.selectedOptions[0].value">
+                        
+                            <option value="https://wonz.wang/en/" >English</option>
+                        
+                            <option value="https://wonz.wang/" selected>中文</option>
+                        
+                    </select>
+                </li>
+            
             
             
                 <li id="dark-mode-toggle">
@@ -307,14 +346,250 @@
 
 
 
-                    <span>Dark Mode</span>
+                    <span>暗色模式</span>
                 </li>
             
         </div>
     </ol>
 </aside>
 
-    
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                <form action="/search/" class="search-form widget" >
+        <p>
+            <label>搜索</label>
+            <input name="keyword" required placeholder="输入关键词..." />
+        
+            <button title="搜索">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+            </button>
+        </p>
+    </form>
+            
+        
+            
+                <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">归档</h2>
+
+        
+        
+        
+        
+        
+        <div class="widget-archive--list">
+            <div class="archives-year">
+                    <a href="/archives/#2023">
+                        
+                            <span class="year">2023</span>
+                            <span class="count">4</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2022">
+                        
+                            <span class="year">2022</span>
+                            <span class="count">17</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2021">
+                        
+                            <span class="year">2021</span>
+                            <span class="count">23</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2020">
+                        
+                            <span class="year">2020</span>
+                            <span class="count">31</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2019">
+                        
+                            <span class="year">2019</span>
+                            <span class="count">9</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2018">
+                        
+                            <span class="year">更多</span>
+                        
+                    </a> 
+                </div>
+            
+        </div>
+    </section>
+            
+        
+            
+                <section class="widget tagCloud">
+    <div class="widget-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+    </div>
+    <h2 class="widget-title section-title">分类</h2>
+
+    <div class="tagCloud-tags">
+        
+            <a href="/categories/wonz%E7%AC%94%E8%AE%B0/" class="font_size_17">
+                Wonz笔记
+            </a>
+        
+            <a href="/categories/%E6%80%BB%E7%BB%93/" class="font_size_9">
+                总结
+            </a>
+        
+            <a href="/categories/%E9%9A%8F%E7%AC%94/" class="font_size_9">
+                随笔
+            </a>
+        
+            <a href="/categories/%E5%A4%A7%E5%AD%A6/" class="font_size_8">
+                大学
+            </a>
+        
+            <a href="/categories/%E6%80%9D%E8%80%83/" class="font_size_7">
+                思考
+            </a>
+        
+            <a href="/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/" class="font_size_7">
+                数字生活
+            </a>
+        
+            <a href="/categories/%E9%9F%B3%E4%B9%90/" class="font_size_7">
+                音乐
+            </a>
+        
+            <a href="/categories/wonz%E7%8E%B0%E5%9C%BA/" class="font_size_5">
+                Wonz现场
+            </a>
+        
+            <a href="/categories/%E5%B7%A5%E4%BD%9C/" class="font_size_5">
+                工作
+            </a>
+        
+            <a href="/categories/%E7%94%9F%E6%B4%BB/" class="font_size_5">
+                生活
+            </a>
+        
+    </div>
+</section>
+
+            
+        
+            
+                <section class="widget tagCloud">
+    <div class="widget-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+    </div>
+    <h2 class="widget-title section-title">标签云</h2>
+
+    <div class="tagCloud-tags">
+        
+            <a href="/tags/%E5%B7%A5%E4%BD%9C/" class="font_size_9">
+                工作
+            </a>
+        
+            <a href="/tags/live/" class="font_size_6">
+                live
+            </a>
+        
+            <a href="/tags/%E5%A4%8D%E7%9B%98/" class="font_size_6">
+                复盘
+            </a>
+        
+            <a href="/tags/%E7%94%9F%E6%B4%BB/" class="font_size_6">
+                生活
+            </a>
+        
+            <a href="/tags/%E4%BA%92%E8%81%94%E7%BD%91/" class="font_size_5">
+                互联网
+            </a>
+        
+            <a href="/tags/%E5%8C%97%E6%BC%82/" class="font_size_5">
+                北漂
+            </a>
+        
+            <a href="/tags/%E7%83%AD%E7%88%B1/" class="font_size_5">
+                热爱
+            </a>
+        
+            <a href="/tags/%E8%80%83%E7%A0%94/" class="font_size_5">
+                考研
+            </a>
+        
+            <a href="/tags/%E9%9F%B3%E4%B9%90%E8%8A%82/" class="font_size_5">
+                音乐节
+            </a>
+        
+            <a href="/tags/apple/" class="font_size_3">
+                Apple
+            </a>
+        
+            <a href="/tags/newsletter/" class="font_size_3">
+                Newsletter
+            </a>
+        
+            <a href="/tags/%E5%8D%9A%E5%AE%A2/" class="font_size_3">
+                博客
+            </a>
+        
+            <a href="/tags/%E5%90%8E%E6%91%87/" class="font_size_3">
+                后摇
+            </a>
+        
+            <a href="/tags/%E6%8A%95%E8%B5%84/" class="font_size_3">
+                投资
+            </a>
+        
+            <a href="/tags/%E6%9C%8B%E5%8F%8B/" class="font_size_3">
+                朋友
+            </a>
+        
+    </div>
+</section>
+            
+        
+    </aside>
 
 
             <main class="main full-width">
@@ -342,7 +617,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2021/05/12/%E8%BF%B7%E7%AC%9B-%E6%88%91%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6-%E5%9B%9E%E5%AE%B6%E7%9C%9F%E5%BF%AB%E4%B9%90/">迷笛 我的乌托邦 “回家”真快乐</a>
+            <a href="/2021/05/12/50-2021-shandong-midi/">迷笛 我的乌托邦 “回家”真快乐</a>
         </h2>
     
         
@@ -383,7 +658,7 @@
 
 
                 <time class="article-time--reading">
-                    3 minute read
+                    阅读时长: 3 分钟
                 </time>
             </div>
         
@@ -400,7 +675,7 @@
 <article class="has-image">
     <header class="article-header">
         <div class="article-image">
-            <a href="/2021/03/08/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/">
+            <a href="/2021/03/08/49-private-imghost/">
                 
                     <img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-03-08_21-44-50.png" loading="lazy" alt="Featured image of post 使用 GitHub &#43; PicGo &#43; jsDelivr 搭建自己的私人图床" />
                 
@@ -421,7 +696,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2021/03/08/%E4%BD%BF%E7%94%A8-github--picgo--jsdelivr-%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/">使用 GitHub &#43; PicGo &#43; jsDelivr 搭建自己的私人图床</a>
+            <a href="/2021/03/08/49-private-imghost/">使用 GitHub &#43; PicGo &#43; jsDelivr 搭建自己的私人图床</a>
         </h2>
     
         
@@ -462,7 +737,7 @@
 
 
                 <time class="article-time--reading">
-                    2 minute read
+                    阅读时长: 2 分钟
                 </time>
             </div>
         
@@ -479,7 +754,7 @@
 <article class="has-image">
     <header class="article-header">
         <div class="article-image">
-            <a href="/2021/03/02/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E4%B9%A6%E6%91%98%E8%AE%B0%E5%BD%95/">
+            <a href="/2021/03/02/48-intimate-relationships/">
                 
                     <img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s29497110.jpg" loading="lazy" alt="Featured image of post 《亲密关系》书摘记录" />
                 
@@ -500,7 +775,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2021/03/02/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E4%B9%A6%E6%91%98%E8%AE%B0%E5%BD%95/">《亲密关系》书摘记录</a>
+            <a href="/2021/03/02/48-intimate-relationships/">《亲密关系》书摘记录</a>
         </h2>
     
         
@@ -537,7 +812,7 @@
 
 
                 <time class="article-time--reading">
-                    13 minute read
+                    阅读时长: 13 分钟
                 </time>
             </div>
         
@@ -554,7 +829,7 @@
 <article class="has-image">
     <header class="article-header">
         <div class="article-image">
-            <a href="/2021/02/14/wonz%E7%8E%B0%E5%9C%BA-%E8%BF%B7%E5%9F%8E2020-%E7%8E%B0%E5%9C%BA%E8%AE%B0%E5%BD%95/">
+            <a href="/2021/02/14/47-micheng-live/">
                 
                     <img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210215195116.jpg" loading="lazy" alt="Featured image of post Wonz现场 | 「迷城Ⅲ」2020 现场记录" />
                 
@@ -575,7 +850,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2021/02/14/wonz%E7%8E%B0%E5%9C%BA-%E8%BF%B7%E5%9F%8E2020-%E7%8E%B0%E5%9C%BA%E8%AE%B0%E5%BD%95/">Wonz现场 | 「迷城Ⅲ」2020 现场记录</a>
+            <a href="/2021/02/14/47-micheng-live/">Wonz现场 | 「迷城Ⅲ」2020 现场记录</a>
         </h2>
     
         
@@ -612,7 +887,7 @@
 
 
                 <time class="article-time--reading">
-                    3 minute read
+                    阅读时长: 3 分钟
                 </time>
             </div>
         
@@ -629,7 +904,7 @@
 <article class="has-image">
     <header class="article-header">
         <div class="article-image">
-            <a href="/2021/01/20/%E6%88%91%E7%9A%84-2020-%E5%B9%B4%E5%A4%8D%E7%9B%98/">
+            <a href="/2021/01/20/46-2020-summary/">
                 
                     <img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103221531.jpg" loading="lazy" alt="Featured image of post 我的 2020 年复盘" />
                 
@@ -650,7 +925,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2021/01/20/%E6%88%91%E7%9A%84-2020-%E5%B9%B4%E5%A4%8D%E7%9B%98/">我的 2020 年复盘</a>
+            <a href="/2021/01/20/46-2020-summary/">我的 2020 年复盘</a>
         </h2>
     
         
@@ -687,7 +962,7 @@
 
 
                 <time class="article-time--reading">
-                    9 minute read
+                    阅读时长: 9 分钟
                 </time>
             </div>
         
@@ -717,7 +992,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2020/12/30/%E5%B7%A5%E4%BD%9C%E8%BF%91%E5%8D%8A%E5%B9%B4%E7%9A%84%E4%B8%80%E4%BA%9B%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%82%9F/">工作近半年的一些个人感悟</a>
+            <a href="/2020/12/30/45-work-for-half-a-year/">工作近半年的一些个人感悟</a>
         </h2>
     
         
@@ -758,7 +1033,7 @@
 
 
                 <time class="article-time--reading">
-                    4 minute read
+                    阅读时长: 4 分钟
                 </time>
             </div>
         
@@ -775,7 +1050,7 @@
 <article class="has-image">
     <header class="article-header">
         <div class="article-image">
-            <a href="/2020/12/23/wonz%E7%8E%B0%E5%9C%BA-%E6%B2%BC%E6%B3%BD%E9%A3%8E%E7%9F%A5%E6%88%912020%E5%B7%A1%E6%BC%94%E5%8C%97%E4%BA%AC%E7%AB%99%E7%8E%B0%E5%9C%BA%E8%AE%B0%E5%BD%95/">
+            <a href="/2020/12/23/44-zhaoze-live/">
                 
                     <img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201223214637.jpg" loading="lazy" alt="Featured image of post Wonz现场 | 沼泽「风知我」2020巡演北京站现场记录" />
                 
@@ -796,7 +1071,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2020/12/23/wonz%E7%8E%B0%E5%9C%BA-%E6%B2%BC%E6%B3%BD%E9%A3%8E%E7%9F%A5%E6%88%912020%E5%B7%A1%E6%BC%94%E5%8C%97%E4%BA%AC%E7%AB%99%E7%8E%B0%E5%9C%BA%E8%AE%B0%E5%BD%95/">Wonz现场 | 沼泽「风知我」2020巡演北京站现场记录</a>
+            <a href="/2020/12/23/44-zhaoze-live/">Wonz现场 | 沼泽「风知我」2020巡演北京站现场记录</a>
         </h2>
     
         
@@ -833,7 +1108,7 @@
 
 
                 <time class="article-time--reading">
-                    2 minute read
+                    阅读时长: 2 分钟
                 </time>
             </div>
         
@@ -850,7 +1125,7 @@
 <article class="has-image">
     <header class="article-header">
         <div class="article-image">
-            <a href="/2020/12/16/wonz%E7%8E%B0%E5%9C%BA-%E8%82%86%E5%9B%8Dfilter2020%E5%B7%A1%E6%BC%94%E5%8C%97%E4%BA%AC%E7%AB%99%E7%8E%B0%E5%9C%BA%E8%AE%B0%E5%BD%95/">
+            <a href="/2020/12/16/43-sixi-live/">
                 
                     <img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201216202548.jpg" loading="lazy" alt="Featured image of post Wonz现场 | 肆囍「Filter」2020巡演北京站现场记录" />
                 
@@ -871,7 +1146,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2020/12/16/wonz%E7%8E%B0%E5%9C%BA-%E8%82%86%E5%9B%8Dfilter2020%E5%B7%A1%E6%BC%94%E5%8C%97%E4%BA%AC%E7%AB%99%E7%8E%B0%E5%9C%BA%E8%AE%B0%E5%BD%95/">Wonz现场 | 肆囍「Filter」2020巡演北京站现场记录</a>
+            <a href="/2020/12/16/43-sixi-live/">Wonz现场 | 肆囍「Filter」2020巡演北京站现场记录</a>
         </h2>
     
         
@@ -908,7 +1183,7 @@
 
 
                 <time class="article-time--reading">
-                    2 minute read
+                    阅读时长: 2 分钟
                 </time>
             </div>
         
@@ -925,7 +1200,7 @@
 <article class="has-image">
     <header class="article-header">
         <div class="article-image">
-            <a href="/2020/12/15/wonz%E7%8E%B0%E5%9C%BA-deep-water%E5%A4%84%E5%A4%84%E7%94%9C%E5%BF%832020%E5%B7%A1%E6%BC%94%E5%8C%97%E4%BA%AC%E7%AB%99%E7%8E%B0%E5%9C%BA%E8%AE%B0%E5%BD%95/">
+            <a href="/2020/12/15/42-deepwater-live/">
                 
                     <img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201215214351.jpg" loading="lazy" alt="Featured image of post Wonz现场 | Deep Water「处处甜心」2020巡演北京站现场记录" />
                 
@@ -946,7 +1221,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2020/12/15/wonz%E7%8E%B0%E5%9C%BA-deep-water%E5%A4%84%E5%A4%84%E7%94%9C%E5%BF%832020%E5%B7%A1%E6%BC%94%E5%8C%97%E4%BA%AC%E7%AB%99%E7%8E%B0%E5%9C%BA%E8%AE%B0%E5%BD%95/">Wonz现场 | Deep Water「处处甜心」2020巡演北京站现场记录</a>
+            <a href="/2020/12/15/42-deepwater-live/">Wonz现场 | Deep Water「处处甜心」2020巡演北京站现场记录</a>
         </h2>
     
         
@@ -983,7 +1258,7 @@
 
 
                 <time class="article-time--reading">
-                    1 minute read
+                    阅读时长: 1 分钟
                 </time>
             </div>
         
@@ -1013,7 +1288,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/2020/11/21/%E4%BA%92%E8%81%94%E7%BD%91%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E6%8C%87%E5%8C%97/">互联网写作规范指北</a>
+            <a href="/2020/11/21/41-markdown/">互联网写作规范指北</a>
         </h2>
     
         
@@ -1050,7 +1325,7 @@
 
 
                 <time class="article-time--reading">
-                    4 minute read
+                    阅读时长: 4 分钟
                 </time>
             </div>
         
@@ -1117,14 +1392,14 @@
     <section class="copyright">
         &copy; 
         
+            2018 - 
         
-        2018 - 2023 Wonz
+        2023 Wonz
     </section>
-    
     
     <section class="powerby">
         Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
-        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.20.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.20.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
     </section>
 </footer>
 

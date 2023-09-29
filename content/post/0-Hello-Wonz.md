@@ -1,6 +1,6 @@
 ---
-title: Hello Wonz
-description: intro
+title: Hello, Wonz
+description: 
 date: 2018-01-28 0:00:00
 lastmod:
 
@@ -45,4 +45,5 @@ draft: false
 * 2019 年 12 月 21-22 日，参加 2020 全国硕士研究生招生考试初试。
 * 2019 年 12 月 31 日，CSDN 排名前 1W 名。
 * 2020 年 1 月 23 日，重构个人博客网站。
+* 2023 年 9 月 29 日，重构个人博客网站 3.0 。
 * 未完待续 To be continued ······

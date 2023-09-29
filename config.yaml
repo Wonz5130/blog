@@ -1,50 +1,75 @@
 baseurl: https://wonz.wang 
 languageCode: zh-cn
+theme: hugo-theme-stack
+paginate: 10
 title: Wonz
-theme: stack
-paginate: 10 # 每页显示多少文章
-enableEmoji: true
+copyright: Wonz
+
+languages:
+    en:
+        languageName: English
+        title: Wonz
+        weight: 1
+        params:
+            description: Example description
+    zh-cn:
+        languageName: 中文
+        title: Wonz
+        weight: 2
+        params:
+            description: 演示说明
+
+# Change it to your Disqus shortname before using
+disqusShortname: hugo-theme-stack
+
+# GA Tracking ID
+googleAnalytics:
+
+# Theme i18n support
+# Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
+DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
 
 permalinks:
-    post: /:year/:month/:day/:slug/
-    page: /:filename/
-
-# 下面是 Stack 主题的参数
+    post: /:year/:month/:day/:filename/
+    page: /:slug/
 
 params:
     mainSections:
         - post
     featuredImageField: image
-    rssFullContent: true # RSS 是否开启全内容 / false 则为只有摘要
-    favicon: /assets/img/avatar.ico # 浏览器 Tab 页的网站图标
-    # avatarURL: /assets/img/avatar.png #网站主页的照片信息，你可以在根目录 /static/images/ 里面替换成自己的照片
+    rssFullContent: true
+    favicon: /favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+
+    footer:
+        since: 2018
+        customText:
 
     dateFormat:
         published: Jan 02, 2006
         lastUpdated: Jan 02, 2006 15:04 MST
-    
+
     sidebar:
-        emoji:
-        subtitle:
+        emoji: 🎸
+        subtitle: Live Music Observing Artist
         avatar:
             enabled: true
             local: true
             src: img/avatar.png
 
     article:
-        math: false # 这里关闭是因为我们使用的是 MathJax
-        toc: true # TOC 默认开启
+        math: false
+        toc: true
         readingTime: true
         license:
             enabled: true
-            default: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" rel="nofollow noopener">CC BY-SA 4.0</a>'
-    
+            default: Licensed under CC BY-NC-SA 4.0
+
     comments:
-        enabled: false
+        enabled: true
         provider: disqus
 
         disqusjs:
@@ -71,28 +96,33 @@ params:
             clientId:
             clientSecret:
             autoCreateIssue: false
-        
-        # Waline client configuration see: https://waline.js.org/en/reference/client.html
+
+        # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
             serverURL:
             lang:
-            visitor:
-            avatar:
+            pageview:
             emoji:
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+                - https://unpkg.com/@waline/emojis@1.0.1/weibo
             requiredMeta:
                 - name
                 - email
                 - url
-            placeholder:
             locale:
                 admin: Admin
+                placeholder:
 
         twikoo:
             envId:
             region:
             path:
             lang:
+
+        # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
+        cactus:
+            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
+            serverName: "cactus.chat"
+            siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
             repo:
@@ -115,31 +145,47 @@ params:
         cusdis:
             host:
             id:
-    
     widgets:
-        homepage: []
-        page: []
-        enabled:
-            - search
-            - archives
-            - tag-cloud
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 15
+        page:
+            - type: toc
 
-        archives:
-            limit: 5
+    opengraph:
+        twitter:
+            # Your Twitter username
+            site:
 
-        tagCloud:
-            limit: 20
+            # Available values: summary, summary_large_image
+            card: summary_large_image
+
+    defaultImage:
+        opengraph:
+            enabled: false
+            local: false
+            src:
+
+    colorScheme:
+        # Display toggle
+        toggle: true
+
+        # Available values: auto, light, dark
+        default: auto
 
     imageProcessing:
         cover:
             enabled: true
         content:
             enabled: true
-    
-    countAllWords:
-        enabled: true
-        prefix: "共计"
-        suffix: "字"
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
@@ -177,14 +223,6 @@ menu:
           params:
               newTab: false
               icon: tag
-        
-        - identifier: search
-          name: Search
-          url: /search
-          weight: -60
-          params:
-              newTab: false
-              icon: search
         
         - identifier: archives
           name: Archives
@@ -239,32 +277,20 @@ related:
         - name: categories
           weight: 200
 
-markup: # **Markup Section 非常重要**
-    # defaultMarkdownHandler: pandoc # 选择 Pandoc
-    # pandoc:
-    #     preserveTOC: false # 此选项开启则不会剔除掉 Pandoc 自己生成在文章中的 TOC，关闭则只显示 Sidebar TOC
+markup:
+    goldmark:
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: true
     tableOfContents:
-        endLevel: 5 # 从 5 结束
+        endLevel: 4
         ordered: true
-        startLevel: 2 # 从 2 开始
-    highlight: # 代码高亮配置，对 Pandoc 而言似乎是没用的。稍后会提到如何使代码高亮
-        anchorLineNos: false
+        startLevel: 2
+    highlight:
+        noClasses: false
         codeFences: true
-        guessSyntax: false
-        hl_Lines: ""
-        lineAnchors: ""
+        guessSyntax: true
         lineNoStart: 1
         lineNos: true
         lineNumbersInTable: true
-        noClasses: true
-        style: dracula
         tabWidth: 4
-
-
-# # 使用下面的配置才能使得 Pandoc 渲染 Blog 文章
-
-# security:
-#   enableInlineShortcodes: false
-#   exec:
-#     allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^p']
-#     osEnv: ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
