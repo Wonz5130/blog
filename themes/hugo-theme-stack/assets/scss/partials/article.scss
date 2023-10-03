@@ -78,9 +78,10 @@
     color: var(--card-text-color-secondary);
     line-height: 1.5;
     margin: 0;
-    font-size: 1.75rem;
+    margin-top: -5px;
+    font-size: 1.5rem;
     @include respond(xl) {
-        font-size: 2rem;
+        font-size: 1.6rem;
     }
 }
 

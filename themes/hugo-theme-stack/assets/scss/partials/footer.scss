@@ -18,6 +18,23 @@ footer.site-footer {
         margin-bottom: 5px;
     }
 
+    .running-time {
+        color: var(--body-text-color);
+        font-weight: normal;
+        font-size: 1.2rem;
+    
+        .running-days {
+            font-weight:bold;
+            color: var(--emphasize-text-color);
+        }   
+    }
+    
+    .totalcount {
+        color: var(--card-text-color-secondary);
+        font-weight: normal;
+        margin-bottom: 5px;
+    }    
+
     .powerby {
         color: var(--body-text-color);
         font-weight: normal;

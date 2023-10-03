@@ -1,7 +1,7 @@
 baseurl: https://wonz.wang 
 languageCode: zh-cn
 theme: hugo-theme-stack
-paginate: 10
+paginate: 5
 title: Wonz
 copyright: Wonz
 
@@ -105,8 +105,8 @@ params:
             emoji:
                 - https://unpkg.com/@waline/emojis@1.0.1/weibo
             requiredMeta:
-                - name
-                - email
+                - nick
+                - mail
                 - url
             locale:
                 admin: Admin
@@ -223,49 +223,66 @@ menu:
           params:
               newTab: false
               icon: tag
-        
-        - identifier: archives
-          name: Archives
-          url: /archives
-          weight: -50
+
+        - identifier: live
+          name: Live
+          url: /live
+          weight: -60
           params:
               newTab: false
-              icon: archives
-
-        - identifier: rss
-          name: RSS Feed
-          url: /index.xml
-          weight: -10
-          params:
-              newTab: true
-              icon: rss
-
+              icon: tag
+        
     social:
         - identifier: github
           name: GitHub
           url: https://github.com/Wonz5130
+          weight: -5
           params:
               newTab: true
               icon: brand-github
         - identifier: instagram
           name: Instagram
           url: https://instagram.com/wonz_wang
+          weight: -4
           params:
               newTab: true
               icon: instagram
         - identifier: telegram
           name: Telegram
           url: https://t.me/wonz_wang
+          weight: -3
           params:
               newTab: true
               icon: telegram
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/wonz_wang
+          weight: -2
           params:
               newTab: true
               icon: brand-twitter
-
+        - identifier: wechat
+          name: Wechat
+          url: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202310031622148.jpg
+          weight: -2
+          params:
+              newTab: true
+              icon: wechat
+        - identifier: spotify
+          name: Spotify
+          url: https://spotify.link/Xd49excqpDb
+          weight: -1
+          params:
+              newTab: true
+              icon: spotify
+        - identifier: rss
+          name: RSS Feed
+          url: /index.xml
+          weight: 0
+          params:
+              newTab: true
+              icon: rss
+              
 related:
     includeNewer: true
     threshold: 60

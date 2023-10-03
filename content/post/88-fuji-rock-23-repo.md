@@ -32,6 +32,8 @@ draft: false
 
 于是，我也就起了个 **《我从 FUJI ROCK 23 露营回来啦》** 的标题，算是 call back 了。
 
+{{< spotify type="track" id="4sPX7OnajJlj1yUNL8rE2s" height="80px">}}
+
 # FUJI ROCK 的历史
 
 FUJI ROCK 其实源自 1997 年在富士山脚下的天神山滑雪场办的一个音乐节。后来才把会场转移到现在的新泻县苗场滑雪场。一共举办了 26 届（算上今年 2023 年的话），其中 2020 年由于新冠疫情停办一年。
