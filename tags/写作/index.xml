@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>写作 on Wonz</title><link>https://wonz.wang/tags/%E5%86%99%E4%BD%9C/</link><description>Recent content in 写作 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Wonz</copyright><lastBuildDate>Sat, 21 Nov 2020 21:09:46 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E5%86%99%E4%BD%9C/index.xml" rel="self" type="application/rss+xml"/><item><title>互联网写作规范指北</title><link>https://wonz.wang/2020/11/21/41-markdown/</link><pubDate>Sat, 21 Nov 2020 21:09:46 +0000</pubDate><guid>https://wonz.wang/2020/11/21/41-markdown/</guid><description>&lt;h2 id="一写在前面">一、写在前面&lt;/h2>
 &lt;p>我从 2018 年开始接触 &lt;strong>Markdown&lt;/strong>，自从习惯了 &lt;strong>Markdown&lt;/strong> 写作之后，再也不想用 &lt;strong>Word&lt;/strong> 写东西了。&lt;/p>
 &lt;p>按照&lt;strong>维基百科&lt;/strong>的说法，&lt;strong>Markdown&lt;/strong> 是一种&lt;a class="link" href="https://en.wikipedia.org/wiki/Lightweight_markup_language" target="_blank" rel="noopener"
->轻量级的标记语言&lt;/a>，&lt;a class="link" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener"
->采用纯文本&lt;/a>格式语法。你不需要掌握多少语法就可以很轻松地写出非常好看的排版。&lt;/p>
+>轻量级的标记语言
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，&lt;a class="link" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener"
+>采用纯文本
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>格式语法。你不需要掌握多少语法就可以很轻松地写出非常好看的排版。&lt;/p>
 &lt;h2 id="二markdown-基础语法">二、Markdown 基础语法&lt;/h2>
 &lt;h3 id="标题">标题&lt;/h3>
 &lt;p>使用 &lt;code>#&lt;/code> 可以给文章加上标题。&lt;/p>
@@ -116,7 +130,14 @@
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
 &lt;p>&lt;a class="link" href="https://zh.wikipedia.org/zh-cn/" target="_blank" rel="noopener"
->这是维基百科首页&lt;/a>&lt;/p>
+>这是维基百科首页
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;p>&lt;strong>图片链接&lt;/strong>&lt;/p>
 &lt;p>语法：&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -134,7 +155,14 @@ alt="这是图片"
 >&lt;/p>
 &lt;p>图片链接这里最好使用的是图床链接，而不是本地链接，因为如果你需要发布到网上的话，使用图床可以一键识别图片，而不需要手动再单独添加图片。最推荐的当然还是尽量减少图片的使用，因为图床难免会挂掉。&lt;/p>
 &lt;p>我自己用的是 &lt;code>GitHub + PicGo + jsDelivr&lt;/code> 搭的图床，相关配置可以参考我写的这篇文章 &lt;a class="link" href="https://blog.csdn.net/Wonz5130/article/details/104119008?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160586131019724838526745%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&amp;amp;request_id=160586131019724838526745&amp;amp;biz_id=0&amp;amp;utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v1~rank_blog_v1-1-104119008.pc_v1_rank_blog_v1&amp;amp;utm_term=picgo" target="_blank" rel="noopener"
->GitHub+PicGo+jsDelivr 搭建自己的私人图床&lt;/a>。&lt;/p>
+>GitHub+PicGo+jsDelivr 搭建自己的私人图床
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;p>我一般写文章主要用到的就是以上这些基础语法，其实三分钟就能学会。&lt;/p>
 &lt;h2 id="三-markdown-进阶语法">三 、Markdown 进阶语法&lt;/h2>
 &lt;h3 id="代码">代码&lt;/h3>
@@ -342,7 +370,14 @@ alt="这是图片"
 &lt;p>这完全靠自己写作时候的发挥。&lt;/p>
 &lt;h2 id="四markdown-编辑器推荐">四、Markdown 编辑器推荐&lt;/h2>
 &lt;p>我基本只在 &lt;strong>Windows&lt;/strong> 平台上进行文章的写作，因此只了解 &lt;strong>Windows&lt;/strong> 平台的 &lt;strong>Markdown&lt;/strong> 编辑器，强烈推荐 &lt;a class="link" href="https://typora.io/" target="_blank" rel="noopener"
->Typora&lt;/a>。&lt;/p>
+>Typora
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;p>&lt;strong>Typora&lt;/strong> 讲究的是&lt;strong>所见即所得&lt;/strong>，你使用 &lt;strong>Markdown&lt;/strong> 语法写的东西能够马上展示效果，而且它可以将你写的文档导出成 &lt;strong>PDF/HTML/Word&lt;/strong> 等多种格式，完全不用担心分享给没有安装 &lt;strong>Markdown&lt;/strong> 编辑器的人看。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-11-20_16-39-43.png"
 loading="lazy"
@@ -352,8 +387,29 @@ loading="lazy"
 &lt;p>并不一定是搞技术的才使用 &lt;strong>Markdown&lt;/strong> 来写作。其实平时的&lt;strong>朋友圈/微博等社交平台&lt;/strong>的内容输出，也可以参考以上的规范与标准，比如如何空格。学会以后，真的很大程度上能够提升阅读体验。&lt;/p>
 &lt;h2 id="六参考">六、参考&lt;/h2>
 &lt;p>&lt;a class="link" href="https://commonmark.org/help/tutorial/" target="_blank" rel="noopener"
->Markdown 教程&lt;/a>&lt;/p>
+>Markdown 教程
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/ruanyf/document-style-guide" target="_blank" rel="noopener"
->中文技术文档的写作规范——by 阮一峰&lt;/a>&lt;/p>
+>中文技术文档的写作规范——by 阮一峰
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://tingtalk.me/markdown/" target="_blank" rel="noopener"
->Markdown 入门教程及书写风格指南&lt;/a>&lt;/p></description></item></channel></rss>
+>Markdown 入门教程及书写风格指南
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p></description></item></channel></rss>

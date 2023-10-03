@@ -33,7 +33,14 @@ loading="lazy"
 >&lt;/p>
 &lt;h3 id="技术语言">技术语言&lt;/h3>
 &lt;p>因为自己大学期间出于兴趣自学的 &lt;code>Python&lt;/code> ，当时也打算以后主攻这个语言。但是真正找工作的时候，了解了很多资料后发现，其实 &lt;code>Python&lt;/code> 不是很适合作为工作的主语言，更多时候适合一门副语言作一些效率提升上的事情，比如写写自动化脚本。详情可以去 B 站看&lt;a class="link" href="https://www.bilibili.com/video/BV1vt411n7WX" target="_blank" rel="noopener"
->这个视频&lt;/a>。因为我找的是 &lt;code>后端开发&lt;/code> 的工作，事实上现在后端开发主流的还是 &lt;code>Java&lt;/code> ，但是我个人一点也不喜欢 &lt;code>Java&lt;/code> ，所以根本不考虑找 &lt;code>Java&lt;/code> 的工作。如果你和我一样，既不喜欢 &lt;code>Java&lt;/code> ，又不是很想写 &lt;code>C/C++&lt;/code> ，那我建议学下 &lt;code>Golang&lt;/code> ，目前也有一些互联网公司用这门语言进行后端开发。毕竟外号是 &lt;code>21世纪的C++&lt;/code> 。这里也算给后来的人提个醒吧，算是自己踩过的一个坑了。&lt;/p>
+>这个视频
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。因为我找的是 &lt;code>后端开发&lt;/code> 的工作，事实上现在后端开发主流的还是 &lt;code>Java&lt;/code> ，但是我个人一点也不喜欢 &lt;code>Java&lt;/code> ，所以根本不考虑找 &lt;code>Java&lt;/code> 的工作。如果你和我一样，既不喜欢 &lt;code>Java&lt;/code> ，又不是很想写 &lt;code>C/C++&lt;/code> ，那我建议学下 &lt;code>Golang&lt;/code> ，目前也有一些互联网公司用这门语言进行后端开发。毕竟外号是 &lt;code>21世纪的C++&lt;/code> 。这里也算给后来的人提个醒吧，算是自己踩过的一个坑了。&lt;/p>
 &lt;p>因为自己不想找 &lt;code>Java/C/C++&lt;/code> 的工作，无形中又给自己找工作增加了一些难度，还好北京招 &lt;code>Python&lt;/code> 的公司有一些，这也是我为什么选择北京的一个原因。&lt;/p>
 &lt;h3 id="薪资">薪资&lt;/h3>
 &lt;p>我觉得其实薪资能养活自己就行，刚进职场，尽量以提升自己为主，薪资其实是次要的。8k 有 8k 的活法，30k 有 30k 的活法，没必要去攀比。前期个人提升的越多，后期薪资的增长其实很快的，所以刚毕业不用太担心薪资的问题。&lt;/p>
@@ -44,7 +51,14 @@ loading="lazy"
 &lt;p>我一直觉得兴趣是最好的老师。有兴趣，做事情才有激情。强迫我做不喜欢的事反而会让我觉得反感。&lt;/p>
 &lt;p>我也不知道自己会写多少年代码，当多少年程序员。今天刚和一位工作一年的朋友聊了聊，提到刚工作的一两年当个缓冲期，好好思考下想要什么，规划一下。这点我非常赞同，确实需要好好规划，职场和学校差别还是很大的。希望能够早点摆脱学生思维，尽快成长起来。想做一个内心成熟的人。&lt;/p>
 &lt;p>推荐一篇自己觉得写的很棒的文章：&lt;a class="link" href="http://losergogogo.com/article/1565256150386" target="_blank" rel="noopener"
->说一说程序员的职业规划&lt;/a>&lt;/p>
+>说一说程序员的职业规划
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;h3 id="为自己多留点后手">为自己多留点后手&lt;/h3>
 &lt;p>正如之前提到的，我想在工作之余多发展一下自己的兴趣爱好，其实也是想看看这些兴趣爱好是否能成为自己的第二第三技能，提高自己的竞争力。&lt;/p>
 &lt;h3 id="写在后面">写在后面&lt;/h3>

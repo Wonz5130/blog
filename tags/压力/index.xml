@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>压力 on Wonz</title><link>https://wonz.wang/tags/%E5%8E%8B%E5%8A%9B/</link><description>Recent content in 压力 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Wonz</copyright><lastBuildDate>Sat, 30 Apr 2022 14:10:31 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E5%8E%8B%E5%8A%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>我，转岗了</title><link>https://wonz.wang/2022/04/30/74-internal-transfer/</link><pubDate>Sat, 30 Apr 2022 14:10:31 +0000</pubDate><guid>https://wonz.wang/2022/04/30/74-internal-transfer/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG473.jpeg" alt="Featured image of post 我，转岗了" />&lt;h1 id="写在前面">写在前面&lt;/h1>
 &lt;p>距离&lt;a class="link" href="https://wonz.wang/2021/07/21/53-resign/" target="_blank" rel="noopener"
->《我，离职了》&lt;/a>这篇文章已经过去大半年了，如今在毕业后的第二家公司里待了快一年了，最近又经历了转岗，从全栈转到了后端。最近还在转岗适应期，两个多月的时间也收获了很多，决定记录一下。&lt;/p>
+>《我，离职了》
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>这篇文章已经过去大半年了，如今在毕业后的第二家公司里待了快一年了，最近又经历了转岗，从全栈转到了后端。最近还在转岗适应期，两个多月的时间也收获了很多，决定记录一下。&lt;/p>
 &lt;h1 id="为什么要转岗">为什么要转岗&lt;/h1>
 &lt;p>首先要说明的是，公司团队并不是笼统地分为大前端、大后端，而是按照实际业务线进行划分的，一个团队里既有产品、前端、后端，又有测试。然后又有整个技术团队的前端技术栈、后端技术栈。当初公司招我的时候就有把我归到后端技术栈的想法。&lt;/p>
 &lt;p>在我刚入职的半年里，因为业务需求以及人员变动，我干了半年的全栈，负责三个内部系统的前端和后端。其中主要是前端多一点，以及一些比较轻的后端。&lt;/p>

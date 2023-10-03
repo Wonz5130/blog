@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数字生活 on Wonz</title><link>https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/</link><description>Recent content in 数字生活 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Wonz</copyright><lastBuildDate>Sat, 08 Oct 2022 10:13:53 +0000</lastBuildDate><atom:link href="https://wonz.wang/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>构建自己的阅读工作流</title><link>https://wonz.wang/2022/10/08/82-reading-workflow/</link><pubDate>Sat, 08 Oct 2022 10:13:53 +0000</pubDate><guid>https://wonz.wang/2022/10/08/82-reading-workflow/</guid><description>&lt;h1 id="写在前面">写在前面&lt;/h1>
 &lt;p>作为一名写了五年多的写作爱好者，我深知每篇文章的不易，因为优质的输出对应的是持续的输入。在即将过去的 2022 年我主要依靠阅读书籍、公众号文章、Newsletter 和听播客等方式来进行输入。&lt;/p>
 &lt;p>机缘巧合之下，我在 2022 年初看到了少数派派友 @&lt;a class="link" href="https://sspai.com/u/b8ciiv6r/updates" target="_blank" rel="noopener"
->潦草学者&lt;/a> 写的&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
->《我的阅读工作流（2021版）》&lt;/a>，让我开始有意识地尝试构建属于自己的阅读工作流。在经历了网上查阅资料、阅读他人博客、实操软件使用、工作流迭代，差不多实践了大半年之后，我终于也拥有了属于自己的一套阅读工作流。&lt;/p>
+>潦草学者
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 写的&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
+>《我的阅读工作流（2021版）》
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，让我开始有意识地尝试构建属于自己的阅读工作流。在经历了网上查阅资料、阅读他人博客、实操软件使用、工作流迭代，差不多实践了大半年之后，我终于也拥有了属于自己的一套阅读工作流。&lt;/p>
 &lt;p>简单来说，我的阅读工作流参考了派友 @&lt;a class="link" href="https://sspai.com/u/b8ciiv6r/updates" target="_blank" rel="noopener"
->潦草学者&lt;/a>，一共有七步，分别是：信息源 -&amp;gt; 稍后阅读 -&amp;gt; 划线批注 -&amp;gt; 临时笔记 -&amp;gt; 永久笔记（知识库） -&amp;gt; 回顾系统 -&amp;gt; 创作输出。&lt;/p>
+>潦草学者
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，一共有七步，分别是：信息源 -&amp;gt; 稍后阅读 -&amp;gt; 划线批注 -&amp;gt; 临时笔记 -&amp;gt; 永久笔记（知识库） -&amp;gt; 回顾系统 -&amp;gt; 创作输出。&lt;/p>
 &lt;h1 id="一信息源">一、信息源&lt;/h1>
 &lt;p>输入的首要前提肯定是要有信息源，而且是优质的信息源。对我来说，我的信息源主要分为即时 / 社交信息、工作信息、深度信息这三大类。&lt;/p>
 &lt;h2 id="即时--社交信息">即时 / 社交信息&lt;/h2>
@@ -81,14 +102,35 @@ loading="lazy"
 >&lt;/p>
 &lt;h1 id="六回顾系统">六、回顾系统&lt;/h1>
 &lt;p>看过的东西如果不回顾很容易遗忘，因此需经常回顾自己做的笔记。在参考网上的文章，了解到可以通过 简悦 / flomo / &lt;a class="link" href="https://link.zhihu.com/?target=http%3A//Readwise.io" target="_blank" rel="noopener"
->Readwise&lt;/a> 等做回顾系统，最后我选择了 flomo + Notion。&lt;/p>
+>Readwise
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 等做回顾系统，最后我选择了 flomo + Notion。&lt;/p>
 &lt;h2 id="flomo-1">flomo&lt;/h2>
 &lt;p>在微信或是小组件中回顾笔记，支持设计更新频率和回顾规则。只有一开始的时候会记得回顾，现在已经很久不回顾了。不过本来就是存放临时笔记的，信息较为碎片化。&lt;/p>
 &lt;h2 id="notion-1">Notion&lt;/h2>
 &lt;p>之前打算使用我的好朋友 @伪君子 的方案：通过 Notion 的 API 来获取我的阅读笔记，然后随机发送一条信息给自己，具体考虑通过邮件 / Server酱 / PushDeer 的方式。但实际上自己并没有实践。&lt;/p>
 &lt;p>最后是利用 @&lt;a class="link" href="https://sspai.com/u/b8ciiv6r/updates" target="_blank" rel="noopener"
->潦草学者&lt;/a> 提供的 &lt;a class="link" href="https://sspai.com/post/64522" target="_blank" rel="noopener"
->时间戳&lt;/a> 思路来实现「随机漫步」数据库视图。&lt;/p>
+>潦草学者
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 提供的 &lt;a class="link" href="https://sspai.com/post/64522" target="_blank" rel="noopener"
+>时间戳
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 思路来实现「随机漫步」数据库视图。&lt;/p>
 &lt;p>分享一下「随机漫步」的实现：&lt;/p>
 &lt;p>在 Input Table 里建一个 Created time 字段，理论上没有两条笔记的创建时间会是一样的。然后再建一个 Formula 字段，输入下面的内容，其中随机间隔我写的是 3600000 ms，通过公式就会计算出一个值。这样每隔 1h 随机展示的内容都是不一样的。&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -118,13 +160,41 @@ loading="lazy"
 &lt;h2 id="vs-code">VS Code&lt;/h2>
 &lt;p>VS Code 是微软出的一款轻量级代码编辑器，除了可以写代码外，还可以干许多你想不到的事。在网上查阅相关资料之后，我转向了在 VS Code 中写 Markdown。需要搭配下面两个小工具。&lt;/p>
 &lt;h3 id="markdown-插件office-viewermarkdown-editorhttpsgithubcomcweijanvscode-officeblobheadreadme-cnmd">Markdown 插件：&lt;a class="link" href="https://github.com/cweijan/vscode-office/blob/HEAD/README-CN.md" target="_blank" rel="noopener"
->Office Viewer(Markdown Editor)&lt;/a>&lt;/h3>
+>Office Viewer(Markdown Editor)
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/h3>
 &lt;p>个人使用大半年来，发现这个插件还是有不少 bug 的。比如：复制一段粘贴替换选中的内容，结果发现选中的内容还在。&lt;/p>
 &lt;h3 id="图床picgohttpsgithubcommolunerfinnpicgo">图床：&lt;a class="link" href="https://github.com/Molunerfinn/PicGo" target="_blank" rel="noopener"
->PicGo&lt;/a>&lt;/h3>
+>PicGo
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/h3>
 &lt;p>如果有图片上传需求，则可以搭配 &lt;a class="link" href="https://github.com/Molunerfinn/PicGo" target="_blank" rel="noopener"
->PicGo&lt;/a> 图床进行使用。具体使用可以查看官方文档，也可以看我之前写过的这篇文章：&lt;a class="link" href="https://mp.weixin.qq.com/s/X6fKdGh4Ksyc-IXVonlXLw" target="_blank" rel="noopener"
->使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床&lt;/a>。&lt;/p>
+>PicGo
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 图床进行使用。具体使用可以查看官方文档，也可以看我之前写过的这篇文章：&lt;a class="link" href="https://mp.weixin.qq.com/s/X6fKdGh4Ksyc-IXVonlXLw" target="_blank" rel="noopener"
+>使用 GitHub + PicGo + jsDelivr 搭建自己的私人图床
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;p>本篇文章就是全程在 VS Code 中完成的：&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2022-12-07_20-48-19.png"
 loading="lazy"
@@ -134,9 +204,23 @@ alt="img"
 &lt;p>总体来看，我自己这套阅读工作流其实还是有点过于复杂，涉及的软件 / App / 工具还是太多了。但目前来看，已经是我能找到最适合自己的方案了。不过一个好的产品肯定是需要不停迭代的。因此，我这套阅读工作流方案也会不停迭代，期间如果有尝试新的软件 / App / 工具 也会尝试使用，看看能不能优化一下这套阅读工作流。&lt;/p>
 &lt;h1 id="参考">参考&lt;/h1>
 &lt;p>&lt;a class="link" href="https://sspai.com/post/69922" target="_blank" rel="noopener"
->我的阅读工作流（2021版）- 潦草学者&lt;/a>&lt;/p>
+>我的阅读工作流（2021版）- 潦草学者
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://sspai.com/post/70397" target="_blank" rel="noopener"
->我的信息管理方案 - Spike112&lt;/a>&lt;/p></description></item><item><title>我，加入少数派 Matrix 社区了</title><link>https://wonz.wang/2021/10/02/57-matrix/</link><pubDate>Sat, 02 Oct 2021 16:51:14 +0000</pubDate><guid>https://wonz.wang/2021/10/02/57-matrix/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78-20211002170824063.jpeg" alt="Featured image of post 我，加入少数派 Matrix 社区了" />&lt;h1 id="q1介绍你自己">Q1：介绍你自己。&lt;/h1>
+>我的信息管理方案 - Spike112
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p></description></item><item><title>我，加入少数派 Matrix 社区了</title><link>https://wonz.wang/2021/10/02/57-matrix/</link><pubDate>Sat, 02 Oct 2021 16:51:14 +0000</pubDate><guid>https://wonz.wang/2021/10/02/57-matrix/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG78-20211002170824063.jpeg" alt="Featured image of post 我，加入少数派 Matrix 社区了" />&lt;h1 id="q1介绍你自己">Q1：介绍你自己。&lt;/h1>
 &lt;p>Hi，我是 Wonz。一个刚工作一年多的程序员，坐标北京，主要从事后端开发，最近也在写点前端，主要技术栈是 Python。&lt;/p>
 &lt;p>上大学时就一直喜欢折腾一些效率工具，比如 Pin、快捷指令等。平时也对数码产品感兴趣，喜欢看网上的一些数码测评视频和文章。&lt;/p>
 &lt;p>对生活方式、摄影、家居装修、做饭很感兴趣。&lt;/p>
@@ -213,7 +297,14 @@ loading="lazy"
 >&lt;/p>
 &lt;h3 id="四配置-picgo使用-jsdelivr-的-cdn">四、配置 PicGo，使用 jsDelivr 的 CDN&lt;/h3>
 &lt;p>下载 &lt;a class="link" href="https://github.com/Molunerfinn/picgo/releases" target="_blank" rel="noopener"
->PicGo&lt;/a> 软件，安装。&lt;/p>
+>PicGo
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 软件，安装。&lt;/p>
 &lt;p>选择系统对应的版本下载，我用的是 &lt;code>Windows&lt;/code> 系统，所以直接下的 &lt;code>.exe&lt;/code> 文件。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-56-24.png"
 loading="lazy"
@@ -237,11 +328,32 @@ loading="lazy"
 &lt;p>虽然这篇文章是一年前写的，但是大学室友最近按照我之前写的教程亲测有效，所以我决定重新排下版，润色了一下文字，重新发表出来。&lt;/p>
 &lt;h3 id="七致谢">七、致谢&lt;/h3>
 &lt;p>&lt;a class="link" href="https://segmentfault.com/a/1190000020240864" target="_blank" rel="noopener"
->GitHub+jsDelivr+PicGo搭建免费图床&lt;/a>&lt;/p></description></item><item><title>互联网写作规范指北</title><link>https://wonz.wang/2020/11/21/41-markdown/</link><pubDate>Sat, 21 Nov 2020 21:09:46 +0000</pubDate><guid>https://wonz.wang/2020/11/21/41-markdown/</guid><description>&lt;h2 id="一写在前面">一、写在前面&lt;/h2>
+>GitHub+jsDelivr+PicGo搭建免费图床
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p></description></item><item><title>互联网写作规范指北</title><link>https://wonz.wang/2020/11/21/41-markdown/</link><pubDate>Sat, 21 Nov 2020 21:09:46 +0000</pubDate><guid>https://wonz.wang/2020/11/21/41-markdown/</guid><description>&lt;h2 id="一写在前面">一、写在前面&lt;/h2>
 &lt;p>我从 2018 年开始接触 &lt;strong>Markdown&lt;/strong>，自从习惯了 &lt;strong>Markdown&lt;/strong> 写作之后，再也不想用 &lt;strong>Word&lt;/strong> 写东西了。&lt;/p>
 &lt;p>按照&lt;strong>维基百科&lt;/strong>的说法，&lt;strong>Markdown&lt;/strong> 是一种&lt;a class="link" href="https://en.wikipedia.org/wiki/Lightweight_markup_language" target="_blank" rel="noopener"
->轻量级的标记语言&lt;/a>，&lt;a class="link" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener"
->采用纯文本&lt;/a>格式语法。你不需要掌握多少语法就可以很轻松地写出非常好看的排版。&lt;/p>
+>轻量级的标记语言
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，&lt;a class="link" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener"
+>采用纯文本
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>格式语法。你不需要掌握多少语法就可以很轻松地写出非常好看的排版。&lt;/p>
 &lt;h2 id="二markdown-基础语法">二、Markdown 基础语法&lt;/h2>
 &lt;h3 id="标题">标题&lt;/h3>
 &lt;p>使用 &lt;code>#&lt;/code> 可以给文章加上标题。&lt;/p>
@@ -355,7 +467,14 @@ loading="lazy"
 &lt;/div>
 &lt;/div>&lt;p>展示效果：&lt;/p>
 &lt;p>&lt;a class="link" href="https://zh.wikipedia.org/zh-cn/" target="_blank" rel="noopener"
->这是维基百科首页&lt;/a>&lt;/p>
+>这是维基百科首页
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;p>&lt;strong>图片链接&lt;/strong>&lt;/p>
 &lt;p>语法：&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -373,7 +492,14 @@ alt="这是图片"
 >&lt;/p>
 &lt;p>图片链接这里最好使用的是图床链接，而不是本地链接，因为如果你需要发布到网上的话，使用图床可以一键识别图片，而不需要手动再单独添加图片。最推荐的当然还是尽量减少图片的使用，因为图床难免会挂掉。&lt;/p>
 &lt;p>我自己用的是 &lt;code>GitHub + PicGo + jsDelivr&lt;/code> 搭的图床，相关配置可以参考我写的这篇文章 &lt;a class="link" href="https://blog.csdn.net/Wonz5130/article/details/104119008?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160586131019724838526745%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&amp;amp;request_id=160586131019724838526745&amp;amp;biz_id=0&amp;amp;utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v1~rank_blog_v1-1-104119008.pc_v1_rank_blog_v1&amp;amp;utm_term=picgo" target="_blank" rel="noopener"
->GitHub+PicGo+jsDelivr 搭建自己的私人图床&lt;/a>。&lt;/p>
+>GitHub+PicGo+jsDelivr 搭建自己的私人图床
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;p>我一般写文章主要用到的就是以上这些基础语法，其实三分钟就能学会。&lt;/p>
 &lt;h2 id="三-markdown-进阶语法">三 、Markdown 进阶语法&lt;/h2>
 &lt;h3 id="代码">代码&lt;/h3>
@@ -581,7 +707,14 @@ alt="这是图片"
 &lt;p>这完全靠自己写作时候的发挥。&lt;/p>
 &lt;h2 id="四markdown-编辑器推荐">四、Markdown 编辑器推荐&lt;/h2>
 &lt;p>我基本只在 &lt;strong>Windows&lt;/strong> 平台上进行文章的写作，因此只了解 &lt;strong>Windows&lt;/strong> 平台的 &lt;strong>Markdown&lt;/strong> 编辑器，强烈推荐 &lt;a class="link" href="https://typora.io/" target="_blank" rel="noopener"
->Typora&lt;/a>。&lt;/p>
+>Typora
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;p>&lt;strong>Typora&lt;/strong> 讲究的是&lt;strong>所见即所得&lt;/strong>，你使用 &lt;strong>Markdown&lt;/strong> 语法写的东西能够马上展示效果，而且它可以将你写的文档导出成 &lt;strong>PDF/HTML/Word&lt;/strong> 等多种格式，完全不用担心分享给没有安装 &lt;strong>Markdown&lt;/strong> 编辑器的人看。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-11-20_16-39-43.png"
 loading="lazy"
@@ -591,11 +724,32 @@ loading="lazy"
 &lt;p>并不一定是搞技术的才使用 &lt;strong>Markdown&lt;/strong> 来写作。其实平时的&lt;strong>朋友圈/微博等社交平台&lt;/strong>的内容输出，也可以参考以上的规范与标准，比如如何空格。学会以后，真的很大程度上能够提升阅读体验。&lt;/p>
 &lt;h2 id="六参考">六、参考&lt;/h2>
 &lt;p>&lt;a class="link" href="https://commonmark.org/help/tutorial/" target="_blank" rel="noopener"
->Markdown 教程&lt;/a>&lt;/p>
+>Markdown 教程
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/ruanyf/document-style-guide" target="_blank" rel="noopener"
->中文技术文档的写作规范——by 阮一峰&lt;/a>&lt;/p>
+>中文技术文档的写作规范——by 阮一峰
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://tingtalk.me/markdown/" target="_blank" rel="noopener"
->Markdown 入门教程及书写风格指南&lt;/a>&lt;/p></description></item><item><title>与联通相伴 1248 天后，我办理了携号转网</title><link>https://wonz.wang/2020/09/14/32-xiehaozhuanwang/</link><pubDate>Mon, 14 Sep 2020 14:47:29 +0000</pubDate><guid>https://wonz.wang/2020/09/14/32-xiehaozhuanwang/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917145751.jpg" alt="Featured image of post 与联通相伴 1248 天后，我办理了携号转网" />&lt;h3 id="一写在前面">一、写在前面&lt;/h3>
+>Markdown 入门教程及书写风格指南
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p></description></item><item><title>与联通相伴 1248 天后，我办理了携号转网</title><link>https://wonz.wang/2020/09/14/32-xiehaozhuanwang/</link><pubDate>Mon, 14 Sep 2020 14:47:29 +0000</pubDate><guid>https://wonz.wang/2020/09/14/32-xiehaozhuanwang/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200917145751.jpg" alt="Featured image of post 与联通相伴 1248 天后，我办理了携号转网" />&lt;h3 id="一写在前面">一、写在前面&lt;/h3>
 &lt;p>大学第一年的时候办理了这张哔哩哔哩卡，当时就是本着可以免流刷 B 站的目的办理的。现在发现早就不怎么看 B 站了，而且要看也是用电脑看。然而我每个月对流量需求还是比较大，差不多一个月消费 50 元左右。最最最重要的就是联通的信号实在是太差了。记得大学期间在宿舍只有两格信号，在公司负一楼的健身房直接一格信号，流量完全没法用。&lt;/p>
 &lt;p>在经过网上的详细查阅资料研究之后，决定携号转网，投入电信的怀抱。&lt;/p>
 &lt;h3 id="二申请携号转网">二、申请携号转网&lt;/h3>
@@ -661,7 +815,14 @@ loading="lazy"
 >&lt;/p>
 &lt;h3 id="二编写-readme完善属于自己的-profile">二、编写 README，完善属于自己的 profile&lt;/h3>
 &lt;p>用 &lt;a class="link" href="https://typora.io/" target="_blank" rel="noopener"
->Typora&lt;/a> 打开创建完的这个项目下的 README 文件，可以看到如下界面。&lt;/p>
+>Typora
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 打开创建完的这个项目下的 README 文件，可以看到如下界面。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_19-29-30.png"
 loading="lazy"
 >&lt;/p>
@@ -672,7 +833,14 @@ loading="lazy"
 loading="lazy"
 >&lt;/p>
 &lt;p>&lt;a class="link" href="https://shields.io/" target="_blank" rel="noopener"
->Shields.io&lt;/a> 就可以完成我们的这个需求，它其实就是一个「牌子渲染服务」。里面分为静态展示数据牌和动态展示数据牌。&lt;/p>
+>Shields.io
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 就可以完成我们的这个需求，它其实就是一个「牌子渲染服务」。里面分为静态展示数据牌和动态展示数据牌。&lt;/p>
 &lt;h3 id="四静态数据牌展示">四、静态数据牌展示&lt;/h3>
 &lt;p>静态的比较简单。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-03-52.png"
@@ -682,7 +850,14 @@ loading="lazy"
 &lt;li>&lt;code>label&lt;/code> 写要展示的名字，比如：CSDN。&lt;/li>
 &lt;li>&lt;code>message&lt;/code> 可以写展示数据，比如：全国前 4K 名。&lt;/li>
 &lt;li>&lt;code>color&lt;/code> 选择一个颜色（当然，也可以到&lt;a class="link" href="https://www.sioe.cn/yingyong/yanse-rgb-16/" target="_blank" rel="noopener"
->这里&lt;/a>找喜欢的颜色，输入对应的十六进制代码）。&lt;/li>
+>这里
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>找喜欢的颜色，输入对应的十六进制代码）。&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-06-16.png"
 loading="lazy"
@@ -695,10 +870,38 @@ loading="lazy"
 &lt;h3 id="五动态数据牌展示">五、动态数据牌展示&lt;/h3>
 &lt;p>动态展示相比静态展示，自然就更加自动化，可以实时更新数据。&lt;/p>
 &lt;p>这里介绍 &lt;a class="link" href="https://github.com/spencerwooo" target="_blank" rel="noopener"
->SpencerWoo&lt;/a> 开发的 &lt;a class="link" href="https://github.com/spencerwooo/Substats" target="_blank" rel="noopener"
->Substats&lt;/a> 小工具。使用教程可以参考开发人员写的这篇&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
->文章&lt;/a>，当然也可以自己查看&lt;a class="link" href="https://substats.spencerwoo.com/" target="_blank" rel="noopener"
->使用文档&lt;/a>。&lt;/p>
+>SpencerWoo
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 开发的 &lt;a class="link" href="https://github.com/spencerwooo/Substats" target="_blank" rel="noopener"
+>Substats
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 小工具。使用教程可以参考开发人员写的这篇&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
+>文章
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，当然也可以自己查看&lt;a class="link" href="https://substats.spencerwoo.com/" target="_blank" rel="noopener"
+>使用文档
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-08-59.png"
 loading="lazy"
 >&lt;/p>
@@ -731,7 +934,14 @@ loading="lazy"
 loading="lazy"
 >&lt;/p>
 &lt;p>当然，有些平台的用户名并不是你的用户名而是一串&lt;strong>独特的数字&lt;/strong>（比如微博），具体请参考 &lt;a class="link" href="https://substats.spencerwoo.com/api.html#%E5%8D%B3%E5%88%BB-jike-app" target="_blank" rel="noopener"
->API 文档&lt;/a>。&lt;/p>
+>API 文档
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;p>目前支持的有这些平台：&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-05_11-03-36.png"
 loading="lazy"
@@ -749,7 +959,14 @@ loading="lazy"
 &lt;h3 id="六github-统计卡片">六、GitHub 统计卡片&lt;/h3>
 &lt;p>当然，还可以再加一个 GitHub 统计卡片。&lt;/p>
 &lt;p>下面我是在&lt;strong>即刻员工&lt;/strong> &lt;a class="link" href="https://github.com/joway/joway" target="_blank" rel="noopener"
->Joway&lt;/a> 的 profile 里发现的如下语法：&lt;/p>
+>Joway
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 的 profile 里发现的如下语法：&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
@@ -760,9 +977,30 @@ loading="lazy"
 &lt;/div>
 &lt;/div>&lt;p>只需要把 username 改成自己的 GitHub 用户名就可以了。&lt;/p>
 &lt;p>当然也可以查看&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener"
->这个项目&lt;/a>的&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
->官方文档&lt;/a>，进行个性化设置，比如选择&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="_blank" rel="noopener"
->主题&lt;/a>，或者自己选择相应板块颜色。&lt;/p>
+>这个项目
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>的&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
+>官方文档
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，进行个性化设置，比如选择&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="_blank" rel="noopener"
+>主题
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，或者自己选择相应板块颜色。&lt;/p>
 &lt;p>下面就是我的 GitHub 统计卡片：&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-05_11-16-10.png"
 loading="lazy"
@@ -774,9 +1012,23 @@ loading="lazy"
 >&lt;/p>
 &lt;h3 id="八致谢">八、致谢&lt;/h3>
 &lt;p>&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
->用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子&lt;/a>&lt;/p>
+>用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
->GitHub Readme Stats&lt;/a>&lt;/p></description></item><item><title>RSS应用分享：RSSHub</title><link>https://wonz.wang/2020/03/15/19-rss/</link><pubDate>Sun, 15 Mar 2020 13:00:02 +0000</pubDate><guid>https://wonz.wang/2020/03/15/19-rss/</guid><description>&lt;h3 id="前言">前言&lt;/h3>
+>GitHub Readme Stats
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p></description></item><item><title>RSS应用分享：RSSHub</title><link>https://wonz.wang/2020/03/15/19-rss/</link><pubDate>Sun, 15 Mar 2020 13:00:02 +0000</pubDate><guid>https://wonz.wang/2020/03/15/19-rss/</guid><description>&lt;h3 id="前言">前言&lt;/h3>
 &lt;p>高效获取信息是我这种喜欢效率的人的首选方式。&lt;/p>
 &lt;p>正如开发她的人所说「万物皆可RSS」。覆盖的 RSS 真的非常丰富！爱折腾的话其实自己研究一下参数选择会发现很多有意思的 RSS。&lt;/p>
 &lt;h3 id="软件">软件&lt;/h3>
@@ -811,12 +1063,40 @@ loading="lazy"
 &lt;/ul>
 &lt;h3 id="链接">链接&lt;/h3>
 &lt;p>&lt;a class="link" href="https://docs.rsshub.app/" target="_blank" rel="noopener"
->RSSHub 官方使用文档&lt;/a>
+>RSSHub 官方使用文档
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>
 &lt;a class="link" href="https://github.com/DIYgod/RSSHub" target="_blank" rel="noopener"
->RSSHub 源码&lt;/a>
+>RSSHub 源码
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>
 &lt;a class="link" href="https://github.com/DIYgod/RSSHub-Radar" target="_blank" rel="noopener"
->RSSHub Radar 源码&lt;/a>
+>RSSHub Radar 源码
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>
 &lt;a class="link" href="https://github.com/idealclover/Easy-to-RSS" target="_blank" rel="noopener"
->Easy-to-RSS 源码&lt;/a>&lt;/p>
+>Easy-to-RSS 源码
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;h3 id="彩蛋">彩蛋&lt;/h3>
 &lt;p>在「Easy-to-RSS」中发现了「即刻」的RSS（虽然已经 404 了）。&lt;/p></description></item></channel></rss>

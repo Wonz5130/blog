@@ -5,7 +5,14 @@ loading="lazy"
 >&lt;/p>
 &lt;h3 id="二编写-readme完善属于自己的-profile">二、编写 README，完善属于自己的 profile&lt;/h3>
 &lt;p>用 &lt;a class="link" href="https://typora.io/" target="_blank" rel="noopener"
->Typora&lt;/a> 打开创建完的这个项目下的 README 文件，可以看到如下界面。&lt;/p>
+>Typora
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 打开创建完的这个项目下的 README 文件，可以看到如下界面。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_19-29-30.png"
 loading="lazy"
 >&lt;/p>
@@ -16,7 +23,14 @@ loading="lazy"
 loading="lazy"
 >&lt;/p>
 &lt;p>&lt;a class="link" href="https://shields.io/" target="_blank" rel="noopener"
->Shields.io&lt;/a> 就可以完成我们的这个需求，它其实就是一个「牌子渲染服务」。里面分为静态展示数据牌和动态展示数据牌。&lt;/p>
+>Shields.io
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 就可以完成我们的这个需求，它其实就是一个「牌子渲染服务」。里面分为静态展示数据牌和动态展示数据牌。&lt;/p>
 &lt;h3 id="四静态数据牌展示">四、静态数据牌展示&lt;/h3>
 &lt;p>静态的比较简单。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-03-52.png"
@@ -26,7 +40,14 @@ loading="lazy"
 &lt;li>&lt;code>label&lt;/code> 写要展示的名字，比如：CSDN。&lt;/li>
 &lt;li>&lt;code>message&lt;/code> 可以写展示数据，比如：全国前 4K 名。&lt;/li>
 &lt;li>&lt;code>color&lt;/code> 选择一个颜色（当然，也可以到&lt;a class="link" href="https://www.sioe.cn/yingyong/yanse-rgb-16/" target="_blank" rel="noopener"
->这里&lt;/a>找喜欢的颜色，输入对应的十六进制代码）。&lt;/li>
+>这里
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>找喜欢的颜色，输入对应的十六进制代码）。&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-06-16.png"
 loading="lazy"
@@ -39,10 +60,38 @@ loading="lazy"
 &lt;h3 id="五动态数据牌展示">五、动态数据牌展示&lt;/h3>
 &lt;p>动态展示相比静态展示，自然就更加自动化，可以实时更新数据。&lt;/p>
 &lt;p>这里介绍 &lt;a class="link" href="https://github.com/spencerwooo" target="_blank" rel="noopener"
->SpencerWoo&lt;/a> 开发的 &lt;a class="link" href="https://github.com/spencerwooo/Substats" target="_blank" rel="noopener"
->Substats&lt;/a> 小工具。使用教程可以参考开发人员写的这篇&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
->文章&lt;/a>，当然也可以自己查看&lt;a class="link" href="https://substats.spencerwoo.com/" target="_blank" rel="noopener"
->使用文档&lt;/a>。&lt;/p>
+>SpencerWoo
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 开发的 &lt;a class="link" href="https://github.com/spencerwooo/Substats" target="_blank" rel="noopener"
+>Substats
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 小工具。使用教程可以参考开发人员写的这篇&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
+>文章
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，当然也可以自己查看&lt;a class="link" href="https://substats.spencerwoo.com/" target="_blank" rel="noopener"
+>使用文档
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-04_20-08-59.png"
 loading="lazy"
 >&lt;/p>
@@ -75,7 +124,14 @@ loading="lazy"
 loading="lazy"
 >&lt;/p>
 &lt;p>当然，有些平台的用户名并不是你的用户名而是一串&lt;strong>独特的数字&lt;/strong>（比如微博），具体请参考 &lt;a class="link" href="https://substats.spencerwoo.com/api.html#%E5%8D%B3%E5%88%BB-jike-app" target="_blank" rel="noopener"
->API 文档&lt;/a>。&lt;/p>
+>API 文档
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;p>目前支持的有这些平台：&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-05_11-03-36.png"
 loading="lazy"
@@ -93,7 +149,14 @@ loading="lazy"
 &lt;h3 id="六github-统计卡片">六、GitHub 统计卡片&lt;/h3>
 &lt;p>当然，还可以再加一个 GitHub 统计卡片。&lt;/p>
 &lt;p>下面我是在&lt;strong>即刻员工&lt;/strong> &lt;a class="link" href="https://github.com/joway/joway" target="_blank" rel="noopener"
->Joway&lt;/a> 的 profile 里发现的如下语法：&lt;/p>
+>Joway
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 的 profile 里发现的如下语法：&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
@@ -104,9 +167,30 @@ loading="lazy"
 &lt;/div>
 &lt;/div>&lt;p>只需要把 username 改成自己的 GitHub 用户名就可以了。&lt;/p>
 &lt;p>当然也可以查看&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener"
->这个项目&lt;/a>的&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
->官方文档&lt;/a>，进行个性化设置，比如选择&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="_blank" rel="noopener"
->主题&lt;/a>，或者自己选择相应板块颜色。&lt;/p>
+>这个项目
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>的&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
+>官方文档
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，进行个性化设置，比如选择&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="_blank" rel="noopener"
+>主题
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，或者自己选择相应板块颜色。&lt;/p>
 &lt;p>下面就是我的 GitHub 统计卡片：&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-09-05_11-16-10.png"
 loading="lazy"
@@ -118,6 +202,20 @@ loading="lazy"
 >&lt;/p>
 &lt;h3 id="八致谢">八、致谢&lt;/h3>
 &lt;p>&lt;a class="link" href="https://sspai.com/post/59593" target="_blank" rel="noopener"
->用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子&lt;/a>&lt;/p>
+>用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
 &lt;p>&lt;a class="link" href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md" target="_blank" rel="noopener"
->GitHub Readme Stats&lt;/a>&lt;/p></description></item></channel></rss>
+>GitHub Readme Stats
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p></description></item></channel></rss>

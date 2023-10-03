@@ -233,7 +233,14 @@ loading="lazy"
 &lt;h2 id="做饭">做饭&lt;/h2>
 &lt;p>居家办公期间，为了消灭掉冰箱里之前囤的一些菜（主要是肉类），加上年初立下的精进厨艺的 flag，于是趁此期间好好磨练了一下厨艺。&lt;/p>
 &lt;p>学习做饭主要参考了小红书、懒饭、&lt;a class="link" href="https://github.com/Anduin2017/HowToCook" target="_blank" rel="noopener"
->HowToCook&lt;/a> GitHub 项目、朋友经验等，已卸载下厨房（广告太多太难用）。对前三种做饭教程有了自己的一些理解：&lt;/p>
+>HowToCook
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> GitHub 项目、朋友经验等，已卸载下厨房（广告太多太难用）。对前三种做饭教程有了自己的一些理解：&lt;/p>
 &lt;ul>
 &lt;li>小红书：质量参差不齐，每个人菜谱都略有不同，具体量、烹饪时间不够明确，而且还需要留意评论区，防止出现博主没提到的点，感觉研究菜谱比较耗时&lt;/li>
 &lt;li>懒饭：量精确到多少 g/人，很适合我这种对数量没概念的厨房菜鸟，菜谱是精心研发的，靠谱省时，推荐尝试&lt;/li>

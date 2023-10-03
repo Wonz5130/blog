@@ -33,7 +33,14 @@ loading="lazy"
 >&lt;/p>
 &lt;h3 id="四配置-picgo使用-jsdelivr-的-cdn">四、配置 PicGo，使用 jsDelivr 的 CDN&lt;/h3>
 &lt;p>下载 &lt;a class="link" href="https://github.com/Molunerfinn/picgo/releases" target="_blank" rel="noopener"
->PicGo&lt;/a> 软件，安装。&lt;/p>
+>PicGo
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 软件，安装。&lt;/p>
 &lt;p>选择系统对应的版本下载，我用的是 &lt;code>Windows&lt;/code> 系统，所以直接下的 &lt;code>.exe&lt;/code> 文件。&lt;/p>
 &lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2020-01-30_20-56-24.png"
 loading="lazy"
@@ -57,4 +64,11 @@ loading="lazy"
 &lt;p>虽然这篇文章是一年前写的，但是大学室友最近按照我之前写的教程亲测有效，所以我决定重新排下版，润色了一下文字，重新发表出来。&lt;/p>
 &lt;h3 id="七致谢">七、致谢&lt;/h3>
 &lt;p>&lt;a class="link" href="https://segmentfault.com/a/1190000020240864" target="_blank" rel="noopener"
->GitHub+jsDelivr+PicGo搭建免费图床&lt;/a>&lt;/p></description></item></channel></rss>
+>GitHub+jsDelivr+PicGo搭建免费图床
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p></description></item></channel></rss>

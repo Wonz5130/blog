@@ -193,7 +193,14 @@ loading="lazy"
 &lt;h3 id="20201028">2020.10.28&lt;/h3>
 &lt;hr>
 &lt;p>写了篇自己护肤品使用心得的文章，没想到啊，炸出来好多对我印象颠覆的微信好友，想看护肤文章详情的请戳&lt;a class="link" href="https://wonz.wang/2020/10/27/329-My-Hufu-Road/" target="_blank" rel="noopener"
->这里&lt;/a>。&lt;/p>
+>这里
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
 &lt;h3 id="20201029">2020.10.29&lt;/h3>
 &lt;hr>
 &lt;p>第一次朋友圈点赞中奖，发现自己居然不是第一时间知道的，而是朋友告诉我的，我中奖他们比我还激动hhh。&lt;/p>

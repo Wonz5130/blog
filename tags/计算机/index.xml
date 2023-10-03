@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>计算机 on Wonz</title><link>https://wonz.wang/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/</link><description>Recent content in 计算机 on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Wonz</copyright><lastBuildDate>Wed, 18 Aug 2021 22:29:38 +0000</lastBuildDate><atom:link href="https://wonz.wang/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>我的 2021 社招 9 个月工作经验面经</title><link>https://wonz.wang/2021/08/18/54-mianjing2021/</link><pubDate>Wed, 18 Aug 2021 22:29:38 +0000</pubDate><guid>https://wonz.wang/2021/08/18/54-mianjing2021/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/243A4A5F-E98A-4458-8AE5-337B067AB524_1_105_c.jpeg" alt="Featured image of post 我的 2021 社招 9 个月工作经验面经" />&lt;h2 id="写在前面">写在前面&lt;/h2>
 &lt;p>前文&lt;a class="link" href="https://wonz.wang/2021/07/21/344-Resign/" target="_blank" rel="noopener"
->我，离职了&lt;/a>提到会出一篇面经，于是抽空整理了下之前的面试经历。&lt;/p>
+>我，离职了
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>提到会出一篇面经，于是抽空整理了下之前的面试经历。&lt;/p>
 &lt;p>简单科普一下：程序员面试一般都至少 2-3 轮技术面，后面还有 HR 面等。技术面分为计算机基础 + 项目经历 + 算法，一般都需要现场写代码。社招的话，按照常理，比起计算机基础，应该更看重项目经历。但是我面试了很多家，其中也有问计算机基础的，只能说都要准备吧。其实我一直不太喜欢背书，计算机基础（也叫&lt;strong>八股文&lt;/strong>）又是同行面试必问的共识，这就导致我准备面试期间，还是挺痛苦的。虽然经常背，但是有些知识因为没有实际项目经历的支撑，很难找到共鸣，所以理解也就很浅。&lt;/p>
 &lt;p>至于算法，虽然我本科阶段就一直对这方面感兴趣，也参加了一些算法竞赛，虽然成绩一般，但好在兴趣还在。春招的时候，也刷了不少题，但发现性价比并不高。于是这次我换了种思路，这次就只刷&lt;strong>剑指Offer&lt;/strong>。因为 &lt;strong>三百道题刷一遍的效果远没有一百道题刷三遍的效果好&lt;/strong>。&lt;/p>
 &lt;p>我差不多是五一假期结束后，正式开始投简历的。李安说过：“&lt;strong>人生不能像做菜，把所有的料都准备好了才下锅&lt;/strong>。”我选择的方式是通过面试来激励自己准备面试。刚开始面的几家成绩惨不忍睹，信心一度被打击，算法、项目经历、计算机基础都不合格。好在自己查缺补漏，每面一家就及时做面经整理。&lt;/p>
