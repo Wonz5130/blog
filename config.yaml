@@ -20,7 +20,7 @@ languages:
             description: 演示说明
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: wonz-blog
 
 # GA Tracking ID
 googleAnalytics:
