@@ -18,14 +18,15 @@ body {
 
 /* scrollbar styles for Firefox */
 * {
-    scrollbar-width: auto;
+    scrollbar-width: thin;
     scrollbar-color: var(--scrollbar-thumb) transparent;
 }
 /**/
 
 /* scrollbar styles for Chromium */
 ::-webkit-scrollbar {
-    height: auto;
+    width: 8px;
+    height: 8px;
 }
 
 ::-webkit-scrollbar-thumb {
