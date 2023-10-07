@@ -28,7 +28,13 @@ footer.site-footer {
             color: var(--emphasize-text-color);
         }   
     }
-    
+
+    .busuanzi {
+        color: var(--body-text-color);
+        font-weight: normal;
+        font-size: 1.2rem;
+    }
+
     .totalcount {
         color: var(--card-text-color-secondary);
         font-weight: normal;

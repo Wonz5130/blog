@@ -19375,15 +19375,7 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
         <description></description>
         </item>
         <item>
-        <title>归档</title>
-        <link>https://wonz.wang/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://wonz.wang/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>简介</title>
+        <title>关于</title>
         <link>https://wonz.wang/about/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
@@ -19740,6 +19732,14 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
 </description>
         </item>
         <item>
+        <title>归档</title>
+        <link>https://wonz.wang/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://wonz.wang/archives/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>音乐 | 让我遇见更真实的自己</title>
         <link>https://wonz.wang/2019/05/05/11-sunset-rollercoaster/</link>
         <pubDate>Sun, 05 May 2019 12:52:49 +0000</pubDate>
@@ -19856,7 +19856,7 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
 &lt;th&gt;Name&lt;/th&gt;
 &lt;th&gt;个人评分&lt;/th&gt;
 &lt;th&gt;乐队/音乐人/DJ&lt;/th&gt;
-&lt;th&gt;门票&lt;/th&gt;
+&lt;th&gt;门票/¥&lt;/th&gt;
 &lt;th&gt;风格&lt;/th&gt;
 &lt;th&gt;城市&lt;/th&gt;
 &lt;th&gt;Livehouse&lt;/th&gt;
@@ -19865,6 +19865,18 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;183&lt;/td&gt;
+&lt;td&gt;WIGWAM 2023十一假期收官派对&lt;/td&gt;
+&lt;td&gt;⭐️⭐️⭐️⭐️⭐️&lt;/td&gt;
+&lt;td&gt;Byron Yeates, Sattle&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;电子&lt;/td&gt;
+&lt;td&gt;北京&lt;/td&gt;
+&lt;td&gt;wigwam&lt;/td&gt;
+&lt;td&gt;5-Oct-23&lt;/td&gt;
+&lt;td&gt;wigwam&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;182&lt;/td&gt;
 &lt;td&gt;黑夜将至 Sigha × Marcal&lt;/td&gt;
@@ -19887,7 +19899,7 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
 &lt;td&gt;北京&lt;/td&gt;
 &lt;td&gt;wigwam&lt;/td&gt;
 &lt;td&gt;4-Oct-23&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;wigwam&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;180&lt;/td&gt;
