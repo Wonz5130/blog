@@ -45,7 +45,8 @@ menu:
 
 - [![img](https://img.shields.io/badge/dynamic/json?color=ffe411&label=%E5%8D%B3%E5%88%BB&query=%24.data.totalSubs&suffix=%20%E8%A2%AB%E5%85%B3%E6%B3%A8&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DjikeFollower%26queryKey%3DWonz221)](https://rsshub.app/jike/user/Wonz221)
 - [![img](https://img.shields.io/badge/dynamic/json?color=DC143C&label=%E5%BE%AE%E5%8D%9A&query=%24.data.totalSubs&suffix=%20%E7%B2%89%E4%B8%9D&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D5994991181)](https://weibo.com/wonzwang)
-- [![](https://img.shields.io/badge/dynamic/json?color=FF0000&label=%E7%BD%91%E6%98%93%E4%BA%91&query=%24.data.totalSubs&suffix=%20%E7%B2%89%E4%B8%9D&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DneteaseMusic%26queryKey%3D341450455)](https://music.163.com/#/user/home?id=341450455)
+- [![img](https://img.shields.io/badge/dynamic/json?color=FF0000&label=%E7%BD%91%E6%98%93%E4%BA%91&query=%24.data.totalSubs&suffix=%20%E7%B2%89%E4%B8%9D&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DneteaseMusic%26queryKey%3D341450455)](https://music.163.com/#/user/home?id=341450455)
+- [Douban](https://www.douban.com/people/wonz/)
 
 ### Photo and Video
 
@@ -58,6 +59,12 @@ menu:
 
 ## Music
 
+- [Spotify](https://spotify.link/Xd49excqpDb)
+- [网易云](https://music.163.com/#/user/home?id=341450455)
+- [Bandcamp](https://bandcamp.com/wonzwang)
+- [SoundCloud](https://soundcloud.com/user-97840764)
+- [rateyourmusic](https://rateyourmusic.com/~Wonz)
+- [last.fm](https://www.last.fm/user/wonz-wang)
 
 ## Marathon Records
 
