@@ -1,544 +1,195 @@
 ---
-title: Wonz's live
-date: 2020-01-26 16:02:46
+title: "Live"
+date: 2019-05-03
+layout: "live"
+slug: "live"
+menu:
+    main:
+        weight: -50
+        params: 
+            icon: music
 ---
-
-> 1. 2019.5.3：2019 落日飞车「出差」巡演 南京站@太阳宫剧场
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200101171133-20211129224216660-20211205164655173.png)
-
-我的第一场 live。那时候还是个听「My Jinji」的小男生。
-
-> 2. 2019.9.3：The fin. 2019 新专辑巡演 南京站@欧拉艺术空间
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200101171138-20211205164225860.jpg)
-
-挺不错的日本迷幻摇滚乐队，第二次看 live 已经找到了一些志同道合的仙林大学城的演出搭子们。
-
-> 3. 2019.9.7：星巢音乐节 赵雷/郭顶/草东没有派对/刺猬/Deca Joins/Hello Nico/棱镜/康姆士/殷敏朱丞/孔雀眼/橘子海/霓虹花园 南京@鱼嘴湿地公园
-
-![WechatIMG152](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG152.jpeg)
-
-第一次看音乐节就跳水成功还被官方摄影师拍到了。
-
-> 4. 2019.10.20：理想后花园「向全世界孤独的人致敬」2019 年全国巡演 南京站@欧拉艺术空间
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171444.png)
-
-当时复习压力大，正好朋友也想出去看个演出放松一下，就临时收票去看的。
-
-> 5. 2019.12.25：Deca Joins 2019「山与山之间」专场巡演 南京站@欧拉艺术空间
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171152.png)
-
-不愿再提起的往事，导致我一度不愿意再听 deca 的歌。
-
-> 6. 2019.12.28：萨满 苏州专场@MAO
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200101171156.png)
-
-非常好的现场，还得是金属，还得是萨满。
-
-> 7. 2019.12.31：德基跨年 麻园诗人/梅卡德尔 南京@德基广场
-
-![WechatIMG154](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG154-20211205164227452.jpeg)
-
-虽然因为主办方没经验，梅卡德尔只演了一两首歌就被叫停了，但是能够看现场跨年还是挺值得回忆的。
-
-> 8. 2020.1.4：Return to Sender物归原主 「Redemption」2019 巡演 南京站@欧拉艺术空间
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200126161936-20211205164227942.jpg)
-
-短短半年不到我就开始看核的现场了，这半年我到底经历了什么。
-
-> 9. 2020.1.10：霓虹花园「但我爱你」2019 小巡演 上海站@育音堂音乐公园
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200126161909-20211205165018616.png)
-
-2019 年夏天发现的宝藏乐队，那时候没有很火，谁知道现在已经场场爆满了。
-
-> 10. 2020.1.11：霓虹花园「但我爱你」2019 小巡演 南京站@欧拉艺术空间
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200126161909-20211205165018616-20211205165028206-20211205165047506.png)
-
-上海看完南京接着看，见到了许久不见的在南京看 live 认识的朋友们，可是谁又知道自那之后再也没机会见到了。
-
-> 11. 2020.7.11：「黄金时代Pro」雪沉/九宝/黑麒/小雨/萨满 杭州站@大麦 66 Livehouse
-
-![WechatIMG155](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG155-20211205164228236.jpeg)
-
-疫情憋了大半年，终于有演出看了。
-
-> 12. 2020.7.24：ETA伊塔「天选之η」2020 全国巡演 南京站@欧拉艺术空间
-
-![WechatIMG156](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG156-20211205164228329.jpeg)
-
-北漂前决定再来欧拉看一场 live，果然之后就没机会在欧拉看 live 了。
-
-> 13. 2020.7.31：跳大海「明日聚会」2020 全国巡演 北京站@乐空间
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200922221934-20211205165213773.png)
-
-来到北京看的第一场 live，也是在北京最早认识了一群到现在仍然一起玩一起看演出的朋友们。
-
-> 14. 2020.8.15：Hello崇礼·太舞迷笛音乐季 刺猬/扭曲机器/九连真人/九宝/郁/玉麟军 崇礼@太舞滑雪小镇
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200817165857-20211205165157828.png)
-
-一直听说迷笛是乌托邦，去过之后果然没失望。排除地点偏僻，露营条件差等因素，单从现场体验角度来说，还是真的挺棒的。
-
-> 15. 2020.8.21：「HUAI」虎啸春/花墙/白皮书/丢莱卡 北京@乐空间
-
-![WechatIMG157](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG157-20211205164228543.jpeg)
-
-隐藏嘉宾是白皮书，虽然是看乐夏2知道的他们，现场太炸了，还跳了水。
-
-> 16. 2020.8.23：和平饭店「欢迎光临」2020 新专辑巡演 北京站@乐空间
-
-![WechatIMG158](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG158-20211205164228659.jpeg)
-
-> 17. 2020.9.11：「请回答Answer Me」脆莓/跳大海/疯医 北京@糖果
-
-![WechatIMG159](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG159-20211205164228753.jpeg)
-
-疯医，行。
-
-> 18. 2020.9.19：「浪漫先行-后半程」脆莓/温和治疗/回春丹/热浪/暴走蜗牛 北京@MAO
-
-![WechatIMG160](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG160-20211205164229089.jpeg)
-
-那时候回春丹还没现在这么网红乐队。
-
-> 19. 2020.9.20：「假如明天消失」舌头 2020 年新唱片首发巡演 北京站@MAO
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/微信图片_20200921200615.png)
-
-被大学学长安利的，全场大合唱《妈妈一起飞吧，妈妈一起摇滚吧》的时候真的在起鸡皮疙瘩，这才是摇滚乐。舌头乐队太牛逼了。
-
-> 20. 2020.9.24：景德镇文艺复兴 2020 秋季巡演 北京站@MAO
-
-![WechatIMG161](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG161-20211205164229897.jpeg)
-
-贴一下自己当时看完现场写的 repo：
-
-「景德镇文艺复兴」应该是我目前看过最出乎意料的现场了。
-
-整场演出只在最后，乐队做了乐手介绍以及致谢，全程都在「表演」。对，我说的是表演。乐队整个演出大概一个半小时，却在这一个半小时内向乐迷讲述了来自昌南镇的一系列神怪传说，中间穿插了「小歌行」这张专辑里的九首歌，歌词也是紧扣传说故事。关于这个自创传说可以看看他们公众号发的这篇文章：https://mp.weixin.qq.com/s/wdZJsSBE87WkMdZyNqTq7w
-
-整个演出看到了九三的舞蹈、老张的讲述等沉浸式表演，真的太震撼了。很难用一种风格形容这支乐队，虽然我很想说是后摇，但是又有点不像，毕竟还有民谣、自创神怪传说等因素在里面。
-
-> 21. 2020.9.26：「美丽新世界」四线方格/野外合作社/梅卡德尔 青岛站@硬盒现场
-
-![WechatIMG162](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG162-20211205164230819.jpeg)
-
-为了补上 2019 年在南京错过的野合，一个人跑去青岛看的。虽然没有唱《明天》和《复活》，《南京之声》响起的那一刻我感觉我真的复活了。
-
-> 22. 2020.9.30：「去新时代」花墙五周年特别专场 北京站@乐空间
-
-![WechatIMG163](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG163-20211205164230987.jpeg)
-
-被暖场嘉宾二向箔吸引到了，好。
-
-> 23. 2020.10.3：钢心专场 北京站@九霄
-
-![WechatIMG164](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG164-20211205164231618.jpeg)
-
-> 24. 2020.10.5-7：2020 北京草莓音乐节 海皮威尔/九连真人/重塑雕像的权利/万能青年旅店/动物园钉子户/文雀/马赛克/后海大鲨鱼 和平饭店/新裤子/闪星/超级市场/大波浪/Joyside 鸟撞/达达/痛仰/疯狂老鼠/旋转保龄/福禄寿/声音玩具/扭曲机器/五条人 北京@世园公园
-
-![WechatIMG165](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG165-20211205164232325.jpeg)
-
-我的「摇滚乐就该去现场看」的旗挥舞在北京草莓的天空。
-
-> 25. 2020.10.9：法兹「假水」巡演 北京站加场@疆进酒
-
-![WechatIMG166](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG166-20211205164232844.jpeg)
-
-> 26. 2020.10.11：「核能释放」绯色地平线/往生/肆伍 北京@乐空间
-
-![WechatIMG167](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG167-20211205164233389.jpeg)
-
-> 27. 2020.10.17：「让我给你买瓶酒」脏手指/丢莱卡/囍适 北京@MAO
-
-翻了翻相册发现没找到现场的照片，估计现场在 pogo 没空拍。
-
-> 28. 2020.10.22：超级斩 2020 巡演「出刀」北京站@疆进酒
-
-![WechatIMG168](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG168-20211205164234779.jpeg)
-
-> 29. 2020.10.23：香蕉皮「2020」巡演 北京站@school
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG169.jpeg)
-
-> 30. 2020.10.30：霓虹花园「再见威尔逊」新专辑首唱专场 北京站第二场@糖果
-
-![WechatIMG170](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG170-20211205164235185.jpeg)
-
-第四次看霓虹花园的时候已经感觉到和之前看是不一样的感受了。
-
-> 31. 2020.11.1：霓虹花园「再见威尔逊」新专辑首唱专场 北京站第三场@糖果
-
-![WechatIMG171](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG171-20211205164237013.jpeg)
-
-> 32. 2020.11.6：声音碎片「西南之南」2020 巡演 北京站@糖果
-
-![WechatIMG173](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG173-20211205164237646.jpeg)
-
-一个 2019 年就想看的乐队，终于在 2020 年看上了。非常感动。
-
-> 33. 2020.11.20：「我即将握紧双拳」假假条/法兹/疯医/梅卡德尔 北京@MAO
-
-![WechatIMG174](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG174-20211205164237791.jpeg)
-
-2020 年度最佳后朋现场。
-
-> 34. 2020.11.26：「ONE NIGHT 给小孩」公益Live 马赛克/大波浪/野孩子/Joyside 北京@糖果
-
-![WechatIMG175](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG175.jpeg)
-
-反正之后看着摇滚现场的门票越来越贵觉得当时的「给小孩」还是值的。
-
-> 35. 2020.11.28：「朋克大明猩」BBQ/表象危机/KidsFactory/劳动光荣/TEDDY 北京@school
-
-发现自己不太能接受朋克，不是自己喜欢的音乐风格。
-
-> 36. 2020.11.29：脏手指「五周年的庆祝计划」北京站@疆进酒
-
-![WechatIMG177](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG177-20211205164238586.jpeg)
-
-> 37. 2020.12.2：夏日入侵企画「想去海边」2020 巡演 北京站@MAO
-
-![WechatIMG178](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG178-20211205164238760.jpeg)
-
-> 38. 2020.12.5：Deep Water「处处甜心」巡演北京站@MAO
-
-![WechatIMG179](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG179-20211205164239496.jpeg)
-
-感觉是个人 2020 年度最佳现场摄影了。
-
-> 39. 2020.12.9：「跳水冠军」失浪潮/李昂/回春丹/法兹 北京站@MAO
-
-![WechatIMG180](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG180-20211205164239785.jpeg)
-
-发现自己还能接受李昂的这种带点核的说唱，现场玩死墙是我没想到的。
-
-> 40. 2020.12.11：「红庙帝国大型派对」蛙池 北京@school
-
-隐藏嘉宾居然是蛙池，真的太惊喜了，蛙池现场真的太稳了。
-
-> 41. 2020.12.12：「黄金时代Pro·凛冬将至」雪沉/黑麒/葬尸湖/九宝/萨满 天津站@大麦66 Livehouse
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG181-20211205164240106.jpeg)
-
-2020 年度最佳金属现场。
-
-> 42. 2020.12.13：肆囍「Filter」2020 巡演 北京站@MAO
-
-![WechatIMG183](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG183-20211205164240929.jpeg)
-
-> 43. 2020.12.20：沼泽「风知我」2020 巡演 北京站@疆进酒
-
-![WechatIMG184](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG184-20211205164241868.jpeg)
-
-沼泽真的太值了，没记错的话演了快三个小时。
-
-> 44. 2020.12.26：九连真人「六百万精英」巡演 北京特别专场@糖果
-
-![WechatIMG185](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG185-20211205164242914.jpeg)
-
-阿民大学毕业后在深圳打了一段时间工，但是工作并不顺利，在家人的劝说下回到了家乡连平县，一个广东北部的小县城。阿民毕业那年报纸上说约有六百万精英步入社会。
-
-每一个从小镇去大城市拼搏的打工人其实都是阿民。阿民不是某一个人，而是我们每一个人。当浪潮又将我们卷起的时候，你是否是那六百万精英中的一员？
-
-> 45. 2020.12.27：「迷城III 」后摇音乐会 穿心莲/神经旅人/反狗/16层/上海秋天/琥珀/文雀 北京@糖果
-
-![image-20211130234015778](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/image-20211130234015778-20211205164247420.png)
-
-2020 年度最佳后摇现场。
-
-> 46. 2021.1.17：雪沉「袍泽」巡演 北京站@MAO
-
-我太喜欢雪沉这种小清新民谣金属乐队了。
-
-> 47. 2021.1.19：「见证大团」花墙/徐波/ETA 北京@乐空间
-
-贴着上一场看完雪沉的膏药看这场，身体根本动不了。
-
-> 48. 2021.3.5：「ECHO OF WAVE」超级市场 北京@腾讯WeSpace
-
-![WechatIMG189](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG189-20211205164247890.jpeg)
-
-> 49. 2021.3.13：「我即将握紧双拳」飞去来/小巫师/海朋森 北京@MAO
-
-![WechatIMG190](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG190.jpeg)
-
-终于看到海朋森的现场了，现场太炸了，感觉可以预定 2021 年度 best9 live 现场。
-
-> 50. 2021.3.14：「我即将握紧双拳」麻兹妈/鸟撞/晕车车 北京@MAO
-
-![WechatIMG191](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG191-20211205164248703.jpeg)
-
-晕车车唱完《中南海》的舞台全是乐迷撒的烟。
-
-> 51. 2021.3.14：「我即将握紧双拳」柏林的雾/麻园诗人/白皮书 北京@MAO
-
-![WechatIMG216](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG216.jpeg)
-
-> 52. 2021.3.19：「冬泳派对」彩色文胸/梅卡德尔/岛屿心情 北京@糖果
-
-![WechatIMG192](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG192.jpeg)
-
-体验一般，梅卡德尔现在不怎么演老歌，而且有些老歌也改编过了，感觉没有以前那么喜欢。
-
-> 53. 2021.3.20：秘密行动「背面遗漏的信息」北京特别专场@糖果
-
-![WechatIMG193](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG193-20211205164249652.jpeg)
-
-秘密行动真的牛。
-
-> 54. 2021.3.26：「此时此刻」舌头 2021 新专辑巡演 北京站@糖果
-
-![WechatIMG194](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG194.jpeg)
-
-体验其实没有去年在 MAO 看的好，一方面是糖果的低音设备问题，另一方面是乐迷氛围没有上次好。
-
-> 55. 2021.3.27：二手玫瑰 21 年系列演出之「地下风云」北京站@糖果
-
-![WechatIMG195](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG195-20211205164250605.jpeg)
-
-现场挤的不行，没点毛病果然不适合听二手。
-
-> 56. 2021.3.28：「念念不忘 必有回响」报警/朱格乐/声音碎片 北京@疆进酒
-
-![WechatIMG196](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG196.jpeg)
-
-又听马书记唱《送流水》了555。
-
-> 57. 2021.4.3：梦境列车室内音乐节 秘密行动 深圳@腾讯WeSpace
-
-![WechatIMG197](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG197-20211205164250878.jpeg)
-
-> 58. 2021.4.8：回春丹「开炉」北京站@糖果
-
-![WechatIMG198](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG198-20211205164251416.jpeg)
-
-体验太差了，歌不够靠说话凑时长，很反感这种行为。
-
-> 59. 2021.4.10：不言而语器摇音乐季 pentatonic/MACONDØ/泥塑上帝 北京@疆进酒
-
-![WechatIMG199](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG199-20211205164251664.jpeg)
-
-pentatonic 确实好。
-
-> 60. 2021.4.10：晕车车「晕」巡演 北京站@糖果
-
-![WechatIMG200](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG200-20211205164251898.jpeg)
-
-一晚上赶两场 live，属实牛。
-
-> 61. 2021.4.18：「黑夜运动会」疯医&发光曲线联合专场 北京站@疆进酒
-
-贴一下之前写的 repo：
-
-疯医已经是第三次看了，还记得第二次看的时候在 MAO 直接 pogo 疯了。这次加入了李增辉老师的萨克斯，属实有点不一样的感觉。前面演的发光曲线是第一次看，看之前歌好像都没听过。印象中是后摇，现场看的时候发现不是纯粹的后摇，带了人声，还是双主唱，有点被震撼到，还想看。
-
-这次是联合专场，不知道疯医巡演专场会演多久，这次差不多发光曲线和疯医各演了一个小时吧，还没尽兴。
-
-> 62. 2021.4.21：康姆士「寻找范艾伦」北京站@糖果
-
-![WechatIMG201](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG201-20211205164252093.jpeg)
-
-> 63. 2021.4.23：第四届「噪盯迷」研讨会 Lur:/Run Run Run/飞去来/柏林护士 北京@乐空间
-
-![WechatIMG202](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG202-20211205164252475.jpeg)
-
-柏林护士很行。
-
-> 64. 2021.4.24：school 十一周年店庆 海妖/对角巷/丢莱卡/敌打死/钟声 北京@school
-
-![WechatIMG203](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG203-20211205164252597.jpeg)
-
-为了给 school 庆生去看的演出，演出意义大于实际体验。school 是我有朋友来北京玩必带去的地方。
-
-> 65. 2021.4.25：孤独的利里「前夜的乘客」2021 巡演 北京站@疆进酒
-
-![WechatIMG204](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG204-20211205164252729.jpeg)
-
-> 66. 2021.4.27：谢天笑重返北京哈哈大笑音乐会 北京@糖果
-
-![WechatIMG205](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG205.jpeg)
-
-> 67. 2021.4.30：苏紫旭「狂人农场的往事」2021 巡演 北京站@糖果
-
-![WechatIMG206](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG206-20211205164253318.jpeg)
-
-> 68. 2021.5.1-2：2021 济南迷笛音乐节 木马/破碎/钢心/秘密行动/崔健/雪沉/往生/施教日/郁/萨满 暗狱/朝生暮死/利维坦/秋天的虫子/孤独的利里/Chinese Football/葬尸湖/AK&Unyielding/夜叉/舌头 济南@国际园博园
-
-![WechatIMG208](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG208-20211205164253629.jpeg)
-
-这才是真正的音乐节啊。太感动了，永远爱迷笛。
-
-> 69. 2021.5.3：惘闻「十万个为什么」新专巡演 北京站加场@MAO
-
-![WechatIMG211](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG211-20211205164253852.jpeg)
-
-从济南赶回北京就为了看惘闻。《水之湄》出来一切都值了。
-
-> 70. 2021.5.4：2021 滨州迷笛音乐节 万象/冥界/缺省/梦灵/吓死宝宝/左右/窒息/野孩子/郁/Joyside/九宝/许巍 滨州@滨城北海公园
-
-![WechatIMG213](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG213-20211205164254035.jpeg)
-
-被滨州市长感动到，一个就为了乐迷玩得开心的摇滚城市。
-
-> 71. 2021.5.5：6501新专辑首演 北京@九霄
-
-![WechatIMG214](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG214-20211205164254476.jpeg)
-
-6501 还是挺凶的。
-
-> 72. 2021.5.6：IZ乐队「跟着你行吗」新阵容新作首演 北京@乐空间
-
-![WechatIMG219](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG219-20211205164254689.jpeg)
-
-IZ 真的太牛逼了，排除闪瞎眼的灯光和非常伤耳朵的声音，现场真的非常棒。马木尔面前三排效果器真的绝了，看他疯狂踩效果器，最后直接把鼓手的鼓都踢翻了，太牛逼了。
-
-> 73. 2021.5.7：退格「蚀象」特别专场 北京站@乐空间
-
-![WechatIMG217](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG217.jpeg)
-
-> 74. 2021.5.8：声音玩具「劳动之余」2021 全国巡演 天津站@大麦 66 Livehouse
-
-![WechatIMG218](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG218.jpeg)
-
-网易云听歌总排行第二的歌：《你的城市》。
-
-> 75. 2021.5.22：声音玩具「劳动之余」2021 全国巡演 北京站@糖果
-
-天津看了北京还想看。
-
-> 76. 2021.5.23：贰伍吸烟所「深夜日常」2021 巡演 北京站@糖果
-
-![WechatIMG222](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG222-20211205164254960.jpeg)
-
-> 77. 2021.5.29：萨满新专辑「SAGAMONO」2021 全国巡演 北京站@糖果
-
-![WechatIMG223](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG223-20211205164255202.jpeg)
-
-跳水的时候举起了萨满×九宝的旗。
-
-> 78. 2021.5.30：「便利店庇护所」八仙饭店/巧克力工厂/靴腿 北京@乐空间
-
-![WechatIMG224](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG224-20211205164255421.jpeg)
-
-> 79. 2021.6.5：「芒种之火」小王/大音炮/布鹅岛 北京@school
-
-![WechatIMG225](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG225-20211205164255522.jpeg)
-
-布鹅岛唱《长城宾馆》的时候往台下撒宾馆名片，笑死。
-
-> 80. 2021.6.6：「多米力高威威维利星」脏手指 2021 新专辑全国巡演 北京站不插电@疆进酒
-
-![WechatIMG226](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG226-20211205164255574.jpeg)
-
-不插电的体验真的太不一样了，发现不插电一点也不影响乐迷，该躁的歌还是躁。
-
-> 81. 2021.6.12-14：2021溧阳·太湖迷笛音乐节 崔健/二手玫瑰/海朋森/黑屋/夸克/肆囍/跳山羊/萬重/吴吞/夜叉/郁 瘢痕体质/不复之血/Carsick Cars/二区六楼/法兹/龍錦/萨满/逃跑计划/唐朝/萬象/小巫师/戰斧 柏林护士/孤独的利里/荒事/九宝/声音玩具/天堂/痛仰/退格/左右 溧阳@焦尾琴公园南
-
-![WechatIMG228](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG228-20211205164255804.jpeg)
-
-从来没想过，迷笛能办到我的家乡，以后每年都要回太湖迷笛的家。
-
-> 82. 2021.6.18：丝绒公路「这并不是终点」2021 巡演 北京站@糖果
-
-![WechatIMG230](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG230-20211205164255881.jpeg)
-
-> 83. 2021.6.19-20：新青年音乐节 扭曲机器/岛屿心情/肆伍/核聚变/面孔/梅卡德尔/九宝/萨满/二手玫瑰/赵雷/新裤子/谢天笑 济南@山东国际会展中心北广场
-
-![WechatIMG231](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG231-20211205164256138.jpeg)
-
-学习新思想，争做新青年。
-
-> 84. 2021.7.3：「沉默之像」酸性事件/逆耳/pentatonic/沼泽 北京@Weshow Live
-
-![WechatIMG232](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG232-20211205164256422.jpeg)
-
-新 Livehouse，个人感觉体验是目前北京看过最好的。
-
-> 85. 2021.7.11：天声乐队&酸性事件双专场 北京站@MAO
-
-![WechatIMG233](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG233.jpeg)
-
-为了赶地铁只看了一点点天声，还没 get 到，算是遗憾吧。
-
-> 86. 2021.7.14：野外合作社「幸运的宝儿」2021 巡演 北京站@疆进酒
-
-![WechatIMG234](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG234-20211205164256678.jpeg)
-
-不愧是我去年专门跑去青岛看的乐队，还是想说那句话：王海洋是诗人。
-
-> 87. 2021.7.18：面孔「完美夏天」2021 巡演 北京站@糖果
-
-![WechatIMG235](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG235-20211205164256931.jpeg)
-
-> 88. 2021.7.23：「发呆的下午」万象/蛙池/海皮威尔 北京站@糖果
-
-![WechatIMG236](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG236-20211205164257045.jpeg)
-
-> 89. 2021.7.30：「京A别闹」飞去来/鬼否 北京站@乐空间
-
-get 到了数摇。
-
-> 90. 2021.7.31： 「Hazy "Winter" Night」Lur:/酸性事件/秋日疾走/梦游动物园/荒事 北京@乐空间
-
-一个月能看三次酸性事件是我没想到的。
-
-> 91. 2021.9.11：「夏末狂欢音乐节」哪里人 北京@魅现场
-
-![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG236-20211205164257045.jpeg)
-
-好朋友黑帕的乐队演出，勾起了自己想玩乐队的想法。
-
-> 92. 2021.9.24：The Molds mini Show 北京@fRUITYSPACE
-
-![WechatIMG238](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG238-20211205164257436.jpeg)
-
-第一次坐着看演出（主要是地方有点小有点矮）。
-
-> 93. 2021.9.26：「时间边界」琥珀 2021 巡演 北京站@乐空间
-
-![WechatIMG239](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG239.jpeg)
-
-第一次看 no stage 形式的演出，非常特别，也更加坚定了自己想玩后摇的想法。
-
-> 94. 2021.10.2：Peking Floyd 致敬专场 北京@24D
-
-![WechatIMG240](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG240-20211205164257908.jpeg)
-
-会有人不喜欢 Pink Floyd 吗？不会。
-
-> 95. 2021.10.3：号角唱片二十周年 众神复活金属音乐节 冥笛/本体尸尊/紫环/玉麟军/霜冻前夜/落地不见 北京站@疆进酒
-
-![WechatIMG242](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG242-20211205164259061.jpeg)
-
-> 96. 2021.10.7：「水银刀片」Lur:/明天的盐/赛吉来信/跳山羊 北京@乐空间
-
-![WechatIMG243](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG243-20211205164259732.jpeg)
-
-> 97. 2021.10.16：16层「记得对你爱的人说晚安」北京专场 北京@MAO
-
-![WechatIMG244](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG244-20211205164259927.jpeg)
-
-发生了美丽故事的地铁站终于也有了以它美丽的名字命名的歌——金台夕照。
-
-> 98. 2021.10.16：小雨乐队「春歌秋行」2021 全国巡演 北京站@MAO
-
-![WechatIMG245](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG245-20211205164300301.jpeg)
-
-> 99. 2021.10.19：左小祖咒「笑傲江湖」巡演 北京站@糖果
-
-![WechatIMG246](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG246.jpeg)
-
-> 100. 2021.10.23：时过夏末 2021 巡演 北京站@WeShow Live
-
-![WechatIMG247](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG247-20211205164300613.jpeg)
-
-远远超出预期，看过的都说好。
+| No  | Name                                                        | Score                | Bands                                                                                                                                                                                                                                                              | Cost               | Style                                      | City    | Livehouse                      | Date                               | Host                         |
+| --- | ----------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------------------ | ------- | ------------------------------ | ---------------------------------- | ---------------------------- |
+| 182 | 黑夜将至 Sigha × Marcal                                    | ⭐️⭐️⭐️⭐️     | Marcal, Sigha                                                                                                                                                                                                                                                      | 0                  | Techno                                     | 北京    | 莫须有工厂                     | 4-Oct-23                           |                              |
+| 181 | Duanluoo《HomeParty》新专辑发布派对                         | ⭐️⭐️⭐️         | Duanluoo, 邵德恩                                                                                                                                                                                                                                                   | 0                  |                                            | 北京    | wigwam                         | 4-Oct-23                           |                              |
+| 180 | 帝風                                                        | ⭐️⭐️⭐️⭐️     | ABYSSHINNNN                                                                                                                                                                                                                                                        | 0                  |                                            | 北京    | SOLO                           | 4-Oct-23                           |                              |
+| 179 | 虚空折射                                                    | ⭐️⭐️⭐️⭐️     | Fafa Parrrk, MMS, Master Wong, Milo Raad, Wei, 响Xiang                                                                                                                                                                                                             | 0                  | Techno, 电子                               | 北京    | 莫须有工厂                     | 28-Sep-23                          | Plain District               |
+| 178 | MONO                                                        | ⭐️⭐️⭐️⭐️⭐️ | MONO                                                                                                                                                                                                                                                               | 240                | 后摇                                       | 北京    | 疆进酒                         | 7-Sep-23                           | NewNoise                     |
+| 177 | 噪点2023                                                    | ⭐️⭐️⭐️⭐️     | BLACK MIDI, 舌头                                                                                                                                                                                                                                                   | 500                | 即兴, 实验, 摇滚                           | 西安    | 陕西大剧院戏剧厅               | August 5, 2023 → August 6, 2023   | 声厂SoundFact                |
+| 176 | 毎晩揺れてスカート/宇宙団                                   | ⭐️⭐️⭐️⭐️     | 宇宙団, 毎晩揺れてスカート                                                                                                                                                                                                                                         | 170                | J-Rock                                     | Tokyo   | shelter                        | 31-Jul-23                          |                              |
+| 175 | FUJI ROCK 2023                                              | ⭐️⭐️⭐️⭐️⭐️ |                                                                                                                                                                                                                                                                    | 2500               |                                            | Niigata | 苗场滑雪场                     | July 28, 2023 → July 30, 2023     |                              |
+| 174 | 草东没有派对2023「人责」日本巡回 大阪站                     | ⭐️⭐️⭐️⭐️⭐️ | 草东没有派对                                                                                                                                                                                                                                                       | 330                |                                            | Osaka   | 梅田Club Quattro               | 24-Jul-23                          |                              |
+| 173 | Heim两周年                                                  | ⭐️⭐️⭐️⭐️⭐️ | Nick León, re:ni                                                                                                                                                                                                                                                  | 120                | Techno, 电子                               | 上海    | Heim                           | 8-Jul-23                           |                              |
+| 172 | Post-Rock GO!后摇系列演出——南京站                         | ⭐️⭐️⭐️⭐️     | 时过夏末, 琥珀, 邓永鹏, 重返袖珍时光                                                                                                                                                                                                                               | 100                | 后摇                                       | 南京    | 1701 Live House                | 24-Jun-23                          | 1724唱片                     |
+| 171 | 艾尔五周年                                                  | ⭐️⭐️⭐️         | TOY 野球拳, 淡色艾尔 Pale Air                                                                                                                                                                                                                                      | 0                  | 朋克, 盯鞋                                 | 上海    | 艾尔花园                       | 17-Jun-23                          |                              |
+| 170 | 顶楼的马戏团20周年                                          | ⭐️⭐️⭐️⭐️     | 顶楼的马戏团                                                                                                                                                                                                                                                       | 219                | 朋克                                       | 上海    | 万代南梦宫上海文化中心梦想剧场 | 16-Jun-23                          | 696LIVE                      |
+| 169 | 「胶囊1+1」昆虫白/声子虫                                    | ⭐️⭐️⭐️⭐️⭐️ | 声子虫, 昆虫白                                                                                                                                                                                                                                                     | 200                | 后摇                                       | 深圳    | HOU LIVE X Mixc cube(春笋店)   | 10-Jun-23                          | 胶囊                         |
+| 168 | 看得见的音乐                                                | ⭐️⭐️⭐️         | Byetone, UNTECHCIRCLE                                                                                                                                                                                                                                              | 120                | 电子                                       | 深圳    | Oil                            | 9-Jun-23                           | SOTI                         |
+| 167 | 第七届明天音乐节                                            | ⭐️⭐️⭐️⭐️⭐️ | 106: Phew + Dowser N, Marisa Anderson, Xylouris White, 中尾宪太郎 Kentaro Nakao, 吉田达也 Tatsuya Yoshida, 哔哔哔 哔哔哔, 美好药店, 马木尔 Mamer, 麦盖提刀郎木卡姆乐队                                                                                             | 680                | 世界音乐, 即兴, 实验, 电子                 | 深圳    | B10                            | June 9, 2023 → June 11, 2023      | 旧天堂                       |
+| 166 | 朋友再见·飛去來的最后四场演出 北京站                       | ⭐️⭐️⭐️⭐️     | 飞去来                                                                                                                                                                                                                                                             | 75                 | 后朋                                       | 北京    | 东市 OMNICLUB                  | 27-May-23                          |                              |
+| 165 | SCSI-9(Live set) 2023 中国首站                              | ⭐️⭐️⭐️⭐️     | DAN, SCSI-9, manju                                                                                                                                                                                                                                                 | 150                | House, Techno                              | 北京    | 莫须有工厂                     | 26-May-23                          |                              |
+| 164 | 冻结的月亮「東丹傳奇」北京全阵容专场演出                    | ⭐️⭐️⭐️⭐️     | 冻结的月亮                                                                                                                                                                                                                                                         | 80                 | 黑金                                       | 北京    | 乐空间                         | 26-May-23                          |                              |
+| 163 | 乌飞兔走昼还夜「金苹果」2023巡演 北京站                     | ⭐️⭐️⭐️⭐️     | 乌飞兔走昼还夜                                                                                                                                                                                                                                                     | 100                | 迷幻                                       | 北京    | 乐空间                         | 23-May-23                          |                              |
+| 162 | 被迫害 / 多巴胺 / 暗泉「苦聚之旅 二〇二三」联合专场         | ⭐️⭐️⭐️⭐️     | 多巴胺Dopamine, 暗泉Dark Fount, 被迫害Be Persecuted                                                                                                                                                                                                                | 100                | 黑金                                       | 北京    | 想象空间                       | 21-May-23                          | 惘闻艺术UnknownArt, 瘟疫唱片 |
+| 161 | Antigen 五周年呈现：¥ØU$UK€ ¥UK1MAT$U 行松陽介 北京站 | ⭐️⭐️⭐️⭐️     | 行松陽介                                                                                                                                                                                                                                                           | 120                | 电子                                       | 北京    | 招待                           | 20-May-23                          | Antigen                      |
+| 160 | Jay Fase 2023 China Tour - 北京站                           | ⭐️⭐️⭐️         | Jay Fase, YANGBING, manju                                                                                                                                                                                                                                          | 0                  | 电子                                       | 北京    | 莫须有工厂                     | 2-May-23                           |                              |
+| 159 | 2023烟台·黄渤海迷笛音乐节                                  | ⭐️⭐️⭐️⭐️     | Carsick Cars, Joyside, Stolen秘密行动, 假假条, 利维坦, 刺猬, 声音玩具, 夜叉, 山人, 崔健, 梦灵, 法兹, 深山, 窒息, 脑浊, 萨满, 葬尸湖Zuriaake, 谢天笑, 郁, 郝云, 醒山, 闪星                                                                                          | 368                | 后朋, 摇滚, 朋克, 核, 电子, 金属, 黑金     | 烟台    | 郁金香公园                     | 29-Apr-23                          | 迷笛                         |
+| 158 | 第12&13届迷笛奖颁奖礼                                       | ⭐️⭐️⭐️⭐️     | Shanghai Qiutian, 低苦艾, 莫西子诗, 许钧, 超级市场                                                                                                                                                                                                                 | 0                  |                                            | 烟台    | 八角湾国际会展中心             | 27-Apr-23                          | 迷笛                         |
+| 157 | 春游2023                                                    | ⭐️⭐️⭐️⭐️⭐️ | Berlin Psycho Nurses, CTAFAD孙大威, DJ Blue, DJ ON, Fayzz, KAWA, QiuQiu, Shanghai Qiutian, Sleeping Dogs, Stolen秘密行动, Taiga, YEHAIYAHAN&Taiga, 丟菜卡, 央吉玛, 白日密语, 脏手指, 走马电台                                                                      | 420                | 世界音乐, 后朋, 摇滚, 电子                 | 眉山    | 黑龙滩中铁梵木音乐公园         | 15-Apr-23                          | 春游                         |
+| 156 | 万能青年旅店石家庄特别专场                                  | ⭐️⭐️⭐️⭐️⭐️ | 万能青年旅店                                                                                                                                                                                                                                                       | 480                | 摇滚                                       | 石家庄  | 河北省艺术中心大剧院           | 14-Apr-23                          | 郊眠寺                       |
+| 155 | 诱导社「二百一十四天和三个呕吐少年」发行二十五周年          | ⭐️⭐️             | 诱导社                                                                                                                                                                                                                                                             | 0                  | 朋克                                       | 北京    | 乐空间                         | 12-Apr-23                          | 赛剋克                       |
+| 154 | 孤独的利里「最后的四重奏」2023专辑首发特别专场              | ⭐️⭐️⭐️⭐️⭐️ | 孤独的利里                                                                                                                                                                                                                                                         | 150                | 后朋                                       | 北京    | 疆进酒                         | 5-Apr-23                           |                              |
+| 153 | dipdipmusic                                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                                                                                                                                                                                                                    | 0                  | Drum&Bass, House, Techno, 电子             | 北京    | MAOJIE冇街                     | 1-Apr-23                           | dipdipmusic                  |
+| 152 | 「一万公里」6501、傀儡、晚安联合巡演                        | ⭐️⭐️⭐️⭐️⭐️ | 6501, 傀儡, 晚安                                                                                                                                                                                                                                                   | 168                | 摇滚                                       | 北京    | 乐空间                         | 30-Mar-23                          | BADHEAD                      |
+| 151 | 孤独的利里/李高特四重奏 北京联合专场                        | ⭐️⭐️⭐️⭐️     | 孤独的利里, 李高特四重奏                                                                                                                                                                                                                                           | 188                | 后朋                                       | 北京    | 乐空间                         | 23-Mar-23                          |                              |
+| 150 | 超级市场「接触事件」2023 全国巡演                           | ⭐️⭐️⭐️⭐️⭐️ | 超级市场                                                                                                                                                                                                                                                           | 198                | 电子                                       | 北京    | 福浪Livehouse                  | 19-Mar-23                          | 活水 Flowing Water           |
+| 149 | 法兹「折叠故事」2023新专辑巡演                              | ⭐️⭐️⭐️⭐️⭐️ | 法兹                                                                                                                                                                                                                                                               | 180                | 后朋                                       | 北京    | MAO Livehouse                  | 12-Mar-23                          | space circle                 |
+| 148 | Clockenflap 2023                                            | ⭐️⭐️⭐️⭐️⭐️ | Ben&Ben, Black Country New Road, Bombay Bicycle Club, Ezra Collective, Leenalchi, MONO, Three Man Down, Wu-Tang Clan                                                                                                                                               | 960                | Techno, 后摇, 后朋, 摇滚, 独立, 电子, 迷幻 | 香港    | 中环海滨                       | 5-Mar-23                           | Clockenflap                  |
+| 147 | DANSH #1                                                    | ⭐️⭐️⭐️⭐️     | LST, Lyu Zhi-Qiang, SUSU, 文智湧                                                                                                                                                                                                                                   | 100                | 电子                                       | 北京    | wigwam                         | 3-Mar-23                           | 但是                         |
+| 146 | 一天世界在盲区                                              | ⭐️⭐️⭐️⭐️     | FluFlaFen, 一天世界                                                                                                                                                                                                                                                | 0                  | 器乐摇滚                                   | 北京    | 盲区                           | 3-Mar-23                           |                              |
+| 145 | Muffle Truffle                                              | ⭐️⭐️⭐️⭐️⭐️ | Heling, QiuQiu                                                                                                                                                                                                                                                     | 100                | House, 电子                                | 北京    | wigwam                         | 25-Feb-23                          | 便利音乐                     |
+| 144 | 不言而语2室内音乐季                                         | ⭐️⭐️⭐️⭐️⭐️ | MACONDØ, 发梦茱莉, 小巫师, 撕妄SWARRM, 琥珀                                                                                                                                                                                                                       | 100                | 后摇, 后金, 器乐摇滚                       | 北京    | 疆进酒                         | 25-Feb-23                          | VIBEZ万是音乐                |
+| 143 | 水草计划2023全新现场首演                                    | ⭐️⭐️⭐️⭐️     | manju, 水草计划                                                                                                                                                                                                                                                    | 100                | 电子                                       | 北京    | wigwam                         | 24-Feb-23                          |                              |
+| 142 | 聲無哀樂「四個大字」巡演                                    | ⭐️⭐️⭐️⭐️     | 聲無哀樂                                                                                                                                                                                                                                                           | 90                 | Techno, 器乐摇滚, 电子                     | 北京    | 日坛DDC                        | 24-Feb-23                          |                              |
+| 141 | 明日迫近 · 拨云                                            | ⭐️⭐️⭐️⭐️⭐️ | Duanluoo, Kaishandao, Meng Meng                                                                                                                                                                                                                                    | 100                | House, 氛围                                | 北京    | wigwam                         | 18-Feb-23                          | UCCA                         |
+| 140 | 灵感的偶遇 Vol.4 短波                                       | ⭐️⭐️⭐️⭐️     | ADOG, GUAN, TUTU, 冯梦波                                                                                                                                                                                                                                           | 120                | House, Techno, 电子                        | 北京    | 招待                           | 3-Feb-23                           | UCCA                         |
+| 139 | 摇滚兄弟五周年                                              | ⭐️⭐️⭐️⭐️⭐️ | 假假條, 孤独的利里, 疯医                                                                                                                                                                                                                                           | 170                | 后朋                                       | 杭州    | MAO Livehouse                  | 2-Jan-23                           | 摇滚兄弟                     |
+| 138 | 新年首夜狂舞                                                | ⭐️⭐️⭐️⭐️     | zhuo                                                                                                                                                                                                                                                               | 0                  | 电子                                       | 上海    | System                         | 1-Jan-23                           |                              |
+| 137 | First Day of 2023                                           | ⭐️⭐️⭐️⭐️⭐️ | Come to mama, HAO                                                                                                                                                                                                                                                  | 100                | Techno                                     | 上海    | Heim                           | 1-Jan-23                           |                              |
+| 136 | 「荒诞终结倒计时」                                          | ⭐️⭐️⭐️⭐️⭐️ | Ben Huang, YANGBING, 马海平MHP                                                                                                                                                                                                                                     | 130                | 电子                                       | 上海    | System                         | 31-Dec-22                          |                              |
+| 135 | 「一起出发」                                                | ⭐️⭐️⭐️⭐️⭐️ | 寸铁, 莫西子诗                                                                                                                                                                                                                                                     | 320                | 民谣                                       | 南京    | 1701 LIVE HOUSE MAX            | 31-Dec-22                          |                              |
+| 134 | 惘闻「辛丑                                                  | ⭐️⭐️⭐️⭐️⭐️ | ⭐️⭐️⭐️⭐️⭐️                                                                                                                                                                                                                                               | 惘闻               | 130                                        | 后摇    | 南京                           | 1701 LIVE HOUSE MAX                | 9-Dec-22                     |
+| 133 | Pulp Punktion 低俗庞克神                                    | ⭐️⭐️⭐️⭐️     | 小王, 披萨脸, 赛吉来信                                                                                                                                                                                                                                             | 100                | 后朋, 朋克                                 | 北京    | 共和酒吧                       | 19-Nov-22                          |                              |
+| 132 | SCHOOL公开排练课                                            | ⭐️⭐️⭐️⭐️     | KyoYoko, 赛吉来信                                                                                                                                                                                                                                                  | 0                  | 后朋                                       | 北京    | school                         | 9-Nov-22                           | school                       |
+| 131 | 朱文博在盲区唱歌                                            | ⭐️⭐️⭐️         | 朱文博                                                                                                                                                                                                                                                             | 0                  |                                            | 北京    | 盲区                           | 2-Nov-22                           |                              |
+| 130 | Post District II                                            | ⭐️⭐️⭐️⭐️     | Fafa Parrrk, HAO, LST                                                                                                                                                                                                                                              | 100                | Techno, 电子                               | 北京    | wigwam                         | 29-Oct-22                          |                              |
+| 129 | 干瞪眼helplessly·双城企划                                  | ⭐️⭐️⭐️⭐️⭐️ | Duckman电板鸭, LimboLimbs                                                                                                                                                                                                                                          | 60                 | Drum&Bass, 电子                            | 杭州    | Loopy                          | 24-Sep-22                          | 干瞪眼                       |
+| 128 | Aqualung水肺                                                | ⭐️⭐️⭐️⭐️     | ILLSEE, Simon Frank, chuan                                                                                                                                                                                                                                         | 100                | 电子                                       | 杭州    | Loopy                          | 23-Sep-22                          |                              |
+| 127 | 毛毛仙的城市幻想                                            | ⭐️⭐️⭐️⭐️     | LST, Leonwill                                                                                                                                                                                                                                                      | 80                 | 电子                                       | 杭州    | Loopy                          | 23-Sep-22                          | 穿巛TransMiß Presents       |
+| 126 | 孤独的利里「最后的四重奏」义乌专场                          | ⭐️⭐️⭐️⭐️⭐️ | 孤独的利里                                                                                                                                                                                                                                                         | 150                | 后朋                                       | 义乌    | 隔壁GEBI                       | 22-Sep-22                          |                              |
+| 125 | Shanghai Qiutian 2022中国巡演                               | ⭐️⭐️⭐️⭐️     | Shanghai Qiutian                                                                                                                                                                                                                                                   | 120                | 数摇                                       | 南京    | 1701 LIVE HOUSE MAX            | 18-Sep-22                          |                              |
+| 124 | 活水一周年                                                  | ⭐️⭐️⭐️⭐️⭐️ | 丰江舟, 假假条, 梅卡德尔                                                                                                                                                                                                                                           | 268                | 后朋, 实验                                 | 南京    | 1701 LIVE HOUSE MAX            | 17-Sep-22                          | 活水 Flowing Water           |
+| 123 | SCHOOL公开排练课                                            | ⭐️⭐️⭐️         | 灰寂                                                                                                                                                                                                                                                               | 0                  | 核                                         | 北京    | school                         | 8-Sep-22                           | school                       |
+| 122 | SCHOOL公开排练课                                            | ⭐️⭐️⭐️         | 化骨龙                                                                                                                                                                                                                                                             | 0                  |                                            | 北京    | school                         | 3-Sep-22                           | school                       |
+| 121 | 虾米音乐节                                                  | ⭐️⭐️⭐️         | Carsick Cars, Lur:, Shanghai Qiutian, Sweet Sister Session, 傻子与白痴, 告五人, 声音玩具, 声音碎片, 张震岳, 木马, 海朋森, 电气樱桃                                                                                                                                 | 721                | 摇滚                                       | 秦皇岛  | 阿那亚·黄金海岸               | August 26, 2022 → August 27, 2022 | 虾米音乐娱乐                 |
+| 120 | 空 • 百威旅行音乐嘉年华                                    | ⭐️⭐️⭐️⭐️⭐️ | 3ASiC, AKUPUNKTUR, CTAFAD孙大威, Carsick Cars, DJ Blue, Diipset, HAO, JEF(VIAYL SET), KAWA, Kay C, LEОKKKKK, MICO刘为, PUZZY STACK, SHII, Stolen秘密行动, Taiga, 南方酸性咪咪, 发光曲线, 惘闻, 水草计划, 法兹, 海淀人, 疯医, 表情银行, 重塑雕像的权利, 野外合作社 | 468                | 后摇, 后朋, 摇滚, 电子                     | 长沙    | 华谊兄弟电影小镇               | August 19, 2022 → August 20, 2022 | 丛林文化, 携程现场, 百威     |
+| 119 | 「无尽海岸的聚会」                                          | ⭐️⭐️⭐️⭐️⭐️ | 法兹, 退格                                                                                                                                                                                                                                                         | 0                  | 后朋                                       | 秦皇岛  | 阿那亚·黄金海岸               | 23-Jul-22                          | aranya Live                  |
+| 118 | 法兹「折叠故事」2022新专辑中国巡演                          | ⭐️⭐️⭐️⭐️⭐️ | 法兹                                                                                                                                                                                                                                                               | 160                | 后朋                                       | 天津    | 二十年音乐现场                 | 10-Jul-22                          | space circle                 |
+| 117 | 「活水」九宝 × 萨满 联合专场                               | ⭐️⭐️⭐️⭐️     | 九宝, 萨满                                                                                                                                                                                                                                                         | 200                | 民谣金属, 金属                             | 济南    | 99大麦Livehouse                | 25-Jun-22                          | 活水 Flowing Water           |
+| 116 | 万能青年旅店「冀西南林路行」2022巡演                        | ⭐️⭐️⭐️⭐️⭐️ | 万能青年旅店                                                                                                                                                                                                                                                       | 320                | 摇滚                                       | 济南    | 99大麦Livehouse                | 24-Jun-22                          | 万能青年旅店                 |
+| 115 | 日坛DDC试营业                                               | ⭐️⭐️⭐️⭐️     | 孤独的利里, 王大卫与社会诗歌, 赛吉来信                                                                                                                                                                                                                             | 0                  | 后朋                                       | 北京    | 日坛DDC                        | 23-Apr-22                          |                              |
+| 114 | 朋克之春 SCHOOL分会场                                       | ⭐️⭐️⭐️⭐️     | UNCLE BAD, 利事, 烧酒军团                                                                                                                                                                                                                                          | 100                | 朋克                                       | 北京    | school                         | 16-Apr-22                          | D.O.G.                       |
+| 113 | NEW!NEW live’2                                             | ⭐️⭐️⭐️⭐️     | 参宿                                                                                                                                                                                                                                                               | 0                  | 后摇                                       | 北京    | 东市 OMNICLUB                  | 16-Apr-22                          |                              |
+| 112 | New!                                                        | ⭐️⭐️⭐️         | 克林尼克, 干诱因, 至爱商店                                                                                                                                                                                                                                         | 0                  | 后朋                                       | 北京    | 东市 OMNICLUB                  | 15-Apr-22                          |                              |
+| 111 | 「Another Shore」吴卓玲新专辑发布会北京站                   | ⭐️⭐️⭐️⭐️     | 吴卓玲                                                                                                                                                                                                                                                             | 100                | 氛围, 电子                                 | 北京    | wigwam                         | 3-Apr-22                           |                              |
+| 110 | 明日出游                                                    | ⭐️⭐️⭐️⭐️     | 16层, Sonicave, 出海部, 文雀                                                                                                                                                                                                                                       | 166                | 后摇                                       | 北京    | 乐空间                         | 2-Apr-22                           | 演出搭子                     |
+| 109 | 甲马22                                                      | ⭐️⭐️⭐️⭐️     | 文智湧, 武权, 张荐                                                                                                                                                                                                                                                 | 张荐, 文智湧, 武权 | 110                                        | 氛围    | 北京                           | UFO Space                          | 12-Mar-22                    |
+| 108 | 南方谜景丨夜雨还潮                                          | ⭐️⭐️⭐️         | 晕盖, 还潮                                                                                                                                                                                                                                                         | 150                | 迷幻                                       | 北京    | 乐空间                         | 5-Mar-22                           | 屁仔唱片, 赤瞳音乐           |
+| 107 | 「如虎添翼」school虎年开箱大吉                              | ⭐️⭐️⭐️⭐️     | KyoYoko, 全家幸福生活指南, 披萨脸, 桶桶, 空气纸                                                                                                                                                                                                                    | 120                | 后朋, 朋克                                 | 北京    | school                         | 4-Mar-22                           | D.O.G., 骑虎难下             |
+| 106 | 生悦住英夫 & P.S.F. Records 祭！Beijing Flashback！         | ⭐️⭐️⭐️⭐️⭐️ | 刘璐, 朱文博, 李剑鸿, 李维思, 李青, 盛洁, 邓博宇, 颜峻                                                                                                                                                                                                             | 150                | 实验                                       | 北京    | UFO Space                      | 26-Feb-22                          | UFO Space                    |
+| 105 | 2021年school年度奖颁奖之夜                                  | ⭐️⭐️⭐️⭐️⭐️ | 人体蜈蚣, 化骨龙, 参宿, 堆填区, 披萨脸, 烧酒军团                                                                                                                                                                                                                   | 0                  | 后摇, 后朋, 朋克                           | 北京    | school                         | 16-Jan-22                          | school                       |
+| 104 | 「身价百倍」发梦茱莉同名专辑2021全国巡演                    | ⭐️⭐️⭐️         | 发梦茱莉, 李剑鸿, 颜峻                                                                                                                                                                                                                                             | 90                 | 前卫, 实验                                 | 北京    | 疆进酒                         | 14-Jan-22                          |                              |
+| 103 | 本能实业不插电                                              | ⭐️⭐️⭐️⭐️     | 本能实业                                                                                                                                                                                                                                                           | 50                 |                                            | 北京    | 盲区                           | 8-Jan-22                           | 盲区合作社                   |
+| 102 | 「旧问题2」                                                 | ⭐️⭐️⭐️⭐️     | The Ravages, 二向箔, 本能实业, 赛吉来信                                                                                                                                                                                                                            | 100                | 后朋, 朋克, 迷幻                           | 北京    | school                         | 7-Jan-22                           | 盲区合作社                   |
+| 101 | 破碎2021巡演「404」                                         | ⭐️⭐️⭐️         | 破碎                                                                                                                                                                                                                                                               | 100                | 硬摇滚                                     | 北京    | MAO Livehouse                  | 12-Dec-21                          |                              |
+| 100 | 时过夏末 2021 巡演                                          | ⭐️⭐️⭐️⭐️⭐️ | 时过夏末                                                                                                                                                                                                                                                           | 100                | 后摇                                       | 北京    | Weshow Live                    | 23-Oct-21                          | 1724唱片                     |
+| 99  | 左小祖咒「笑傲江湖」巡演                                    | ⭐️⭐️⭐️⭐️     | 左小祖咒                                                                                                                                                                                                                                                           | 220                | 摇滚                                       | 北京    | 糖果                           | 19-Oct-21                          |                              |
+| 98  | 小雨乐队「春歌秋行」2021 全国巡演                           | ⭐️⭐️⭐️⭐️     | 小雨                                                                                                                                                                                                                                                               | 100                | 民谣金属, 金属                             | 北京    | MAO Livehouse                  | 16-Oct-21                          |                              |
+| 97  | 16层「记得对你爱的人说晚安」北京专场                        | ⭐️⭐️⭐️⭐️     | 16层                                                                                                                                                                                                                                                               | 80                 | 后摇                                       | 北京    | MAO Livehouse                  | 16-Oct-21                          |                              |
+| 96  | 「水银刀片」                                                | ⭐️⭐️⭐️⭐️     | Lur:, 明天的盐, 赛吉来信, 跳山羊                                                                                                                                                                                                                                   | 0                  | 后朋, 盯鞋                                 | 北京    | 乐空间                         | 7-Oct-21                           |                              |
+| 95  | 号角唱片二十周年 众神复活金属音乐节                         | ⭐️⭐️⭐️         | 冥笛, 本体尸尊, 玉麟军, 紫环, 落地不见, 霜冻前夜                                                                                                                                                                                                                   | 145                | 金属                                       | 北京    | 疆进酒                         | 3-Oct-21                           |                              |
+| 94  | Peking Floyd 致敬专场                                       | ⭐️⭐️⭐️⭐️⭐️ | Peking Floyd                                                                                                                                                                                                                                                       | 80                 | 摇滚                                       | 北京    | 24D                            | 2-Oct-21                           |                              |
+| 93  | 「时间边界」琥珀 2021 巡演                                  | ⭐️⭐️⭐️⭐️⭐️ | 琥珀                                                                                                                                                                                                                                                               | 0                  | 后摇                                       | 北京    | 乐空间                         | 26-Sep-21                          |                              |
+| 92  | The Molds mini Show                                         | ⭐️⭐️⭐️⭐️     | The Molds                                                                                                                                                                                                                                                          | 120                |                                            | 北京    | fRUITYSPACE                    | 24-Sep-21                          |                              |
+| 91  | 「夏末狂欢音乐节」                                          | ⭐️⭐️⭐️         | 哪里人                                                                                                                                                                                                                                                             | 19                 | 摇滚                                       | 北京    | 魅现场                         | 11-Sep-21                          |                              |
+| 90  | 「Hazy "Winter" Night」                                     | ⭐️⭐️⭐️⭐️     | Lur:, 梦游动物园, 秋日疾走, 荒事, 酸性事件                                                                                                                                                                                                                         | 0                  | 后摇, 后朋, 盯鞋, 迷幻                     | 北京    | 乐空间                         | 31-Jul-21                          |                              |
+| 89  | 「京A别闹」                                                 | ⭐️⭐️⭐️         | 飞去来, 鬼否                                                                                                                                                                                                                                                       | 0                  | 后朋, 数摇                                 | 北京    | 乐空间                         | 30-Jul-21                          |                              |
+| 88  | 「发呆的下午」                                              | ⭐️⭐️⭐️         | 海皮威尔, 萬象, 蛙池                                                                                                                                                                                                                                               | 120                | 核, 独立, 电子                             | 北京    | 糖果                           | 23-Jul-21                          |                              |
+| 87  | 面孔「完美夏天」2021 巡演                                   | ⭐️⭐️⭐️         | 面孔                                                                                                                                                                                                                                                               | 210                |                                            | 北京    | 糖果                           | 18-Jul-21                          |                              |
+| 86  | 野外合作社「幸运的宝儿」2021 巡演                           | ⭐️⭐️⭐️⭐️⭐️ | 野外合作社                                                                                                                                                                                                                                                         | 150                | 摇滚, 独立                                 | 北京    | 疆进酒                         | 14-Jul-21                          |                              |
+| 85  | 天声乐队&酸性事件双专场                                     | ⭐️⭐️⭐️⭐️     | 天声, 酸性事件                                                                                                                                                                                                                                                     | 100                | 后摇                                       | 北京    | MAO Livehouse                  | 11-Jul-21                          |                              |
+| 84  | 「沉默之像」                                                | ⭐️⭐️⭐️⭐️     | pentatonic, 沼泽, 逆耳, 酸性事件                                                                                                                                                                                                                                   | 0                  | 后摇                                       | 北京    | Weshow Live                    | 3-Jul-21                           |                              |
+| 83  | 新青年音乐节                                                | ⭐️⭐️⭐️⭐️⭐️ | 九宝, 二手玫瑰, 岛屿心情, 扭曲机器, 新裤子, 核聚变, 梅卡德尔, 肆伍, 萨满, 谢天笑, 赵雷, 面孔                                                                                                                                                                       | 598                | 摇滚, 核, 金属                             | 济南    | 山东国际会展中心北广场         | July 19, 2021 → July 20, 2021     |                              |
+| 82  | 丝绒公路「这并不是终点」2021 巡演                           | ⭐️⭐️⭐️         | 丝绒公路                                                                                                                                                                                                                                                           | 150                | 硬摇滚                                     | 北京    | 糖果                           | 18-Jun-21                          |                              |
+| 81  | 2021溧阳·太湖迷笛音乐节                                    | ⭐️⭐️⭐️⭐️⭐️ | Carsick Cars, 不复之血, 九宝, 二区六楼, 二手玫瑰, 吴吞, 唐朝, 声音玩具, 夜叉, 天堂, 夸克, 孤独的利里, 小巫师, 崔健, 左右, 戰斧, 柏林护士, 法兹, 海朋森, 痛仰, 瘢痕体质, 肆囍, 荒事, 萨满, 萬象, 萬重, 跳山羊, 退格, 逃跑计划, 郁, 黑屋, 龍錦                       | 780                | 后朋, 摇滚, 民谣金属, 独立, 金属           | 溧阳    | 焦尾琴公园南                   | June 12, 2021 → June 14, 2021     |                              |
+| 80  | 「多米力高威威维利星」脏手指 2021 新专辑全国巡演 不插电     | ⭐️⭐️⭐️⭐️     | 孤独的利里, 脏手指                                                                                                                                                                                                                                                 | 180                | 后朋                                       | 北京    | 疆进酒                         | 6-Jun-21                           |                              |
+| 79  | 「芒种之火」                                                | ⭐️⭐️⭐️⭐️     | 大音炮, 小王, 布鹅岛                                                                                                                                                                                                                                               | 80                 | 朋克                                       | 北京    | school                         | 5-Jun-21                           |                              |
+| 78  | 「便利店庇护所」                                            | ⭐️⭐️⭐️⭐️     | 八仙饭店, 巧克力工厂, 靴腿                                                                                                                                                                                                                                         | 0                  | 数摇, 朋克, 独立                           | 北京    | 乐空间                         | 30-May-21                          |                              |
+| 77  | 萨满新专辑「SAGAMONO」2021 全国巡演                         | ⭐️⭐️⭐️⭐️⭐️ | 萨满                                                                                                                                                                                                                                                               | 130                | 民谣金属, 金属                             | 北京    | 糖果                           | 29-May-21                          |                              |
+| 76  | 贰伍吸烟所「深夜日常」2021 巡演                             | ⭐️⭐️⭐️⭐️⭐️ | 贰伍吸烟所                                                                                                                                                                                                                                                         | 100                | 后摇                                       | 北京    | 糖果                           | 23-May-21                          |                              |
+| 75  | 声音玩具「劳动之余」2021 全国巡演                           | ⭐️⭐️⭐️⭐️⭐️ | 声音玩具                                                                                                                                                                                                                                                           | 220                |                                            | 北京    | 糖果                           | 22-May-21                          |                              |
+| 74  | 声音玩具「劳动之余」2021 全国巡演                           | ⭐️⭐️⭐️⭐️⭐️ | 声音玩具                                                                                                                                                                                                                                                           | 0                  |                                            | 天津    | 大麦 66 Livehouse              | 8-May-21                           |                              |
+| 73  | 退格「蚀象」特别专场                                        | ⭐️⭐️⭐️⭐️     | 退格                                                                                                                                                                                                                                                               | 0                  | 后朋                                       | 北京    | 乐空间                         | 7-May-21                           |                              |
+| 72  | IZ乐队「跟着你行吗」新阵容新作首演                          | ⭐️⭐️⭐️⭐️     | IZ                                                                                                                                                                                                                                                                 | 0                  | 前卫, 实验                                 | 北京    | 乐空间                         | 6-May-21                           |                              |
+| 71  | 6501新专辑首演                                              | ⭐️⭐️⭐️⭐️     | 6501                                                                                                                                                                                                                                                               | 120                | 硬摇滚                                     | 北京    | 九霄                           | 5-May-21                           |                              |
+| 70  | 2021 滨州迷笛音乐节                                         | ⭐️⭐️⭐️⭐️⭐️ | Joyside, 九宝, 冥界, 吓死宝宝, 左右, 梦灵, 窒息, 缺省, 萬象, 许巍, 郁, 野孩子                                                                                                                                                                                      |                    | 摇滚, 民谣金属, 金属                       | 滨州    | 滨城北海公园                   | 4-May-21                           |                              |
+| 69  | 惘闻「十万个为什么」新专巡演                                | ⭐️⭐️⭐️⭐️⭐️ | 惘闻                                                                                                                                                                                                                                                               | 180                | 后摇                                       | 北京    | MAO Livehouse                  | 3-May-21                           |                              |
+| 68  | 2021 济南迷笛音乐节                                         | ⭐️⭐️⭐️⭐️⭐️ | AK&Unyielding, Chinese Football, Stolen秘密行动, 利维坦, 夜叉, 孤独的利里, 崔健, 往生, 施教日, 暗狱, 朝生暮死, 木马, 破碎, 秋天的虫子, 舌头, 萨满, 葬尸湖Zuriaake, 郁, 钢心, 雪沉                                                                                  | 899                | 摇滚, 核, 民谣金属, 硬摇滚, 金属           | 济南    | 国际园博园                     | May 1, 2021 → May 2, 2021         |                              |
+| 67  | 苏紫旭「狂人农场的往事」2021 巡演                           | ⭐️⭐️⭐️⭐️     | 苏紫旭                                                                                                                                                                                                                                                             | 120                | 世界音乐                                   | 北京    | 糖果                           | 30-Apr-21                          |                              |
+| 66  | 谢天笑重返北京哈哈大笑音乐会                                | ⭐️⭐️⭐️⭐️     | 谢天笑                                                                                                                                                                                                                                                             | 280                | 摇滚                                       | 北京    | 糖果                           | 27-Apr-21                          |                              |
+| 65  | 孤独的利里「前夜的乘客」2021 巡演                           | ⭐️⭐️⭐️⭐️     | 孤独的利里                                                                                                                                                                                                                                                         | 100                | 后朋                                       | 北京    | 疆进酒                         | 25-Apr-21                          |                              |
+| 64  | school 十一周年店庆                                         | ⭐️⭐️⭐️⭐️     | Cephalosis, 丢莱卡, 对角巷, 敌打死, 海妖, 钟声                                                                                                                                                                                                                     | 100                | 朋克                                       | 北京    | school                         | 24-Apr-21                          |                              |
+| 63  | 第四届「噪盯迷」研讨会                                      | ⭐️⭐️⭐️⭐️     | Lur:, Run Run Run, 柏林护士, 飞去来                                                                                                                                                                                                                                | 0                  | 后朋, 盯鞋                                 | 北京    | 乐空间                         | 23-Apr-21                          |                              |
+| 62  | 康姆士「寻找范艾伦」                                        | ⭐️⭐️⭐️         | 康姆士                                                                                                                                                                                                                                                             | 200                | 独立                                       | 北京    | 糖果                           | 21-Apr-21                          |                              |
+| 61  | 「黑夜运动会」疯医&发光曲线联合专场                         | ⭐️⭐️⭐️⭐️     | 发光曲线, 疯医                                                                                                                                                                                                                                                     | 120                | 后摇, 后朋                                 | 北京    | 疆进酒                         | 18-Apr-21                          |                              |
+| 60  | 晕车车「晕」巡演                                            | ⭐️⭐️⭐️         | Carsick Cars                                                                                                                                                                                                                                                       | 150                | 后朋                                       | 北京    | 糖果                           | 10-Apr-21                          |                              |
+| 59  | 不言而语器摇音乐季                                          | ⭐️⭐️⭐️⭐️     | MACONDØ, pentatonic, 泥塑上帝                                                                                                                                                                                                                                     | 100                | 后摇                                       | 北京    | 疆进酒                         | 10-Apr-21                          |                              |
+| 58  | 回春丹「开炉」                                              | ⭐️⭐️             | 回春丹                                                                                                                                                                                                                                                             | 120                | 独立                                       | 北京    | 糖果                           | 8-Apr-21                           |                              |
+| 57  | 梦境列车室内音乐节                                          | ⭐️⭐️⭐️⭐️⭐️ | Stolen秘密行动                                                                                                                                                                                                                                                     | 280                | 电子                                       | 深圳    | 腾讯WeSpace                    | 3-Apr-21                           |                              |
+| 56  | 「念念不忘 必有回响」                                       | ⭐️⭐️⭐️⭐️     | 声音碎片, 报警, 朱格乐                                                                                                                                                                                                                                             | 0                  | 民谣                                       | 北京    | 疆进酒                         | 28-Mar-21                          |                              |
+| 55  | 二手玫瑰 21 年系列演出之「地下风云」                        | ⭐️⭐️⭐️⭐️⭐️ | 二手玫瑰                                                                                                                                                                                                                                                           | 327                | 摇滚                                       | 北京    | 糖果                           | 27-Mar-21                          |                              |
+| 54  | 此时此刻」舌头 2021 新专辑巡演                              | ⭐️⭐️⭐️⭐️⭐️ | 舌头                                                                                                                                                                                                                                                               | 150                | 摇滚                                       | 北京    | 糖果                           | 26-Mar-21                          |                              |
+| 53  | 秘密行动「背面遗漏的信息」北京特别专场                      | ⭐️⭐️⭐️⭐️⭐️ | Stolen秘密行动                                                                                                                                                                                                                                                     | 120                | 电子                                       | 北京    | 糖果                           | 20-Mar-21                          |                              |
+| 52  | 「冬泳派对」                                                | ⭐️⭐️⭐️         | 岛屿心情, 彩色文胸, 梅卡德尔                                                                                                                                                                                                                                       | 228                | 摇滚, 电子                                 | 北京    | 糖果                           | 19-Mar-21                          |                              |
+| 51  | 「我即将握紧双拳」                                          | ⭐️⭐️⭐️⭐️⭐️ | 柏林的雾, 白皮书, 麻园诗人                                                                                                                                                                                                                                         | 0                  | 后朋                                       | 北京    | MAO Livehouse                  | 14-Mar-21                          |                              |
+| 50  | 「我即将握紧双拳」                                          | ⭐️⭐️⭐️⭐️     | Carsick Cars, 鸟撞, 麻兹妈                                                                                                                                                                                                                                         | 0                  | 后朋                                       | 北京    | MAO Livehouse                  | 14-Mar-21                          |                              |
+| 49  | 「我即将握紧双拳」                                          | ⭐️⭐️⭐️⭐️     | 小巫师, 海朋森, 飞去来                                                                                                                                                                                                                                             | 181                | 后摇, 后朋                                 | 北京    | MAO Livehouse                  | 13-Mar-21                          |                              |
+| 48  | 「ECHO OF WAVE」                                            | ⭐️⭐️⭐️⭐️     | 超级市场                                                                                                                                                                                                                                                           | 0                  | 电子                                       | 北京    | 腾讯WeSpace                    | 5-Mar-21                           |                              |
+| 47  | 「见证大团」                                                | ⭐️⭐️⭐️         | ETA, 徐波, 花墙                                                                                                                                                                                                                                                    | 0                  | 放克, 独立                                 | 北京    | 乐空间                         | 19-Jan-21                          |                              |
+| 46  | 雪沉「袍泽」巡演                                            | ⭐️⭐️⭐️⭐️     | 虚极, 雪沉                                                                                                                                                                                                                                                         | 90                 | 民谣金属, 金属                             | 北京    | MAO Livehouse                  | 17-Jan-21                          |                              |
+| 45  | 「迷城III 」后摇音乐会                                      | ⭐️⭐️⭐️⭐️     | 16层, Shanghai Qiutian, 反狗, 文雀, 琥珀, 神经旅人, 穿心莲                                                                                                                                                                                                         | 188                | 后摇, 数摇                                 | 北京    | 糖果                           | 27-Dec-20                          |                              |
+| 44  | 九连真人「六百万精英」巡演 北京特别专场                     | ⭐️⭐️⭐️⭐️     | 九连真人                                                                                                                                                                                                                                                           | 228                | 摇滚                                       | 北京    | 糖果                           | 26-Dec-20                          |                              |
+| 43  | 沼泽「风知我」2020 巡演                                     | ⭐️⭐️⭐️⭐️     | 沼泽                                                                                                                                                                                                                                                               | 130                | 后摇                                       | 北京    | 疆进酒                         | 20-Dec-20                          |                              |
+| 42  | 肆囍「Filter」2020 巡演                                     | ⭐️⭐️⭐️         | 肆囍                                                                                                                                                                                                                                                               | 20                 | 电子                                       | 北京    | MAO Livehouse                  | 13-Dec-20                          |                              |
+| 41  | 「黄金时代Pro·凛冬将至」                                   | ⭐️⭐️⭐️⭐️⭐️ | 九宝, 萨满, 葬尸湖Zuriaake, 雪沉, 黑麒                                                                                                                                                                                                                             | 200                | 民谣金属, 金属, 黑金                       | 天津    | 大麦 66 Livehouse              | 12-Dec-20                          |                              |
+| 40  | 「红庙帝国大型派对」                                        | ⭐️⭐️⭐️⭐️     | 蛙池                                                                                                                                                                                                                                                               | 0                  | 摇滚                                       | 北京    | school                         | 11-Dec-20                          |                              |
+| 39  | 「跳水冠军」                                                | ⭐️⭐️⭐️         | 回春丹, 失浪潮, 李昂, 法兹                                                                                                                                                                                                                                         | 150                | 后朋, 摇滚, 独立                           | 北京    | MAO Livehouse                  | 9-Dec-20                           |                              |
+| 38  | Deep Water「处处甜心」巡演                                  | ⭐️⭐️⭐️⭐️     | Deep Water                                                                                                                                                                                                                                                         | 70                 | 独立                                       | 北京    | MAO Livehouse                  | 5-Dec-20                           |                              |
+| 37  | 夏日入侵企画「想去海边」2020 巡演                           | ⭐️⭐️⭐️         | 夏日入侵企画                                                                                                                                                                                                                                                       | 120                | 独立                                       | 北京    | MAO Livehouse                  | 2-Dec-20                           |                              |
+| 36  | 脏手指「五周年的庆祝计划」                                  | ⭐️⭐️⭐️⭐️     | Simon Frank, 脏手指                                                                                                                                                                                                                                                | 150                | 后朋                                       | 北京    | 疆进酒                         | 29-Nov-20                          |                              |
+| 35  | 「朋克大明猩」                                              | ⭐️⭐️⭐️         | BBQ, KidsFactory, TEDDY, 劳动光荣, 表象危机                                                                                                                                                                                                                        | 100                | 朋克                                       | 北京    | school                         | 28-Nov-20                          |                              |
+| 34  | 「ONE NIGHT 给小孩」公益Live                                | ⭐️⭐️⭐️⭐️⭐️ | Joyside, 大波浪, 野孩子, 马赛克                                                                                                                                                                                                                                    | 419                | 摇滚, 民谣, 电子                           | 北京    | 糖果                           | 26-Nov-20                          |                              |
+| 33  | 「我即将握紧双拳」                                          | ⭐️⭐️⭐️⭐️⭐️ | 假假条, 梅卡德尔, 法兹, 疯医                                                                                                                                                                                                                                       | 0                  | 后朋                                       | 北京    | MAO Livehouse                  | 20-Nov-20                          |                              |
+| 32  | 声音碎片「西南之南」2020 巡演                               | ⭐️⭐️⭐️⭐️⭐️ | 声音碎片                                                                                                                                                                                                                                                           | 180                | 摇滚                                       | 北京    | 糖果                           | 6-Nov-20                           |                              |
+| 31  | 霓虹花园「再见威尔逊」新专辑首唱专场                        | ⭐️⭐️⭐️         | 霓虹花园                                                                                                                                                                                                                                                           | 120                | 独立                                       | 北京    | 糖果                           | 1-Nov-20                           |                              |
+| 30  | 霓虹花园「再见威尔逊」新专辑首唱专场                        | ⭐️⭐️⭐️⭐️     | 霓虹花园                                                                                                                                                                                                                                                           | 120                | 独立                                       | 北京    | 糖果                           | 30-Oct-20                          |                              |
+| 29  | 香蕉皮「2020」巡演                                          | ⭐️⭐️⭐️         | 水手葡萄, 香蕉皮                                                                                                                                                                                                                                                   | 80                 | 朋克                                       | 北京    | school                         | 23-Oct-20                          |                              |
+| 28  | 超级斩 2020 巡演「出刀」                                    | ⭐️⭐️⭐️⭐️     | 超级斩                                                                                                                                                                                                                                                             | 150                | 核                                         | 北京    | 疆进酒                         | 22-Oct-20                          |                              |
+| 27  | 「让我给你买瓶酒」                                          | ⭐️⭐️⭐️         | 丢莱卡, 囍适, 脏手指                                                                                                                                                                                                                                               | 150                | 后朋, 朋克                                 | 北京    | MAO Livehouse                  | 17-Oct-20                          |                              |
+| 26  | 「核能释放」                                                | ⭐️⭐️⭐️         | 往生, 绯色地平线, 肆伍                                                                                                                                                                                                                                             | 120                | 核                                         | 北京    | 乐空间                         | 11-Oct-20                          |                              |
+| 25  | 法兹「假水」巡演                                            | ⭐️⭐️⭐️         | 法兹                                                                                                                                                                                                                                                               | 130                | 后朋                                       | 北京    | 疆进酒                         | 9-Oct-20                           |                              |
+| 24  | 2020 北京草莓音乐节                                         | ⭐️⭐️⭐️⭐️⭐️ | Joyside, 万能青年旅店, 九连真人, 五条人, 动物园钉子户, 后海大鲨鱼, 和平饭店, 声音玩具, 大波浪, 扭曲机器, 文雀, 新裤子, 旋转保龄, 海皮威尔, 疯狂老鼠, 痛仰, 超级市场, 达达, 重塑雕像的权利, 闪星, 马赛克, 鸟撞                                                      | 1020               | 后摇, 后朋, 摇滚, 电子, 金属               | 北京    | 世园公园                       | October 5, 2020 → October 7, 2020 |                              |
+| 23  | 钢心专场                                                    | ⭐️⭐️⭐️⭐️     | 钢心                                                                                                                                                                                                                                                               | 120                | 摇滚                                       | 北京    | 九霄                           | 3-Oct-20                           |                              |
+| 22  | 「去新时代」花墙五周年特别专场                              | ⭐️⭐️⭐️⭐️     | 二向箔, 花墙                                                                                                                                                                                                                                                       | 0                  | 独立, 迷幻                                 | 北京    | 乐空间                         | 30-Sep-20                          |                              |
+| 21  | 「美丽新世界」                                              | ⭐️⭐️⭐️⭐️     | 四线方格, 梅卡德尔, 野外合作社                                                                                                                                                                                                                                     | 190                | 后朋                                       | 青岛    | 硬盒现场                       | 26-Sep-20                          |                              |
+| 20  | 景德镇文艺复兴 2020 秋季巡演                                | ⭐️⭐️⭐️⭐️⭐️ | 景德镇文艺复兴                                                                                                                                                                                                                                                     | 80                 | 后摇                                       | 北京    | MAO Livehouse                  | 24-Sep-20                          |                              |
+| 19  | 「假如明天消失」舌头 2020 年新唱片首发巡演                  | ⭐️⭐️⭐️⭐️⭐️ | 舌头                                                                                                                                                                                                                                                               | 120                | 摇滚                                       | 北京    | MAO Livehouse                  | 20-Sep-20                          |                              |
+| 18  | 「浪漫先行-后半程」                                         | ⭐️⭐️⭐️         | 回春丹, 暴走蜗牛, 温和治疗, 热浪, 脆莓                                                                                                                                                                                                                             | 138                | 独立                                       | 北京    | MAO Livehouse                  | 19-Sep-20                          |                              |
+| 17  | 「请回答Answer Me」                                         | ⭐️⭐️⭐️         | 疯医, 脆莓, 跳大海                                                                                                                                                                                                                                                 | 130                | 后朋                                       | 北京    | 糖果                           | 11-Sep-20                          |                              |
+| 16  | 和平饭店「欢迎光临」2020 新专辑巡演                         | ⭐️⭐️⭐️         | 和平饭店                                                                                                                                                                                                                                                           | 80                 | 独立, 电子                                 | 北京    | 乐空间                         | 23-Aug-20                          |                              |
+| 15  | 「HUAI」                                                    | ⭐️⭐️⭐️⭐️     | 丢莱卡, 白皮书, 花墙, 虎啸春                                                                                                                                                                                                                                       | 120                | 后朋, 朋克, 独立                           | 北京    | 乐空间                         | 21-Aug-20                          |                              |
+| 14  | Hello崇礼·太舞迷笛音乐季                                   | ⭐️⭐️⭐️⭐️⭐️ | 九宝, 九连真人, 刺猬, 扭曲机器, 玉麟军, 郁                                                                                                                                                                                                                         | 280                | 摇滚, 民谣金属, 金属                       | 崇礼    | 太舞滑雪小镇                   | 15-Aug-20                          |                              |
+| 13  | 跳大海「明日聚会」2020 全国巡演                             | ⭐️⭐️⭐️⭐️     | 跳大海                                                                                                                                                                                                                                                             | 80                 | 独立                                       | 北京    | 乐空间                         | 31-Jul-20                          |                              |
+| 12  | ETA伊塔「天选之η」2020 全国巡演                            | ⭐️⭐️⭐️         | ETA                                                                                                                                                                                                                                                                | 100                | 放克                                       | 南京    | 欧拉艺术空间                   | 24-Jul-20                          |                              |
+| 11  | 「黄金时代Pro」                                             | ⭐️⭐️⭐️⭐️⭐️ | 九宝, 小雨, 萨满, 雪沉, 黑麒                                                                                                                                                                                                                                       | 230                | 民谣金属, 金属, 黑金                       | 杭州    | 大麦 66 Livehouse              | 11-Jul-20                          |                              |
+| 10  | 霓虹花园「但我爱你」2019 小巡演                             | ⭐️⭐️⭐️⭐️⭐️ | 霓虹花园                                                                                                                                                                                                                                                           | 80                 | 独立                                       | 南京    | 欧拉艺术空间                   | 11-Jan-20                          |                              |
+| 9   | 霓虹花园「但我爱你」2019 小巡演                             | ⭐️⭐️⭐️⭐️     | 霓虹花园                                                                                                                                                                                                                                                           | 80                 | 独立                                       | 上海    | 育音堂音乐公园                 | 10-Jan-20                          |                              |
+| 8   | Return to Sender物归原主 「Redemption」2019 巡演            | ⭐️⭐️⭐️         | Return to Sender                                                                                                                                                                                                                                                   | 100                | 核                                         | 南京    | 欧拉艺术空间                   | 4-Jan-20                           |                              |
+| 7   | 德基跨年                                                    | ⭐️⭐️⭐️⭐️     | 梅卡德尔, 麻园诗人                                                                                                                                                                                                                                                 | 0                  | 后朋                                       | 南京    | 德基广场                       | 31-Dec-19                          |                              |
+| 6   | 萨满 苏州专场                                               | ⭐️⭐️⭐️⭐️⭐️ | 萨满                                                                                                                                                                                                                                                               | 100                | 民谣金属, 金属                             | 苏州    | MAO Livehouse                  | 28-Dec-19                          |                              |
+| 5   | Deca Joins 2019「山与山之间」专场巡演                       | ⭐️⭐️⭐️⭐️     | Deca Joins                                                                                                                                                                                                                                                         | 150                | 独立                                       | 南京    | 欧拉艺术空间                   | 25-Dec-19                          |                              |
+| 4   | 理想后花园「向全世界孤独的人致敬」2019 年全国巡演           | ⭐️⭐️⭐️         | 理想后花园                                                                                                                                                                                                                                                         | 100                | 独立                                       | 南京    | 欧拉艺术空间                   | 20-Oct-19                          |                              |
+| 3   | 星巢音乐节                                                  | ⭐️⭐️⭐️⭐️⭐️ | Deca Joins, Hello Nico, 刺猬, 孔雀眼, 康姆士, 棱镜, 橘子海, 殷敏朱丞, 草东没有派对, 赵雷, 郭顶, 霓虹花园                                                                                                                                                           | 342                | 摇滚, 独立                                 | 南京    | 鱼嘴湿地公园                   | 7-Sep-19                           |                              |
+| 2   | The fin. 2019 新专辑巡演                                    | ⭐️⭐️⭐️⭐️     | The fin.                                                                                                                                                                                                                                                           | 145                | 迷幻                                       | 南京    | 欧拉艺术空间                   | 3-Sep-19                           |                              |
+| 1   | 2019 落日飞车「出差」巡演                                   | ⭐️⭐️⭐️⭐️     | 落日飞车                                                                                                                                                                                                                                                           | 214                | 迷幻                                       | 南京    | 太阳宫剧场                     | 3-May-19                           |                              |

@@ -29,7 +29,16 @@
 &lt;h1 id=&#34;二个人情况&#34;&gt;二、个人情况&lt;/h1&gt;
 &lt;p&gt;虽然自己房子 7 月初才到期，但担心疫情又居家隔离不能及时线下看房，加上自己不想拖到后面焦虑，所以我从 6 月初就开始在租房平台上看房，然后挑了个周末线下看了一下午房，一周时间就确定了要租的房子。&lt;/p&gt;
 &lt;p&gt;因为之前独居一年，经历过三次居家隔离，最长的一次一个月都没有人和我说话，再加上房租涨价，让我这次考虑了合租而不是整租。还有一点是自己整租一居室，发现实际利用率比较高的也就卧室和书桌，而客厅沙发、电视机一年没用过几次，因为公司管三餐所以工作日也不自己做饭，厨房利用率也很低，因此感觉自己整租一居室有点奢侈。而且这次是打算搬到三环、四环附近，之前住郊区五环外进城一趟还是有点麻烦，路上花的时间较多。加上自己并不喜欢自如这种统一的装修风格，也不想付服务费，更不想自己还在睡觉突然被管家开门闯入（V2EX 上看到的&lt;a class=&#34;link&#34; href=&#34;https://www.v2ex.com/t/689296&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;自如真实事件&lt;/a&gt;），因此这次考虑的是房东直租。&lt;/p&gt;
+    &gt;自如真实事件
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;），因此这次考虑的是房东直租。&lt;/p&gt;
 &lt;p&gt;关于通勤这方面，由于公司附近房租太贵，虽然有便宜的城中村，但是居住人员过于密集，而且个人感觉生活幸福感不太高，因此通勤时长控制在 2h 以内个人觉得都能接受。另外自己之前居家办公一个月很大的感受就是，即使自己住公司附近了，也很难坚持早起，还不如利用通勤变相强迫自己早起，在地铁、班车上阅读进行「充电」。但相对地，晚上到家时间就比较晚，因此晚上自己的「充电时间」会比较少。&lt;/p&gt;
 &lt;h1 id=&#34;三租房经验&#34;&gt;三、租房经验&lt;/h1&gt;
 &lt;h2 id=&#34;分享一下自己使用的找房软件工具&#34;&gt;分享一下自己使用的找房软件/工具&lt;/h2&gt;
@@ -58,7 +67,16 @@
 	
 &gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://uz.yurixu.com/manage/beijing.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;http://uz.yurixu.com/manage/beijing.php&lt;/a&gt; 爬取豆瓣等平台的个人转租帖子，信息比较实时，而且能根据地铁、商圈等条件进行筛选，节省大量自己上豆瓣一个个找房源的时间
+    &gt;http://uz.yurixu.com/manage/beijing.php
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 爬取豆瓣等平台的个人转租帖子，信息比较实时，而且能根据地铁、商圈等条件进行筛选，节省大量自己上豆瓣一个个找房源的时间
 &lt;img src=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG511.png&#34;
 	
 	
@@ -73,9 +91,36 @@
 &lt;h3 id=&#34;其他工具&#34;&gt;其他工具&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://bus.daibor.com/#/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://bus.daibor.com/#/&lt;/a&gt; 少数派上一位作者 &lt;strong&gt;@&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/u/daibor/updates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;daibor&lt;/a&gt; 开发出来的&lt;a class=&#34;link&#34; href=&#34;https://bus.daibor.com/#/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;网站工具&lt;/a&gt;，固定上班地点之后选择居住点，通勤时间范围内的地方都能辐射到。&lt;/li&gt;
+    &gt;https://bus.daibor.com/#/
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 少数派上一位作者 &lt;strong&gt;@&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/u/daibor/updates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;daibor
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 开发出来的&lt;a class=&#34;link&#34; href=&#34;https://bus.daibor.com/#/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;网站工具
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;，固定上班地点之后选择居住点，通勤时间范围内的地方都能辐射到。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;个人租房方法&#34;&gt;个人租房方法&lt;/h2&gt;
 &lt;h3 id=&#34;概括版&#34;&gt;概括版&lt;/h3&gt;
@@ -188,23 +233,104 @@
 &lt;p&gt;以及记得拍下房东的房产证复印件，确保不会被驱逐。如果需要提供自己的个人身份证明（身份证复印件），建议在复印件上用签字笔标明「仅供签署xx租赁合同使用」或「仅供租金xx房屋使用」，以免他人持自己的身份证复印件做他用。&lt;/p&gt;
 &lt;h1 id=&#34;四参考&#34;&gt;四、参考&lt;/h1&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/65727&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;从房源选择到好物分享，给准备租房的你一些小建议 - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+    &gt;从房源选择到好物分享，给准备租房的你一些小建议 - 少数派 (sspai.com)
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/61520&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;让你的出租屋少一点烦恼，这些实用工具才是幸福的开始 - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+    &gt;让你的出租屋少一点烦恼，这些实用工具才是幸福的开始 - 少数派 (sspai.com)
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/63178&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;减少安全隐患，这些家中的事故重灾区需要你留心 - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+    &gt;减少安全隐患，这些家中的事故重灾区需要你留心 - 少数派 (sspai.com)
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/63604&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;从租房到退房，你总会用得上的家庭五金工具 - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+    &gt;从租房到退房，你总会用得上的家庭五金工具 - 少数派 (sspai.com)
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/62370&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;第一次租房，你可能需要考虑的那些事 - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+    &gt;第一次租房，你可能需要考虑的那些事 - 少数派 (sspai.com)
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/63270&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;警惕租房陷阱、保留维权证据，供你随身携带的租房贴士 - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+    &gt;警惕租房陷阱、保留维权证据，供你随身携带的租房贴士 - 少数派 (sspai.com)
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/55743&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;一派 | 如何租到一套满意的房子？这些是我们的经验 - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+    &gt;一派 | 如何租到一套满意的房子？这些是我们的经验 - 少数派 (sspai.com)
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/56574&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;不到 2000 块钱，这是一份睡眠舱升级指南 - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+    &gt;不到 2000 块钱，这是一份睡眠舱升级指南 - 少数派 (sspai.com)
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/42018&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;城市空巢青年生活记录（一）：数字生活之外，也要搞好个护清洁工作 - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+    &gt;城市空巢青年生活记录（一）：数字生活之外，也要搞好个护清洁工作 - 少数派 (sspai.com)
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         

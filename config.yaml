@@ -12,6 +12,109 @@ languages:
         weight: 1
         params:
             description: Example description
+        menu:
+            main:
+                - identifier: home
+                  name: Home
+                  url: /
+                  weight: -100
+                  params:
+                      newTab: false
+                      icon: home
+                - identifier: about
+                  name: About
+                  url: /about
+                  weight: -90
+                  params:
+                      newTab: false
+                      icon: user
+                - identifier: categories
+                  name: Categories
+                  url: /categories
+                  weight: -80
+                  params:
+                      newTab: false
+                      icon: categories
+                - identifier: tags
+                  name: Tags
+                  url: /tags
+                  weight: -70
+                  params:
+                      newTab: false
+                      icon: tag
+                - identifier: archives
+                  name: Archives
+                  url: /archives
+                  weight: -60
+                  params:
+                      newTab: false
+                      icon: archives
+                - identifier: live
+                  name: Live
+                  url: /live
+                  weight: -50
+                  params:
+                      newTab: false
+                      icon: music
+                - identifier: search
+                  name: Search
+                  url: /search
+                  weight: -50
+                  params:
+                      newTab: false
+                      icon: search
+            
+            social:
+                - identifier: github
+                  name: GitHub
+                  url: https://github.com/Wonz5130
+                  weight: -7
+                  params:
+                      newTab: true
+                      icon: brand-github
+                - identifier: wechat
+                  name: Wechat
+                  url: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202310071443001.png
+                  weight: -6
+                  params:
+                      newTab: true
+                      icon: wechat
+                - identifier: instagram
+                  name: Instagram
+                  url: https://instagram.com/wonz_wang
+                  weight: -5
+                  params:
+                      newTab: true
+                      icon: instagram
+                - identifier: telegram
+                  name: Telegram
+                  url: https://t.me/wonz_wang
+                  weight: -4
+                  params:
+                      newTab: true
+                      icon: telegram
+                - identifier: twitter
+                  name: Twitter
+                  url: https://twitter.com/wonz_wang
+                  weight: -3
+                  params:
+                      newTab: true
+                      icon: brand-twitter
+                - identifier: spotify
+                  name: Spotify
+                  url: https://spotify.link/Xd49excqpDb
+                  weight: -2
+                  params:
+                      newTab: true
+                      icon: spotify
+                - identifier: rss
+                  name: RSS Feed
+                  url: /index.xml
+                  weight: -1
+                  params:
+                      newTab: true
+                      icon: rss
+
     zh-cn:
         languageName: 中文
         title: Wonz
@@ -54,7 +157,7 @@ params:
 
     sidebar:
         emoji: 🎸
-        subtitle: Live Music Observing Artist
+        subtitle: Life is short, art is long.
         avatar:
             enabled: true
             local: true
@@ -66,7 +169,7 @@ params:
         readingTime: true
         license:
             enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            default: 转载需要保留原始链接，未经明确许可，禁止商业使用。LICENSED UNDER CC BY-NC-SA 4.0
 
     comments:
         enabled: true
@@ -186,99 +289,67 @@ params:
             enabled: true
         content:
             enabled: true
-
+    
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main:
         - identifier: home
-          name: Home
+          name: 主页
           url: /
           weight: -100
           params:
               newTab: false
               icon: home
         
-        - identifier: about
-          name: About
-          url: /about
-          weight: -90
-          params:
-              newTab: false
-              icon: user
-
-        - identifier: categories
-          name: Categories
-          url: /categories
-          weight: -80
-          params:
-              newTab: false
-              icon: categories
-        
-        - identifier: tags
-          name: Tags
-          url: /tags
-          weight: -70
-          params:
-              newTab: false
-              icon: tag
-
-        - identifier: live
-          name: Live
-          url: /live
-          weight: -60
-          params:
-              newTab: false
-              icon: music
-        
     social:
         - identifier: github
           name: GitHub
           url: https://github.com/Wonz5130
-          weight: -5
+          weight: -7
           params:
               newTab: true
               icon: brand-github
+        - identifier: wechat
+          name: Wechat
+          url: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202310071443001.png
+          weight: -6
+          params:
+              newTab: true
+              icon: wechat
         - identifier: instagram
           name: Instagram
           url: https://instagram.com/wonz_wang
-          weight: -4
+          weight: -5
           params:
               newTab: true
               icon: instagram
         - identifier: telegram
           name: Telegram
           url: https://t.me/wonz_wang
-          weight: -3
+          weight: -4
           params:
               newTab: true
               icon: telegram
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/wonz_wang
-          weight: -2
+          weight: -3
           params:
               newTab: true
               icon: brand-twitter
-        - identifier: wechat
-          name: Wechat
-          url: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202310031622148.jpg
-          weight: -2
-          params:
-              newTab: true
-              icon: wechat
         - identifier: spotify
           name: Spotify
           url: https://spotify.link/Xd49excqpDb
-          weight: -1
+          weight: -2
           params:
               newTab: true
               icon: spotify
         - identifier: rss
           name: RSS Feed
           url: /index.xml
-          weight: 0
+          weight: -1
           params:
               newTab: true
               icon: rss

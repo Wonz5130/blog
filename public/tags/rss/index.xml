@@ -28,7 +28,16 @@
 &lt;p&gt;还不得不提一下 RSS 。我自己算是一个 RSS 轻度用户吧，早期使用「即刻」订阅了大概一百多个消息提醒，后来「即刻」技术升级之后，使用 &lt;strong&gt;RSSHub&lt;/strong&gt; 订阅了大概二十多个常看的 RSS，经常会刷一刷。但是了解到一些 RSS 中度甚至重度用户，订阅数达到几百个，每天只能挑一些看看，毕竟全部看完要花的时间实在是太多了。&lt;/p&gt;
 &lt;p&gt;其实 RSS 也算小众，身边了解 RSS 与使用 RSS 的人不算多。&lt;/p&gt;
 &lt;p&gt;推荐阅读：&lt;strong&gt;kyth&lt;/strong&gt; 的 &lt;a class=&#34;link&#34; href=&#34;https://kyth.hedwig.pub/i/rss-er-shi-nian&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;RSS二十年&lt;/a&gt; 。&lt;/p&gt;
+    &gt;RSS二十年
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 。&lt;/p&gt;
 &lt;h3 id=&#34;newsletter&#34;&gt;Newsletter&lt;/h3&gt;
 &lt;p&gt;既然又有公众号和博客，为什么要再开一个 Newsletter 呢。&lt;/p&gt;
 &lt;p&gt;公众号推送其实有很多弊端，一是不能及时收到，二是无法插入多个超链接，底部「阅读原文」只支持一个链接，三是只支持最多不超过五个错别字的修改，四是由于监管原因，有时莫名奇怪被举报，比如我之前写了一篇旅行笔记就被举报了，很生气。&lt;/p&gt;
@@ -115,13 +124,49 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;链接&#34;&gt;链接&lt;/h3&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.rsshub.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;RSSHub 官方使用文档&lt;/a&gt;
+    &gt;RSSHub 官方使用文档
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/DIYgod/RSSHub&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;RSSHub 源码&lt;/a&gt;
+    &gt;RSSHub 源码
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/DIYgod/RSSHub-Radar&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;RSSHub Radar 源码&lt;/a&gt;
+    &gt;RSSHub Radar 源码
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/idealclover/Easy-to-RSS&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Easy-to-RSS 源码&lt;/a&gt;&lt;/p&gt;
+    &gt;Easy-to-RSS 源码
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;彩蛋&#34;&gt;彩蛋&lt;/h3&gt;
 &lt;p&gt;在「Easy-to-RSS」中发现了「即刻」的RSS（虽然已经 404 了）。&lt;/p&gt;
 </description>

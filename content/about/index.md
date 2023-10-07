@@ -1,3 +1,14 @@
+---
+title: "about"
+date: 2019-05-28
+layout: "about"
+slug: "about"
+menu:
+    main:
+        weight: -90
+        params: 
+            icon: user
+---
 ## Here is Wonz 👋
 
 - INFJ -> INTJ

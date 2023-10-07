@@ -713,9 +713,6 @@
     <loc>https://wonz.wang/2020/02/16/15-some-thoughts-about-product/</loc>
     <lastmod>2020-02-16T16:35:16+00:00</lastmod>
   </url><url>
-    <loc>https://wonz.wang/tags/</loc>
-    <lastmod>2020-01-23T15:15:19+00:00</lastmod>
-  </url><url>
     <loc>https://wonz.wang/2020/01/01/14-2019-summary/</loc>
     <lastmod>2020-01-01T15:29:52+00:00</lastmod>
   </url><url>
@@ -725,11 +722,23 @@
     <loc>https://wonz.wang/2019/08/03/12-my-grade-3/</loc>
     <lastmod>2019-08-03T23:33:11+00:00</lastmod>
   </url><url>
+    <loc>https://wonz.wang/tags/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wonz.wang/categories/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://wonz.wang/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wonz.wang/about/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wonz.wang/2019/05/05/11-sunset-rollercoaster/</loc>
     <lastmod>2019-05-05T12:52:49+00:00</lastmod>
+  </url><url>
+    <loc>https://wonz.wang/live/</loc>
+    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wonz.wang/2019/03/30/10-a-long-thinked-post/</loc>
     <lastmod>2019-03-30T21:08:19+00:00</lastmod>
@@ -790,10 +799,6 @@
   </url><url>
     <loc>https://wonz.wang/2018/05/17/1-zhuanzhuanye-memory/</loc>
     <lastmod>2018-05-17T00:36:49+00:00</lastmod>
-  </url><url>
-    <loc>https://wonz.wang/about/</loc>
-  </url><url>
-    <loc>https://wonz.wang/categories/</loc>
   </url><url>
     <loc>https://wonz.wang/search/</loc>
   </url>
