@@ -19,7 +19,7 @@ menu:
 - 🎸 现场音乐观赏品鉴 [艺术家](https://wonz.wang/live/)，也弹吉他，但技术很菜
 - 🔭 我住在北京，是一名软件开发工程师 👨‍💻， [![img](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://github.com/Wonz5130)
 - 😎 我也是一名[博客作者 📝](https://wonz.wang/)，[摄影师 📸](https://www.instagram.com/wonz_photo/)，调酒师 🍸，马拉松爱好者 🏃
-- ✒️ 我喜欢思考和写作。有一个微信公众号， 名字叫「Wonz」
+- ✒️ 我喜欢思考和写作。有一个微信公众号， 名字叫 [「Wonz」](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202310071443001.png)
 - 🎨 我喜欢在 [Instagram](https://www.instagram.com/wonz_wang/) 分享自己的生活碎片
 - 🐱 我喜欢猫和狗，有一只美短名字叫「小坏」
 - 📫 如何联系到我：wonz.wang@outlook.com 或者 [telegram](https://t.me/wonz_wang)
