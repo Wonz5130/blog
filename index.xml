@@ -14314,11 +14314,29 @@ fill="currentColor">
 &lt;ul>
 &lt;li>最爱吃日料，尤其是烧鸟。No Yakitori, No life&lt;/li>
 &lt;li>火锅微辣选手&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.dianping.com/member/1128604801" target="_blank" rel="noopener"
+>大众点评
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> V5 用户&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>爱喝酒
 &lt;ul>
 &lt;li>鸡尾酒吧探店博主，喜欢坐吧台边喝酒边写笔记&lt;/li>
+&lt;li>喝酒笔记会发在 &lt;a class="link" href="https://www.xiaohongshu.com/user/profile/5891c74c5e87e75b62713275" target="_blank" rel="noopener"
+>小红书
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
 &lt;li>喜欢苏威，也爱日威，尤其是 HIBIKI&lt;/li>
 &lt;li>因为精酿太胀肚所以喝得少&lt;/li>
 &lt;/ul>
