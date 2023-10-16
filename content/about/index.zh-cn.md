@@ -10,8 +10,6 @@ menu:
             icon: user
 ---
 > 这是一篇不那么正式的个人简介
->
-> please click [here](https://wonz.wang/en/about/) to read English version
 
 ## 这里是 Wonz 👋
 

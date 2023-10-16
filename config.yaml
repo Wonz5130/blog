@@ -172,7 +172,7 @@ params:
             default: 转载需要保留原始链接，未经明确许可，禁止商业使用。LICENSED UNDER CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:

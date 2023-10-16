@@ -77,7 +77,20 @@
 &lt;li&gt;2019 年 12 月 21-22 日，参加 2020 全国硕士研究生招生考试初试。&lt;/li&gt;
 &lt;li&gt;2019 年 12 月 31 日，CSDN 排名前 1W 名。&lt;/li&gt;
 &lt;li&gt;2020 年 1 月 23 日，重构个人博客网站。&lt;/li&gt;
-&lt;li&gt;2023 年 9 月 29 日，重构个人博客网站 3.0 。&lt;/li&gt;
+&lt;li&gt;2020 年 7 月 29 日，本科毕业后来到北京工作，开始新的生活。&lt;/li&gt;
+&lt;li&gt;2021 年 7 月，跳槽去了一家互联网公司。&lt;/li&gt;
+&lt;li&gt;2021 年 12 月 15 日，&lt;a class=&#34;link&#34; href=&#34;https://wonzwang.blog.csdn.net/?type=blog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CSDN
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 博客累计访问量 100w+。&lt;/li&gt;
+&lt;li&gt;2023 年 10 月 7 日，重构个人博客网站 3.0 。&lt;/li&gt;
 &lt;li&gt;未完待续 To be continued ······&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -19380,11 +19393,14 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
         <guid>https://wonz.wang/about/</guid>
-        <description>&lt;h2 id=&#34;here-is-wonz-&#34;&gt;Here is Wonz 👋&lt;/h2&gt;
+        <description>&lt;blockquote&gt;
+&lt;p&gt;这是一篇不那么正式的个人简介&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;这里是-wonz-&#34;&gt;这里是 Wonz 👋&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;INFJ -&amp;gt; INTJ&lt;/li&gt;
-&lt;li&gt;🎸 Live Music Observing「&lt;a class=&#34;link&#34; href=&#34;https://wonz.wang/live/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Artist
+&lt;li&gt;以前是 INFJ，现在是 INTJ&lt;/li&gt;
+&lt;li&gt;🎸 现场音乐观赏品鉴 &lt;a class=&#34;link&#34; href=&#34;https://wonz.wang/live/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;艺术家
     
     &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
         height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
@@ -19393,10 +19409,8 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
             fill=&#34;currentColor&#34;&gt;
     &lt;/svg&gt;&lt;/span&gt;
     
-&lt;/a&gt;」, also play guitar.&lt;/li&gt;
-&lt;li&gt;🔭 I live in Beijing and work as a &lt;a class=&#34;link&#34; href=&#34;&#34; &gt;Software Develop Engineer 👨‍💻
-    
-&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/Wonz5130&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;/a&gt;，也弹吉他，但技术很菜&lt;/li&gt;
+&lt;li&gt;🔭 住在北京，是一名软件开发工程师 👨‍💻， &lt;a class=&#34;link&#34; href=&#34;https://github.com/Wonz5130&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;img src=&#34;https://img.shields.io/badge/dynamic/json?color=000000&amp;amp;label=GitHub&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20followers&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130&#34;
 	
 	
@@ -19415,9 +19429,9 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
             fill=&#34;currentColor&#34;&gt;
     &lt;/svg&gt;&lt;/span&gt;
     
-&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;😎 I am also a &lt;a class=&#34;link&#34; href=&#34;https://wonz.wang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Blogger 📝
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;😎 也是一名&lt;a class=&#34;link&#34; href=&#34;https://wonz.wang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博客作者 📝
     
     &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
         height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
@@ -19426,8 +19440,8 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
             fill=&#34;currentColor&#34;&gt;
     &lt;/svg&gt;&lt;/span&gt;
     
-&lt;/a&gt;, a &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/wonz_photo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Photographer 📸
+&lt;/a&gt;，&lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/wonz_photo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;摄影师 📸
     
     &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
         height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
@@ -19436,10 +19450,9 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
             fill=&#34;currentColor&#34;&gt;
     &lt;/svg&gt;&lt;/span&gt;
     
-&lt;/a&gt;, a Bartender 🍸, a Marathoner🏃.&lt;/li&gt;
-&lt;li&gt;✒️ I like thinking and writing. My WeChat Official Account is「Wonz」.&lt;/li&gt;
-&lt;li&gt;🎨 I love sharing my life &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/wonz_wang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here
+&lt;/a&gt;，调酒师 🍸，马拉松爱好者 🏃&lt;/li&gt;
+&lt;li&gt;✒️ 喜欢思考和写作。有一个微信公众号， 名字叫 &lt;a class=&#34;link&#34; href=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202310071443001.png&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;「Wonz」
     
     &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
         height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
@@ -19448,11 +19461,20 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
             fill=&#34;currentColor&#34;&gt;
     &lt;/svg&gt;&lt;/span&gt;
     
-&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;🐱 I love cats and dogs, and I have a cat named Xiaohuai.&lt;/li&gt;
-&lt;li&gt;📫 How to reach me: &lt;a class=&#34;link&#34; href=&#34;mailto:wonz.wang@outlook.com&#34; &gt;wonz.wang@outlook.com
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎨 喜欢在 &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/wonz_wang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Instagram
     
-&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;https://t.me/wonz_wang&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 分享自己的生活碎片&lt;/li&gt;
+&lt;li&gt;🐱 喜欢猫和狗，有一只美短，名字叫「小坏」&lt;/li&gt;
+&lt;li&gt;📫 如何联系到我：wonz.wang@outlook.com 或者 &lt;a class=&#34;link&#34; href=&#34;https://t.me/wonz_wang&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;telegram
     
     &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
@@ -19462,10 +19484,169 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
             fill=&#34;currentColor&#34;&gt;
     &lt;/svg&gt;&lt;/span&gt;
     
-&lt;/a&gt;.&lt;/li&gt;
+&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;almost-all-wonz-on-sns-is-me-&#34;&gt;Almost all Wonz on SNS is me 🏄&lt;/h2&gt;
-&lt;h3 id=&#34;tech-blog&#34;&gt;Tech Blog&lt;/h3&gt;
+&lt;h2 id=&#34;其他补充-&#34;&gt;其他补充 👻&lt;/h2&gt;
+&lt;p&gt;如果上面还不足以介绍完我，可以再看看这里&lt;/p&gt;
+&lt;h3 id=&#34;基本信息&#34;&gt;基本信息&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;97年生人，天蝎座，脾气很好&lt;/li&gt;
+&lt;li&gt;家乡是江苏，不喜欢下雨&lt;/li&gt;
+&lt;li&gt;毕业后来到北京工作与生活，喜欢这里的「土」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;爱好&#34;&gt;爱好&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;音乐是我最大的爱好。能够一年听 5w min+ 音乐，也能一年看五六十场演出（还是在疫情期间）
+&lt;ul&gt;
+&lt;li&gt;最喜欢的音乐风格是后摇，最爱的乐队是 &lt;a class=&#34;link&#34; href=&#34;https://sigurros.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Sigur Rós
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;现在也爱听电子，比起 Techno 更喜欢 House 和 Melodic Techno&lt;/li&gt;
+&lt;li&gt;会在 &lt;a class=&#34;link&#34; href=&#34;https://spotify.link/Xd49excqpDb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Spotify
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 和 &lt;a class=&#34;link&#34; href=&#34;https://music.163.com/#/user/home?id=341450455&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;网易云
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 整理歌单&lt;/li&gt;
+&lt;li&gt;梦想是组乐队和当 DJ，玩玩后摇 / 钉鞋 / Techno / House 风格的音乐&lt;/li&gt;
+&lt;li&gt;正在努力做野生乐评人，会在 &lt;a class=&#34;link&#34; href=&#34;https://rateyourmusic.com/~Wonz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;rateyourmusic
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 和 &lt;a class=&#34;link&#34; href=&#34;https://music.douban.com/mine?status=collect&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;豆瓣音乐
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 给专辑打分写乐评&lt;/li&gt;
+&lt;li&gt;连续两年入选迷笛奖大众评审团（1/500）&lt;/li&gt;
+&lt;li&gt;立志打卡世界各地 Livehouse 和 Club，最想去的是柏林的 Berghain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;摄影只是爱好，以前是瞎拍，现在喜欢人文摄影、建筑摄影，喜欢有故事的照片
+&lt;ul&gt;
+&lt;li&gt;计划出一本自己的摄影集&lt;/li&gt;
+&lt;li&gt;再办一个自己的摄影展&lt;/li&gt;
+&lt;li&gt;如果以上有可能的话&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;喜欢写作。喜欢用细腻的文字描绘自己的生活
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://wonz.wang&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;个人网站
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 发的最多&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202310071443001.png&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;微信公众号
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 因为众所周知的原因发的比较少&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/u/wonzwang/updates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;少数派
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; 也会发一些微信公众号不发的内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;想去世界各地旅行
+&lt;ul&gt;
+&lt;li&gt;喜欢大海&lt;/li&gt;
+&lt;li&gt;也喜欢有独特建筑风格的城市&lt;/li&gt;
+&lt;li&gt;最想去欧洲，德国、英国、冰岛&lt;/li&gt;
+&lt;li&gt;日本去 1000 次也不够&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;对吃的其实要求不高
+&lt;ul&gt;
+&lt;li&gt;最爱吃日料，尤其是烧鸟。No Yakitori, No life&lt;/li&gt;
+&lt;li&gt;火锅微辣选手&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.dianping.com/member/1128604801&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;大众点评
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt; V5 用户&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;爱喝酒
+&lt;ul&gt;
+&lt;li&gt;鸡尾酒吧探店博主，喜欢坐吧台边喝酒边写笔记&lt;/li&gt;
+&lt;li&gt;喝酒笔记会发在 &lt;a class=&#34;link&#34; href=&#34;https://www.xiaohongshu.com/user/profile/5891c74c5e87e75b62713275&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;小红书
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;喜欢苏威，也爱日威，尤其是 HIBIKI&lt;/li&gt;
+&lt;li&gt;因为精酿太胀肚所以喝得少&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;全网同名-wonz-&#34;&gt;全网同名 Wonz 🏄&lt;/h2&gt;
+&lt;h3 id=&#34;技术平台&#34;&gt;技术平台&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Wonz5130&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GitHub
@@ -19567,11 +19748,43 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
     
 &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;personal-blog&#34;&gt;Personal Blog&lt;/h3&gt;
+&lt;h3 id=&#34;个人平台&#34;&gt;个人平台&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;微信公众号「Wonz」&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202310071443001.png&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;微信公众号
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/u/wonzwang/updates&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;少数派
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.xiaohongshu.com/user/profile/5891c74c5e87e75b62713275&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;小红书
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.douban.com/people/wonz/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;豆瓣
     
     &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
         height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
@@ -19602,9 +19815,9 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
             fill=&#34;currentColor&#34;&gt;
     &lt;/svg&gt;&lt;/span&gt;
     
-&lt;/a&gt;&lt;/li&gt;
+&lt;/a&gt;【已经很久不更了】&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;others&#34;&gt;Others&lt;/h3&gt;
+&lt;h3 id=&#34;其他社交平台&#34;&gt;其他社交平台&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://rsshub.app/jike/user/Wonz221&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;img src=&#34;https://img.shields.io/badge/dynamic/json?color=ffe411&amp;amp;label=%E5%8D%B3%E5%88%BB&amp;amp;query=%24.data.totalSubs&amp;amp;suffix=%20%E8%A2%AB%E5%85%B3%E6%B3%A8&amp;amp;url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DjikeFollower%26queryKey%3DWonz221&#34;
@@ -19666,19 +19879,8 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
     &lt;/svg&gt;&lt;/span&gt;
     
 &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.douban.com/people/wonz/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Douban
-    
-    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
-        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
-        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
-            fill=&#34;currentColor&#34;&gt;
-    &lt;/svg&gt;&lt;/span&gt;
-    
-&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;photo-and-video&#34;&gt;Photo and Video&lt;/h3&gt;
+&lt;h3 id=&#34;照片和视频&#34;&gt;照片和视频&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/wonz_photo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;instagram
@@ -19737,7 +19939,7 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
 &lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;视频号「Wonz」&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;music&#34;&gt;Music&lt;/h2&gt;
+&lt;h3 id=&#34;音乐平台&#34;&gt;音乐平台&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://spotify.link/Xd49excqpDb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Spotify
@@ -19805,8 +20007,30 @@ Zynga公司的使命很简单：“通过游戏连接世界”。
     &lt;/svg&gt;&lt;/span&gt;
     
 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://rateyourmusic.com/list/Wonz/best-post-rock/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;个人最喜欢的后摇专辑 list
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://rateyourmusic.com/list/Wonz/mcb-best-100/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MCB 杂志评出的百张史上最具革命性的专辑 list
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+        height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+        &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+        &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+            fill=&#34;currentColor&#34;&gt;
+    &lt;/svg&gt;&lt;/span&gt;
+    
+&lt;/a&gt;【持续更新中】&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;marathon-records&#34;&gt;Marathon Records&lt;/h2&gt;
+&lt;h2 id=&#34;马拉松纪录&#34;&gt;马拉松纪录&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;2019.4：&lt;strong&gt;2019 宁波银行·南京仙林半程马拉松成功完赛 1:52:37&lt;/strong&gt; 仙马组委会&lt;/li&gt;
 &lt;li&gt;2018.11：&lt;strong&gt;学而思 · 2018 镇江国际马拉松男子半程马拉松成功完赛 1:54:13&lt;/strong&gt; 中国田径协会&lt;/li&gt;
