@@ -12,6 +12,7 @@ tags:
 - fuji
 - 露营
 - 音乐节
+- 演出回顾
 
 comments: true
 mathJax: true

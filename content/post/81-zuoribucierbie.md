@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s28238032.jpeg
 categories:
-- Wonz笔记
+- 读书笔记
 tags:
 - 摇滚乐
 - 历史

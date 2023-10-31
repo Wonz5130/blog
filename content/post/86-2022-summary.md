@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202308201204652.jpg
 categories:
-- 总结
+- 年终总结
 tags:
 - 疫情
 - 热爱

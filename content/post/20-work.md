@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: 
 categories:
-- 随笔
+- 工作
 tags:
 - 工作
 - work-life-balance

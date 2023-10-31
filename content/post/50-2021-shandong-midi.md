@@ -12,6 +12,7 @@ tags:
 - 迷笛
 - 朋友
 - 摇滚
+- 演出回顾
 
 comments: true
 mathJax: true

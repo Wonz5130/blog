@@ -12,6 +12,7 @@ tags:
 - 迷笛
 - 音乐节
 - 朋友
+- 演出回顾
 
 comments: true
 mathJax: true

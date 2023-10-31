@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s27207923.jpeg
 categories:
-- Wonz笔记
+- 读书笔记
 tags:
 - 传记
 - 创业

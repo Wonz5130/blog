@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: 
 categories:
-- 总结
+- 年终总结
 tags:
 - 总结
 - 北漂

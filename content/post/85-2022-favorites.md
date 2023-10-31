@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202212252107657.JPG
 categories:
-- 总结
+- 年终总结
 tags:
 - 喜欢
 - 热爱

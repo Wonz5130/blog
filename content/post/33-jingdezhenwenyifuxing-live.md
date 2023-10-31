@@ -7,11 +7,12 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200925221850.jpg
 categories:
-- Wonz现场
+- 音乐
 tags:
 - 后摇
 - 传说
 - live
+- 演出回顾
 
 comments: true
 mathJax: true

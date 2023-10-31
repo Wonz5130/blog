@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG285.jpeg
 categories:
-- Wonz笔记
+- 读书笔记
 tags:
 - 敏捷
 - 工作

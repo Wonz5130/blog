@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/51fiyCB9e5L.jpeg
 categories:
-- Wonz笔记
+- 读书笔记
 tags:
 - OKR
 - 工作

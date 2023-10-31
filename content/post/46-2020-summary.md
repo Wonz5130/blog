@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210103221531.jpg
 categories:
-- 总结
+- 年终总结
 tags:
 - 复盘
 - 总结

@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/s26872396.jpeg
 categories:
-- Wonz笔记
+- 读书笔记
 tags:
 - 生活方式
 - 收纳

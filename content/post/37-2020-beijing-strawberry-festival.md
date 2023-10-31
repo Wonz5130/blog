@@ -12,6 +12,7 @@ tags:
 - 音乐节
 - 草莓
 - 朋友
+- 演出回顾
 
 comments: true
 mathJax: true

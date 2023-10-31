@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202212180002084.jpeg
 categories:
-- 生活
+- 随笔
 tags:
 - 酒
 

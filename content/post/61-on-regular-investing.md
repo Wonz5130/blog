@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/Snipaste_2021-10-16_11-54-30.png
 categories:
-- Wonz笔记
+- 读书笔记
 tags:
 - 定投
 - 区块链

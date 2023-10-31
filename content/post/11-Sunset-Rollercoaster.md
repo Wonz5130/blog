@@ -10,6 +10,7 @@ categories:
 - 音乐
 tags:
 - 摇滚
+- 演出回顾
 
 comments: true
 mathJax: true

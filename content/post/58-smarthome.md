@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/WechatIMG92.jpeg
 categories:
-- 生活
+- 数字生活
 tags:
 - 智能家居
 - 数字生活

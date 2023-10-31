@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/20220711202829.png
 categories:
-- 生活
+- 数字生活
 tags:
 - 租房
 - 北漂

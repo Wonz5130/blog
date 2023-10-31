@@ -7,7 +7,7 @@ lastmod:
 author: Wonz
 image: 
 categories:
-- 生活
+- 随笔
 tags:
 - 护肤
 
