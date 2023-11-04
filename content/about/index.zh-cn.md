@@ -58,7 +58,7 @@ menu:
 - 对吃的其实要求不高
   - 最爱吃日料，尤其是烧鸟。No Yakitori, No life
   - 火锅微辣选手
-  - [大众点评](https://www.dianping.com/member/1128604801) V5 用户
+  - [大众点评](https://www.dianping.com/member/1128604801) V6 用户
 - 爱喝酒
   - 鸡尾酒吧探店博主，喜欢坐吧台边喝酒边写笔记
   - 喝酒笔记会发在 [小红书](https://www.xiaohongshu.com/user/profile/5891c74c5e87e75b62713275)
