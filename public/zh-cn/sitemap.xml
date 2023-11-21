@@ -5,8 +5,11 @@
     <loc>https://wonz.wang/2018/01/28/0-hello-wonz/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://wonz.wang/tags/bartender/</loc>
+    <lastmod>2023-11-04T16:12:16+00:00</lastmod>
+  </url><url>
     <loc>https://wonz.wang/categories/</loc>
-    <lastmod>2023-08-20T16:44:16+00:00</lastmod>
+    <lastmod>2023-11-04T16:12:16+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,17 +21,11 @@
                 href="https://wonz.wang/categories/"
                 />
   </url><url>
-    <loc>https://wonz.wang/tags/fuji/</loc>
-    <lastmod>2023-08-20T16:44:16+00:00</lastmod>
-  </url><url>
-    <loc>https://wonz.wang/2023/08/20/89-fuji-rock-guide/</loc>
-    <lastmod>2023-08-20T16:44:16+00:00</lastmod>
-  </url><url>
     <loc>https://wonz.wang/post/</loc>
-    <lastmod>2023-08-20T16:44:16+00:00</lastmod>
+    <lastmod>2023-11-04T16:12:16+00:00</lastmod>
   </url><url>
     <loc>https://wonz.wang/tags/</loc>
-    <lastmod>2023-08-20T16:44:16+00:00</lastmod>
+    <lastmod>2023-11-04T16:12:16+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,7 +38,7 @@
                 />
   </url><url>
     <loc>https://wonz.wang/</loc>
-    <lastmod>2023-08-20T16:44:16+00:00</lastmod>
+    <lastmod>2023-11-04T16:12:16+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,6 +49,24 @@
                 hreflang="zh-cn"
                 href="https://wonz.wang/"
                 />
+  </url><url>
+    <loc>https://wonz.wang/2023/11/04/90-work-as-a-bartender/</loc>
+    <lastmod>2023-11-04T16:12:16+00:00</lastmod>
+  </url><url>
+    <loc>https://wonz.wang/tags/%E8%B0%83%E9%85%92/</loc>
+    <lastmod>2023-11-04T16:12:16+00:00</lastmod>
+  </url><url>
+    <loc>https://wonz.wang/tags/%E9%B8%A1%E5%B0%BE%E9%85%92/</loc>
+    <lastmod>2023-11-04T16:12:16+00:00</lastmod>
+  </url><url>
+    <loc>https://wonz.wang/categories/%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2023-11-04T16:12:16+00:00</lastmod>
+  </url><url>
+    <loc>https://wonz.wang/tags/fuji/</loc>
+    <lastmod>2023-08-20T16:44:16+00:00</lastmod>
+  </url><url>
+    <loc>https://wonz.wang/2023/08/20/89-fuji-rock-guide/</loc>
+    <lastmod>2023-08-20T16:44:16+00:00</lastmod>
   </url><url>
     <loc>https://wonz.wang/tags/%E9%9C%B2%E8%90%A5/</loc>
     <lastmod>2023-08-20T16:44:16+00:00</lastmod>
@@ -75,9 +90,6 @@
     <lastmod>2023-05-26T11:55:57+00:00</lastmod>
   </url><url>
     <loc>https://wonz.wang/tags/%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2023-05-26T11:55:57+00:00</lastmod>
-  </url><url>
-    <loc>https://wonz.wang/categories/%E6%80%9D%E8%80%83/</loc>
     <lastmod>2023-05-26T11:55:57+00:00</lastmod>
   </url><url>
     <loc>https://wonz.wang/categories/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
