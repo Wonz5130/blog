@@ -6,7 +6,7 @@ date: 2023-12-24T22:36:13+08:00
 lastmod:
 
 author: Wonz
-image: 
+image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202312252344908.jpg
 categories:
 - 年终总结
 tags:
@@ -23,7 +23,6 @@ puppeteer:
 
 draft: false
 ---
-
 2020 年末的时候在即刻看到 CEO 瓦恁写了这么一句话：在产房陪产的时候，想起那句「人们会被自己热爱的事物改变」，打算今年起每个年底，整理一年里最喜欢东西。于是我决定从 2021 年起，每年都整理过去的一年里最喜欢的东西。
 
 > 最喜欢的一本书
