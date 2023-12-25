@@ -171,7 +171,7 @@ Readwise Reader
 
 [Torikin](https://maps.app.goo.gl/EKDYgzD4M1AA2GC66)
 
-在日本的最后一晚，随便在 Google Maps 上搜的一家评分还可以的烧鸟店。店不大，但是一个人吃着很开心，来瓶 Kirin Beer，惬意。好的餐厅其实不用那么华丽的装修与器具，温馨与用心足以。
+在日本的最后一晚，随便在 Google Maps 上搜的一家评分还可以的烧鸟店。店不大，但是一个人吃着很开心，来瓶 Kirin Beer，惬意。好的餐厅其实不用那么华丽的装修与餐具，温馨与用心足以。
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202312242341192.jpg)
 
