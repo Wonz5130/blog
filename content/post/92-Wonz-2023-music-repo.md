@@ -87,7 +87,7 @@ draft: false
 
 Slowdive 就是那一支对我来说意义非凡的乐队。
 
-#### Top5: [《Goodbye》](https://open.spotify.com/track/5Eyhw61L8qs4bdc6G4cfW3?si=6cb88d1ea1004196) —— The Checmical Brothers
+#### Top5: [《Goodbye》](https://open.spotify.com/track/5Eyhw61L8qs4bdc6G4cfW3?si=6cb88d1ea1004196) —— The Chemical Brothers
 
 {{< spotify type="track" id="5Eyhw61L8qs4bdc6G4cfW3" height="80px">}}
 
