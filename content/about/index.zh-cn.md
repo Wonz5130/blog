@@ -34,7 +34,7 @@ menu:
 
 ### 爱好
 
-- 音乐是我最大的爱好。能够一年听 5w min+ 音乐，也能一年看五六十场演出（还是在疫情期间）
+- 音乐是我最大的爱好。能够一年听 6w min+ 音乐，也能一年看五六十场演出（还是在疫情期间）
   - 最喜欢的音乐风格是后摇，最爱的乐队是 [Sigur Rós](https://sigurros.com/)
   - 现在也爱听电子，比起 Techno 更喜欢 House 和 Melodic Techno
   - 会在 [Spotify](https://spotify.link/Xd49excqpDb) 和 [网易云](https://music.163.com/#/user/home?id=341450455) 整理歌单
