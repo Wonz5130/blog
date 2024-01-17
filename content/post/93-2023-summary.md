@@ -1,7 +1,7 @@
 ---
 title: 2023，做了一个很酷的自己
 description: 
-date: 2024-01-13T15:30:04+08:00
+date: 2024-01-17T15:30:04+08:00
 lastmod: 
 author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171842695.jpg
@@ -22,7 +22,6 @@ print_background: true
 puppeteer:
   timeout: 1000
 draft: false
-
 ---
 
 ## 写在前面
