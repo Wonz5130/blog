@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Wonz</title><link>https://wonz.wang/post/</link><description>Recent content in Posts on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Wonz</copyright><lastBuildDate>Tue, 26 Dec 2023 23:27:45 +0800</lastBuildDate><atom:link href="https://wonz.wang/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello, Wonz</title><link>https://wonz.wang/2018/01/28/0-hello-wonz/</link><pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate><guid>https://wonz.wang/2018/01/28/0-hello-wonz/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Wonz</title><link>https://wonz.wang/post/</link><description>Recent content in Posts on Wonz</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Wonz</copyright><lastBuildDate>Wed, 17 Jan 2024 15:30:04 +0800</lastBuildDate><atom:link href="https://wonz.wang/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello, Wonz</title><link>https://wonz.wang/2018/01/28/0-hello-wonz/</link><pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate><guid>https://wonz.wang/2018/01/28/0-hello-wonz/</guid><description>&lt;blockquote>
 &lt;p>阮一峰大神曾经说过: 喜欢写 Blog 的人, 会经历 3 个阶段。&lt;/p>
 &lt;p>第一阶段，刚接触 Blog，觉得很新鲜，试着选择一个免费空间来写。
 第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客。
@@ -67,7 +67,453 @@ fill="currentColor">
 &lt;/a> 博客累计访问量 100w+。&lt;/li>
 &lt;li>2023 年 10 月 7 日，重构个人博客网站 3.0 。&lt;/li>
 &lt;li>未完待续 To be continued ······&lt;/li>
-&lt;/ul></description></item><item><title>Wonz 的 2023 年音乐报告</title><link>https://wonz.wang/2023/12/26/92-wonz-2023-music-repo/</link><pubDate>Tue, 26 Dec 2023 23:27:45 +0800</pubDate><guid>https://wonz.wang/2023/12/26/92-wonz-2023-music-repo/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202312272248453.jpg" alt="Featured image of post Wonz 的 2023 年音乐报告" />&lt;h2 id="写在前面">写在前面&lt;/h2>
+&lt;/ul></description></item><item><title>2023，做了一个很酷的自己</title><link>https://wonz.wang/2024/01/17/93-2023-summary/</link><pubDate>Wed, 17 Jan 2024 15:30:04 +0800</pubDate><guid>https://wonz.wang/2024/01/17/93-2023-summary/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171842695.jpg" alt="Featured image of post 2023，做了一个很酷的自己" />&lt;h2 id="写在前面">写在前面&lt;/h2>
+&lt;p>迟迟没有提笔写已经过去的 2023 年的年终总结，一方面是前阵子给自己在 2023 年年初设立的个人 OKR 进行汇总的时候，发现勉强才到 40 分，实在是过得很失败。另一方面是自己最近的状态有点差，一直在调整中。&lt;/p>
+&lt;p>这几天有过一些零碎的灵感，但说实话，决定提笔开始写这篇年终总结的时候，依然没有完整的大纲，索性想到什么写什么吧。&lt;/p>
+&lt;p>先说总结：2023 对我来说并不是一个好年。四月被裁员，五月表白被拒，六月外婆去世，都不是什么好事。但好在七月去了 FUJI ROCK，八月开始做调酒师，一年下来也去了好多地方，看了不少好演出，也没有那么差。&lt;/p>
+&lt;h2 id="工作">工作&lt;/h2>
+&lt;h3 id="裁员">裁员&lt;/h3>
+&lt;p>四月的时候，经历了裁员，当时一度不能接受，也确实花了很长一段时间才接受这个结果。&lt;/p>
+&lt;p>加上自己当时也正处于职业发展的迷茫阶段，于是没有马上找工作，而是选择了休息。期间，写下了 &lt;a class="link" href="https://wonz.wang/2023/05/26/87-no-work-for-a-month/" target="_blank" rel="noopener"
+>没工作的这一个月，我做了一次自我整理
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
+&lt;h3 id="对职业发展的思考">对职业发展的思考&lt;/h3>
+&lt;p>期间看了 &lt;a class="link" href="https://weichen.blog/cn" target="_blank" rel="noopener"
+>炜晨
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 的 &lt;a class="link" href="https://weichen.blog/work/" target="_blank" rel="noopener"
+>重新定义工作
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>，有了点新的想法。&lt;/p>
+&lt;p>以及线下见了一些朋友，进行了一些关于职业发展和爱好的深入交流。比如：&lt;/p>
+&lt;ul>
+&lt;li>和 &lt;a class="link" href="https://web.okjike.com/u/14C830DE-2FC7-41CB-A8DF-B1C31CE73C0F" target="_blank" rel="noopener"
+>高 Jason 老师
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 聊创业&lt;/li>
+&lt;li>和大学学长 &lt;a class="link" href="https://web.okjike.com/u/8CB27CBE-F002-4DF9-9E56-0DFD99B5AA7D" target="_blank" rel="noopener"
+>李二牛
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 聊开公司&lt;/li>
+&lt;li>和好友 &lt;a class="link" href="https://web.okjike.com/u/5c8de6be-4e14-4bf5-b02a-7a97ae19c246" target="_blank" rel="noopener"
+>张豆
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 聊游戏开发与音乐创作&lt;/li>
+&lt;li>和产品经理 &lt;a class="link" href="https://web.okjike.com/u/F652D5DE-DC99-4AD1-B71C-CE7B1D2A302F" target="_blank" rel="noopener"
+>娇娇
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 聊 GPT&lt;/li>
+&lt;li>和程序员 &lt;a class="link" href="https://web.okjike.com/u/88ce6e91-2aee-438c-8500-a4952e78941d" target="_blank" rel="noopener"
+>高竹竹
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 聊点评、B 站、街头摄影和咖啡&lt;/li>
+&lt;li>etc.&lt;/li>
+&lt;/ul>
+&lt;p>觉得应该趁此机会尝试一些新的可能。好在优势是年轻，试错成本低。&lt;/p>
+&lt;h3 id="调酒师">调酒师&lt;/h3>
+&lt;p>于是在日本旅行结束回国后，歇了一阵，投了人生第一份调酒师简历。在我之前很喜欢的 FANG LANG 工作，成为一名调酒师学徒。做了接近三个月的调酒师之后，考虑到个人未来发展的原因，选择了离开调酒师这个行业，但还是感谢这段经历。详情请看：&lt;a class="link" href="https://wonz.wang/2023/11/04/90-work-as-a-bartender/" target="_blank" rel="noopener"
+>当我调酒时，我在想些什么
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171816206.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="创业">创业&lt;/h3>
+&lt;p>之后，一边在尝试做 AI 相关的创业，一边在继续找程序员工作。&lt;/p>
+&lt;p>AI 确确实实在改变自己的工作和生活方式，包括但不限于我的阅读工作流、生产力工具等。想起自己读本科时就是因为对机器学习、深度学习产生了兴趣，才转专业到计算机学院学习计算机相关知识。但是当时没有看到 AI 相关好的前景而选择了毕业直接工作，直到 2023 年 ChatGPT 的出现。ChatGPT 给了我当时接触到机器学习时类似的震撼，或者说因为有 AI 落地的产品而让我觉得这一切不再是那么虚。&lt;/p>
+&lt;h3 id="找工作">找工作&lt;/h3>
+&lt;p>最近重新回到刷 LeetCode 的节奏中，在一次次弄懂算法与数据结构之后的 AC 中，我发现自己还是喜欢写代码的。回望自己在前司的工作经历，虽然工作内容没有什么发展前景，但单纯从技术层面看，还是有不少挑战性的。从 Python 转岗到 Go 的过程属实痛苦，但是入门之后，发现用代码实现出对应需求的成就感还是不小的。&lt;/p>
+&lt;p>自己还是想做回程序员，一方面是发现带给我逻辑思维上的完善。另一方面也有自己的一些打算，出于更深远的考虑，以及未来的发展。&lt;/p>
+&lt;h2 id="热爱">热爱&lt;/h2>
+&lt;h3 id="音乐">音乐&lt;/h3>
+&lt;p>2023 年有好好对待自己喜欢的音乐。全年听了 6w+ min 音乐（其中包括完整地听完了 92 张专辑），看了 63 场 live，做了好多和音乐有关的事情，因为音乐去了好多地方，也通过音乐认识了好多人。五月还考了个演出经纪人资格考试，顺利拿到证书。&lt;/p>
+&lt;p>详情请看：&lt;a class="link" href="https://wonz.wang/2023/12/26/92-wonz-2023-music-repo/" target="_blank" rel="noopener"
+>Wonz 的 2023 年音乐报告
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>。&lt;/p>
+&lt;p>Spotify 的 2023 年度报告&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202312272049260.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>用 Notion 记录的 2023 年看过的 63 场 live&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171641873.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>收藏了不少黑胶唱片&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401180009855.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="摄影">摄影&lt;/h3>
+&lt;p>2023 年因为出去旅行比较多，拍的照片确实也比以前多，但自己最喜欢的街头摄影风格反而没拍出让我特别满意的照片。&lt;/p>
+&lt;p>下面选了部分自己拍的觉得很喜欢的照片，更多照片可以看我的摄影账号：&lt;a class="link" href="https://www.instagram.com/wonz_photo/" target="_blank" rel="noopener"
+>wonz_photo
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
+&lt;h4 id="建筑摄影">建筑摄影&lt;/h4>
+&lt;p>顺德和美术馆&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171835926.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>京都伏见稻荷大社&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171831560.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>东京 Tokyo Tower&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171832703.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;h4 id="自然风光">自然风光&lt;/h4>
+&lt;p>哈密魔鬼城&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171829954.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;h4 id="人像摄影">人像摄影&lt;/h4>
+&lt;p>好多年不拍人像摄影，因为觉得模特好看怎么拍都好看。这次尝试了一下黑暗情绪主题，纯粹是一时兴起，非常喜欢。&lt;/p>
+&lt;p>天台上的秘密
+出镜：小鹿&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171843347.JPG"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="酒">酒&lt;/h3>
+&lt;p>上半年喜欢去不同城市不同酒吧探店喝酒，喝完写 repo 发小红书。下半年做调酒师之后不怎么爱喝酒了，喝也是自己在家喝点 highball 或者纯饮+冰。算是做调酒师之后最大的改变吧。&lt;/p>
+&lt;p>简单计算了一下，2023 年去了有 37 家不同的鸡尾酒吧，一共喝了 18642 块钱。&lt;/p>
+&lt;p>但最喜欢的依然是杭州的 Cuddle，以及偏爱日式酒吧。虽然工作生活在北京，但是喝过次数最多的鸡尾酒吧在杭州，很神奇。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202312242344546.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="输出">输出&lt;/h2>
+&lt;h3 id="写作">写作&lt;/h3>
+&lt;p>本来定的 OKR 里是计划写 14 篇文章的，结果只写了 7 篇。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://wonz.wang/2023/01/04/86-2022-summary/" target="_blank" rel="noopener"
+>用 OKR 进行个人目标管理的这一年
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://wonz.wang/2023/05/26/87-no-work-for-a-month/" target="_blank" rel="noopener"
+>没工作的这一个月，我做了一次自我整理
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://wonz.wang/2023/08/18/88-fuji-rock-23-repo/" target="_blank" rel="noopener"
+>我从 FUJI ROCK 23 露营回来啦
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://wonz.wang/2023/08/20/89-fuji-rock-guide/" target="_blank" rel="noopener"
+>FUJI ROCK 不完全攻略
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://wonz.wang/2023/11/04/90-work-as-a-bartender/" target="_blank" rel="noopener"
+>当我调酒时，我在想些什么
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://wonz.wang/2023/12/24/91-2023-favorites/" target="_blank" rel="noopener"
+>2023 年一些喜欢的东西
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://wonz.wang/2023/12/26/92-wonz-2023-music-repo/" target="_blank" rel="noopener"
+>Wonz 的 2023 年音乐报告
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>而且因为有几个月一直在玩，知识输入少了，看的书和文章数量远不如 2022 年，带来最明显的结果就是自己在社交平台上分享的关于个人思考的东西越来越少了。&lt;/p>
+&lt;p>接下来已经开始在 &lt;a class="link" href="https://twitter.com/wonz_wang" target="_blank" rel="noopener"
+>Twitter
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 和 &lt;a class="link" href="https://www.threads.net/@wonz_wang" target="_blank" rel="noopener"
+>Threads
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 发一些自己的思考片段，欢迎关注。&lt;/p>
+&lt;h3 id="即刻">即刻&lt;/h3>
+&lt;p>&lt;a class="link" href="https://okjk.co/ML3BRV" target="_blank" rel="noopener"
+>Wonz
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a> 2023 年发表了 426 条动态, 获得了 7302 个👍🏻&lt;/p>
+&lt;p>即刻确实成为了自己日常离不开的社区，虽然用户质量远不如以前那么高，但还是喜欢。&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171809197.JPG"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="播客">播客&lt;/h3>
+&lt;p>被朋友邀请参与录了一期音乐相关的播客，也算是一种新的尝试。欢迎收听：&lt;a class="link" href="https://www.xiaoyuzhoufm.com/episode/64f52882e490c5dee5415321?s=eyJ1IjogIjVlN2M1ZTQwYTJmMmU1MDNjZWMzNmQ0MyJ9" target="_blank" rel="noopener"
+>SA.23 音乐是一位真实存在的女子，你还能和她有某种关系
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/p>
+&lt;h2 id="生活">生活&lt;/h2>
+&lt;h3 id="旅行">旅行&lt;/h3>
+&lt;p>2023 年一共去了 17 个城市：上海/杭州/香港/广州/眉山/乐山/烟台/深圳/佛山/南京/大阪/京都/奈良/东京/镰仓/西安/新疆。大多都是因为看音乐演出去的，但也让自己长了很多见识。&lt;/p>
+&lt;p>在香港坚尼地城% Arabica&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171825259.jpeg"
+loading="lazy"
+>&lt;/p>
+&lt;p>在香港诗歌舞街&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401172315968.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>在上海朋友小鹿家的天台看到了 2023 年最美的日落&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401180030466.JPG"
+loading="lazy"
+>&lt;/p>
+&lt;p>在京都伏见稻荷大社&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171821089.JPG"
+loading="lazy"
+>&lt;/p>
+&lt;p>在大阪天神祭花火大会&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401180028494.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>在 FUJI ROCK FESTIVAL&amp;rsquo; 23&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401172317673.JPG"
+loading="lazy"
+>&lt;/p>
+&lt;p>在新疆库木塔格沙漠&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171818119.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="电影与剧">电影与剧&lt;/h3>
+&lt;p>2023 年倒是看了不少电影和剧。列一些个人五星好评的吧。&lt;/p>
+&lt;p>电影&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/1296141/" target="_blank" rel="noopener"
+>控方证人 Witness for the Prosecution
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/22623816/" target="_blank" rel="noopener"
+>我们的父辈 Unsere Mütter, unsere Väter
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/35205617/" target="_blank" rel="noopener"
+>亲密 Close
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/1300955/" target="_blank" rel="noopener"
+>同流者 Il conformista
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>电视剧&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/26992330/" target="_blank" rel="noopener"
+>暗黑 1-3
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/35588177/" target="_blank" rel="noopener"
+>漫长的季节
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>动漫&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/1940329/" target="_blank" rel="noopener"
+>调酒师 バーテンダー
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/30238385/" target="_blank" rel="noopener"
+>强风吹拂 風が強く吹いている
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>纪录片&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/2240990/" target="_blank" rel="noopener"
+>听风的歌 Heima
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://movie.douban.com/subject/1434550/" target="_blank" rel="noopener"
+>平克•弗洛伊德：庞贝古城现场录音纪录片 Pink Floyd: Live at Pompeii
+&lt;span style="white-space: nowrap;">&lt;svg width=".7em"
+height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+&lt;path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+fill="currentColor">
+&lt;/svg>&lt;/span>
+&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="运动">运动&lt;/h3>
+&lt;p>三月份制定的健身计划也因为裁员而打断了节奏，好在还是上完了买的 20 节健身私教课。入冬之后也进入了冬眠期，跑步、健身都暂停了。开春恢复运动！&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171650526.JPG"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="身体健康">身体健康&lt;/h3>
+&lt;p>2023 年失眠情况越来越多了。&lt;/p>
+&lt;p>12 月做了一个小手术，没啥大碍。&lt;/p>
+&lt;p>从 FANG LANG 辞职后，因为长期的居家，导致自己现在有点社交缺失。很明显的一个特征在于，平常几乎不主动约朋友，偶尔和朋友在外面见面，会发现自己不是那么会说话了，语言组织能力真的变差很多。但我很珍惜每次有朋友主动约我的时光。&lt;/p>
+&lt;h2 id="思考">思考&lt;/h2>
+&lt;h3 id="work-life-balance">work-life balance&lt;/h3>
+&lt;p>自己一直在追求 work-life balance，结果发现误入歧途，走向了 work-life separatition。其实 work 也是 life 的一部分，工作中养成的习惯、思维方式也会带入到生活中。而我自己经历了半年不工作的时间，发现还是有一份工作，日子会更规律一点。当然这和个人的自律程度有关，我觉得自己不够自律。&lt;/p>
+&lt;p>前段时间因为找工作很焦虑，没有收入确实会这样，但是好在最近想通了，这段不工作的时间，就当是自己花钱买属于自己的时间了。正好借这个机会，巩固一下自己的计算机相关基础，恢复阅读的习惯，保持思考与坚持输出。&lt;/p>
+&lt;p>除了自己日常的刷 LeetCode 准备面试，确实还是有很多事情想做的，比如完善自己的阅读工作流、迭代个人知识管理体系、研究收藏夹整理方案、学习英语和日语等等。反正每日 GTD 就交叉着做这些事，毕竟工作之后属于自己的时间不会像现在这样这么丰富了。&lt;/p>
+&lt;p>另外就是看到好几家自己很想去的公司最近开放了 hc，但是自己又没准备好，觉得来不及也没那实力。不过转念一想，工作总是有的，能不能找到好工作很大程度上还是看运气的。我告诉自己：别着急，慢慢来。公司与自己 match 的过程也不比谈恋爱简单多少，很多时候也是要看运气的。&lt;/p>
+&lt;h3 id="亲密关系">亲密关系&lt;/h3>
+&lt;p>回望自己过去的恋爱经历（好吧，其实是没有），都是表白失败的经历。2023 年又经历了一次表白被拒，也拒绝了一次别人的表白。重新开始思考亲密关系。&lt;/p>
+&lt;p>想的最多的是：自己是否真正需要一段以恋爱为主导的亲密关系。因为自己其实很多时候更喜欢一个人的节奏，比如一个人旅行。但是遇到一些节假日，比如圣诞节跨年夜，又非常想要有个人可以陪伴。畅想过两个人共同努力的美好未来，但实在过于遥远。可能自己真的不会谈恋爱。&lt;/p>
+&lt;p>2023 年倒是把 Tinder 卸了又下，下了又卸，发现索然无味。现在对我来说，从零开始认识一个新的人实在太耗费时间和精力了，自己还是更喜欢且更信赖身边熟悉的人。也发现几位自己之前线下单独约过喝杯咖啡或者吃个饭的异性朋友，陆续找了新的男朋友。dating 本身就是在不断寻找契合另一半的过程，倒也无可厚非。&lt;/p>
+&lt;p>2023 年反而有点理解为什么现在这么多人喜欢找炮友而非谈恋爱。&lt;/p>
+&lt;p>依旧没弄明白亲密关系。&lt;/p>
+&lt;h3 id="北漂">北漂&lt;/h3>
+&lt;p>2023 年 4 月的时候，约了相飞田老师拍一组「北漂」的照片。同时也开始思考自己选择继续留在北京的原因，以及北京吸引我的点。但是有时候命运就是这么捉弄人，曾经坚定的北漂一族，在 2023 年的最后一天开始动摇了。&lt;/p>
+&lt;p>相飞田老师拍的我&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401180033872.JPG"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="写在后面">写在后面&lt;/h2>
+&lt;p>2023 年六月的时候重新做了下 MBTI 测试，发现自己从连续好几年的 INFT 变成了 INTJ，也算是一个不小的变化吧。&lt;/p>
+&lt;p>记得谢老师和我说，觉得我是个“很酷的人”。但当时自己完全没有想过这一点。因为我做的所有决定，都是经过自己的深思熟虑之后，而不是一时兴起。比如被裁员后选择尝试做调酒师，调酒师做了三个月之后选择辞职等等。但现在想来，自己确实比学生时代的自己勇敢很多，敢于做一些以前从来没想过的决定，确实“很酷”，要保持。&lt;/p>
+&lt;p>转眼 2024 也已过去了 1/24，回想自己 2023 年 7 月在伏见稻荷大社许下的愿望，希望 2024 年能实现，希望 2024 是个好年。&lt;/p>
+&lt;p>2023，做了一个很酷的自己，希望 2024 继续做自己。&lt;/p></description></item><item><title>Wonz 的 2023 年音乐报告</title><link>https://wonz.wang/2023/12/26/92-wonz-2023-music-repo/</link><pubDate>Tue, 26 Dec 2023 23:27:45 +0800</pubDate><guid>https://wonz.wang/2023/12/26/92-wonz-2023-music-repo/</guid><description>&lt;img src="https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202312272248453.jpg" alt="Featured image of post Wonz 的 2023 年音乐报告" />&lt;h2 id="写在前面">写在前面&lt;/h2>
 &lt;p>虽然音乐一直是自己的一大爱好，说是最喜欢的爱好也不为过，但直到今年才想明白一件事情，那就是音乐不只是我的爱好，更将是我未来深耕的领域。&lt;/p>
 &lt;p>曾经仔细想过自己有什么人生愿景，想来想去还是想做一张专辑，想留下一点存在的痕迹。&lt;/p>
 &lt;p>另外也想过自己想从事的职业，其中之一是当乐评人。&lt;/p>
