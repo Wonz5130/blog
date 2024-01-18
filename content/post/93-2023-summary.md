@@ -23,6 +23,7 @@ puppeteer:
   timeout: 1000
 draft: false
 ---
+
 ## 写在前面
 
 迟迟没有提笔写已经过去的 2023 年的年终总结，一方面是前阵子给自己在 2023 年年初设立的个人 OKR 进行汇总的时候，发现勉强才到 40 分，实在是过得很失败。另一方面是自己最近的状态有点差，一直在调整中。
@@ -56,7 +57,7 @@ draft: false
 
 ### 调酒师
 
-于是在日本旅行结束回国后，歇了一阵，投了人生第一份调酒师简历。在我之前很喜欢的 FANG LANG 工作，成为一名调酒师学徒。做了接近三个月的调酒师之后，考虑到个人未来发展的原因，选择了离开调酒师这个行业，但还是感谢这段经历。详情请看：[当我调酒时，我在想些什么](https://wonz.wang/2023/11/04/90-work-as-a-bartender/)。
+于是在日本旅行结束回国后，歇了一阵，投了人生第一份调酒师简历。在我之前很喜欢的 FANG LANG 工作，成为一名调酒师学徒。做了接近三个月的调酒师之后，考虑到个人未来发展的原因，选择了离开调酒师这个行业，但还是感谢这段经历。详情请看：[当我调酒时，我在想些什么](https://wonz.wang/2023/11/04/90-work-as-a-bartender/) 。
 
 ![](https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202401171816206.jpg)
 
@@ -78,7 +79,7 @@ draft: false
 
 2023 年有好好对待自己喜欢的音乐。全年听了 6w+ min 音乐（其中包括完整地听完了 92 张专辑），看了 63 场 live，做了好多和音乐有关的事情，因为音乐去了好多地方，也通过音乐认识了好多人。五月还考了个演出经纪人资格考试，顺利拿到证书。
 
-详情请看：[Wonz 的 2023 年音乐报告](https://wonz.wang/2023/12/26/92-wonz-2023-music-repo/)。
+详情请看：[Wonz 的 2023 年音乐报告](https://wonz.wang/2023/12/26/92-wonz-2023-music-repo/) 。
 
 Spotify 的 2023 年度报告
 
@@ -96,7 +97,7 @@ Spotify 的 2023 年度报告
 
 2023 年因为出去旅行比较多，拍的照片确实也比以前多，但自己最喜欢的街头摄影风格反而没拍出让我特别满意的照片。
 
-下面选了部分自己拍的觉得很喜欢的照片，更多照片可以看我的摄影账号：[wonz_photo](https://www.instagram.com/wonz_photo/)
+下面选了部分自己拍的觉得很喜欢的照片，更多照片可以看我的摄影账号：[wonz_photo](https://www.instagram.com/wonz_photo/) 。
 
 #### 建筑摄影
 
@@ -165,7 +166,7 @@ Spotify 的 2023 年度报告
 
 ### 播客
 
-被朋友邀请参与录了一期音乐相关的播客，也算是一种新的尝试。欢迎收听：[SA.23 音乐是一位真实存在的女子，你还能和她有某种关系](https://www.xiaoyuzhoufm.com/episode/64f52882e490c5dee5415321?s=eyJ1IjogIjVlN2M1ZTQwYTJmMmU1MDNjZWMzNmQ0MyJ9)
+被朋友邀请参与录了一期音乐相关的播客，也算是一种新的尝试。欢迎收听：[SA.23 音乐是一位真实存在的女子，你还能和她有某种关系](https://www.xiaoyuzhoufm.com/episode/64f52882e490c5dee5415321?s=eyJ1IjogIjVlN2M1ZTQwYTJmMmU1MDNjZWMzNmQ0MyJ9) 。
 
 ## 生活
 
