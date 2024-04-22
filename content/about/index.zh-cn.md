@@ -40,7 +40,7 @@ menu:
   - 会在 [Spotify](https://spotify.link/Xd49excqpDb) 和 [网易云](https://music.163.com/#/user/home?id=341450455) 整理歌单
   - 梦想是组乐队和当 DJ，玩玩后摇 / 钉鞋 / Techno / House 风格的音乐
   - 正在努力做野生乐评人，会在 [rateyourmusic](https://rateyourmusic.com/~Wonz) 和 [豆瓣音乐](https://music.douban.com/mine?status=collect) 给专辑打分写乐评
-  - 连续两年入选迷笛奖大众评审团（1/500）
+  - 连续三年入选迷笛奖大众评审团（1/500）
   - 立志打卡世界各地 Livehouse 和 Club，最想去的是柏林的 Berghain
 - 摄影只是爱好，以前是瞎拍，现在喜欢人文摄影、建筑摄影，喜欢有故事的照片
   - 计划出一本自己的摄影集
