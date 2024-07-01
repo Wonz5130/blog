@@ -2,12 +2,23 @@
 title: 北京 live 观察
 description: 
 date: 2024-06-05T23:16:06+08:00
+lastmod: 
+author: Wonz
 image: https://raw.githubusercontent.com/Wonz5130/My-Private-ImgHost/master/img/202406062243253.jpg
-math: 
-license: 
-hidden: false
+categories:
+  - 音乐
+tags:
+  - live
+  - 北京
+  - Livehouse
+  - Club
 comments: true
-draft: true
+mathJax: true
+ShowsNavLinks: true
+print_background: true
+puppeteer:
+  timeout: 1000
+draft: false
 ---
 ## 写在前面
 
